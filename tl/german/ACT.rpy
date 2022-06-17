@@ -948,11 +948,11 @@ translate german strings:
 
     # game/ACT.rpy:487
     old "Вдали от всех"
-    new ""
+    new "Weit weg von Allem"
 
     # game/ACT.rpy:620
     old "Провести ночь с Руби в мотеле"
-    new ""
+    new "Verbring die Nacht mit Ruby im Motel"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -960,61 +960,61 @@ translate german strings:
 translate german act_shower_4326369b:
 
     # aut "Неужели это первый мужчина в этом городе, который не пытается первым делом залезть ко мне в трусы?"
-    aut "Неужели это первый мужчина в этом городе, который не пытается первым делом залезть ко мне в трусы?"
+    aut "Ist das der erste Kerl in dieser Stadt der nicht sofort in mein Höschen will?"
 
 # game/ACT.rpy:1327
 translate german act_shower_5a670288:
 
     # aut "Или он просто хорошо маскируется?"
-    aut "Или он просто хорошо маскируется?"
+    aut "Oder versteckt er es nur gut?"
 
 # game/ACT.rpy:1328
 translate german act_shower_08b156a0:
 
     # aut "Так или иначе, мне приятно находиться рядом с ним. Да и целуется он хорошо. Интересно, каков он в постели?"
-    aut "Так или иначе, мне приятно находиться рядом с ним. Да и целуется он хорошо. Интересно, каков он в постели?"
+    aut "Wieauchimmer, es ist schön ihm so nah zu sein. Ich mag seine Küsse. Ich frage mich, wie er im Bett ist."
 
 # game/ACT.rpy:1329
 translate german act_shower_81b3e519:
 
     # aut "Блять... а я еще на мужиков гнала! Отставить пошлые мысли!"
-    aut "Блять... а я еще на мужиков гнала! Отставить пошлые мысли!"
+    aut "Verdammt ... und ich geb immernoch Männern die Schuld. Schluss mit den versauten Gedanken!"
 
 # game/ACT.rpy:1332
 translate german act_shower_0d3f88e5:
 
     # aut "Оставаться рядом со Снейком было совсем неловко. Я явно была не готова к такому повороту."
-    aut "Оставаться рядом со Снейком было совсем неловко. Я явно была не готова к такому повороту."
+    aut "Snake so nah zu sein war seltsam. Ich habe diese Kehrtwende nicht erwartet."
 
 # game/ACT.rpy:1333
 translate german act_shower_4c23a225:
 
     # aut "Странный день... Просто помоюсь и постараюсь забыть ою этом."
-    aut "Странный день... Просто помоюсь и постараюсь забыть ою этом."
+    aut "So ein seltsamer Tag ... Ich steig in die Wanne und versuch ihn zu vergessen ..."
 
 translate german strings:
 
     # game/ACT.rpy:60
     old "{color=#bcf3ff}{b}Сделать селфи{/b}{/color}"
-    new "{color=#bcf3ff}{b}Сделать селфи{/b}{/color}"
+    new "{color=#bcf3ff}{b}Selfie aufnehmen{/b}{/color}"
 
     # game/ACT.rpy:60
     old "{b}Пойти в душ{/b}"
-    new "{b}Пойти в душ{/b}"
+    new "{b}Dusche nehmen{/b}"
 
     # game/ACT.rpy:493
     old "Секс и баскетбол"
-    new "Секс и баскетбол"
+    new "Sex und Basketball"
 
     # game/ACT.rpy:499
     old "Полная свобода"
-    new "Полная свобода"
+    new "Absolute Freiheit"
 
     # game/ACT.rpy:641
     old "Заняться сексом с Метлой"
-    new "Заняться сексом с Метлой"
+    new "Sex mit Broom"
 
     # game/ACT.rpy:943
     old "Вернуться к Кевину позже"
-    new "Вернуться к Кевину позже"
+    new "Kehr später zu Kevin zurück"
 
