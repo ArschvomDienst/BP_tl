@@ -641,3 +641,11 @@ translate german strings:
     old "Прозрачное платье"
     new "Transparentes Kleid"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+translate german strings:
+
+    # game/EDA and SHOPS.rpy:430
+    old "Полупрозрачное белье"
+    new ""
+

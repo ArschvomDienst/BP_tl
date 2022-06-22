@@ -1899,3 +1899,29 @@ translate english sleep_menu_9017cc8c_3:
     # gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
     gg sad "If I go to bed now, I might be late for the concert."
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+# game/myroom.rpy:342
+translate english sleep_menu_5a595054:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad "If I go to bed now, I might be late for the photoshoot."
+
+# game/myroom.rpy:388
+translate english sleep_menu_5a595054_1:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad "If I go to bed now, I might be late for the photoshoot."
+
+# game/myroom.rpy:444
+translate english sleep_menu_5a595054_2:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad "If I go to bed now, I might be late for the photoshoot."
+
+# game/myroom.rpy:507
+translate english sleep_menu_5a595054_3:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad "If I go to bed now, I might be late for the photoshoot."
+

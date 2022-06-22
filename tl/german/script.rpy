@@ -1974,3 +1974,19 @@ translate german strings:
     old "Его можно спрятать, нажав \"J\""
     new "Versteck es mit \"J\""
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+translate german strings:
+
+    # game/script.rpy:6154
+    old "Гарольд"
+    new ""
+
+    # game/script.rpy:6155
+    old "Кристина"
+    new ""
+
+    # game/script.rpy:6224
+    old "Паук"
+    new ""
+

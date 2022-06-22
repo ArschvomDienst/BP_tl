@@ -1419,3 +1419,59 @@ translate german strings:
     old "Дождаться субботы"
     new "Warte bis Samstag"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/PHONE.rpy:1064
+translate german owl_mes_d974e8cf:
+
+    # gg smile "Это Сова..."
+    gg smile ""
+
+# game/PHONE.rpy:1070
+translate german owl_mes_c8f90716:
+
+    # "{#l=Алекс, в общем я тут договорилась на фотосессию для группы. Нас напечатают в одном рок-журнале, да и для афиш и соц. сетей пару общих фоток пригодится<<smile>>}"
+    ""
+
+# game/PHONE.rpy:1071
+translate german owl_mes_570968f1:
+
+    # "{#r=Воу! Настоящая фотосессия?!<<scream>><<scream>><<scream>>}"
+    ""
+
+# game/PHONE.rpy:1072
+translate german owl_mes_22024c51:
+
+    # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
+    ""
+
+# game/PHONE.rpy:1073
+translate german owl_mes_517dc25d:
+
+    # "{#l=Завтра в 12 Майкл за тобой заедет. Будь готова. Твой сценический наряд подойдет.}"
+    ""
+
+# game/PHONE.rpy:1074
+translate german owl_mes_b33c934d:
+
+    # "{#r=Буду в полной боевой готовности!<<rock>><<rock>><<rock>>}"
+    ""
+
+# game/PHONE.rpy:1075
+translate german owl_mes_2e0d1b33:
+
+    # "{#l=<<rock>>}"
+    ""
+
+# game/PHONE.rpy:1082
+translate german owl_mes_85bbc848:
+
+    # gg2 happy "Настоящая профессиональная фотосессия с группой! Можно будет сделать большой плакат и повесить на стену!"
+    gg2 happy ""
+
+translate german strings:
+
+    # game/PHONE.rpy:1081
+    old "Дождаться завтрашней фотосессии"
+    new ""
+

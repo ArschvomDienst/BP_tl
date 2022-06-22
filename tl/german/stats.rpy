@@ -478,3 +478,17 @@ translate german strings:
     old "Продолжать репетиции (15:00-20:00)([repa_all]/13)"
     new "Probe weiter (15:00-20:00)([repa_all]/13)"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/stats.rpy:1871
+translate german teleport_acd0fdcf:
+
+    # gg smile "Скоро приедет Майкл, пора подготовиться."
+    gg smile ""
+
+translate german strings:
+
+    # game/stats.rpy:47
+    old "Дождаться приезда Майкла в 12:00"
+    new ""
+

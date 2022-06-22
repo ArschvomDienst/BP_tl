@@ -1828,3 +1828,19 @@ translate PortuguesBR strings:
     old "Сходить на массаж"
     new "Vá fazer uma massagem"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+translate PortuguesBR strings:
+
+    # game/script.rpy:6154
+    old "Гарольд"
+    new ""
+
+    # game/script.rpy:6155
+    old "Кристина"
+    new ""
+
+    # game/script.rpy:6224
+    old "Паук"
+    new ""
+

@@ -672,3 +672,11 @@ translate english strings:
     old "Прозрачное платье"
     new "See-through dress"
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+translate english strings:
+
+    # game/EDA and SHOPS.rpy:430
+    old "Полупрозрачное белье"
+    new "Almost diaphanous underwear"
+

@@ -418,3 +418,17 @@ translate PortuguesBR strings:
     old "Зайти в комнату персонала в казино"
     new "Vá para a sala dos funcionários no cassino"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/stats.rpy:1871
+translate PortuguesBR teleport_acd0fdcf:
+
+    # gg smile "Скоро приедет Майкл, пора подготовиться."
+    gg smile ""
+
+translate PortuguesBR strings:
+
+    # game/stats.rpy:47
+    old "Дождаться приезда Майкла в 12:00"
+    new ""
+

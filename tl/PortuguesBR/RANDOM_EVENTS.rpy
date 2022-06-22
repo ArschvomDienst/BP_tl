@@ -2166,3 +2166,123 @@ translate PortuguesBR strings:
     old "Поплавать без купальника ({image=smel_.png} 28([allsmel]))"
     new "Nadar sem maiô ({image=smel_.png} 28([allsmel]))"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/RANDOM_EVENTS.rpy:1749
+translate PortuguesBR cock_shop_event_bcee9257:
+
+    # aut "Все кабинки, кроме одной, оказались закрыты. Но и в последней кто-то был."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1750
+translate PortuguesBR cock_shop_event_3b63ac68:
+
+    # aut "Сквозь щель я увидела голого мужчину. И вскоре я поняла, что это не случайность."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1752
+translate PortuguesBR cock_shop_event_1458dc19:
+
+    # aut "Хоть я не видела лица мужчины, его возбужденный член был явно выставлен на всеобщее обозрение."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1753
+translate PortuguesBR cock_shop_event_02034c55:
+
+    # aut "Было такое ощущение, что меня пытаются поймать на член, как ловят рыбу на блесну."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1760
+translate PortuguesBR cock_shop_menu_5e674ee6:
+
+    # aut "У мужчины было красивое тело, да и член был хорош. Очень хотелось его потрогать."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1784
+translate PortuguesBR cock_shop_menu_12f9a612:
+
+    # aut "Я оглянулась по сторонам и убедилась, что никого рядом нет."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1785
+translate PortuguesBR cock_shop_menu_636f13a7:
+
+    # aut "Я медленно подошла к двери и протянула руку в приоткрытую дверь."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1809
+translate PortuguesBR cock_shop_menu_110d8de2:
+
+    # aut "Незнакомец подошел поближе и сам вложил свой инструмент в мою ладонь."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1810
+translate PortuguesBR cock_shop_menu_0d617ffa:
+
+    # aut "Я почувствовала, как член напрягся от моего прикосновения."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1822
+translate PortuguesBR cock_shop_menu_d249d07c:
+
+    # aut "Я дрочила член, не видя лица его хозяина."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1823
+translate PortuguesBR cock_shop_menu_9ea5bfe7:
+
+    # aut "Это возбуждало."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1834
+translate PortuguesBR cock_shop_menu_d33d4f9c:
+
+    # aut "Незнакомец начал двигать бедрами, показывая мне, что нужно дрочить быстрее."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1835
+translate PortuguesBR cock_shop_menu_6123ee54:
+
+    # aut "Я ускорилась, стараясь при этом огялдываться по сторонам."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1859
+translate PortuguesBR cock_shop_menu_7c9b9272:
+
+    # aut "Наконец мужчина застонал и кончил, забразгав пол и дверь примерочной."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1860
+translate PortuguesBR cock_shop_menu_b29d5e2c:
+
+    # aut "Кое-что попало мне на руку."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1883
+translate PortuguesBR cock_shop_menu_c7fd7a3e:
+
+    # aut "Как только я отпустила обмякший член, незнакомец закрыл дверь."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1884
+translate PortuguesBR cock_shop_menu_082073ef:
+
+    # aut "Лишь следы липкой жидкости на пальцах остались мне на память об этом мимолетном приключении."
+    aut ""
+
+# game/RANDOM_EVENTS.rpy:1890
+translate PortuguesBR cock_shop_menu_6cbeeb5e:
+
+    # gg2 podozr "Он хочет, чтобы я потрогала его член? Ну уж нет, спасибо..."
+    gg2 podozr ""
+
+translate PortuguesBR strings:
+
+    # game/RANDOM_EVENTS.rpy:1754
+    old "{#image=cour_h}{color=#8c8c8d}{b}Просунуть руку{/b}{/color}"
+    new ""
+
+    # game/RANDOM_EVENTS.rpy:1754
+    old "{#image=cour}{b}Просунуть руку{/b}"
+    new ""
+

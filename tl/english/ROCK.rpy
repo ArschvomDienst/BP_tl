@@ -2217,3 +2217,209 @@ translate english kian_tina_event_fc88312e:
     # aut "Мне было неловко смотреть, как они целуются, да и интимность момента нарушать не хотелось. Я поспешила уйти, мысленно пожелав счастья влюбленным."
     aut "It was uncomfortable for me to watch them kiss, and I didn't want to break the intimacy of the moment. I hurried away, silently wishing happiness to the lovers."
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+# game/ROCK.rpy:1268
+translate english band_photoset_bdf7cdec:
+
+    # aut "Майкл как всегда приехал вовремя. Я была в хорошем настроении, предвкушая очередное знаковое событие."
+    aut "Michael arrived on time as usual. I was in a good mood, looking forward to another event."
+
+# game/ROCK.rpy:1270
+translate english band_photoset_f249e0bd:
+
+    # aut "Место фотосессии оказалось рядом с моим домом, хотя я ожидала, что мы поедем в какую-нибудь фотостудию."
+    aut "The place of the photoshoot was located near my house, although I expected that we would go to some photo studio."
+
+# game/ROCK.rpy:1271
+translate english band_photoset_a426e1fb:
+
+    # aut "Здесь уже были машины Совы и Киана."
+    aut "Owl and Kian's cars were already here."
+
+# game/ROCK.rpy:1273
+translate english band_photoset_cc170f3b:
+
+    # aut "Мы зашли в какой-то старый цех. Все уже были в сборе."
+    aut "We went into some old workshop. Everyone was already assembled."
+
+# game/ROCK.rpy:1274
+translate english band_photoset_88de1c7b:
+
+    # aut "Ко мне подошла Сова вместе с каким-то полуголым мужиком."
+    aut "Owl came up to me along with some half-naked man."
+
+# game/ROCK.rpy:1276
+translate english band_photoset_a5ffc669:
+
+    # spider "Вот эту красотку мне предстоит фоткать? Ммм... Мне нравится."
+    spider "Is this the beauty I'm going to take a picture of? Mmm... I like."
+
+# game/ROCK.rpy:1277
+translate english band_photoset_e67ed435:
+
+    # aut "Парень старался говорить низким голосом, но у него плохо получалось."
+    aut "The guy tried to speak in a low voice, but he was bad at it."
+
+# game/ROCK.rpy:1278
+translate english band_photoset_ab96bf38:
+
+    # ow smile "Остынь, Паук, нам нужна фотосессия группы. И без раздеваний, окей?"
+    ow smile "Chill out, Spider, we need a group photo shoot. And no undressing, okay?"
+
+# game/ROCK.rpy:1279
+translate english band_photoset_f681b6f6:
+
+    # spider "Вы убиваете во мне художника..."
+    spider "You're killing the artist inside me..."
+
+# game/ROCK.rpy:1280
+translate english band_photoset_ae5930da:
+
+    # ow smile "Ничего, ты справишься."
+    ow smile "No worries, you can handle it."
+
+# game/ROCK.rpy:1281
+translate english band_photoset_9f5af121:
+
+    # spider "Ладно, мальчики и девочки, по местам!"
+    spider "All right, boys and girls, take your places!"
+
+# game/ROCK.rpy:1283
+translate english band_photoset_533ef76a:
+
+    # aut "Мы выстроились возле стенки и приняли суровые позы."
+    aut "We lined up against the wall and took severe poses."
+
+# game/ROCK.rpy:1285
+translate english band_photoset_75bafd25:
+
+    # spider "Эй, милашка, а ты не хочешь у меня посниматься? Я делаю отличные фотосессии в стиле ню..."
+    spider "Hey, honey, don't you want to take a picture with me? I do great nude photoshoots..."
+
+# game/ROCK.rpy:1286
+translate english band_photoset_608c54cf:
+
+    # owl "Нет, спасибо, давай займемся групой, ладно?"
+    owl "No, thanks, let's do the band, okay?"
+
+# game/ROCK.rpy:1287
+translate english band_photoset_f7a000ed:
+
+    # rick "Эй, держи руки подальше от моей девушки, петушок!"
+    rick "Hey, keep your hands off my girlfriend, bastard!"
+
+# game/ROCK.rpy:1288
+translate english band_photoset_82bb97ff:
+
+    # owl "Все в порядке, милый."
+    owl "It's all right, honey."
+
+# game/ROCK.rpy:1290
+translate english band_photoset_cb1bcb82:
+
+    # spider "Этот волосатый грубиян - твой парень? Ты достойна большего."
+    spider "Is this hairy brute your boyfriend? You deserve more."
+
+# game/ROCK.rpy:1291
+translate english band_photoset_e2081add:
+
+    # spider "Ладно... Еще один скучный день..."
+    spider "Okay... Another boring day..."
+
+# game/ROCK.rpy:1293
+translate english band_photoset_327d5d30:
+
+    # spider "Давай, красотка, покажи мне страсть! Положи руки на бедра... Вот так, да..."
+    spider "Come on, pretty girl, show me passion! Put your hands on your hips... That's it, yes..."
+
+# game/ROCK.rpy:1294
+translate english band_photoset_e815d274:
+
+    # michael "Эй, а нам что делать?"
+    michael "Hey, what should we do?"
+
+# game/ROCK.rpy:1295
+translate english band_photoset_11fc2ed6:
+
+    # spider "Ой, да никто не будет на вас смотреть! Сделайте серьзные ебальники и стойте ровно."
+    spider "Oh, no one will look at you! Make serious faces and stand straight."
+
+# game/ROCK.rpy:1301
+translate english band_photoset_71f86fa4:
+
+    # aut "Было непросто заставить фотографа-бабника серьезно отнестить к работе."
+    aut "It was not easy to get a womanizing photographer to take his work seriously."
+
+# game/ROCK.rpy:1302
+translate english band_photoset_483e4ea3:
+
+    # aut "Но в итоге мы смогли сделать несколько хороших фото."
+    aut "But in the end we were able to take some good photos."
+
+# game/ROCK.rpy:1307
+translate english band_photoset_205b3801:
+
+    # aut "И хоть Паук постоянно просил меня сделать томный взгляд, я не могла сдержать улыбку, думая о том, что участвую в фотосессии для настоящего рок-журнала!"
+    aut "And even though Spider constantly asked me to make a languid look, I couldn't help smiling, thinking that I was participating in a photoshoot for a real rock magazine!"
+
+# game/ROCK.rpy:1308
+translate english band_photoset_ead649b3:
+
+    # alex2 "Теперь на афишах группы будет красоваться мое довольное лицо. Возможно, меня станут чаще узнавать на улице. Было бы здорово!"
+    alex2 "Now my happy face will be on the posters of the group. Perhaps I will be recognized more often on the street. That would be great!"
+
+# game/ROCK.rpy:1327
+translate english fan_meet1_d7292075:
+
+    # devush "Здрасьте!"
+    devush "Hey!"
+
+# game/ROCK.rpy:1328
+translate english fan_meet1_4813d12e:
+
+    # gg sad "Ой-ей! Зачем же так пугать?!"
+    gg sad "Oh, hey! Why do you scare me?!"
+
+# game/ROCK.rpy:1329
+translate english fan_meet1_ab511ce7:
+
+    # devush "Извините! Я не знаю, как вас зовут, но я была на вашем концерте! Вы же из группы [band_name]?"
+    devush "Excuse me! Could you please remind me your name. I was at your concert, but I have such a bad memory! Aren't you from [band_name]?"
+
+# game/ROCK.rpy:1330
+translate english fan_meet1_c4d71642:
+
+    # gg smile "Да, есть такое. Меня Алекс Нэш зовут, если что."
+    gg smile "Yes, there is such a thing. My name is Alex Nash."
+
+# game/ROCK.rpy:1331
+translate english fan_meet1_79808368:
+
+    # devush "Уверена, скоро все будут знать это имя! Вы так круто пели! А можно сфототкаться с вами?!"
+    devush "I'm sure everyone will know this name soon! You sang so cool! Can I take a picture with you?!"
+
+# game/ROCK.rpy:1334
+translate english fan_meet1_3733021d:
+
+    # gg smile "Конечно! С удовольствием!"
+    gg smile "Of course! With pleasure!"
+
+# game/ROCK.rpy:1358
+translate english fan_meet1_5ad59413:
+
+    # alex2 "Меня впервые узнали на улице! И почему звезды не любят фоткаться с фанатами? Это же так круто!!!"
+    alex2 "I was recognized for the first time on the street! And why do stars not like to take pictures with fans? It's so cool!!!"
+
+# game/ROCK.rpy:1363
+translate english fan_meet1_45edd710:
+
+    # gg smile "Если честно, то я немного тороплюсь. Может в другой раз?"
+    gg smile "To be honest, I'm in a bit of a hurry. Maybe another time?"
+
+# game/ROCK.rpy:1364
+translate english fan_meet1_d8955e15:
+
+    # devush "Эх, жаль... Ну ладно..."
+    devush "Oh, it's a pity... Well okay..."
+

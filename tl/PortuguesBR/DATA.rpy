@@ -1154,3 +1154,15 @@ translate PortuguesBR strings:
     old "([mood_inf_[30][2]] мин.)"
     new "([mood_inf_[30][2]] min.)"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+translate PortuguesBR strings:
+
+    # game/DATA.rpy:4121
+    old "+10ч"
+    new ""
+
+    # game/DATA.rpy:4122
+    old "+24ч"
+    new ""
+
