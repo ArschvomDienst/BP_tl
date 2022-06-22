@@ -2216,3 +2216,209 @@ translate german strings:
     old "Заниматься вокалом у Фальцета([vocal]/10)"
     new "Trainiere deine Stimme mit Falsetto([vocal]/10)"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/ROCK.rpy:1268
+translate german band_photoset_bdf7cdec:
+
+    # aut "Майкл как всегда приехал вовремя. Я была в хорошем настроении, предвкушая очередное знаковое событие."
+    aut ""
+
+# game/ROCK.rpy:1270
+translate german band_photoset_f249e0bd:
+
+    # aut "Место фотосессии оказалось рядом с моим домом, хотя я ожидала, что мы поедем в какую-нибудь фотостудию."
+    aut ""
+
+# game/ROCK.rpy:1271
+translate german band_photoset_a426e1fb:
+
+    # aut "Здесь уже были машины Совы и Киана."
+    aut ""
+
+# game/ROCK.rpy:1273
+translate german band_photoset_cc170f3b:
+
+    # aut "Мы зашли в какой-то старый цех. Все уже были в сборе."
+    aut ""
+
+# game/ROCK.rpy:1274
+translate german band_photoset_88de1c7b:
+
+    # aut "Ко мне подошла Сова вместе с каким-то полуголым мужиком."
+    aut ""
+
+# game/ROCK.rpy:1276
+translate german band_photoset_a5ffc669:
+
+    # spider "Вот эту красотку мне предстоит фоткать? Ммм... Мне нравится."
+    spider ""
+
+# game/ROCK.rpy:1277
+translate german band_photoset_e67ed435:
+
+    # aut "Парень старался говорить низким голосом, но у него плохо получалось."
+    aut ""
+
+# game/ROCK.rpy:1278
+translate german band_photoset_ab96bf38:
+
+    # ow smile "Остынь, Паук, нам нужна фотосессия группы. И без раздеваний, окей?"
+    ow smile ""
+
+# game/ROCK.rpy:1279
+translate german band_photoset_f681b6f6:
+
+    # spider "Вы убиваете во мне художника..."
+    spider ""
+
+# game/ROCK.rpy:1280
+translate german band_photoset_ae5930da:
+
+    # ow smile "Ничего, ты справишься."
+    ow smile ""
+
+# game/ROCK.rpy:1281
+translate german band_photoset_9f5af121:
+
+    # spider "Ладно, мальчики и девочки, по местам!"
+    spider ""
+
+# game/ROCK.rpy:1283
+translate german band_photoset_533ef76a:
+
+    # aut "Мы выстроились возле стенки и приняли суровые позы."
+    aut ""
+
+# game/ROCK.rpy:1285
+translate german band_photoset_75bafd25:
+
+    # spider "Эй, милашка, а ты не хочешь у меня посниматься? Я делаю отличные фотосессии в стиле ню..."
+    spider ""
+
+# game/ROCK.rpy:1286
+translate german band_photoset_608c54cf:
+
+    # owl "Нет, спасибо, давай займемся групой, ладно?"
+    owl ""
+
+# game/ROCK.rpy:1287
+translate german band_photoset_f7a000ed:
+
+    # rick "Эй, держи руки подальше от моей девушки, петушок!"
+    rick ""
+
+# game/ROCK.rpy:1288
+translate german band_photoset_82bb97ff:
+
+    # owl "Все в порядке, милый."
+    owl ""
+
+# game/ROCK.rpy:1290
+translate german band_photoset_cb1bcb82:
+
+    # spider "Этот волосатый грубиян - твой парень? Ты достойна большего."
+    spider ""
+
+# game/ROCK.rpy:1291
+translate german band_photoset_e2081add:
+
+    # spider "Ладно... Еще один скучный день..."
+    spider ""
+
+# game/ROCK.rpy:1293
+translate german band_photoset_327d5d30:
+
+    # spider "Давай, красотка, покажи мне страсть! Положи руки на бедра... Вот так, да..."
+    spider ""
+
+# game/ROCK.rpy:1294
+translate german band_photoset_e815d274:
+
+    # michael "Эй, а нам что делать?"
+    michael ""
+
+# game/ROCK.rpy:1295
+translate german band_photoset_11fc2ed6:
+
+    # spider "Ой, да никто не будет на вас смотреть! Сделайте серьзные ебальники и стойте ровно."
+    spider ""
+
+# game/ROCK.rpy:1301
+translate german band_photoset_71f86fa4:
+
+    # aut "Было непросто заставить фотографа-бабника серьезно отнестить к работе."
+    aut ""
+
+# game/ROCK.rpy:1302
+translate german band_photoset_483e4ea3:
+
+    # aut "Но в итоге мы смогли сделать несколько хороших фото."
+    aut ""
+
+# game/ROCK.rpy:1307
+translate german band_photoset_205b3801:
+
+    # aut "И хоть Паук постоянно просил меня сделать томный взгляд, я не могла сдержать улыбку, думая о том, что участвую в фотосессии для настоящего рок-журнала!"
+    aut ""
+
+# game/ROCK.rpy:1308
+translate german band_photoset_ead649b3:
+
+    # alex2 "Теперь на афишах группы будет красоваться мое довольное лицо. Возможно, меня станут чаще узнавать на улице. Было бы здорово!"
+    alex2 ""
+
+# game/ROCK.rpy:1327
+translate german fan_meet1_d7292075:
+
+    # devush "Здрасьте!"
+    devush ""
+
+# game/ROCK.rpy:1328
+translate german fan_meet1_4813d12e:
+
+    # gg sad "Ой-ей! Зачем же так пугать?!"
+    gg sad ""
+
+# game/ROCK.rpy:1329
+translate german fan_meet1_ab511ce7:
+
+    # devush "Извините! Я не знаю, как вас зовут, но я была на вашем концерте! Вы же из группы [band_name]?"
+    devush ""
+
+# game/ROCK.rpy:1330
+translate german fan_meet1_c4d71642:
+
+    # gg smile "Да, есть такое. Меня Алекс Нэш зовут, если что."
+    gg smile ""
+
+# game/ROCK.rpy:1331
+translate german fan_meet1_79808368:
+
+    # devush "Уверена, скоро все будут знать это имя! Вы так круто пели! А можно сфототкаться с вами?!"
+    devush ""
+
+# game/ROCK.rpy:1334
+translate german fan_meet1_3733021d:
+
+    # gg smile "Конечно! С удовольствием!"
+    gg smile ""
+
+# game/ROCK.rpy:1358
+translate german fan_meet1_5ad59413:
+
+    # alex2 "Меня впервые узнали на улице! И почему звезды не любят фоткаться с фанатами? Это же так круто!!!"
+    alex2 ""
+
+# game/ROCK.rpy:1363
+translate german fan_meet1_45edd710:
+
+    # gg smile "Если честно, то я немного тороплюсь. Может в другой раз?"
+    gg smile ""
+
+# game/ROCK.rpy:1364
+translate german fan_meet1_d8955e15:
+
+    # devush "Эх, жаль... Ну ладно..."
+    devush ""
+

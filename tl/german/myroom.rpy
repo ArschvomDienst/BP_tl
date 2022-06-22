@@ -1894,3 +1894,29 @@ translate german strings:
     old "{b}Спать 8 часов{/b}"
     new "{b}8 Stunden schlafen{/b}"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+# game/myroom.rpy:342
+translate german sleep_menu_5a595054:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad ""
+
+# game/myroom.rpy:388
+translate german sleep_menu_5a595054_1:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad ""
+
+# game/myroom.rpy:444
+translate german sleep_menu_5a595054_2:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad ""
+
+# game/myroom.rpy:507
+translate german sleep_menu_5a595054_3:
+
+    # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
+    gg sad ""
+

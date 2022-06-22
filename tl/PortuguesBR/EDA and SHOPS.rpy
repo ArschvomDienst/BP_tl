@@ -186,3 +186,11 @@ translate PortuguesBR strings:
     old "Прозрачное платье"
     new "Um vestido transparente"
 
+# TODO: Translation updated at 2022-06-22 19:44
+
+translate PortuguesBR strings:
+
+    # game/EDA and SHOPS.rpy:430
+    old "Полупрозрачное белье"
+    new ""
+
