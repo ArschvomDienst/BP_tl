@@ -2394,3 +2394,123 @@ translate english strings:
     old "Поплавать без купальника ({image=smel_.png} 28([allsmel]))"
     new "Swim without a swimsuit ({image=smel_.png} 28([allsmel]))"
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+# game/RANDOM_EVENTS.rpy:1749
+translate english cock_shop_event_bcee9257:
+
+    # aut "Все кабинки, кроме одной, оказались закрыты. Но и в последней кто-то был."
+    aut "All but one of fitting rooms were closed. But there was also someone in the last one."
+
+# game/RANDOM_EVENTS.rpy:1750
+translate english cock_shop_event_3b63ac68:
+
+    # aut "Сквозь щель я увидела голого мужчину. И вскоре я поняла, что это не случайность."
+    aut "Through the crack I saw a naked man. And soon I realized that this was not an accident."
+
+# game/RANDOM_EVENTS.rpy:1752
+translate english cock_shop_event_1458dc19:
+
+    # aut "Хоть я не видела лица мужчины, его возбужденный член был явно выставлен на всеобщее обозрение."
+    aut "Although I didn't see the man's face, his excited dick was clearly seen."
+
+# game/RANDOM_EVENTS.rpy:1753
+translate english cock_shop_event_02034c55:
+
+    # aut "Было такое ощущение, что меня пытаются поймать на член, как ловят рыбу на блесну."
+    aut "It felt like they were trying to catch me on a dick, like fishing with a spinner."
+
+# game/RANDOM_EVENTS.rpy:1760
+translate english cock_shop_menu_5e674ee6:
+
+    # aut "У мужчины было красивое тело, да и член был хорош. Очень хотелось его потрогать."
+    aut "The man had a beautiful body, and the penis was perfect. I really wanted to touch it."
+
+# game/RANDOM_EVENTS.rpy:1784
+translate english cock_shop_menu_12f9a612:
+
+    # aut "Я оглянулась по сторонам и убедилась, что никого рядом нет."
+    aut "I looked around and made sure that no one was here."
+
+# game/RANDOM_EVENTS.rpy:1785
+translate english cock_shop_menu_636f13a7:
+
+    # aut "Я медленно подошла к двери и протянула руку в приоткрытую дверь."
+    aut "I walked slowly to the door and stretched out my hand through the half-open door."
+
+# game/RANDOM_EVENTS.rpy:1809
+translate english cock_shop_menu_110d8de2:
+
+    # aut "Незнакомец подошел поближе и сам вложил свой инструмент в мою ладонь."
+    aut "The stranger came closer and put his giant into my palm."
+
+# game/RANDOM_EVENTS.rpy:1810
+translate english cock_shop_menu_0d617ffa:
+
+    # aut "Я почувствовала, как член напрягся от моего прикосновения."
+    aut "I felt my cock stiffen at my touch."
+
+# game/RANDOM_EVENTS.rpy:1822
+translate english cock_shop_menu_d249d07c:
+
+    # aut "Я дрочила член, не видя лица его хозяина."
+    aut "I was jerking off a dick without seeing the face of its owner."
+
+# game/RANDOM_EVENTS.rpy:1823
+translate english cock_shop_menu_9ea5bfe7:
+
+    # aut "Это возбуждало."
+    aut "It excited me."
+
+# game/RANDOM_EVENTS.rpy:1834
+translate english cock_shop_menu_d33d4f9c:
+
+    # aut "Незнакомец начал двигать бедрами, показывая мне, что нужно дрочить быстрее."
+    aut "The stranger began to move his hips, showing me that I needed to jerk off faster."
+
+# game/RANDOM_EVENTS.rpy:1835
+translate english cock_shop_menu_6123ee54:
+
+    # aut "Я ускорилась, стараясь при этом огялдываться по сторонам."
+    aut "I sped up, constantly looking around."
+
+# game/RANDOM_EVENTS.rpy:1859
+translate english cock_shop_menu_7c9b9272:
+
+    # aut "Наконец мужчина застонал и кончил, забразгав пол и дверь примерочной."
+    aut "Finally, the man groaned and came, splattering the floor and the door of the fitting room by sperm."
+
+# game/RANDOM_EVENTS.rpy:1860
+translate english cock_shop_menu_b29d5e2c:
+
+    # aut "Кое-что попало мне на руку."
+    aut "Some of it got on my hand."
+
+# game/RANDOM_EVENTS.rpy:1883
+translate english cock_shop_menu_c7fd7a3e:
+
+    # aut "Как только я отпустила обмякший член, незнакомец закрыл дверь."
+    aut "As soon as I let go of the limp cock, the stranger closed the door."
+
+# game/RANDOM_EVENTS.rpy:1884
+translate english cock_shop_menu_082073ef:
+
+    # aut "Лишь следы липкой жидкости на пальцах остались мне на память об этом мимолетном приключении."
+    aut "Only traces of sticky liquid on my fingers remained as the piece of this fleeting adventure."
+
+# game/RANDOM_EVENTS.rpy:1890
+translate english cock_shop_menu_6cbeeb5e:
+
+    # gg2 podozr "Он хочет, чтобы я потрогала его член? Ну уж нет, спасибо..."
+    gg2 podozr "Does he want me to touch his cock? Well, no thanks..."
+
+translate english strings:
+
+    # game/RANDOM_EVENTS.rpy:1754
+    old "{#image=cour_h}{color=#8c8c8d}{b}Просунуть руку{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Stick your hand in{/b}{/color}"
+
+    # game/RANDOM_EVENTS.rpy:1754
+    old "{#image=cour}{b}Просунуть руку{/b}"
+    new "{#image=cour}{b}Stick your hand in{/b}"
+

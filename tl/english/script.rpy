@@ -2043,3 +2043,11 @@ translate english strings:
     old "Кристина"
     new "Christina"
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+translate english strings:
+
+    # game/script.rpy:6219
+    old "Паук"
+    new "Spider"
+

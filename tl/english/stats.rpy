@@ -488,3 +488,17 @@ translate english strings:
     old "Зайти в комнату персонала в казино"
     new "Go to the staff room in the casino"
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+# game/stats.rpy:1871
+translate english teleport_acd0fdcf:
+
+    # gg smile "Скоро приедет Майкл, пора подготовиться."
+    gg smile "Michael's coming soon, it's time to get ready."
+
+translate english strings:
+
+    # game/stats.rpy:47
+    old "Дождаться приезда Майкла в 12:00"
+    new "Wait for Michael's arrival at 12:00"
+

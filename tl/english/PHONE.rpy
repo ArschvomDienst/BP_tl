@@ -1422,3 +1422,59 @@ translate english strings:
     old "Дождаться субботы"
     new "Wait until saturday"
 
+# TODO: Translation updated at 2022-06-21 18:20
+
+# game/PHONE.rpy:1064
+translate english owl_mes_d974e8cf:
+
+    # gg smile "Это Сова..."
+    gg smile "This is Owl"
+
+# game/PHONE.rpy:1070
+translate english owl_mes_c8f90716:
+
+    # "{#l=Алекс, в общем я тут договорилась на фотосессию для группы. Нас напечатают в одном рок-журнале, да и для афиш и соц. сетей пару общих фоток пригодится<<smile>>}"
+    "{#l=Alex,  I've arranged a photoshoot for the band. We will be published in a rock magazine and some photos will be useful for posters and social networks<<smile>>}"
+
+# game/PHONE.rpy:1071
+translate english owl_mes_570968f1:
+
+    # "{#r=Воу! Настоящая фотосессия?!<<scream>><<scream>><<scream>>}"
+    "{#r=Whoa! I can't believe! A photoshoot?!<<scream>><<scream>><<scream>>}"
+
+# game/PHONE.rpy:1072
+translate english owl_mes_22024c51:
+
+    # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
+    "{#l=I like when you happy about everything <<sweet>>"
+
+# game/PHONE.rpy:1073
+translate english owl_mes_517dc25d:
+
+    # "{#l=Завтра в 12 Майкл за тобой заедет. Будь готова. Твой сценический наряд подойдет.}"
+    "{#l=Michael will pick you up tomorrow at 12. Be ready. Your stage outfit will be suitable.}"
+
+# game/PHONE.rpy:1074
+translate english owl_mes_b33c934d:
+
+    # "{#r=Буду в полной боевой готовности!<<rock>><<rock>><<rock>>}"
+    "{#r=I will be ready!<<rock>><<rock>><<rock>>}"
+
+# game/PHONE.rpy:1075
+translate english owl_mes_2e0d1b33:
+
+    # "{#l=<<rock>>}"
+    "{#l=<<rock>>}"
+
+# game/PHONE.rpy:1082
+translate english owl_mes_85bbc848:
+
+    # gg2 happy "Настоящая профессиональная фотосессия с группой! Можно будет сделать большой плакат и повесить на стену!"
+    gg2 happy "A real professional photoshoot with our band! You can make a big poster and hang it on the wall!"
+
+translate english strings:
+
+    # game/PHONE.rpy:1081
+    old "Дождаться завтрашней фотосессии"
+    new "Wait for tomorrow's photoshoot"
+
