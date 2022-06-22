@@ -424,11 +424,11 @@ translate PortuguesBR strings:
 translate PortuguesBR teleport_acd0fdcf:
 
     # gg smile "Скоро приедет Майкл, пора подготовиться."
-    gg smile ""
+    gg smile "Michael estará aqui em breve, é hora de se preparar."
 
 translate PortuguesBR strings:
 
     # game/stats.rpy:47
     old "Дождаться приезда Майкла в 12:00"
-    new ""
+    new "Espere Michael chegar às 12:00"
 
