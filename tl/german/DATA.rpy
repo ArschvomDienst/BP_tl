@@ -1451,7 +1451,7 @@ translate german strings:
 
     # game/DATA.rpy:4630
     old "([mood_inf_[30][2]] мин.)"
-    new "([mood_inf_[30][2]] мин.)"
+    new "([mood_inf_[30][2]] Minuten.)"
 
     # game/DATA.rpy:5006
     old "X"
