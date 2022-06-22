@@ -2194,203 +2194,203 @@ translate PortuguesBR kian_tina_event_fc88312e:
 translate PortuguesBR band_photoset_bdf7cdec:
 
     # aut "Майкл как всегда приехал вовремя. Я была в хорошем настроении, предвкушая очередное знаковое событие."
-    aut ""
+    aut "Michael chegou a tempo como sempre. Eu estava de bom humor, antecipando outro evento significativo."
 
 # game/ROCK.rpy:1270
 translate PortuguesBR band_photoset_f249e0bd:
 
     # aut "Место фотосессии оказалось рядом с моим домом, хотя я ожидала, что мы поедем в какую-нибудь фотостудию."
-    aut ""
+    aut "O local da sessão de fotos acabou sendo perto da minha casa, embora eu esperasse que fôssemos para algum tipo de estúdio fotográfico."
 
 # game/ROCK.rpy:1271
 translate PortuguesBR band_photoset_a426e1fb:
 
     # aut "Здесь уже были машины Совы и Киана."
-    aut ""
+    aut "Já havia carros da Coruja e Qian."
 
 # game/ROCK.rpy:1273
 translate PortuguesBR band_photoset_cc170f3b:
 
     # aut "Мы зашли в какой-то старый цех. Все уже были в сборе."
-    aut ""
+    aut "Entramos em alguma loja velha. Todos já estavam reunidos."
 
 # game/ROCK.rpy:1274
 translate PortuguesBR band_photoset_88de1c7b:
 
     # aut "Ко мне подошла Сова вместе с каким-то полуголым мужиком."
-    aut ""
+    aut "Coruja veio até mim junto com um homem seminu."
 
 # game/ROCK.rpy:1276
 translate PortuguesBR band_photoset_a5ffc669:
 
     # spider "Вот эту красотку мне предстоит фоткать? Ммм... Мне нравится."
-    spider ""
+    spider "Eu tenho que tirar uma foto dessa belezura? Hum... eu gosto."
 
 # game/ROCK.rpy:1277
 translate PortuguesBR band_photoset_e67ed435:
 
     # aut "Парень старался говорить низким голосом, но у него плохо получалось."
-    aut ""
+    aut "O cara tentou falar em voz baixa, mas não teve sucesso."
 
 # game/ROCK.rpy:1278
 translate PortuguesBR band_photoset_ab96bf38:
 
     # ow smile "Остынь, Паук, нам нужна фотосессия группы. И без раздеваний, окей?"
-    ow smile ""
+    ow smile "Calma, Spider, precisamos de uma sessão de fotos em grupo. E nada de strip, ok?"
 
 # game/ROCK.rpy:1279
 translate PortuguesBR band_photoset_f681b6f6:
 
     # spider "Вы убиваете во мне художника..."
-    spider ""
+    spider "Você mata o artista que existe em mim..."
 
 # game/ROCK.rpy:1280
 translate PortuguesBR band_photoset_ae5930da:
 
     # ow smile "Ничего, ты справишься."
-    ow smile ""
+    ow smile "Nada, você pode fazer isso."
 
 # game/ROCK.rpy:1281
 translate PortuguesBR band_photoset_9f5af121:
 
     # spider "Ладно, мальчики и девочки, по местам!"
-    spider ""
+    spider "Ok, meninos e meninas, tomem seus lugares!"
 
 # game/ROCK.rpy:1283
 translate PortuguesBR band_photoset_533ef76a:
 
     # aut "Мы выстроились возле стенки и приняли суровые позы."
-    aut ""
+    aut "Nós nos alinhamos perto da parede e assumimos nossas poses."
 
 # game/ROCK.rpy:1285
 translate PortuguesBR band_photoset_75bafd25:
 
     # spider "Эй, милашка, а ты не хочешь у меня посниматься? Я делаю отличные фотосессии в стиле ню..."
-    spider ""
+    spider "Ei, gracinha, você quer atirar comigo? Eu faço ótimas sessões de fotos nuas..."
 
 # game/ROCK.rpy:1286
 translate PortuguesBR band_photoset_608c54cf:
 
     # owl "Нет, спасибо, давай займемся групой, ладно?"
-    owl ""
+    owl "Não, obrigado, vamos fazer a banda, está bem?"
 
 # game/ROCK.rpy:1287
 translate PortuguesBR band_photoset_f7a000ed:
 
     # rick "Эй, держи руки подальше от моей девушки, петушок!"
-    rick ""
+    rick "Ei, mantenha suas mãos longe da minha garota!"
 
 # game/ROCK.rpy:1288
 translate PortuguesBR band_photoset_82bb97ff:
 
     # owl "Все в порядке, милый."
-    owl ""
+    owl "Está tudo bem, querido."
 
 # game/ROCK.rpy:1290
 translate PortuguesBR band_photoset_cb1bcb82:
 
     # spider "Этот волосатый грубиян - твой парень? Ты достойна большего."
-    spider ""
+    spider "Aquele bruto peludo é seu namorado? Você merece mais."
 
 # game/ROCK.rpy:1291
 translate PortuguesBR band_photoset_e2081add:
 
     # spider "Ладно... Еще один скучный день..."
-    spider ""
+    spider "Tudo bem... Mais um dia chato..."
 
 # game/ROCK.rpy:1293
 translate PortuguesBR band_photoset_327d5d30:
 
     # spider "Давай, красотка, покажи мне страсть! Положи руки на бедра... Вот так, да..."
-    spider ""
+    spider "Vamos, menina bonita, mostre-me paixão! Coloque as mãos nos quadris... Assim, isso..."
 
 # game/ROCK.rpy:1294
 translate PortuguesBR band_photoset_e815d274:
 
     # michael "Эй, а нам что делать?"
-    michael ""
+    michael "Ei, o que devemos fazer?"
 
 # game/ROCK.rpy:1295
 translate PortuguesBR band_photoset_11fc2ed6:
 
     # spider "Ой, да никто не будет на вас смотреть! Сделайте серьзные ебальники и стойте ровно."
-    spider ""
+    spider "Oh, ninguém vai olhar para você! Faça uma pose sérias e fique em linha reta."
 
 # game/ROCK.rpy:1301
 translate PortuguesBR band_photoset_71f86fa4:
 
     # aut "Было непросто заставить фотографа-бабника серьезно отнестить к работе."
-    aut ""
+    aut "Não era fácil conseguir que um fotógrafo mulherengo levasse o trabalho a sério."
 
 # game/ROCK.rpy:1302
 translate PortuguesBR band_photoset_483e4ea3:
 
     # aut "Но в итоге мы смогли сделать несколько хороших фото."
-    aut ""
+    aut "Mas no final conseguimos tirar boas fotos."
 
 # game/ROCK.rpy:1307
 translate PortuguesBR band_photoset_205b3801:
 
     # aut "И хоть Паук постоянно просил меня сделать томный взгляд, я не могла сдержать улыбку, думая о том, что участвую в фотосессии для настоящего рок-журнала!"
-    aut ""
+    aut "Mesmo que Spider constantemente me pedisse para me dar uma olhada, não pude deixar de sorrir, pensando que estava participando de uma sessão de fotos para uma revista de rock de verdade!"
 
 # game/ROCK.rpy:1308
 translate PortuguesBR band_photoset_ead649b3:
 
     # alex2 "Теперь на афишах группы будет красоваться мое довольное лицо. Возможно, меня станут чаще узнавать на улице. Было бы здорово!"
-    alex2 ""
+    alex2 "Agora meu rosto feliz vai aparecer nos cartazes do grupo. Talvez eu seja reconhecido na rua com mais frequência. Seria ótimo!"
 
 # game/ROCK.rpy:1327
 translate PortuguesBR fan_meet1_d7292075:
 
     # devush "Здрасьте!"
-    devush ""
+    devush "Olá!"
 
 # game/ROCK.rpy:1328
 translate PortuguesBR fan_meet1_4813d12e:
 
     # gg sad "Ой-ей! Зачем же так пугать?!"
-    gg sad ""
+    gg sad "Oh-ola! Por que estar tão assustado?!"
 
 # game/ROCK.rpy:1329
 translate PortuguesBR fan_meet1_ab511ce7:
 
     # devush "Извините! Я не знаю, как вас зовут, но я была на вашем концерте! Вы же из группы [band_name]?"
-    devush ""
+    devush "Desculpe! Eu não sei seu nome, mas eu estava no seu show! Você é da [band_name]?"
 
 # game/ROCK.rpy:1330
 translate PortuguesBR fan_meet1_c4d71642:
 
     # gg smile "Да, есть такое. Меня Алекс Нэш зовут, если что."
-    gg smile ""
+    gg smile "Isso. A propósito, meu nome é Alex Nash."
 
 # game/ROCK.rpy:1331
 translate PortuguesBR fan_meet1_79808368:
 
     # devush "Уверена, скоро все будут знать это имя! Вы так круто пели! А можно сфототкаться с вами?!"
-    devush ""
+    devush "Tenho certeza que todos conhecerão esse nome em breve! Você cantou tão bem! Posso tirar uma foto com você?"
 
 # game/ROCK.rpy:1334
 translate PortuguesBR fan_meet1_3733021d:
 
     # gg smile "Конечно! С удовольствием!"
-    gg smile ""
+    gg smile "É claro! Com prazer!"
 
 # game/ROCK.rpy:1358
 translate PortuguesBR fan_meet1_5ad59413:
 
     # alex2 "Меня впервые узнали на улице! И почему звезды не любят фоткаться с фанатами? Это же так круто!!!"
-    alex2 ""
+    alex2 "Fui reconhecido pela primeira vez na rua! por que as estrelas não gostam de tirar fotos com seus fãs? É tão legal!!!"
 
 # game/ROCK.rpy:1363
 translate PortuguesBR fan_meet1_45edd710:
 
     # gg smile "Если честно, то я немного тороплюсь. Может в другой раз?"
-    gg smile ""
+    gg smile "Para ser honesta, estou com um pouco de pressa. Talvez outra hora?"
 
 # game/ROCK.rpy:1364
 translate PortuguesBR fan_meet1_d8955e15:
 
     # devush "Эх, жаль... Ну ладно..."
-    devush ""
+    devush "Ah, desculpe... Tudo bem..."
 
