@@ -1240,53 +1240,53 @@ translate PortuguesBR strings:
 translate PortuguesBR owl_mes_d974e8cf:
 
     # gg smile "Это Сова..."
-    gg smile ""
+    gg smile "é a coruja..."
 
 # game/PHONE.rpy:1070
 translate PortuguesBR owl_mes_c8f90716:
 
     # "{#l=Алекс, в общем я тут договорилась на фотосессию для группы. Нас напечатают в одном рок-журнале, да и для афиш и соц. сетей пару общих фоток пригодится<<smile>>}"
-    ""
+    "{#l=Alex, em geral, organizei uma sessão de fotos para o grupo. Seremos publicados em uma revista de rock, em cartazes e mídias sociais. redes algumas fotos comuns serão úteis<<smile>>}"
 
 # game/PHONE.rpy:1071
 translate PortuguesBR owl_mes_570968f1:
 
     # "{#r=Воу! Настоящая фотосессия?!<<scream>><<scream>><<scream>>}"
-    ""
+    "{#r=Uau! Sessão de fotos de verdade?<<scream>><<scream>><<scream>>}"
 
 # game/PHONE.rpy:1072
 translate PortuguesBR owl_mes_22024c51:
 
     # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
-    ""
+    "{#l=Eu adoro quando você está sempre feliz com tudo<<sweet>>}"
 
 # game/PHONE.rpy:1073
 translate PortuguesBR owl_mes_517dc25d:
 
     # "{#l=Завтра в 12 Майкл за тобой заедет. Будь готова. Твой сценический наряд подойдет.}"
-    ""
+    "{#l=Amanhã, às 12h, Michael vai buscá-la. Fique pronta. Seu traje de palco servirá.}"
 
 # game/PHONE.rpy:1074
 translate PortuguesBR owl_mes_b33c934d:
 
     # "{#r=Буду в полной боевой готовности!<<rock>><<rock>><<rock>>}"
-    ""
+    "{#r=Estarei em alerta máximo!<<rock>><<rock>><<rock>>}"
 
 # game/PHONE.rpy:1075
 translate PortuguesBR owl_mes_2e0d1b33:
 
     # "{#l=<<rock>>}"
-    ""
+    "{#l=<<rock>>}"
 
 # game/PHONE.rpy:1082
 translate PortuguesBR owl_mes_85bbc848:
 
     # gg2 happy "Настоящая профессиональная фотосессия с группой! Можно будет сделать большой плакат и повесить на стену!"
-    gg2 happy ""
+    gg2 happy "Uma verdadeira sessão de fotos profissional com a banda! Será possível fazer um grande pôster e pendurá-lo na parede!"
 
 translate PortuguesBR strings:
 
     # game/PHONE.rpy:1081
     old "Дождаться завтрашней фотосессии"
-    new ""
+    new "Ansiosa pelo ensaio fotográfico de amanhã"
 
