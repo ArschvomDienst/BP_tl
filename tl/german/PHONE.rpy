@@ -1425,53 +1425,53 @@ translate german strings:
 translate german owl_mes_d974e8cf:
 
     # gg smile "Это Сова..."
-    gg smile ""
+    gg smile "Owl hier ..."
 
 # game/PHONE.rpy:1070
 translate german owl_mes_c8f90716:
 
     # "{#l=Алекс, в общем я тут договорилась на фотосессию для группы. Нас напечатают в одном рок-журнале, да и для афиш и соц. сетей пару общих фоток пригодится<<smile>>}"
-    ""
+    "{#l=Alex, nur ganz schnell. Ich hab für die ganze Gruppe ein Fotoshooting klar gemacht. Wir werden in einem Rockmagazin erscheinen, und ein paar einfache Fotos werden nützlich sein für Poster und die sozialen Medien<<smile>>}"
 
 # game/PHONE.rpy:1071
 translate german owl_mes_570968f1:
 
     # "{#r=Воу! Настоящая фотосессия?!<<scream>><<scream>><<scream>>}"
-    ""
+    "{#r=Boah! Ein richtiges Fotoshooting?!<<scream>><<scream>><<scream>>}"
 
 # game/PHONE.rpy:1072
 translate german owl_mes_22024c51:
 
     # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
-    ""
+    "{#l=Ich wusste doch dir gefällt die Nachricht!<<sweet>>}"
 
 # game/PHONE.rpy:1073
 translate german owl_mes_517dc25d:
 
     # "{#l=Завтра в 12 Майкл за тобой заедет. Будь готова. Твой сценический наряд подойдет.}"
-    ""
+    "{#l=Michael holt dich morgen um 12 Uhr ab, sei da bereit. Dein Bühnenoutfit reicht.}"
 
 # game/PHONE.rpy:1074
 translate german owl_mes_b33c934d:
 
     # "{#r=Буду в полной боевой готовности!<<rock>><<rock>><<rock>>}"
-    ""
+    "{#r=Volle Fahr vorraus!<<rock>><<rock>><<rock>>}"
 
 # game/PHONE.rpy:1075
 translate german owl_mes_2e0d1b33:
 
     # "{#l=<<rock>>}"
-    ""
+    "{#l=<<rock>>}"
 
 # game/PHONE.rpy:1082
 translate german owl_mes_85bbc848:
 
     # gg2 happy "Настоящая профессиональная фотосессия с группой! Можно будет сделать большой плакат и повесить на стену!"
-    gg2 happy ""
+    gg2 happy "Ein professionelles Fotoshooting mit der Band! Ich kann ein großes Poster drucken lassen und es hier aufhängen!"
 
 translate german strings:
 
     # game/PHONE.rpy:1081
     old "Дождаться завтрашней фотосессии"
-    new ""
+    new "Warte auf das Fotoshooting morgen"
 
