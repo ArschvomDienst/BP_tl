@@ -484,11 +484,11 @@ translate german strings:
 translate german teleport_acd0fdcf:
 
     # gg smile "Скоро приедет Майкл, пора подготовиться."
-    gg smile ""
+    gg smile "Michael wird bald hier sein, es ist Zeit, sich vorzubereiten."
 
 translate german strings:
 
     # game/stats.rpy:47
     old "Дождаться приезда Майкла в 12:00"
-    new ""
+    new "Warte auf die Ankunft von Michael um 12 Uhr"
 
