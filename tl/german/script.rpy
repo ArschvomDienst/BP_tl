@@ -1980,13 +1980,13 @@ translate german strings:
 
     # game/script.rpy:6154
     old "Гарольд"
-    new ""
+    new "Harold"
 
     # game/script.rpy:6155
     old "Кристина"
-    new ""
+    new "Christina"
 
     # game/script.rpy:6224
     old "Паук"
-    new ""
+    new "Spinne"
 
