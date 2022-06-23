@@ -994,7 +994,7 @@ translate english jesus_bj_menu_58a19233:
 translate english jesus_bj_menu_a0977838:
 
     # aut "Она перевела пистолет на Хесуса, и от этого почему-то стало немного легче."
-    aut "She turned the gun on Jesus and for some reason Aand ater that I felt better."
+    aut "She turned the gun on Jesus and for some reason and ater that I felt better."
 
 # game/NPC/JESUS.rpy:384
 translate english jesus_bj_menu_82a3517f:
