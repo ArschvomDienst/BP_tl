@@ -778,7 +778,7 @@ translate english jesus_date1_586308bc:
 translate english jesus_date1_ce355fde:
 
     # jesus "Какая же ты шикарная! Я больше не могу терпеть."
-    jesus "How gorgeous you are! I can't take it anymore"
+    jesus "How gorgeous you are! I can't take it anymore."
 
 # game/NPC/JESUS.rpy:263
 translate english jesus_date1_238c6d56:
