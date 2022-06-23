@@ -192,5 +192,5 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:430
     old "Полупрозрачное белье"
-    new ""
+    new "calcinha trasparente"
 

@@ -1900,23 +1900,23 @@ translate german strings:
 translate german sleep_menu_5a595054:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Wenn ich jetzt ins Bett gehe, komme ich vielleicht zu spät zum Fototermin."
 
 # game/myroom.rpy:388
 translate german sleep_menu_5a595054_1:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Wenn ich jetzt ins Bett gehe, komme ich vielleicht zu spät zum Fototermin."
 
 # game/myroom.rpy:444
 translate german sleep_menu_5a595054_2:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Wenn ich jetzt ins Bett gehe, komme ich vielleicht zu spät zum Fototermin."
 
 # game/myroom.rpy:507
 translate german sleep_menu_5a595054_3:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Wenn ich jetzt ins Bett gehe, komme ich vielleicht zu spät zum Fototermin."
 

@@ -2172,117 +2172,117 @@ translate PortuguesBR strings:
 translate PortuguesBR cock_shop_event_bcee9257:
 
     # aut "Все кабинки, кроме одной, оказались закрыты. Но и в последней кто-то был."
-    aut ""
+    aut "Todos os estandes, exceto um, estavam fechados. Mas havia alguém no último também."
 
 # game/RANDOM_EVENTS.rpy:1750
 translate PortuguesBR cock_shop_event_3b63ac68:
 
     # aut "Сквозь щель я увидела голого мужчину. И вскоре я поняла, что это не случайность."
-    aut ""
+    aut "Pela abertura vi um homem nu. E logo percebi que isso não foi um acidente."
 
 # game/RANDOM_EVENTS.rpy:1752
 translate PortuguesBR cock_shop_event_1458dc19:
 
     # aut "Хоть я не видела лица мужчины, его возбужденный член был явно выставлен на всеобщее обозрение."
-    aut ""
+    aut "Embora eu não pudesse ver o rosto do homem, seu pênis ereto estava claramente em exibição."
 
 # game/RANDOM_EVENTS.rpy:1753
 translate PortuguesBR cock_shop_event_02034c55:
 
     # aut "Было такое ощущение, что меня пытаются поймать на член, как ловят рыбу на блесну."
-    aut ""
+    aut "Havia uma sensação de que eles estavam tentando me pegar com um pênis, como pegar um peixe com uma isca."
 
 # game/RANDOM_EVENTS.rpy:1760
 translate PortuguesBR cock_shop_menu_5e674ee6:
 
     # aut "У мужчины было красивое тело, да и член был хорош. Очень хотелось его потрогать."
-    aut ""
+    aut "O homem tinha um corpo bonito, e o membro era bom. Eu realmente queria tocá-lo."
 
 # game/RANDOM_EVENTS.rpy:1784
 translate PortuguesBR cock_shop_menu_12f9a612:
 
     # aut "Я оглянулась по сторонам и убедилась, что никого рядом нет."
-    aut ""
+    aut "Olhei em volta e me certifiquei de que não havia ninguém por perto."
 
 # game/RANDOM_EVENTS.rpy:1785
 translate PortuguesBR cock_shop_menu_636f13a7:
 
     # aut "Я медленно подошла к двери и протянула руку в приоткрытую дверь."
-    aut ""
+    aut "Caminhei lentamente até a porta e estendi minha mão pela porta aberta."
 
 # game/RANDOM_EVENTS.rpy:1809
 translate PortuguesBR cock_shop_menu_110d8de2:
 
     # aut "Незнакомец подошел поближе и сам вложил свой инструмент в мою ладонь."
-    aut ""
+    aut "O estranho se aproximou e colocou seu instrumento na palma da minha mão."
 
 # game/RANDOM_EVENTS.rpy:1810
 translate PortuguesBR cock_shop_menu_0d617ffa:
 
     # aut "Я почувствовала, как член напрягся от моего прикосновения."
-    aut ""
+    aut "Senti meu pau endurecer ao meu toque."
 
 # game/RANDOM_EVENTS.rpy:1822
 translate PortuguesBR cock_shop_menu_d249d07c:
 
     # aut "Я дрочила член, не видя лица его хозяина."
-    aut ""
+    aut "Eu masturbei um membro sem ver o rosto de seu mestre."
 
 # game/RANDOM_EVENTS.rpy:1823
 translate PortuguesBR cock_shop_menu_9ea5bfe7:
 
     # aut "Это возбуждало."
-    aut ""
+    aut "Era excitante."
 
 # game/RANDOM_EVENTS.rpy:1834
 translate PortuguesBR cock_shop_menu_d33d4f9c:
 
     # aut "Незнакомец начал двигать бедрами, показывая мне, что нужно дрочить быстрее."
-    aut ""
+    aut "O estranho começou a mexer os quadris, me mostrando para masturbar mais rápido."
 
 # game/RANDOM_EVENTS.rpy:1835
 translate PortuguesBR cock_shop_menu_6123ee54:
 
     # aut "Я ускорилась, стараясь при этом огялдываться по сторонам."
-    aut ""
+    aut "Eu acelerei enquanto tentava olhar ao redor."
 
 # game/RANDOM_EVENTS.rpy:1859
 translate PortuguesBR cock_shop_menu_7c9b9272:
 
     # aut "Наконец мужчина застонал и кончил, забразгав пол и дверь примерочной."
-    aut ""
+    aut "Finalmente o homem gemeu e gozou, respingando no chão e na porta do provador."
 
 # game/RANDOM_EVENTS.rpy:1860
 translate PortuguesBR cock_shop_menu_b29d5e2c:
 
     # aut "Кое-что попало мне на руку."
-    aut ""
+    aut "Algo veio na minha mão."
 
 # game/RANDOM_EVENTS.rpy:1883
 translate PortuguesBR cock_shop_menu_c7fd7a3e:
 
     # aut "Как только я отпустила обмякший член, незнакомец закрыл дверь."
-    aut ""
+    aut "Assim que soltei o pau flácido, o estranho fechou a porta."
 
 # game/RANDOM_EVENTS.rpy:1884
 translate PortuguesBR cock_shop_menu_082073ef:
 
     # aut "Лишь следы липкой жидкости на пальцах остались мне на память об этом мимолетном приключении."
-    aut ""
+    aut "Apenas vestígios de líquido pegajoso em meus dedos permaneceram em minha memória desta aventura."
 
 # game/RANDOM_EVENTS.rpy:1890
 translate PortuguesBR cock_shop_menu_6cbeeb5e:
 
     # gg2 podozr "Он хочет, чтобы я потрогала его член? Ну уж нет, спасибо..."
-    gg2 podozr ""
+    gg2 podozr "Ele quer que eu toque seu pau? Bem, não, obrigado..."
 
 translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1754
     old "{#image=cour_h}{color=#8c8c8d}{b}Просунуть руку{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}estenda a mão{/b}{/color}"
 
     # game/RANDOM_EVENTS.rpy:1754
     old "{#image=cour}{b}Просунуть руку{/b}"
-    new ""
+    new "{#image=cour}{b}estenda a mão{/b}"
 

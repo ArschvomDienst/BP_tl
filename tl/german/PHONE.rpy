@@ -1425,37 +1425,37 @@ translate german strings:
 translate german owl_mes_d974e8cf:
 
     # gg smile "Это Сова..."
-    gg smile "Owl hier ..."
+    gg smile "Das ist Owl"
 
 # game/PHONE.rpy:1070
 translate german owl_mes_c8f90716:
 
     # "{#l=Алекс, в общем я тут договорилась на фотосессию для группы. Нас напечатают в одном рок-журнале, да и для афиш и соц. сетей пару общих фоток пригодится<<smile>>}"
-    "{#l=Alex, nur ganz schnell. Ich hab für die ganze Gruppe ein Fotoshooting klar gemacht. Wir werden in einem Rockmagazin erscheinen, und ein paar einfache Fotos werden nützlich sein für Poster und die sozialen Medien<<smile>>}"
+    "{#l=Alex, ich habe ein Fotoshooting für die Band arrangiert. Wir werden in einem Rockmagazin veröffentlicht und könnten ein paar Fotos für Poster und soziale Medien gebrauchen<<smile>>}"
 
 # game/PHONE.rpy:1071
 translate german owl_mes_570968f1:
 
     # "{#r=Воу! Настоящая фотосессия?!<<scream>><<scream>><<scream>>}"
-    "{#r=Boah! Ein richtiges Fotoshooting?!<<scream>><<scream>><<scream>>}"
+    "{#r=Whoa! Ich kann es nicht glauben! Ein Fotoshooting?!<<scream>><<scream>><<scream>>}"
 
 # game/PHONE.rpy:1072
 translate german owl_mes_22024c51:
 
     # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
-    "{#l=Ich wusste doch dir gefällt die Nachricht!<<sweet>>}"
+    "{#l=Ich mag es so sehr, wenn du dich immer über alles freust<<sweet>>}"
 
 # game/PHONE.rpy:1073
 translate german owl_mes_517dc25d:
 
     # "{#l=Завтра в 12 Майкл за тобой заедет. Будь готова. Твой сценический наряд подойдет.}"
-    "{#l=Michael holt dich morgen um 12 Uhr ab, sei da bereit. Dein Bühnenoutfit reicht.}"
+    "{#l=Micheal wird dich Morgen um 12 Uhr abholen. Sei bereit. Dein Bühnenoutfit sollte geeignet sein.}"
 
 # game/PHONE.rpy:1074
 translate german owl_mes_b33c934d:
 
     # "{#r=Буду в полной боевой готовности!<<rock>><<rock>><<rock>>}"
-    "{#r=Volle Fahr vorraus!<<rock>><<rock>><<rock>>}"
+    "{#r=Ich werde bereit sein!<<rock>><<rock>><<rock>>}"
 
 # game/PHONE.rpy:1075
 translate german owl_mes_2e0d1b33:
@@ -1467,11 +1467,11 @@ translate german owl_mes_2e0d1b33:
 translate german owl_mes_85bbc848:
 
     # gg2 happy "Настоящая профессиональная фотосессия с группой! Можно будет сделать большой плакат и повесить на стену!"
-    gg2 happy "Ein professionelles Fotoshooting mit der Band! Ich kann ein großes Poster drucken lassen und es hier aufhängen!"
+    gg2 happy "Ein echtes professionelles Fotoshooting mit der Band! Du kannst ein großes Poster machen und es an die Wand hängen!"
 
 translate german strings:
 
     # game/PHONE.rpy:1081
     old "Дождаться завтрашней фотосессии"
-    new "Warte auf das Fotoshooting morgen"
+    new "Warte auf das morgige Fotoshooting "
 

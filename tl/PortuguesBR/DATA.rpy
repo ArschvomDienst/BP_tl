@@ -1160,9 +1160,9 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4121
     old "+10ч"
-    new ""
+    new "+10h"
 
     # game/DATA.rpy:4122
     old "+24ч"
-    new ""
+    new "+24h"
 

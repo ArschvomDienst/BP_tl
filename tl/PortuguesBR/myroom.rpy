@@ -1610,23 +1610,23 @@ translate PortuguesBR sleep_menu_9017cc8c_3:
 translate PortuguesBR sleep_menu_5a595054:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Se eu for para a cama agora, posso me atrasar para a sessão de fotos."
 
 # game/myroom.rpy:388
 translate PortuguesBR sleep_menu_5a595054_1:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Se eu for para a cama agora, posso me atrasar para a sessão de fotos."
 
 # game/myroom.rpy:444
 translate PortuguesBR sleep_menu_5a595054_2:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Se eu for para a cama agora, posso me atrasar para a sessão de fotos."
 
 # game/myroom.rpy:507
 translate PortuguesBR sleep_menu_5a595054_3:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на фотосессию."
-    gg sad ""
+    gg sad "Se eu for para a cama agora, posso me atrasar para a sessão de fotos."
 
