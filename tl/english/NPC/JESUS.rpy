@@ -778,7 +778,7 @@ translate english jesus_date1_586308bc:
 translate english jesus_date1_ce355fde:
 
     # jesus "Какая же ты шикарная! Я больше не могу терпеть."
-    jesus "How gorgeous you are! I can't take it anymore"
+    jesus "How gorgeous you are! I can't take it anymore."
 
 # game/NPC/JESUS.rpy:263
 translate english jesus_date1_238c6d56:
@@ -994,7 +994,7 @@ translate english jesus_bj_menu_58a19233:
 translate english jesus_bj_menu_a0977838:
 
     # aut "Она перевела пистолет на Хесуса, и от этого почему-то стало немного легче."
-    aut "She turned the gun on Jesus and for some reason Aand ater that I felt better."
+    aut "She turned the gun on Jesus and for some reason and ater that I felt better."
 
 # game/NPC/JESUS.rpy:384
 translate english jesus_bj_menu_82a3517f:
