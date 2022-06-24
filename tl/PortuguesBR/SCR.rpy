@@ -12,7 +12,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:84
     old "Потрачено [rashod]$"
-    new "Gastado [rashod] $"
+    new "Gastado [rashod]$"
 
     # game/SCR.rpy:92
     old "[up_name1]"
@@ -40,7 +40,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:123
     old "+[timeup] мин"
-    new "+ [timeup] min"
+    new "+[timeup] min"
 
     # game/SCR.rpy:165
     old "Центр:"
@@ -48,7 +48,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:166
     old "$10."
-    new "$ 10."
+    new "$10."
 
     # game/SCR.rpy:167
     old "(22 мин.)"
@@ -220,7 +220,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:988
     old "[ritor_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[ritor_b] ([sweet_bonus_time_show] hora [sweet_bonus_time_show_min] minuto)"
+    new "[ritor_b] ([sweet_bonus_time_show] hora [sweet_bonus_time_show_min] min.)"
 
     # game/SCR.rpy:990
     old "Посещено тренингов:"
@@ -244,7 +244,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1008
     old "[vocal_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[vocal_b] ([sweet_bonus_time_show] hr. [sweet_bonus_time_show_min] min.)"
+    new "[vocal_b] ([sweet_bonus_time_show] hora. [sweet_bonus_time_show_min] min.)"
 
     # game/SCR.rpy:1010
     old "Посещено уроков:"
@@ -284,7 +284,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1069
     old "[power_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[power_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] minutos)"
+    new "[power_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
 
     # game/SCR.rpy:1071
     old "Всего занятий в зале:"
@@ -300,7 +300,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1089
     old "[hit_power_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[hit_power_b] ([sweet_bonus_time_show] hr. [sweet_bonus_time_show_min] min.)"
+    new "[hit_power_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
 
     # game/SCR.rpy:1091
     old "Выиграно боев:"
@@ -320,7 +320,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1106
     old "[lovk_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[lovk_b] ([sweet_bonus_time_show] hr. [sweet_bonus_time_show_min] min.)"
+    new "[lovk_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
 
     # game/SCR.rpy:1112
     old "Классический секс:"
@@ -352,7 +352,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1127
     old "Кончили в меня:"
-    new "Cum dentro de mim:"
+    new "Gozo dentro de mim:"
 
     # game/SCR.rpy:1130
     old "Всего абортов:"
@@ -376,11 +376,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1149
     old "Всего глубоких минетов"
-    new "Deepthroats totais"
+    new "Garganta totais"
 
     # game/SCR.rpy:1153
     old "Кунилингус"
-    new "Cunnilingus"
+    new "Gozo com a língua"
 
     # game/SCR.rpy:1156
     old "Всего куни сделано"
@@ -520,11 +520,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2336
     old "Туалет в убежище"
-    new "Banheiro no abrigo"
+    new "Banheiro do abrigo"
 
     # game/SCR.rpy:2339
     old "Кухня в убежище"
-    new "Cozinha de abóbada"
+    new "Cozinha do abrigo"
 
     # game/SCR.rpy:2370
     old "Доступна новая тема для песни"
@@ -536,11 +536,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2455
     old "Деньги ([money])"
-    new "Dinheiro dinheiro])"
+    new "Dinheiro ([money])"
 
     # game/SCR.rpy:2456
     old "+1000"
-    new "+1000"
+    new "+1.000"
 
     # game/SCR.rpy:2458
     old "Смелость ([allsmel])"
@@ -600,7 +600,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2488
     old "Эш на скамейке"
-    new "Cinza no banco"
+    new "Ash no banco"
 
     # game/SCR.rpy:2490
     old "Занятия у Рут"
@@ -612,7 +612,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2494
     old "Вечеринка с Вэл и Пиццей"
-    new "Val and Pizza Party"
+    new "Val e Festa da Pizza"
 
     # game/SCR.rpy:2496
     old "Вечеринка с Вэл и Руби"
@@ -672,7 +672,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2544
     old "Рождественский костюм"
-    new "Terno de natal"
+    new "Roupa de natal"
 
     # game/SCR.rpy:2550
     old "Рождественское оформление"
