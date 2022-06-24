@@ -1622,11 +1622,11 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}Ладно{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Ok {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Ok{/color}"
 
     # game/NPC/PENELOPE.rpy:230
     old "{#image=cour}Ладно"
-    new "{#image=cour} Ok"
+    new "{#image=cour}Ok"
 
     # game/NPC/PENELOPE.rpy:230
     old "Мне нужно идти"
@@ -1642,11 +1642,11 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:387
     old "{#image=vozb_h}{color=#8c8c8d}Расслабиться{/color}"
-    new "{#image=vozb_h} {color=#8c8c8d} Relaxe {/color}"
+    new "{#image=vozb_h}{color=#8c8c8d}Relaxe{/color}"
 
     # game/NPC/PENELOPE.rpy:387
     old "{#image=vozb}Расслабиться"
-    new "{#image=vozb} Relaxe"
+    new "{#image=vozb}Relaxe"
 
     # game/NPC/PENELOPE.rpy:387
     old "Помыться и уйти"
@@ -1654,11 +1654,11 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:691
     old "{#image=cour_h}{color=#8c8c8d}Сыграем{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Vamos jogar {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Vamos jogar{/color}"
 
     # game/NPC/PENELOPE.rpy:691
     old "{#image=cour}Сыграем"
-    new "{#image=cour} Vamos jogar"
+    new "{#image=cour}Vamos jogar"
 
     # game/NPC/PENELOPE.rpy:691
     old "Давайте просто попаримся"
@@ -1666,7 +1666,7 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:691
     old "{color=#8c8c8d}Давайте просто попаримся{/color}"
-    new "{color=#8c8c8d} Vamos apenas vaporizar {/color}"
+    new "{color=#8c8c8d}Vamos tomar um banho de vapor{/color}"
 
     # game/NPC/PENELOPE.rpy:814
     old "Хватит на сегодня"
