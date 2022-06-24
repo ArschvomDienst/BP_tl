@@ -20,7 +20,7 @@ translate PortuguesBR strings:
 
     # game/translations.rpy:13
     old "Игры Ren'Py могут запускаться и без модуля renpy, но некоторые функции возможно будут отключены. Более подробную информацию можно прочесть в файле module/README.txt или по адресу http://www.bishoujo.us/renpy/."
-    new "Os jogos Ren'Py podem ser executados sem o módulo renpy, mas alguns recursos podem ser desativados. Mais informações podem ser encontradas no arquivo module / README.txt ou em http://www.bishoujo.us/renpy/."
+    new "Os jogos Ren'Py podem ser executados sem o módulo renpy, mas alguns recursos podem ser desativados. Mais informações podem ser encontradas no arquivo module/README.txt ou em http://www.bishoujo.us/renpy/."
 
     # game/translations.rpy:14
     old "не найден модуль renpy."
@@ -36,7 +36,7 @@ translate PortuguesBR strings:
 
     # game/translations.rpy:17
     old "Обнаружена устаревшая версия (%d) модуля Ren'Py. Игра требует версии старше %d."
-    new "Uma versão desatualizada (% d) do módulo Ren'Py foi detectada. O jogo requer uma versão anterior a% d."
+    new "Uma versão desatualizada (%d) do módulo Ren'Py foi detectada. O jogo requer uma versão anterior a% d."
 
     # game/translations.rpy:18
     old "Для продолжения нажмите левую кнопку мыши."
@@ -48,11 +48,11 @@ translate PortuguesBR strings:
 
     # game/translations.rpy:26
     old "Сохранить"
-    new "Salve "
+    new "Salve"
 
     # game/translations.rpy:27
     old "Загрузить"
-    new "Download"
+    new "Carregar"
 
     # game/translations.rpy:29
     old "Вы уверены, что хотите выйти?"
@@ -60,7 +60,7 @@ translate PortuguesBR strings:
 
     # game/translations.rpy:30
     old "Вы уверены, что хотите перейти к главному меню?\nНе сохраненное прохождение будет утеряно."
-    new "Tem certeza de que deseja ir para o menu principal?  Não serão perdidas as instruções passo a passo salvas."
+    new "Tem certeza de que deseja ir para o menu principal?\nO passo a passo não salvo será perdido."
 
     # game/translations.rpy:33
     old "Режим экрана"
@@ -112,7 +112,7 @@ translate PortuguesBR strings:
 
     # game/translations.rpy:52
     old "При загрузке несохраненное прохождение будет утеряно.\nТочно продолжить?"
-    new "O passo a passo não salvo será perdido ao carregar.  Você deseja continuar exatamente?"
+    new "O passo a passo não salvo será perdido ao carregar.\nVocê deseja continuar exatamente?"
 
     # game/translations.rpy:53
     old "в"
