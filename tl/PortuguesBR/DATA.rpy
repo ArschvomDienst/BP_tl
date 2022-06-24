@@ -864,7 +864,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4392
     old "Кончила:"
-    new "Finalizado:"
+    new "Eu Gozei:"
 
     # game/DATA.rpy:4394
     old "([mood_inf_[16][2]] мин.)"
@@ -872,7 +872,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4397
     old "Присмотрела за котиком:"
-    new "Ela cuidou do gato:"
+    new "Cuidou do gato:"
 
     # game/DATA.rpy:4399
     old "([mood_inf_[17][2]] мин.)"
