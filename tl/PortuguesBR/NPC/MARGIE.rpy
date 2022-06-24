@@ -928,7 +928,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:257
     old "{color=#8c8c8d}Почему бы и нет?{/color}"
-    new "{color=#8c8c8d} Por que não? {/color}"
+    new "{color=#8c8c8d}Por que não?{/color}"
 
     # game/NPC/MARGIE.rpy:257
     old "Почему бы и нет?"
@@ -948,7 +948,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:289
     old "{color=#8c8c8d}Может стоит сделать первый шаг?{/color}"
-    new "{color=#8c8c8d} Talvez você deva dar o primeiro passo? {/color}"
+    new "{color=#8c8c8d}Talvez você deva dar o primeiro passo?{/color}"
 
     # game/NPC/MARGIE.rpy:289
     old "Может стоит сделать первый шаг?"
@@ -972,7 +972,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:394
     old "{color=#8c8c8d}Может я смогу помочь?{/color}"
-    new "{color=#8c8c8d} Posso ajudar? {/color}"
+    new "{color=#8c8c8d}Posso ajudar?{/color}"
 
     # game/NPC/MARGIE.rpy:394
     old "Может я смогу помочь?"
@@ -984,11 +984,11 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:411
     old "{#image=ritor_h}{color=#8c8c8d} Ты могла бы его поддержать{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Você poderia apoiá-lo {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d} Você poderia apoiá-lo{/color}"
 
     # game/NPC/MARGIE.rpy:411
     old "{#image=ritor}Ты могла бы его поддержать"
-    new "{#image=ritor} Você poderia apoiá-lo"
+    new "{#image=ritor}Você poderia apoiá-lo"
 
 # TODO: Translation updated at 2022-02-26 18:12
 
