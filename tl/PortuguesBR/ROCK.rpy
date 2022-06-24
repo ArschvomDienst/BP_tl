@@ -1390,7 +1390,7 @@ translate PortuguesBR strings:
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Эш{/color}"
-    new "{color=#8c8c8d}Cinza{/color}"
+    new "{color=#8c8c8d}Ash{/color}"
 
     # game/ROCK.rpy:125
     old "На этом все"
