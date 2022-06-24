@@ -56,33 +56,33 @@ translate PortuguesBR strings:
 
     # game/bank.rpy:111
     old "Внести 100$"
-    new "Deposite $ 100"
+    new "Deposite $100"
 
     # game/bank.rpy:111
     old "Внести 200$"
-    new "Deposite 200 $"
+    new "Deposite $200$"
 
     # game/bank.rpy:111
     old "Внести 500$"
-    new "Deposite 500 $"
+    new "Deposite $500"
 
     # game/bank.rpy:111
     old "Внести 1000$"
-    new "Deposite 1000 $"
+    new "Deposite $1.000"
 
     # game/bank.rpy:132
     old "Снять 100$"
-    new "Retirar 100 $"
+    new "Sacar $100"
 
     # game/bank.rpy:132
     old "Снять 200$"
-    new "Sacar 200 $"
+    new "Sacar $200"
 
     # game/bank.rpy:132
     old "Снять 500$"
-    new "Retirar 500 $"
+    new "Sacar $500"
 
     # game/bank.rpy:132
     old "Снять 1000$"
-    new "Retirar $ 1000"
+    new "Sacar $1.000"
 
