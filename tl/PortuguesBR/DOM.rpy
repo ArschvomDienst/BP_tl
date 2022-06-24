@@ -28,7 +28,7 @@ translate PortuguesBR strings:
 
     # game/DOM.rpy:21
     old "Остаться дома"
-    new "Para ficar em casa"
+    new "Ficar em casa"
 
     # game/DOM.rpy:21
     old "Все равно выйти"
@@ -40,5 +40,5 @@ translate PortuguesBR strings:
 
     # game/DOM.rpy:15
     old "Тренировать силу ({image=sila_.png} 11([power]))"
-    new "Força do trem ({image=sila_.png} 11([power]))"
+    new "Forçado do treino ({image=sila_.png} 11([power]))"
 
