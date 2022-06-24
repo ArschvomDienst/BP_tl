@@ -1266,11 +1266,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}Снять видео{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Faça um vídeo {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Grave um vídeo{/color}"
 
     # game/myroom.rpy:230
     old "{#image=cour}Снять видео"
-    new "{#image=cour} Grave um vídeo"
+    new "{#image=cour}Grave um vídeo"
 
     # game/myroom.rpy:230
     old "Подремать 1 час"
@@ -1282,19 +1282,19 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "{color=#8c8c8d}Спать 4 часа{/color}"
-    new "{color=#8c8c8d} Durma 4 horas {/color}"
+    new "{color=#8c8c8d}Durma 4 horas{/color}"
 
     # game/myroom.rpy:230
     old "Спать 4 часа"
-    new "Dormir 4 horas"
+    new "Durma 4 horas"
 
     # game/myroom.rpy:230
     old "{color=#8c8c8d}Спать 8 часов{/color}"
-    new "{color=#8c8c8d} Durma 8 horas {/color}"
+    new "{color=#8c8c8d}Durma 8 horas{/color}"
 
     # game/myroom.rpy:230
     old "Спать 8 часов"
-    new "Dormir 8 horas"
+    new "Durma 8 horas"
 
     # game/myroom.rpy:230
     old "Встать"
@@ -1318,7 +1318,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:363
     old "Прошел 1 час"
-    new "1 hora passou"
+    new "1 hora se passaram"
 
     # game/myroom.rpy:401
     old "Прошло 2 часа"
@@ -1334,11 +1334,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:535
     old "Я возбудилась еще больше{image=0}{image=fem_plus}"
-    new "Fiquei ainda mais excitado {image=0} {image=fem_plus}"
+    new "Fiquei ainda mais excitado{image=0}{image=fem_plus}"
 
     # game/myroom.rpy:535
     old "Мне было неприятно на это смотреть{image=0}{image=fem_minus}"
-    new "Eu odiei assistir isso {image=0} {image=fem_minus}"
+    new "Eu odiei assistir isso{image=0}{image=fem_minus}"
 
     # game/myroom.rpy:1164
     old "Требуется возбуждение (4)"
@@ -1410,7 +1410,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:1522
     old "Solo"
-    new "Só"
+    new "Solo"
 
 # TODO: Translation updated at 2022-02-26 18:12
 
@@ -1544,7 +1544,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "{#image=cour}{b}Снять видео{/b}"
-    new "{#image=cour}{b}Faça um vídeo{/b}"
+    new "{#image=cour}{b}Grave um vídeo{/b}"
 
     # game/myroom.rpy:658
     old "Потрогать член"
@@ -1572,11 +1572,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:238
     old "{b}Спать 4 часа{/b}"
-    new "{b}Dormir 4 horas{/b}"
+    new "{b}Durma 4 horas{/b}"
 
     # game/myroom.rpy:238
     old "{b}Спать 8 часов{/b}"
-    new "{b}Dormir 8 horas{/b}"
+    new "{b}Durma 8 horas{/b}"
 
 # TODO: Translation updated at 2022-05-20 18:17
 
