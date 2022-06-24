@@ -16,7 +16,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:112
     old "11:00 - 23.00"
-    new "11h - 23h"
+    new "11:00 - 23.00"
 
     # game/DATA.rpy:114
     old "Ремонт"
