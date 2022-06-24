@@ -626,7 +626,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5113
     old "Космос"
-    new "Космос"
+    new "Cosmos"
 
     # game/script.rpy:5114
     old "Бернард"
