@@ -4732,11 +4732,11 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:403
     old "Посмотреть еще{image=0}{image=fem_plus}"
-    new "Veja mais {image=0} {image=fem_plus}"
+    new "Veja mais {image=0}{image=fem_plus}"
 
     # game/LOCS.rpy:781
     old "{#image=cour_h}{color=#8c8c8d}Подрочить{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Masturbação {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Masturbação{/color}"
 
     # game/LOCS.rpy:781
     old "{#image=cour} Подрочить"
@@ -4764,19 +4764,19 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:2565
     old "{#image=sharm_h}{color=#8c8c8d}Неужели это так важно?{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} É realmente importante? {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}É realmente importante?{/color}"
 
     # game/LOCS.rpy:2565
     old "{#image=sharm}Неужели это так важно?"
-    new "{#image=sharm} É realmente tão importante?"
+    new "{#image=sharm}É realmente tão importante?"
 
     # game/LOCS.rpy:2565
     old "{#image=ritor_h}{color=#8c8c8d}Я дочка хозяина{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Sou filha do dono {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Sou filha do dono{/color}"
 
     # game/LOCS.rpy:2565
     old "{#image=ritor}Я дочка хозяина"
-    new "{#image=ritor} Eu sou a filha do dono"
+    new "{#image=ritor}Eu sou a filha do dono"
 
     # game/LOCS.rpy:2708
     old "Бросить монетку"
@@ -4788,11 +4788,11 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:3001
     old "{#image=sharm_h}{color=#8c8c8d}Я хочу петь в рок-группе{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Quero cantar em uma banda de rock {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Quero cantar em uma banda de rock{/color}"
 
     # game/LOCS.rpy:3001
     old "{#image=sharm}Я хочу петь в рок-группе"
-    new "{#image=sharm} Eu quero cantar em uma banda de rock"
+    new "{#image=sharm}Eu quero cantar em uma banda de rock"
 
     # game/LOCS.rpy:3001
     old "Мне надо подумать над этим"
@@ -4804,7 +4804,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:3730
     old "{#image=cour_h}{color=#8c8c8d}Снять купальник{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Tire o maiô {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Tire o maiô{/color}"
 
     # game/LOCS.rpy:3730
     old "{#image=cour} Снять купальник"
@@ -4820,15 +4820,15 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:4088
     old "{#image=mon_h}{color=#8c8c8d}Купить билет ($50){/color}"
-    new "{#image=mon_h} {color=#8c8c8d} Compre uma passagem (US $ 50) {/color}"
+    new "{#image=mon_h}{color=#8c8c8d}Compre um ingresso ($50){/color}"
 
     # game/LOCS.rpy:4088
     old "Купить билет ($50)"
-    new "Compre um ingresso ($ 50)"
+    new "Compre um ingresso ($50)"
 
     # game/LOCS.rpy:4120
     old "Обернуться"
-    new "Inversão de marcha"
+    new "dar a volta"
 
     # game/LOCS.rpy:4982
     old "Зайти в соседнюю кабинку"
