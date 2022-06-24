@@ -858,11 +858,11 @@ translate PortuguesBR strings:
 
     # game/NPC/RICK.rpy:213
     old "{#image=ritor_h}{color=#8c8c8d}Ты же был виртуозом!{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Você foi um virtuoso! {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Você foi um virtuoso!{/color}"
 
     # game/NPC/RICK.rpy:213
     old "{#image=ritor}Ты же был виртуозом!"
-    new "{#image=ritor} Você era um virtuoso!"
+    new "{#image=ritor}Você era um virtuoso!"
 
     # game/NPC/RICK.rpy:213
     old "Я принесла пиво"
