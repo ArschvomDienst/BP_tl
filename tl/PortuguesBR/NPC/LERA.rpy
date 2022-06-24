@@ -3628,7 +3628,7 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:146
     old "Похоже на то{image=0}{image=fem_plus}"
-    new "Parece com {image=0} {image=fem_plus}"
+    new "Parece com{image=0}{image=fem_plus}"
 
     # game/NPC/LERA.rpy:146
     old "Да не, бред какой-то"
@@ -3636,11 +3636,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:213
     old "Но мне понравилось{image=0}{image=fem_plus}"
-    new "Mas eu gostei de {image=0} {image=fem_plus}"
+    new "Mas eu gostei de{image=0}{image=fem_plus}"
 
     # game/NPC/LERA.rpy:213
     old "Надеюсь, это больше не повторится{image=0}{image=fem_minus}"
-    new "Espero que isso não aconteça novamente {image=0} {image=fem_minus}"
+    new "Espero que isso não aconteça novamente{image=0}{image=fem_minus}"
 
     # game/NPC/LERA.rpy:237
     old "С удовольствием"
@@ -3672,7 +3672,7 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:441
     old "{color=#8c8c8d}Поехали на йогу вместе{/color}"
-    new "{color=#8c8c8d} Vamos fazer ioga juntos {/color}"
+    new "{color=#8c8c8d}Vamos fazer ioga juntos{/color}"
 
     # game/NPC/LERA.rpy:441
     old "Поехали на йогу вместе"
@@ -3724,11 +3724,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:441
     old "{color=#8c8c8d}Снова помоемся вместе?{/color}"
-    new "{color=#8c8c8d} Vamos nos lavar novamente? {/color}"
+    new "{color=#8c8c8d}Vamos nos lavar novamente?{/color}"
 
     # game/NPC/LERA.rpy:441
     old "{color=#8c8c8d}Я тоже хотела помыться{/color}"
-    new "{color=#8c8c8d} Eu também queria me lavar {/color}"
+    new "{color=#8c8c8d}Eu também queria me lavar{/color}"
 
     # game/NPC/LERA.rpy:441
     old "Я тоже хотела помыться"
@@ -3760,11 +3760,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:1176
     old "{#image=cour_h}{color=#8c8c8d}Звони!{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Ligue! {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Ligue!{/color}"
 
     # game/NPC/LERA.rpy:1176
     old "{#image=cour}Звони!"
-    new "{#image=cour} Ligue!"
+    new "{#image=cour}Ligue!"
 
     # game/NPC/LERA.rpy:1176
     old "У меня еще есть кое-какие дела."
@@ -3772,11 +3772,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:1481
     old "{#image=power_h}{color=#8c8c8d}Держать!{/color}"
-    new "{#image=power_h} {color=#8c8c8d} Espere! {/color}"
+    new "{#image=power_h}{color=#8c8c8d}Espere!{/color}"
 
     # game/NPC/LERA.rpy:1481
     old "{#image=power}Держать"
-    new "{#image=power} Espere"
+    new "{#image=power}Espere"
 
     # game/NPC/LERA.rpy:1481
     old "Отпустить"
@@ -3796,11 +3796,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:1629
     old "{#image=cour_h}{color=#8c8c8d}Приставать{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Pester {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{/color}"
 
     # game/NPC/LERA.rpy:1629
     old "{#image=cour}Приставать"
-    new "{#image=cour} Pester"
+    new "{#image=cour}Incomodar"
 
     # game/NPC/LERA.rpy:1629
     old "Меня это не смутило"
