@@ -556,7 +556,7 @@ translate PortuguesBR strings:
 
     # game/NPC/OWL.rpy:26
     old "15.00 будь дома, мы за тобой заедем. Сначала будет подготовка и саунд-чек, а сам концерт в 8 вечера."
-    new "15h00 em casa, iremos buscá-lo. Primeiro haverá preparação e passagem de som, e o show propriamente dito será às 20h."
+    new "15.00 em casa, iremos buscá-lo. Primeiro haverá preparação e passagem de som, e o show propriamente dito será às 20."
 
     # game/NPC/OWL.rpy:31
     old "Я все поняла! Буду на месте!"
@@ -568,9 +568,9 @@ translate PortuguesBR strings:
 
     # game/NPC/OWL.rpy:140
     old "Какая она сексуальная!{image=0}{image=fem_plus}"
-    new "Como ela é sexy! {image=0} {image=fem_plus}"
+    new "Como ela é sexy! {image=0}{image=fem_plus}"
 
     # game/NPC/OWL.rpy:140
     old "Ну сиськи и сиськи... Подумаешь...{image=0}{image=fem_minus}"
-    new "Bem, peitos e peitos ... Basta pensar ... {image=0} {image=fem_minus}"
+    new "Bem, peitos e peitos ... Basta pensar ...{image=0}{image=fem_minus}"
 
