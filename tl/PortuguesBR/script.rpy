@@ -490,7 +490,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5074
     old "Эш"
-    new "Cinzas"
+    new "Ash"
 
     # game/script.rpy:5075
     old "Джон"
@@ -510,7 +510,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5079
     old "Метла"
-    new "Vassoura"
+    new "Broom"
 
     # game/script.rpy:5080
     old "Томас"
@@ -566,7 +566,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5093
     old "Девушка офицер"
-    new "Oficial garota"
+    new "Policial Mulher"
 
     # game/script.rpy:5094
     old "Полицейский"
@@ -594,11 +594,11 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5100
     old "Мужчина"
-    new "O masculino"
+    new "Homem"
 
     # game/script.rpy:5101
     old "Мужчина 2"
-    new "Masculino 2"
+    new "Homem 2"
 
     # game/script.rpy:5102
     old "Боец 1"
@@ -626,7 +626,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5113
     old "Космос"
-    new "Espaço"
+    new "Космос"
 
     # game/script.rpy:5114
     old "Бернард"
@@ -966,7 +966,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5352
     old "Дешевая туалетная вода"
-    new "Eau de toilette barata"
+    new "Água de banho barata"
 
     # game/script.rpy:5352
     old "Пахнут приятно. Если не нюхать. (Бонус к шарму: 5)"
@@ -986,7 +986,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5354
     old "Lady Million"
-    new "Senhora, milhão"
+    new "Senhora Milhão"
 
     # game/script.rpy:5354
     old "Действительно элитный парфюм. (Бонус к шарму: 10)"
@@ -1818,7 +1818,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:6579
     old "Отдать долг в 600$"
-    new "Pague a dívida de $ 600"
+    new "Pague a dívida de $600"
 
     # game/script.rpy:6583
     old "Общаться с другими персонажами"
