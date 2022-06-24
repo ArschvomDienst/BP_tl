@@ -348,7 +348,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:27
     old "Назад"
-    new "Costas"
+    new "Voltar"
 
     # game/ACT.rpy:60
     old "Сделать селфи"
@@ -360,7 +360,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:159
     old "{#image=cour_h}{color=#8c8c8d}Сделать селфи{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Tire uma selfie {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Tire uma selfie{/color}"
 
     # game/ACT.rpy:159
     old "{#image=cour} Сделать селфи"
@@ -388,7 +388,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:244
     old "{color=#8c8c8d}Косметика закончилась{/color}"
-    new "{color=#8c8c8d} Cosméticos esgotados {/color}"
+    new "{color=#8c8c8d}Cosméticos esgotados{/color}"
 
     # game/ACT.rpy:244
     old "Накраситься (осталось [cosmetics])"
@@ -468,7 +468,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:380
     old "(дешевая туалетная вода)"
-    new "(água de banheiro barata)"
+    new "(Água de Banho Barata)"
 
     # game/ACT.rpy:382
     old "(Omnia Coral)"
@@ -476,7 +476,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:384
     old "(Lady Million)"
-    new "(Senhora, milhão)"
+    new "(Senhora Milhão)"
 
     # game/ACT.rpy:386
     old "(Clive Christian)"
@@ -572,7 +572,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:567
     old "Купить машину"
-    new "Para comprar um carro"
+    new "Comprar um carro"
 
     # game/ACT.rpy:576
     old "Воспользоваться услугами \"Куклы\""
@@ -584,7 +584,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:594
     old "Потрахаться с Лео"
-    new "Foda-se com o Leo"
+    new "Fode com o Leo"
 
     # game/ACT.rpy:603
     old "Застать Флави за работой"
@@ -600,11 +600,11 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:873
     old "{color=#8c8c8d}Взять кофе с собой (50$){/color}"
-    new "{color=#8c8c8d} Leve café com você (US $ 50) {/color}"
+    new "{color=#8c8c8d}Leve café com você ($50){/color}"
 
     # game/ACT.rpy:873
     old "Взять кофе с собой (50$)"
-    new "Leve café com você ($ 50)"
+    new "Leve café com você ($50)"
 
     # game/ACT.rpy:873
     old "Уйти"
@@ -624,7 +624,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:984
     old "Цена: 50$"
-    new "Preço: 50 $"
+    new "Preço: $50"
 
     # game/ACT.rpy:985
     old "Бодрость x2"
@@ -632,7 +632,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:993
     old "Цена: 55$"
-    new "Preço: 55 $"
+    new "Preço: $55"
 
     # game/ACT.rpy:994
     old "Бодрость x1"
@@ -640,7 +640,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1003
     old "Цена: 45$"
-    new "Preço: 45 $"
+    new "Preço: $45"
 
     # game/ACT.rpy:1004
     old "Бодрость x4"
@@ -656,7 +656,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1018
     old "Цена: 70$"
-    new "Preço: 70 $"
+    new "Preço: $70"
 
     # game/ACT.rpy:1019
     old "Алкоголь: +1"
@@ -668,11 +668,11 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1131
     old "Цена: 65$"
-    new "Preço: 65 $"
+    new "Preço: $65"
 
     # game/ACT.rpy:1190
     old "Цена: 170$"
-    new "Preço: 170 $"
+    new "Preço: $170"
 
     # game/ACT.rpy:1191
     old "Бонус к ловкости"
@@ -680,7 +680,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1199
     old "Цена: 200$"
-    new "Preço: 200 $"
+    new "Preço: $200"
 
     # game/ACT.rpy:1200
     old "Бонус к риторике"
@@ -696,7 +696,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1228
     old "Цена: 150$"
-    new "Preço: 150 $"
+    new "Preço: $150"
 
     # game/ACT.rpy:1229
     old "Бонус к вокалу"
@@ -708,7 +708,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1246
     old "Цена: 250$"
-    new "Preço: 250 $"
+    new "Preço: $250"
 
     # game/ACT.rpy:1247
     old "Бонус к смелости"
@@ -720,7 +720,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1395
     old "Цена: 60$"
-    new "Preço: 60 $"
+    new "Preço: $60"
 
     # game/ACT.rpy:1414
     old "Я не буду пить эту гадость!"
@@ -728,15 +728,15 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1469
     old "Цена: 30$"
-    new "Preço: 30 $"
+    new "Preço: $30"
 
     # game/ACT.rpy:1485
     old "Цена: 90$"
-    new "Preço: 90 $"
+    new "Preço: $90"
 
     # game/ACT.rpy:1534
     old "{#image=cour_h}{color=#8c8c8d}Раздеться и лечь{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Tire a roupa e deite-se {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Tire a roupa e deite-se{/color}"
 
     # game/ACT.rpy:1534
     old "{#image=cour} Раздеться и лечь"
@@ -748,15 +748,15 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1792
     old "{#image=vozb_h}{color=#8c8c8d}Мастурбировать в машине{/color}"
-    new "{#image=vozb_h} {color=#8c8c8d} Masturbar-se no carro {/color}"
+    new "{#image=vozb_h}{color=#8c8c8d}Masturbar-se no carro{/color}"
 
     # game/ACT.rpy:1792
     old "{#image=vozb}{color=#8c8c8d}Мастурбировать в машине{/color}"
-    new "{#image=vozb} {color=#8c8c8d} Masturbar-se no carro {/color}"
+    new "{#image=vozb}{color=#8c8c8d}Masturbar-se no carro{/color}"
 
     # game/ACT.rpy:1792
     old "{#image=vozb}Мастурбировать в машине"
-    new "{#image=vozb} Masturbe-se no carro"
+    new "{#image=vozb}Masturbe-se no carro"
 
     # game/ACT.rpy:1792
     old "Ехать"
@@ -788,7 +788,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1978
     old "{color=#8c8c8d}Сделать кофе{/color}"
-    new "{color=#8c8c8d} Faça café {/color}"
+    new "{color=#8c8c8d}Faça café{/color}"
 
     # game/ACT.rpy:1990
     old "Мне не стоит наглеть"
@@ -856,7 +856,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:641
     old "Заняться сексом с Метлой"
-    new "Fazer sexo com a vassoura"
+    new "Fazer sexo com com Broom"
 
     # game/ACT.rpy:650
     old "Поплавать без купальника"
