@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-01-06 15:50
+# TODO: Translation updated at 2022-01-06 15:50
 
 translate PortuguesBR strings:
 
@@ -28,7 +28,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:135
     old "(11:00-2.00)"
-    new "(11: 00-2.00)"
+    new "(11:00-2.00)"
 
     # game/DATA.rpy:153
     old "Магазин \"Breeze\""
@@ -36,15 +36,15 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:155
     old "7:00 - 1.00"
-    new "7h - 1h"
+    new "7:00 - 1.00"
 
     # game/DATA.rpy:165
     old "Сквер"
-    new "Quadrado"
+    new "Park"
 
     # game/DATA.rpy:178
     old "Остановка"
-    new "Pare"
+    new "Ponto de ônibus"
 
     # game/DATA.rpy:202
     old "Выйти на улицу"
@@ -148,7 +148,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:731
     old "Во двор"
-    new "Para o quintal"
+    new "Vizinhança"
 
     # game/DATA.rpy:738
     old "Газетный киоск"
@@ -192,7 +192,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:858
     old "7:00 - 23:00"
-    new "7h00 - 23h00"
+    new "7:00 - 23:00"
 
     # game/DATA.rpy:878
     old "Glamour"
@@ -200,7 +200,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:880
     old "9:00 - 22:00"
-    new "9h00 - 22h00"
+    new "9:00 - 22:00"
 
     # game/DATA.rpy:896
     old "Smartbucks"
@@ -252,7 +252,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1071
     old "7:00 - 11:00"
-    new "7h00 - 11h00"
+    new "7:00 - 11:00"
 
     # game/DATA.rpy:1087
     old "Спортплощадка"
@@ -268,7 +268,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1198
     old "Покер рум"
-    new "Sala de pôquer"
+    new "Sala de poker"
 
     # game/DATA.rpy:1200
     old "Воскресенье. 23:00"
@@ -308,7 +308,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1345
     old "9:00 - 21:00"
-    new "9h00 - 21h00"
+    new "9:00 - 21:00"
 
     # game/DATA.rpy:1390
     old "Тату студия"
@@ -332,7 +332,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1488
     old "00:00 - 7:00"
-    new "00:00 - 07:00"
+    new "00:00 - 7:00"
 
     # game/DATA.rpy:1503
     old "Реп. точка"
@@ -356,7 +356,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1558
     old "8:00 - 19:00"
-    new "8h00 - 19h00"
+    new "8:00 - 19:00"
 
     # game/DATA.rpy:1577
     old "\"Havana\""
@@ -364,7 +364,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1579
     old "9:00 - 00:00"
-    new "9h00 - 00h00"
+    new "9:00 - 00:00"
 
     # game/DATA.rpy:1629
     old "Меню"
@@ -388,7 +388,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1744
     old "8:00 - 21:00"
-    new "8h00 - 21h00"
+    new "8:00 - 21:00"
 
     # game/DATA.rpy:1788
     old "Красный квартал"
@@ -448,7 +448,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2153
     old "8:00 - 23:00"
-    new "8h00 - 23h00"
+    new "8:00 - 23:00"
 
     # game/DATA.rpy:2195
     old "Birch Motors"
@@ -460,7 +460,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2264
     old "13:00-16:00"
-    new "13h00 - 16h00"
+    new "13:00-16:00"
 
     # game/DATA.rpy:2270
     old "Главная улица"
@@ -496,11 +496,11 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2388
     old "21:00-23:00"
-    new "21h00 - 23h00"
+    new "21:00-23:00"
 
     # game/DATA.rpy:2404
     old "Комната славы"
-    new "Sala de glória"
+    new "Sala da glória"
 
     # game/DATA.rpy:2406
     old "Среда. 21:00"
@@ -532,7 +532,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2620
     old "Загорать"
-    new "Tomar sol"
+    new "banho de sol"
 
     # game/DATA.rpy:2626
     old "Плавать"
@@ -544,7 +544,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2805
     old "Вс. 9:00-18:00"
-    new "Sol. 9h-18h"
+    new "Sol. 9:00-18:00"
 
     # game/DATA.rpy:2818
     old "Pastry shop"
@@ -584,7 +584,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3300
     old "7:00-11:00 (Сб,Вс)"
-    new "7h00-11h00 (sáb, dom)"
+    new "7:00-11:00 (sáb, dom)"
 
     # game/DATA.rpy:3420
     old "Майнер стрит"
@@ -612,7 +612,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3609
     old "1 этаж"
-    new "1o andar"
+    new "1º andar"
 
     # game/DATA.rpy:3664
     old "Не сегодня"
@@ -656,7 +656,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3849
     old "[smel_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[smel_b] ([sweet_bonus_time_show] hr. [sweet_bonus_time_show_min] min.)"
+    new "[smel_b] ([sweet_bonus_time_show] horas. [sweet_bonus_time_show_min] min.)"
 
     # game/DATA.rpy:3875
     old "Природная красота:"
@@ -684,19 +684,19 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3900
     old "[sharm_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[sharm_b] ([sweet_bonus_time_show] hr. [sweet_bonus_time_show_min] min.)"
+    new "[sharm_b] ([sweet_bonus_time_show] horas. [sweet_bonus_time_show_min] min.)"
 
     # game/DATA.rpy:3903
     old "Сперма на лице:"
-    new "Cum facial:"
+    new "Gozo no rosto:"
 
     # game/DATA.rpy:3907
     old "Сперма на попке:"
-    new "Gozada na bunda:"
+    new "Gozo na bunda:"
 
     # game/DATA.rpy:3911
     old "Сперма на груди:"
-    new "Esperma na mama:"
+    new "Gozo no peito:"
 
     # game/DATA.rpy:3915
     old "Неприятный запах:"
@@ -716,15 +716,15 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3936
     old "У меня на груди следы спермы"
-    new "Eu tenho vestígios de sêmen no meu peito"
+    new "Eu tenho vestígios de esperma no meu peito"
 
     # game/DATA.rpy:3945
     old "Время действия [time_contr_pills_left_hour]ч. [time_contr_pills_left_min]мин."
-    new "Tempo de validade [time_contr_pills_left_hour] h. [time_contr_pills_left_min] min."
+    new "Tempo de validade [time_contr_pills_left_hour] horas. [time_contr_pills_left_min] min."
 
     # game/DATA.rpy:4011
     old "Я уже выпила таблетку. Надо подождать."
-    new "Já tomei a pílula. Nós temos que esperar."
+    new "Já tomei a pílula. Precisamos esperar."
 
     # game/DATA.rpy:4300
     old "Общее настроение:"
@@ -772,7 +772,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4333
     old "Поплавала:"
-    new "Swam:"
+    new "Nadar:"
 
     # game/DATA.rpy:4335
     old "([mood_inf_[5][2]] мин.)"
@@ -796,7 +796,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4348
     old "Услышала музыку:"
-    new "Ouviu a música:"
+    new "Ouviu música:"
 
     # game/DATA.rpy:4350
     old "([mood_inf_[8][2]] мин.)"
@@ -840,7 +840,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4376
     old "Поиграла в баскетбол:"
-    new "Basquete jogado:"
+    new "Jogou basquete:"
 
     # game/DATA.rpy:4378
     old "([mood_inf_[13][2]] мин.)"
@@ -848,7 +848,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4382
     old "Покурила:"
-    new "Defumado:"
+    new "Fumou:"
 
     # game/DATA.rpy:4384
     old "([mood_inf_[14][2]] мин.)"
@@ -944,7 +944,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4442
     old "Умиротворение:"
-    new "Apaziguamento:"
+    new "Reconciliação:"
 
     # game/DATA.rpy:4444
     old "([mood_inf_[26][2]] мин.)"
@@ -992,7 +992,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4481
     old "([bad_mood_inf_[4][2]] мин.)"
-    new "([bad_mood_inf_[4][2]] minutos)"
+    new "([bad_mood_inf_[4][2]] min.)"
 
     # game/DATA.rpy:4484
     old "Хочу выпить:"
@@ -1008,7 +1008,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4491
     old "([bad_mood_inf_[6][2]] мин.)"
-    new "([bad_mood_inf_[6][2]] minutos)"
+    new "([bad_mood_inf_[6][2]] min.)"
 
     # game/DATA.rpy:4499
     old "Боль от татуировки:"
@@ -1024,7 +1024,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4507
     old "([bad_mood_inf_[9][2]] мин)"
-    new "([bad_mood_inf_[9][2]] minutos)"
+    new "([bad_mood_inf_[9][2]] mmin.)"
 
     # game/DATA.rpy:4509
     old "Депрессия:"
@@ -1165,4 +1165,3 @@ translate PortuguesBR strings:
     # game/DATA.rpy:4122
     old "+24ч"
     new "+24h"
-
