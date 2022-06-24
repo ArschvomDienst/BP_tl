@@ -324,7 +324,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1474
     old "Убежище"
-    new "Asilo"
+    new "Abrigo"
 
     # game/DATA.rpy:1486
     old "Рок-бар"
