@@ -76,15 +76,15 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:223
     old "{color=#8c8c8d}Сварить кофе{/color}"
-    new "{color=#8c8c8d} Fazer café {/color}"
+    new "{color=#8c8c8d}Fazer café{/color}"
 
     # game/EDA and SHOPS.rpy:223
     old "Сварить кофе"
-    new "Preparar café"
+    new "Fazer café"
 
     # game/EDA and SHOPS.rpy:223
     old "{color=#8c8c8d}Кофе с медом{/color}"
-    new "{color=#8c8c8d} Café com mel {/color}"
+    new "{color=#8c8c8d}Café com mel{/color}"
 
     # game/EDA and SHOPS.rpy:223
     old "Кофе с медом"
@@ -132,11 +132,11 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:528
     old "Спортивный костюм"
-    new "Terno esportivo"
+    new "Roupa esportiva"
 
     # game/EDA and SHOPS.rpy:529
     old "Цена: 300$"
-    new "Preço: 300 $"
+    new "Preço: $300"
 
     # game/EDA and SHOPS.rpy:531
     old "Купить"
@@ -160,27 +160,27 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:556
     old "Строгий костюм"
-    new "Terno estrito"
+    new "Roupa formal"
 
     # game/EDA and SHOPS.rpy:557
     old "Цена: 700$"
-    new "Preço: 700 $"
+    new "Preço: $700"
 
     # game/EDA and SHOPS.rpy:563
     old "Рок костюм"
-    new "Terno de rocha"
+    new "Roupa de Rock"
 
     # game/EDA and SHOPS.rpy:564
     old "Цена: 1000$"
-    new "Preço: 1000 $"
+    new "Preço: $1000"
 
     # game/EDA and SHOPS.rpy:570
     old "Теннисный костюм"
-    new "Terno de tênis"
+    new "Roupa de tênis"
 
     # game/EDA and SHOPS.rpy:571
     old "Цена: 400$"
-    new "Preço: 400 $"
+    new "Preço: $400"
 
     # game/EDA and SHOPS.rpy:578
     old "Прозрачное платье"
@@ -192,5 +192,5 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:430
     old "Полупрозрачное белье"
-    new "calcinha trasparente"
+    new "Calcinha trasparente"
 
