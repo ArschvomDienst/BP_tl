@@ -7018,11 +7018,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:75
     old "{#image=cour_h}{color=#8c8c8d}Я ищу какую-нибудь работу{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Estou procurando um trabalho {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Estou procurando um trabalho{/color}"
 
     # game/DIA.rpy:75
     old "{#image=cour}Я ищу какую-нибудь работу"
-    new "{#image=cour} Estou procurando um emprego"
+    new "{#image=cour}Estou procurando um trabalho"
 
     # game/DIA.rpy:75
     old "Я зайду позже"
@@ -7046,19 +7046,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:296
     old "{#image=ritor_h}{color=#8c8c8d}Заткнись!{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Cale a boca! {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Cale a boca!{/color}"
 
     # game/DIA.rpy:296
     old "{#image=ritor}Заткнись!"
-    new "{#image=ritor} Cale a boca!"
+    new "{#image=ritor}Cale a boca!"
 
     # game/DIA.rpy:296
     old "{#image=sharm_h}{color=#8c8c8d}Не будь таким строгим{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Não seja tão rígido {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Não seja tão rígido{/color}"
 
     # game/DIA.rpy:296
     old "{#image=sharm}Не будь таким строгим"
-    new "{#image=sharm} Não seja tão rígido"
+    new "{#image=sharm}Não seja tão rígido"
 
     # game/DIA.rpy:298
     old "Требуется риторика (30)"
@@ -7070,19 +7070,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:316
     old "{#image=cour_h}{color=#8c8c8d}Соблазнить{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Seduza {/color}"
+    new "{#image=cour_h} {color=#8c8c8d}Seduza{/color}"
 
     # game/DIA.rpy:316
     old "{#image=cour}Соблазнить"
-    new "{#image=cour} Seduza"
+    new "{#image=cour}Seduza"
 
     # game/DIA.rpy:370
     old "{color=#8c8c8d}Купить \"Smart Fortwo\" (20000$){/color}"
-    new "{color=#8c8c8d} Compre 'Smart Fortwo' ($ 20.000) {/color}"
+    new "{color=#8c8c8d}Compre 'Smart Fortwo' ($20.000){/color}"
 
     # game/DIA.rpy:370
     old "Купить \"Smart Fortwo\" (20000$)"
-    new "Compre 'Smart Fortwo' ($ 20.000)"
+    new "Compre 'Smart Fortwo' ($20.000)"
 
     # game/DIA.rpy:374
     old "Нужно больше денег (20000)"
@@ -7134,7 +7134,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:550
     old "{b}Я ищу Жерара{/b}"
-    new "{b} Estou procurando Gerard {/b}"
+    new "{b}Estou procurando Gerard{/b}"
 
     # game/DIA.rpy:550
     old "Выбор услуги"
@@ -7142,15 +7142,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:579
     old "Парикмахер (сеанс 170$)"
-    new "Cabeleireiro (sessão $ 170)"
+    new "Cabeleireiro (sessão $170)"
 
     # game/DIA.rpy:579
     old "Солярий (сеанс 50$)"
-    new "Solarium (sessão $ 50)"
+    new "Solarium (sessão $50)"
 
     # game/DIA.rpy:579
     old "Сауна (абонемент на 5 посещений 150$)"
-    new "Sauna (assinatura para 5 visitas $ 150)"
+    new "Sauna (assinatura para 5 visitas $150)"
 
     # game/DIA.rpy:621
     old "Бонус прически + 5"
@@ -7170,11 +7170,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:669
     old "{#image=vozb}{color=#8c8c8d}Мастурбировать{/color}"
-    new "{#image=vozb} {color=#8c8c8d} Masturbar {/color}"
+    new "{#image=vozb}{color=#8c8c8d}Se Masturbar{/color}"
 
     # game/DIA.rpy:669
     old "{#image=vozb}Мастурбировать"
-    new "{#image=vozb} Masturbar"
+    new "{#image=vozb}Se Masturbar"
 
     # game/DIA.rpy:998
     old "Где я могу купить кроссовки?"
@@ -7186,11 +7186,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1054
     old "{#image=ritor_h}{color=#8c8c8d} Дай парню шанс{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Dê uma chance ao cara {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d} Dê uma chance ao cara{/color}"
 
     # game/DIA.rpy:1054
     old "{#image=ritor}Дай парню шанс"
-    new "{#image=ritor} Dê uma chance ao cara"
+    new "{#image=ritor}Dê uma chance ao cara"
 
     # game/DIA.rpy:1056
     old "Требуется риторика (22)"
@@ -7238,19 +7238,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1204
     old "{#image=ritor_h}{color=#8c8c8d} Возьми себя в руки!{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Controle-se! {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d} Controle-se!{/color}"
 
     # game/DIA.rpy:1204
     old "{#image=ritor}Возьми себя в руки!"
-    new "{#image=ritor} Controle-se!"
+    new "{#image=ritor}Controle-se!"
 
     # game/DIA.rpy:1204
     old "{color=#fbfe00}Выпить кофе"
-    new "{color=#fbfe00} Beba café"
+    new "{color=#fbfe00}Beba café"
 
     # game/DIA.rpy:1204
     old "{color=#fbfe00}Кофе с собой"
-    new "{color=#fbfe00} Café para viagem"
+    new "{color=#fbfe00}Café para viagem"
 
     # game/DIA.rpy:1247
     old "Не буду тебе мешать"
@@ -7266,15 +7266,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1303
     old "5 посещений (80$)"
-    new "5 visitas (80 $)"
+    new "5 visitas ($80)"
 
     # game/DIA.rpy:1303
     old "10 посещений (145$)"
-    new "10 visitas ($ 145)"
+    new "10 visitas ($145)"
 
     # game/DIA.rpy:1303
     old "30 посещений (400$)"
-    new "30 visitas (400 $)"
+    new "30 visitas ($400)"
 
     # game/DIA.rpy:1303
     old "Нужно больше денег"
@@ -7294,15 +7294,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1363
     old "5 посещений (100$)"
-    new "5 visitas (100 $)"
+    new "5 visitas ($100)"
 
     # game/DIA.rpy:1363
     old "10 посещений (190$)"
-    new "10 visitas (190 $)"
+    new "10 visitas ($190)"
 
     # game/DIA.rpy:1363
     old "30 посещений (500$)"
-    new "30 visitas ($ 500)"
+    new "30 visitas ($500)"
 
     # game/DIA.rpy:1592
     old "Где ты работаешь?"
@@ -7326,23 +7326,23 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1765
     old "{color=#8c8c8d}Я согласна (-2000){/color}"
-    new "{color=#8c8c8d} Concordo (-2000) {/color}"
+    new "{color=#8c8c8d} Concordo (-2.000){/color}"
 
     # game/DIA.rpy:1765
     old "Я согласна (-2000)"
-    new "Eu concordo (-2000)"
+    new "Concordo (-2.000)"
 
     # game/DIA.rpy:1765
     old "{#image=sharm_h}{color=#8c8c8d}Сделайте скидку{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Ganhe um desconto {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Ganhe um desconto{/color}"
 
     # game/DIA.rpy:1765
     old "{#image=sharm}Сделайте скидку"
-    new "{#image=sharm} Ganhe um desconto"
+    new "{#image=sharm}Ganhe um desconto"
 
     # game/DIA.rpy:1767
     old "Нужно больше денег (2000)"
-    new "Precisa de mais dinheiro (2000)"
+    new "Precisa de mais dinheiro (2.000)"
 
     # game/DIA.rpy:1782
     old "Требуется шарм (70)"
@@ -7354,11 +7354,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1945
     old "{#image=ritor_h}{color=#8c8c8d}Обещаю сохранить тайну{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Prometo guardar segredo {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Prometo guardar segredo{/color}"
 
     # game/DIA.rpy:1945
     old "{#image=ritor}Обещаю сохранить тайну"
-    new "{#image=ritor} Prometo manter o segredo"
+    new "{#image=ritor}Prometo manter o segredo"
 
     # game/DIA.rpy:1961
     old "Требуется риторика (14)"
@@ -7366,11 +7366,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1995
     old "{b}Я ищу Джилл Бауэрман{/b}"
-    new "{b} Estou procurando Jill Bowerman {/b}"
+    new "{b}Estou procurando Jill Bowerman{/b}"
 
     # game/DIA.rpy:1995
     old "Вылечить алкогольную зависимость (500$)"
-    new "Cure o vício do álcool ($ 500)"
+    new "Cure o vício do álcool ($500)"
 
     # game/DIA.rpy:1995
     old "Мне нужна справка от гинеколога"
@@ -7394,19 +7394,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2046
     old "{color=#8c8c8d}Я согласна (2000$){/color}"
-    new "{color=#8c8c8d} Concordo (2000 $) {/color}"
+    new "{color=#8c8c8d}Concordo ($2.000){/color}"
 
     # game/DIA.rpy:2046
     old "Я согласна (2000$)"
-    new "Eu concordo ($ 2.000)"
+    new "concordo ($2.000)"
 
     # game/DIA.rpy:2225
     old "{#image=cour_h}{color=#8c8c8d}Я готова{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Estou pronto {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Estou pronto{/color}"
 
     # game/DIA.rpy:2225
     old "{#image=cour}Я готова"
-    new "{#image=cour} Estou pronto"
+    new "{#image=cour}Estou pronto"
 
     # game/DIA.rpy:2225
     old "Я пока не готова"
@@ -7418,15 +7418,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2278
     old "{#image=cour_h}{color=#8c8c8d}Есть ли особенная работа?{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Existe algum trabalho especial? {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Existe algum trabalho especial?{/color}"
 
     # game/DIA.rpy:2278
     old "{#image=cour}Есть ли особенная работа?"
-    new "{#image=cour} Existe algum trabalho especial?"
+    new "{#image=cour}Existe algum trabalho especial?"
 
     # game/DIA.rpy:2320
     old "{color=#8c8c8d}Вы проводите курсы?{/color}"
-    new "{color=#8c8c8d} Você ministra cursos? {/color}"
+    new "{color=#8c8c8d}Você ministra cursos?{/color}"
 
     # game/DIA.rpy:2320
     old "Вы проводите курсы?"
@@ -7442,11 +7442,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2346
     old "{#image=cour_h}{color=#8c8c8d}Я готова пойти дальше{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Estou pronto para ir mais longe {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Estou pronto para ir mais longe{/color}"
 
     # game/DIA.rpy:2346
     old "{#image=cour}Я готова пойти дальше"
-    new "{#image=cour} Estou pronto para ir mais longe"
+    new "{#image=cour}Estou pronto para ir mais longe"
 
     # game/DIA.rpy:2346
     old "Вы продаете билеты?"
@@ -7458,11 +7458,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2525
     old "Снять комнату (50$)"
-    new "Alugue um quarto (50 $)"
+    new "Alugue um quarto ($50)"
 
     # game/DIA.rpy:2525
     old "{color=#8c8c8d}Снять комнату (50$){/color}"
-    new "{color=#8c8c8d} Alugue um quarto (50 $) {/color}"
+    new "{color=#8c8c8d}Alugue um quarto ($50){/color}"
 
     # game/DIA.rpy:2539
     old "Конец"
@@ -7470,11 +7470,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2591
     old "Мальчики{image=0}{image=male_plus}"
-    new "Meninos {image=0} {image=male_plus}"
+    new "Meninos{image=0}{image=male_plus}"
 
     # game/DIA.rpy:2591
     old "Девочки{image=0}{image=fem_plus}"
-    new "Meninas {image=0} {image=fem_plus}"
+    new "Meninas{image=0}{image=fem_plus}"
 
     # game/DIA.rpy:2735
     old "Вы Рут Лейн?"
@@ -7482,15 +7482,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2735
     old "{#image=power_h}{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{#image=power_h} {color=#8c8c8d} Estou pronto para estudar! {/color}"
+    new "{#image=power_h}{color=#8c8c8d}Estou pronto para estudar!{/color}"
 
     # game/DIA.rpy:2735
     old "{#image=agility_h}{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{#image=agility_h} {color=#8c8c8d} Estou pronto para praticar! {/color}"
+    new "{#image=agility_h}{color=#8c8c8d}Estou pronto para praticar!{/color}"
 
     # game/DIA.rpy:2735
     old "{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{color=#8c8c8d} Estou pronto para estudar! {/color}"
+    new "{color=#8c8c8d}Estou pronto para estudar!{/color}"
 
     # game/DIA.rpy:2735
     old "Я готова заниматься!"
@@ -7498,7 +7498,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2756
     old "Требуется сила (10)"
-    new "Str required (10)"
+    new "Força necessário (10)"
 
     # game/DIA.rpy:2760
     old "Требуется ловкость (10)"
@@ -7506,15 +7506,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2764
     old "Нужно больше денег (1000)"
-    new "Precisa de mais dinheiro (1000)"
+    new "Precisa de mais dinheiro (1.000)"
 
     # game/DIA.rpy:2927
     old "{#image=voice_h}{color=#8c8c8d}Я готова{/color}"
-    new "{#image=voice_h} {color=#8c8c8d} Estou pronto {/color}"
+    new "{#image=voice_h}{color=#8c8c8d}Estou pronto{/color}"
 
     # game/DIA.rpy:2927
     old "{#image=voice_}Я готова"
-    new "{#image=voice_} estou pronto"
+    new "{#image=voice_}Rstou pronto"
 
     # game/DIA.rpy:2927
     old "Я должна подумать"
@@ -7538,11 +7538,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3292
     old "{#image=cour_h}{color=#8c8c8d}Я попробую{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Vou tentar {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Vou tentar{/color}"
 
     # game/DIA.rpy:3292
     old "{#image=cour}Я попробую"
-    new "{#image=cour} Vou tentar"
+    new "{#image=cour}Vou tentar"
 
     # game/DIA.rpy:3294
     old "Требуется смелость (8)"
@@ -7550,11 +7550,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3361
     old "{color=#8c8c8d}Я хочу сделать тату (550$){/color}"
-    new "{color=#8c8c8d} Quero fazer uma tatuagem (550 $) {/color}"
+    new "{color=#8c8c8d}Quero fazer uma tatuagem ($550){/color}"
 
     # game/DIA.rpy:3361
     old "Я хочу сделать тату (550$)"
-    new "Eu quero fazer uma tatuagem (550 $)"
+    new "Eu quero fazer uma tatuagem ($550)"
 
     # game/DIA.rpy:3363
     old "Нужно больше денег (550)"
@@ -7570,7 +7570,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3415
     old "{color=#8c8c8d}Выбрать пирожное{/color}"
-    new "{color=#8c8c8d} Selecione o bolo {/color}"
+    new "{color=#8c8c8d}Escolha um bolo{/color}"
 
     # game/DIA.rpy:3415
     old "Выбрать пирожное"
@@ -7582,11 +7582,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3496
     old "На картины и кровать (1000$)"
-    new "Para pinturas e uma cama ($ 1000)"
+    new "Para pinturas e uma cama ($1.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}На картины и кровать (1000$){/color}"
-    new "{color=#8c8c8d} Para pinturas e uma cama (1000 $) {/color}"
+    new "{color=#8c8c8d}Para pinturas e uma cama ($1.000){/color}"
 
     # game/DIA.rpy:3496
     old "Хочу заказать у Тары несколько картин"
@@ -7606,63 +7606,63 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}На студию и кухню (2000$){/color}"
-    new "{color=#8c8c8d} Para o estúdio e a cozinha (2.000 $) {/color}"
+    new "{color=#8c8c8d}Para o estúdio e a cozinha ($2.000){/color}"
 
     # game/DIA.rpy:3496
     old "На ремонт туалета (3000$)"
-    new "Para conserto de banheiro ($ 3000)"
+    new "Para conserto de banheiro ($3.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}На ремонт туалета (3000$){/color}"
-    new "{color=#8c8c8d} Para conserto de banheiro (US $ 3.000) {/color}"
+    new "{color=#8c8c8d}Para conserto de banheiro ($3.000){/color}"
 
     # game/DIA.rpy:3496
     old "Закажите для меня мебель (4000$)"
-    new "Encomende móveis para mim (4000 $)"
+    new "Encomende móveis para mim ($4.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Закажите для меня мебель (4000$){/color}"
-    new "{color=#8c8c8d} Encomende móveis para mim (4000 $) {/color}"
+    new "{color=#8c8c8d}Encomende móveis para mim ($4.000){/color}"
 
     # game/DIA.rpy:3496
     old "{#image=ritor_h}{color=#8c8c8d}Сделайте скидку{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Faça um desconto {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Faça um desconto{/color}"
 
     # game/DIA.rpy:3496
     old "{#image=ritor}Сделайте скидку"
-    new "{#image=ritor} Faça um desconto"
+    new "{#image=ritor}Faça um desconto"
 
     # game/DIA.rpy:3496
     old "Приступайте к работе (3000$)"
-    new "Começar ($ 3000)"
+    new "Começar ($3.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Приступайте к работе (3000$){/color}"
-    new "{color=#8c8c8d} Primeiros passos (US $ 3.000) {/color}"
+    new "{color=#8c8c8d}Ir ao trabalho ($3.000){/color}"
 
     # game/DIA.rpy:3496
     old "Займитесь лестницей (2000$)"
-    new "Enfrente a escada ($ 2.000)"
+    new "Pegue as escadas ($2.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Займитесь лестницей (2000$){/color}"
-    new "{color=#8c8c8d} Pegue as escadas ($ 2.000) {/color}"
+    new "{color=#8c8c8d}Pegue as escadas ($2.000){/color}"
 
     # game/DIA.rpy:3496
     old "Приступайте к работе (2500$)"
-    new "Começar ($ 2500)"
+    new "Começar a trabalhar ($2.500)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Приступайте к работе (2500$){/color}"
-    new "{color=#8c8c8d} Primeiros passos ($ 2500) {/color}"
+    new "{color=#8c8c8d}Ir ao trabalho ($ 2500){/color}"
 
     # game/DIA.rpy:3573
     old "Нужно больше денег (3000)"
-    new "Precisa de mais dinheiro (3000)"
+    new "Precisa de mais dinheiro (3.000)"
 
     # game/DIA.rpy:3582
     old "Нужно больше денег (4000)"
-    new "Precisa de mais dinheiro (4000)"
+    new "Precisa de mais dinheiro (4.000)"
 
     # game/DIA.rpy:3586
     old "Требуется риторика (40)"
@@ -7670,7 +7670,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3633
     old "Нужно больше денег (2500)"
-    new "Precisa de mais dinheiro (2500)"
+    new "Precisa de mais dinheiro (2.500)"
 
     # game/DIA.rpy:3664
     old "У тебя откровенный наряд"
@@ -7678,11 +7678,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3678
     old "{#image=sharm_h}{color=#8c8c8d}Войти{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Login {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Login{/color}"
 
     # game/DIA.rpy:3678
     old "{#image=sharm}Войти"
-    new "{#image=sharm} Login"
+    new "{#image=sharm}Login"
 
     # game/DIA.rpy:3680
     old "Требуется шарм (80)"
@@ -8514,11 +8514,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:545
     old "{color=#8c8c8d}Сауна (абонемент на 5 посещений 150$){/color}"
-    new "{color=#8c8c8d}Sauna (assinatura para 5 visitas 150$){/color}"
+    new "{color=#8c8c8d}Sauna (assinatura para 5 visitas $150){/color}"
 
     # game/DIA.rpy:545
     old "{color=#faa8ff}Сауна{/color} (абонемент на 5 посещений 150$)"
-    new "{color=#faa8ff}Sauna{/color} (assinatura para 5 visitas 150$)"
+    new "{color=#faa8ff}Sauna{/color} (assinatura para 5 visitas $150)"
 
     # game/DIA.rpy:700
     old "{color=#faa8ff}{b}Выбор услуги{/b}{/color}"
@@ -8678,7 +8678,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1045
     old "{b}Мне нужен тренер{/b}"
-    new "{b}Preciso de um coach{/b}"
+    new "{b}Preciso de um treinador{/b}"
 
     # game/DIA.rpy:1086
     old "Поговорить о тренажерном зале"
@@ -8826,11 +8826,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3635
     old "{color=#8c8c8d}{b}Приступайте к работе (3000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Primeiros passos ($3.000){/b}{/color}"
+    new "{color=#8c8c8d}{b}Comece a trabalhar ($3.000){/b}{/color}"
 
     # game/DIA.rpy:3635
     old "{b}Займитесь лестницей (2000$){/b}"
-    new "{b}Cuide das escadas ($2.000){/b}"
+    new "{b}Suba as escadas ($2.000){/b}"
 
     # game/DIA.rpy:3635
     old "{color=#8c8c8d}{b}Займитесь лестницей (2000$){/b}{/color}"
@@ -8842,7 +8842,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3635
     old "{color=#8c8c8d}{b}Приступайте к работе (2500$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Primeiros passos ($2.500){/b}{/color}"
+    new "{color=#8c8c8d}{b}Comece a trabalhar ($2.500){/b}{/color}"
 
 # TODO: Translation updated at 2022-05-20 18:17
 
