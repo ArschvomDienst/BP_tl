@@ -884,7 +884,7 @@ translate PortuguesBR strings:
 
     # game/PHONE.rpy:259
     old "Купить за 20$"
-    new "Compre por $ 20"
+    new "Compre por $20"
 
     # game/PHONE.rpy:409
     old "Такси"
@@ -904,7 +904,7 @@ translate PortuguesBR strings:
 
     # game/PHONE.rpy:488
     old "$[map_math]."
-    new "$ [map_math]."
+    new "$[map_math]."
 
     # game/PHONE.rpy:489
     old "([map_math_time] мин.)"
@@ -928,7 +928,7 @@ translate PortuguesBR strings:
 
     # game/PHONE.rpy:631
     old "Вэл сейчас на учебе. Поговорю с ней после 18.00."
-    new "Val está na escola agora. Vou falar com ela depois das 18h."
+    new "Val está na escola agora. Vou falar com ela depois das 18.00."
 
     # game/PHONE.rpy:633
     old "Не хочу отвлекать Вэл. Лучше поговорю с ней лично."
@@ -972,7 +972,7 @@ translate PortuguesBR strings:
 
     # game/PHONE.rpy:655
     old "Не хватает денег. Мне нужна хотя бы 1000$ на карте"
-    new "Dinheiro insuficiente. Eu preciso de pelo menos $ 1000 no cartão"
+    new "Dinheiro insuficiente. Eu preciso de pelo menos $1.000 no cartão"
 
     # game/PHONE.rpy:657
     old "Задание выглядит подозрительно, но эти ребята платят неплохие деньги."
