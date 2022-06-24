@@ -520,7 +520,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2513
     old "Карьер"
-    new "Carreira"
+    new "Pedreira"
 
     # game/DATA.rpy:2558
     old "Шоссе"
