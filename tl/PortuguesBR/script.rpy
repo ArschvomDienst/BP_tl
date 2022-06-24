@@ -442,7 +442,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5061
     old "Руби"
-    new "Rubi"
+    new "Ruby"
 
     # game/script.rpy:5062
     old "Виктор"
