@@ -1386,7 +1386,7 @@ translate PortuguesBR strings:
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Руби{/color}"
-    new "{color=#8c8c8d}Rubi{/color}"
+    new "{color=#8c8c8d}Ruby{/color}"
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Эш{/color}"
