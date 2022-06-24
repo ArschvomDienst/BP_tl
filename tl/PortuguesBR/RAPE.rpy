@@ -2770,19 +2770,19 @@ translate PortuguesBR strings:
 
     # game/RAPE.rpy:99
     old "{#image=male_h}{color=#8c8c8d}Хочу его член{/color}"
-    new "{#image=male_h} {color=#8c8c8d} Quero o membro dele {/color}"
+    new "{#image=male_h}{color=#8c8c8d}Quero o membro dele{/color}"
 
     # game/RAPE.rpy:99
     old "{#image=male}Хочу его член"
-    new "{#image=male} Eu quero o membro dele"
+    new "{#image=male}Eu quero o membro dele"
 
     # game/RAPE.rpy:99
     old "{#image=fem_h}{color=#8c8c8d}Хочу тебя{/color}"
-    new "{#image=fem_h} {color=#8c8c8d} Eu quero você {/color}"
+    new "{#image=fem_h}{color=#8c8c8d}Eu quero você{/color}"
 
     # game/RAPE.rpy:99
     old "{#image=fem}Хочу тебя"
-    new "{#image=fem} eu quero você"
+    new "{#image=fem}Eu quero você"
 
     # game/RAPE.rpy:99
     old "Хочу посмотреть на вас"
@@ -2818,55 +2818,55 @@ translate PortuguesBR strings:
 
     # game/RAPE.rpy:1082
     old "{#image=cour_h}{color=#8c8c8d}Пригрозить револьвером{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Ameaçar com um revólver {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Ameaçar com um revólver{/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=cour}{color=#3bff1b}Пригрозить револьвером{/color}"
-    new "{#image=cour} {color=#3bff1b} Ameaçar com um revólver {/color}"
+    new "{#image=cour}{color=#3bff1b}Ameaçar com um revólver{/color}"
 
     # game/RAPE.rpy:1082
     old "{color=#3bff1b}|Проститутка| Расплатиться натурой{/color}"
-    new "{color=#3bff1b} | Prostituta | Pague em espécie {/color}"
+    new "{color=#3bff1b}|Prostituta| Pague em espécie{/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=power}{color=#ff2c2c}Вырваться (шанс: [shans_power]/100){/color}"
-    new "{#image=power} {color=#ff2c2c} Break out (chance: [shans_power]/100) {/color}"
+    new "{#image=power}{color=#ff2c2c}Saia (chance: [shans_power]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=power}{color=#ffb71b}Вырваться (шанс: [shans_power]/100){/color}"
-    new "{#image=power} {color=#ffb71b} Break out (chance: [shans_power]/100) {/color}"
+    new "{#image=power}{color=#ffb71b}Saia (chance: [shans_power]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=power}{color=#3bff1b}Вырваться (шанс: [shans_power]/100){/color}"
-    new "{#image=power} {color=#3bff1b} Break out (chance: [shans_power]/100) {/color}"
+    new "{#image=power}{color=#3bff1b}Saia (chance: [shans_power]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=agility}{color=#ff2c2c}Убежать (шанс: [shans_lovk]/100){/color}"
-    new "{#image=agility} {color=#ff2c2c} Fuja (chance: [shans_lovk]/100) {/color}"
+    new "{#image=agility}{color=#ff2c2c}Fuja (chance: [shans_lovk]/100) {/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=agility}{color=#ffb71b}Убежать (шанс: [shans_lovk]/100){/color}"
-    new "{#image=agility} {color=#ffb71b} Fuja (chance: [shans_lovk]/100) {/color}"
+    new "{#image=agility}{color=#ffb71b}Fuja (chance: [shans_lovk]/100) {/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=agility}{color=#3bff1b}Убежать (шанс: [shans_lovk]/100){/color}"
-    new "{#image=agility} {color=#3bff1b} Fuja (chance: [shans_lovk]/100) {/color}"
+    new "{#image=agility}{color=#3bff1b}Fuja (chance: [shans_lovk]/100) {/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=ritor}{color=#ff2c2c}Заболтать (шанс: [shans_ritor]/100){/color}"
-    new "{#image=ritor} {color=#ff2c2c} Bate-papo (chance: [shans_ritor]/100) {/color}"
+    new "{#image=ritor}{color=#ff2c2c}Bate-papo (chance: [shans_ritor]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=ritor}{color=#ffb71b}Заболтать (шанс: [shans_ritor]/100){/color}"
-    new "{#image=ritor} {color=#ffb71b} Bate-papo (chance: [shans_ritor]/100) {/color}"
+    new "{#image=ritor}{color=#ffb71b}Bate-papo (chance: [shans_ritor]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "{#image=ritor}{color=#3bff1b}Заболтать (шанс: [shans_ritor]/100){/color}"
-    new "{#image=ritor} {color=#3bff1b} Bate-papo (chance: [shans_ritor]/100) {/color}"
+    new "{#image=ritor}{color=#3bff1b}Bate-papo (chance: [shans_ritor]/100){/color}"
 
     # game/RAPE.rpy:1082
     old "Отдать 200$"
-    new "Dê 200 $"
+    new "Dê $200"
 
     # game/RAPE.rpy:1082
     old "У меня столько нет"
