@@ -40,11 +40,11 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:637
     old "Version [config.version!t]\n"
-    new "Versão [config.version!t]  "
+    new "Versão [config.version!t]\n"
 
     # game/screens.rpy:643
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
-    new "Feito com {a=https://www.renpy.org/} Ren'Py {/a} [renpy.version_only].     [renpy.license! T]"
+    new "Feito com {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
 
     # game/screens.rpy:727
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -60,11 +60,11 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:747
     old "{#auto_page}A"
-    new "{#auto_page} A"
+    new "{#auto_page}A"
 
     # game/screens.rpy:749
     old "{#quick_page}Q"
-    new "{#quick_page} Q"
+    new "{#quick_page}Q"
 
     # game/screens.rpy:755
     old ">"
@@ -280,7 +280,7 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:1240
     old "Да"
-    new "sim"
+    new "Sim"
 
     # game/screens.rpy:1241
     old "Нет"
@@ -308,5 +308,5 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:834
     old "Portugues"
-    new "portugues"
+    new "Portugues"
 
