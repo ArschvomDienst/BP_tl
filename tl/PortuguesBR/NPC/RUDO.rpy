@@ -1810,19 +1810,19 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:302
     old "{#image=male_h}{color=#8c8c8d}Взять член в руку{/color}"
-    new "{#image=male_h} {color=#8c8c8d} Leve um membro na mão {/color}"
+    new "{#image=male_h}{color=#8c8c8d}Pegue um pau na mão{/color}"
 
     # game/NPC/RUDO.rpy:302
     old "{#image=cour_h}{color=#8c8c8d}Взять член в руку{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Leve um membro na mão {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Pegue um pau na mão{/color}"
 
     # game/NPC/RUDO.rpy:302
     old "{#image=cour}Взять член в руку"
-    new "{#image=cour} Segure um membro"
+    new "{#image=cour}Pegue um pau na mão"
 
     # game/NPC/RUDO.rpy:314
     old "Требуется смелость(13)"
-    new "Coragem necessária (13)"
+    new "Coragem necessária(13)"
 
     # game/NPC/RUDO.rpy:324
     old "Взять в рот"
@@ -1846,39 +1846,39 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:581
     old "{#image=male_h}{color=#8c8c8d}Предложить секс{/color}"
-    new "{#image=male_h} {color=#8c8c8d} Oferecer sexo {/color}"
+    new "{#image=male_h}{color=#8c8c8d}Oferecer sexo{/color}"
 
     # game/NPC/RUDO.rpy:581
     old "{#image=cour_h}{color=#8c8c8d}Предложить секс{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Sugerir sexo {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Oferecer sexo{/color}"
 
     # game/NPC/RUDO.rpy:581
     old "{#image=cour}Предложить секс"
-    new "{#image=cour} Ofereça sexo"
+    new "{#image=cour}Oferecer sexo"
 
     # game/NPC/RUDO.rpy:606
     old "Требуется смелость(20)"
-    new "Coragem necessária (20)"
+    new "Coragem necessária(20)"
 
     # game/NPC/RUDO.rpy:655
     old "{#image=cour_h}{color=#8c8c8d}Давай{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Vamos {/color}"
+    new "{#image=cour_h} {color=#8c8c8d}Vamos{/color}"
 
     # game/NPC/RUDO.rpy:655
     old "{#image=cour}Давай"
-    new "{#image=cour} Vamos"
+    new "{#image=cour}Vamos"
 
     # game/NPC/RUDO.rpy:657
     old "Требуется смелость(27)"
-    new "Coragem necessária (27)"
+    new "Coragem necessária(27)"
 
     # game/NPC/RUDO.rpy:1007
     old "{#image=male_h}{color=#8c8c8d}Я попробую{/color}"
-    new "{#image=male_h} {color=#8c8c8d} Vou tentar {/color}"
+    new "{#image=male_h}{color=#8c8c8d}Vou tentar{/color}"
 
     # game/NPC/RUDO.rpy:1007
     old "{#image=male}Я попробую"
-    new "{#image=male} Vou tentar"
+    new "{#image=male}Vou tentar"
 
     # game/NPC/RUDO.rpy:1007
     old "Мне нравятся девушки"
