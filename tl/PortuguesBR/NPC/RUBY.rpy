@@ -2160,19 +2160,19 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:65
     old "{color=#8c8c8d}Давай где-нибудь уединимся{/color}"
-    new "{color=#8c8c8d} Vamos nos aposentar para algum lugar {/color}"
+    new "{color=#8c8c8d}Vamos sair em algum lugar{/color}"
 
     # game/NPC/RUBY.rpy:65
     old "Давай где-нибудь уединимся"
-    new "Vamos nos aposentar em algum lugar"
+    new "Vamos sair em algum lugar"
 
     # game/NPC/RUBY.rpy:65
     old "{color=#8c8c8d}Пригласи меня домой{/color}"
-    new "{color=#8c8c8d} Convide-me para casa {/color}"
+    new "{color=#8c8c8d}Convide-me para casa{/color}"
 
     # game/NPC/RUBY.rpy:65
     old "Пригласи меня домой"
-    new "Me convide para casa"
+    new "Convide-me para casa"
 
     # game/NPC/RUBY.rpy:104
     old "Мне пора домой"
@@ -2196,11 +2196,11 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:656
     old "{color=#8c8c8d}Как насчет тренировки?{/color}"
-    new "{color=#8c8c8d} Que tal treinar? {/color}"
+    new "{color=#8c8c8d}Que tal treinar?{/color}"
 
     # game/NPC/RUBY.rpy:656
     old "Как насчет тренировки?"
-    new "Que tal um treino?"
+    new "Que tal treinar?"
 
     # game/NPC/RUBY.rpy:656
     old "У меня все готово"

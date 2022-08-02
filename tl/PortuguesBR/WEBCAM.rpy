@@ -542,7 +542,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{color=#8c8c8d}Легкий (обнаженная грудь){/color}"
-    new "{color=#8c8c8d} Claro (peito nu) {/color}"
+    new "{color=#8c8c8d}Claro (peito nu){/color}"
 
     # game/WEBCAM.rpy:215
     old "Легкий (обнаженная грудь)"
@@ -550,7 +550,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{color=#8c8c8d}Средний (показать киску){/color}"
-    new "{color=#8c8c8d} Médio (mostrar buceta) {/color}"
+    new "{color=#8c8c8d}Médio (mostrar buceta){/color}"
 
     # game/WEBCAM.rpy:215
     old "Средний (показать киску)"
@@ -558,15 +558,15 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{color=#8c8c8d}Горячий (легкие ласки){/color}"
-    new "{color=#8c8c8d} Quente (carícias leves) {/color}"
+    new "{color=#8c8c8d}Quente (carícias leves){/color}"
 
     # game/WEBCAM.rpy:215
     old "{color=#8c8c8d}Очень горячий (откровенные ласки){/color}"
-    new "{color=#8c8c8d} Muito quente (carícias explícitas) {/color}"
+    new "{color=#8c8c8d}Muito quente (carícias explícitas){/color}"
 
     # game/WEBCAM.rpy:215
     old "{#image=cour_h}{color=#8c8c8d} Дилдо уровень ... ->{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Nível do Dildo ... -> {/color}"
+    new "{#image=cour_h}{color=#8c8c8d} Nível do Dildo ... ->{/color}"
 
     # game/WEBCAM.rpy:215
     old "{#image=cour} Дилдо уровень ... ->"
@@ -574,7 +574,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{#image=cour_h}{color=#8c8c8d} Секс уровень ... ->{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Nível sexual ... -> {/color}"
+    new "{#image=cour_h}{color=#8c8c8d} Nível sexual ... ->{/color}"
 
     # game/WEBCAM.rpy:215
     old "{#image=cour} Секс уровень ... ->"
@@ -618,7 +618,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:487
     old "ВЫ прекрасны!!!"
-    new "Você é lindo!!!"
+    new "Você é linda!!!"
 
     # game/WEBCAM.rpy:491
     old "200"
@@ -650,7 +650,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:507
     old "Писечку не видно"
-    new "Pisechka não é visível"
+    new "Pisechka não está visível."
 
     # game/WEBCAM.rpy:511
     old "340"
@@ -658,11 +658,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:512
     old "Ножки ОГОНЬ!!!"
-    new "Legs FIRE !!!"
+    new "Pernas QUENTES!!!"
 
     # game/WEBCAM.rpy:514
     old "Дрочу на твои ножки"
-    new "Masturbando em seus pés"
+    new "eu me masturbo com suas pernas"
 
     # game/WEBCAM.rpy:516
     old "Она ничего не показывает. Нахуй!"
@@ -674,7 +674,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:522
     old "1000"
-    new "1000"
+    new "1.000"
 
     # game/WEBCAM.rpy:523
     old "Мечтаю посмотреть на твои сисечки!!!"
@@ -694,11 +694,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:542
     old "Люблю тебя!"
-    new "Vos amo!"
+    new "Amo você!"
 
     # game/WEBCAM.rpy:544
     old "Пока, красотка!"
-    new "XAU lindo!"
+    new "XAU linda!"
 
     # game/WEBCAM.rpy:803
     old "Я соскучился!"
@@ -706,7 +706,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:805
     old "Красотка"
-    new "Maravilhoso"
+    new "Maravilhosa"
 
     # game/WEBCAM.rpy:810
     old "Ура! Ты вернулась! Мы очень скучали!"
@@ -742,7 +742,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:832
     old "Обожаю тебя!"
-    new "Adoro-te!"
+    new "Adoro você!"
 
     # game/WEBCAM.rpy:835
     old "И не только настроение"
@@ -750,7 +750,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:840
     old "Сними верх, милая"
-    new "Tire o melhor querido"
+    new "Tire o melhor querida"
 
     # game/WEBCAM.rpy:842
     old "Шикарные дойки!"
@@ -766,7 +766,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:851
     old "Трахнул бы тебя между сисек!"
-    new "Foda-se entre os peitos!"
+    new "Fode entre os peitos!"
 
     # game/WEBCAM.rpy:855
     old "350"
@@ -830,11 +830,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:910
     old "1500"
-    new "1500"
+    new "1.500"
 
     # game/WEBCAM.rpy:911
     old "Люблю тебя!!!"
-    new "Vos amo!!!"
+    new "Amo você!!!"
 
     # game/WEBCAM.rpy:916
     old "Прощай, Богиня!"
@@ -854,7 +854,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:932
     old "Сиськи зачет!"
-    new "Boobs disparam!"
+    new "peitos disparam!"
 
     # game/WEBCAM.rpy:937
     old "Покажи сисечки!"
@@ -874,7 +874,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:952
     old "Потряси ими"
-    new "Sacudi-los"
+    new "Sacode eles"
 
     # game/WEBCAM.rpy:956
     old "75"
@@ -898,7 +898,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:978
     old "Трахну тебя между сисек!"
-    new "Foda-se entre os peitos!"
+    new "Fode entre os peitos!"
 
     # game/WEBCAM.rpy:980
     old "Щас кончу!"
@@ -1010,7 +1010,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1097
     old "1200"
-    new "1200"
+    new "1.200"
 
     # game/WEBCAM.rpy:1098
     old "Приз: Дилдо в киску"
@@ -1038,11 +1038,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1127
     old "4500"
-    new "4500"
+    new "4.500"
 
     # game/WEBCAM.rpy:1481
     old "Привет, милая!"
-    new "Olá querido!"
+    new "Olá querida!"
 
     # game/WEBCAM.rpy:1483
     old "Оооо... Вот это встреча!"
@@ -1058,11 +1058,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1493
     old "Сиськи!"
-    new "Boobs!"
+    new "Peitos!"
 
     # game/WEBCAM.rpy:1498
     old "Киску!"
-    new "Bichano!"
+    new "Buceta!"
 
     # game/WEBCAM.rpy:1503
     old "Покажи сиськи"
@@ -1118,7 +1118,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1545
     old "2000"
-    new "2000"
+    new "2.000"
 
     # game/WEBCAM.rpy:1546
     old "Я б женился"
@@ -1130,7 +1130,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1559
     old "3000"
-    new "3000"
+    new "3.000"
 
     # game/WEBCAM.rpy:1564
     old "На переубеждение"
@@ -1150,7 +1150,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1577
     old "1750"
-    new "1750"
+    new "1.750"
 
     # game/WEBCAM.rpy:1578
     old "Вот бы засадить!!!"
@@ -1186,7 +1186,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1602
     old "5000"
-    new "5000"
+    new "5.000"
 
     # game/WEBCAM.rpy:1610
     old "360"
@@ -1214,11 +1214,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1634
     old "1300"
-    new "1300"
+    new "1.300"
 
     # game/WEBCAM.rpy:1635
     old "*О*"
-    new "* O *"
+    new "*O*"
 
     # game/WEBCAM.rpy:1639
     old "700"
@@ -1226,7 +1226,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1640
     old "Ты просто огонь!"
-    new "Você é apenas fogo!"
+    new "você é só fogo!"
 
     # game/WEBCAM.rpy:1644
     old "895"
@@ -1442,11 +1442,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2079
     old "1100"
-    new "1100"
+    new "1.100"
 
     # game/WEBCAM.rpy:2081
     old "Какая милая киска"
-    new "Que bicha fofa"
+    new "Que buceta fofa"
 
     # game/WEBCAM.rpy:2083
     old "Так бы и вылизал"
@@ -1686,11 +1686,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2575
     old "1700"
-    new "1700"
+    new "1.700"
 
     # game/WEBCAM.rpy:2597
     old "1400"
-    new "1400"
+    new "1.400"
 
     # game/WEBCAM.rpy:2615
     old "В попку давай!"
@@ -1698,7 +1698,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2619
     old "4000"
-    new "4000"
+    new "4.000"
 
     # game/WEBCAM.rpy:2620
     old "Да! мы за анал!"
@@ -1714,7 +1714,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2646
     old "2200"
-    new "2200"
+    new "2.200"
 
     # game/WEBCAM.rpy:2651
     old "О господи!"
@@ -1734,11 +1734,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2681
     old "Мы только ЗА!"
-    new "Somos apenas PARA!"
+    new "POR apenas!"
 
     # game/WEBCAM.rpy:2685
     old "2600"
-    new "2600"
+    new "2.600"
 
     # game/WEBCAM.rpy:2690
     old "Давай кончим вместе!"
@@ -1746,11 +1746,11 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2698
     old "2500"
-    new "2500"
+    new "2.500"
 
     # game/WEBCAM.rpy:2726
     old "8000"
-    new "8000"
+    new "8.000"
 
     # game/WEBCAM.rpy:2730
     old "850"
@@ -1758,7 +1758,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2734
     old "6500"
-    new "6500"
+    new "6.500"
 
     # game/WEBCAM.rpy:2739
     old "Если она не ангел, то кто?"

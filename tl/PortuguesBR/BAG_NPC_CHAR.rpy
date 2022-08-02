@@ -82,23 +82,23 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:240
     old "{#image=plug1_h}{color=#8c8c8d}Маленькая пробка{/color}"
-    new "{#image=plug1_h} {color=#8c8c8d} Pequeno plug {/color}"
+    new "{#image=plug1_h}{color=#8c8c8d}Pequeno plug{/color}"
 
     # game/BAG_NPC_CHAR.rpy:240
     old "{#image=plug1_0}Маленькая пробка"
-    new "{#image=plug1_0} Pequeno plug"
+    new "{#image=plug1_0}Pequeno plug"
 
     # game/BAG_NPC_CHAR.rpy:240
     old "{#image=plug2_h}{color=#8c8c8d}Большая пробка{/color}"
-    new "{#image=plug2_h} {color=#8c8c8d} Grande plug {/color}"
+    new "{#image=plug2_h}{color=#8c8c8d}Grande plug{/color}"
 
     # game/BAG_NPC_CHAR.rpy:240
     old "{#image=plug2_0}Большая пробка"
-    new "{#image=plug2_0} Grande plug"
+    new "{#image=plug2_0}Grande plug"
 
     # game/BAG_NPC_CHAR.rpy:240
     old "Достать пробку"
-    new "Tira a rolha"
+    new "Tira o plug"
 
     # game/BAG_NPC_CHAR.rpy:243
     old "Нужно больше анальных тренировок (5)"
@@ -142,7 +142,7 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:809
     old "Вытереть сперму на попе"
-    new "Limpe o esperma no papa"
+    new "Limpe o esperma da bunda"
 
     # game/BAG_NPC_CHAR.rpy:811
     old "Вытереть лицо"
@@ -174,9 +174,9 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:1209
     old "Заправиться ([fuel_plus]$)"
-    new "Reabastecer ([fuel_plus] $)"
+    new "Reabastecer ([fuel_plus]$)"
 
     # game/BAG_NPC_CHAR.rpy:1228
     old "Вызвать эвакуатор (300$)"
-    new "Chame um caminhão de reboque ($ 300)"
+    new "Chame um caminhão de reboque ($300)"
 

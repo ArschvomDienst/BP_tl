@@ -4,5 +4,5 @@ translate PortuguesBR strings:
 
     # game/options.rpy:15
     old "Bright Past"
-    new "Passado brilhante"
+    new "Passado Brilhante"
 

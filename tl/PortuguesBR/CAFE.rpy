@@ -2824,11 +2824,11 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:470
     old "{#image=cour_h}{color=#8c8c8d}Закрыться изнутри{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Fechar de dentro {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Fechar por dentro{/color}"
 
     # game/CAFE.rpy:470
     old "{#image=cour}Закрыться изнутри"
-    new "{#image=cour} Fechar por dentro"
+    new "{#image=cour}Fechar por dentro"
 
     # game/CAFE.rpy:472
     old "Требуется смелость (7)"
@@ -2836,11 +2836,11 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:478
     old "{#image=vozb_h}{color=#8c8c8d}Постучать{/color}"
-    new "{#image=vozb_h} {color=#8c8c8d} Bata {/color}"
+    new "{#image=vozb_h}{color=#8c8c8d}Bata{/color}"
 
     # game/CAFE.rpy:478
     old "{#image=vozb}Постучать"
-    new "{#image=vozb} Bata"
+    new "{#image=vozb}Bata"
 
     # game/CAFE.rpy:481
     old "Требуется возбуждение (8)"
@@ -2848,23 +2848,23 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:498
     old "Дрочить рукой"
-    new "Punheta de mão"
+    new "Masturbação"
 
     # game/CAFE.rpy:498
     old "{#image=cour_h}{color=#8c8c8d}Взять в рот{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Leve em sua boca {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Leve ate a sua boca{/color}"
 
     # game/CAFE.rpy:498
     old "{#image=cour}Взять в рот"
-    new "{#image=cour} Pega na boca"
+    new "{#image=cour}Leve ate a sua boca"
 
     # game/CAFE.rpy:498
     old "{#image=cour_h}{color=#8c8c8d}Заняться сексом{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Faça sexo {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Faça sexo{/color}"
 
     # game/CAFE.rpy:498
     old "{#image=cour}Заняться сексом"
-    new "{#image=cour} Faça sexo"
+    new "{#image=cour}Faça sexo"
 
     # game/CAFE.rpy:500
     old "Требуется смелость (15)"
@@ -2924,23 +2924,23 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:971
     old "Клубничное"
-    new "morango"
+    new "Morango"
 
     # game/CAFE.rpy:973
     old "карамельным"
-    new "caramelo"
+    new "Caramelo"
 
     # game/CAFE.rpy:975
     old "шоколадным"
-    new "chocolate"
+    new "Chocolate"
 
     # game/CAFE.rpy:977
     old "ананасовым"
-    new "abacaxi"
+    new "Abacaxi"
 
     # game/CAFE.rpy:979
     old "клубничным"
-    new "morango"
+    new "Morango"
 
     # game/CAFE.rpy:984
     old "Ваниль"
@@ -2948,7 +2948,7 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:984
     old "Клубника"
-    new "morango"
+    new "Morango"
 
     # game/CAFE.rpy:994
     old "Карамельный топпинг"

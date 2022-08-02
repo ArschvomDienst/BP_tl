@@ -1378,19 +1378,19 @@ translate PortuguesBR strings:
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Джейн{/color}"
-    new "{color=#8c8c8d} Jane {/color}"
+    new "{color=#8c8c8d}Jane{/color}"
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Таня{/color}"
-    new "{color=#8c8c8d} Tanya {/color}"
+    new "{color=#8c8c8d}Tanya{/color}"
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Руби{/color}"
-    new "{color=#8c8c8d} Rubi {/color}"
+    new "{color=#8c8c8d}Ruby{/color}"
 
     # game/ROCK.rpy:125
     old "{color=#8c8c8d}Эш{/color}"
-    new "{color=#8c8c8d} Cinza {/color}"
+    new "{color=#8c8c8d}Ash{/color}"
 
     # game/ROCK.rpy:125
     old "На этом все"

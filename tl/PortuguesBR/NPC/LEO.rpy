@@ -986,7 +986,7 @@ translate PortuguesBR strings:
 
     # game/NPC/LEO.rpy:26
     old "В другой раз{image=0}{image=male_minus}"
-    new "Outra vez {image=0} {image=male_minus}"
+    new "Outra vez {image=0}{image=male_minus}"
 
     # game/NPC/LEO.rpy:45
     old "Заедешь за мной завтра?"
@@ -1034,31 +1034,31 @@ translate PortuguesBR strings:
 
     # game/NPC/LEO.rpy:108
     old "{#image=sharm_h}{color=#8c8c8d}Не торгуйся с девушкой{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Não barganhe com a garota {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Não barganhe com a garota{/color}"
 
     # game/NPC/LEO.rpy:108
     old "{#image=sharm}Не торгуйся с девушкой"
-    new "{#image=sharm} Não barganhe com uma garota"
+    new "{#image=sharm}Não barganhe com uma garota"
 
     # game/NPC/LEO.rpy:108
     old "{#image=ritor_h}{color=#8c8c8d}10 - это последняя цена{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} 10 é o último preço {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}10 é o último preço{/color}"
 
     # game/NPC/LEO.rpy:108
     old "{#image=ritor}10 - это последняя цена"
-    new "{#image=ritor} 10 é o último preço"
+    new "{#image=ritor}10 é o último preço"
 
     # game/NPC/LEO.rpy:108
     old "{#image=ritor_h}{color=#8c8c8d}Предложи чуть больше{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Sugira um pouco mais {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Sugira um pouco mais{/color}"
 
     # game/NPC/LEO.rpy:108
     old "{#image=ritor}Предложи чуть больше"
-    new "{#image=ritor} Sugira um pouco mais"
+    new "{#image=ritor}Sugira um pouco mais"
 
     # game/NPC/LEO.rpy:108
     old "По рукам!"
-    new "Negócio!"
+    new "Combinado!"
 
     # game/NPC/LEO.rpy:108
     old "Мне надо подумать"
@@ -1066,19 +1066,19 @@ translate PortuguesBR strings:
 
     # game/NPC/LEO.rpy:197
     old "{#image=sharm_h}{color=#8c8c8d}Представь, что мы занимаемся вместе{/color}"
-    new "{#image=sharm_h} {color=#8c8c8d} Imagine que fazemos isso juntos {/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}Imagine que fazemos isso juntos{/color}"
 
     # game/NPC/LEO.rpy:197
     old "{#image=sharm}Представь, что мы занимаемся вместе"
-    new "{#image=sharm} Imagine que estamos fazendo juntos"
+    new "{#image=sharm}Imagine que estamos fazendo juntos"
 
     # game/NPC/LEO.rpy:258
     old "Мне надо домой{image=0}{image=male_minus}"
-    new "Preciso ir para casa {image=0} {image=male_minus}"
+    new "Preciso ir para casa{image=0}{image=male_minus}"
 
     # game/NPC/LEO.rpy:258
     old "{i}Ничего не делать{/i}"
-    new "{i} Não faça nada {/i}"
+    new "{i}Não faça nada{/i}"
 
     # game/NPC/LEO.rpy:289
     old "Дрочить{image=0}{image=male_plus}"

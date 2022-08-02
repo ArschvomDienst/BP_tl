@@ -3436,31 +3436,31 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:380
     old "Барбара выглядит шикарно{image=0}{image=fem_plus}"
-    new "Bárbara está linda {image=0} {image=fem_plus}"
+    new "Bárbara está linda{image=0}{image=fem_plus}"
 
     # game/NPC/VARVARA.rpy:380
     old "Это все слишком пошло{image=0}{image=fem_minus}"
-    new "Isso é muito atrevido {image=0} {image=fem_minus}"
+    new "Isso é muito atrevido{image=0}{image=fem_minus}"
 
     # game/NPC/VARVARA.rpy:404
     old "{#image=cour_h}{color=#8c8c8d}Войти{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Login {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Login{/color}"
 
     # game/NPC/VARVARA.rpy:404
     old "{#image=cour}Войти"
-    new "Login de {#image=cour}"
+    new "Login{#image=cour}"
 
     # game/NPC/VARVARA.rpy:406
     old "Требуется смелость(5)"
-    new "Coragem necessária (5)"
+    new "Coragem necessária(5)"
 
     # game/NPC/VARVARA.rpy:432
     old "Требуется смелость(10)"
-    new "Coragem necessária (10)"
+    new "Coragem necessária(10)"
 
     # game/NPC/VARVARA.rpy:445
     old "Требуется смелость(19)"
-    new "Coragem necessária (19)"
+    new "Coragem necessária(19)"
 
     # game/NPC/VARVARA.rpy:691
     old "Я должна умыться"
@@ -3504,39 +3504,39 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:749
     old "{#image=cour_h}{color=#8c8c8d}Сделать Барбаре сюрприз{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Bárbara surpresa {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Surpreenda Bárbara{/color}"
 
     # game/NPC/VARVARA.rpy:749
     old "{color=#8c8c8d}Сделать Барбаре сюрприз{/color}"
-    new "{color=#8c8c8d} Bárbara surpresa {/color}"
+    new "{color=#8c8c8d}Surpreenda Bárbara{/color}"
 
     # game/NPC/VARVARA.rpy:749
     old "Сделать Барбаре сюрприз"
-    new "Bárbara surpresa"
+    new "Surpreenda Bárbara"
 
     # game/NPC/VARVARA.rpy:749
     old "{color=#8c8c8d}Трахнуть Барбару{/color}"
-    new "{color=#8c8c8d} Foda-se Bárbara {/color}"
+    new "{color=#8c8c8d}Fode Bárbara{/color}"
 
     # game/NPC/VARVARA.rpy:749
     old "Трахнуть Барбару"
-    new "Foda-se barbara"
+    new "Fode Bárbara"
 
     # game/NPC/VARVARA.rpy:826
     old "Мне не нравятся девушки{image=0}{image=fem_minus}"
-    new "Eu não gosto de garotas {image=0} {image=fem_minus}"
+    new "Eu não gosto de garotas{image=0}{image=fem_minus}"
 
     # game/NPC/VARVARA.rpy:826
     old "Мне понравилось{image=0}{image=fem_plus}"
-    new "Gostei de {image=0} {image=fem_plus}"
+    new "Eu gosto disso{image=0}{image=fem_plus}"
 
     # game/NPC/VARVARA.rpy:1052
     old "{#image=fem_h}{color=#8c8c8d}Расслабиться{/color}"
-    new "{#image=fem_h} {color=#8c8c8d} Relaxe {/color}"
+    new "{#image=fem_h}{color=#8c8c8d}Relaxe{/color}"
 
     # game/NPC/VARVARA.rpy:1052
     old "{#image=fem}Расслабиться"
-    new "{#image=fem} Relaxe"
+    new "{#image=fem}Relaxe"
 
     # game/NPC/VARVARA.rpy:1056
     old "Мне не нравятся девушки"
@@ -3544,7 +3544,7 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:1240
     old "Требуется смелость(25)"
-    new "Coragem necessária (25)"
+    new "Coragem necessária(25)"
 
     # game/NPC/VARVARA.rpy:1244
     old "Я не в настроении"
@@ -3936,11 +3936,11 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:762
     old "{#image=cour_h}{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}{b}Surpresa Barbara{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Surpreenda Bárbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
-    new "{color=#8c8c8d}{b}Surpresa Bárbara{/b}{/color}"
+    new "{color=#8c8c8d}{b}Surpreenda Bárbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Сделать Барбаре сюрприз{/b}"
@@ -3948,11 +3948,11 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:762
     old "{color=#8c8c8d}{b}Трахнуть Барбару{/b}{/color}"
-    new "{color=#8c8c8d}{b}Foda-se Barbara{/b}{/color}"
+    new "{color=#8c8c8d}{b}Fode Barbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Трахнуть Барбару{/b}"
-    new "{b}Foda-se Bárbara{/b}"
+    new "{b}Fode Bárbara{/b}"
 
     # game/NPC/VARVARA.rpy:792
     old "Продолжать вебкам-трансляции"
@@ -3960,7 +3960,7 @@ translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:950
     old "Зайти к Барбаре c 23:00 до 1:00 ({image=smel_.png} 5([allsmel]))"
-    new "Visite Barbara das 23h às 13h ({image=smel_.png} 5([allsmel]))"
+    new "Visite Barbara das 23:00 às 1:00 ({image=smel_.png} 5([allsmel]))"
 
     # game/NPC/VARVARA.rpy:1049
     old "Снова помочь Барбаре (Сб 9:00) ({image=sharm0_.png} 51([allsharm]))"

@@ -124,155 +124,155 @@ translate PortuguesBR strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday} segunda-feira"
+    new "{#weekday}Segunda-feira"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday} terça-feira"
+    new "{#weekday}Terça-feira"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday} quarta-feira"
+    new "{#weekday}Quarta-feira"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday} quinta-feira"
+    new "{#weekday}Quinta-feira"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday} sexta-feira"
+    new "{#weekday}Sexta-feira"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday} sábado"
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday} domingo"
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short} Seg"
+    new "{#weekday_short}Seg"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short} Ter"
+    new "{#weekday_short}Ter"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short} Quarta"
+    new "{#weekday_short}Qua"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short} Qui"
+    new "{#weekday_short}Qui"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short} Sex"
+    new "{#weekday_short}Sex"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short} sáb"
+    new "{#weekday_short}sáb"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short} Dom"
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month} janeiro"
+    new "{#month}Janeiro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month} fevereiro"
+    new "{#month}Fevereiro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month} março"
+    new "{#month}Março"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month} abril"
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month} maio"
+    new "{#month}Maio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month} junho"
+    new "{#month}Junho"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month} julho"
+    new "{#month}Julho"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month} agosto"
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month} setembro"
+    new "{#month}Setembro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month} outubro"
+    new "{#month}Outubro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month} novembro"
+    new "{#month}Novembro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month} dezembro"
+    new "{#month}Dezembro"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "{#month_short} janeiro"
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "{#month_short} fevereiro"
+    new "{#month_short}Fev"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "{#month_short} março"
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "{#month_short} abril"
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "{#month_short} maio"
+    new "{#month_short}Maio"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "{#month_short} junho"
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "{#month_short} julho"
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "{#month_short} agosto"
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "{#month_short} set"
+    new "{#month_short}Set"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "{#month_short} outubro"
+    new "{#month_short}Out"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "{#month_short} novembro"
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "{#month_short} dez"
+    new "{#month_short}Dez"
 
     # renpy/common/00action_file.rpy:250
     old "%b %d, %H:%M"
@@ -444,7 +444,7 @@ translate PortuguesBR strings:
 
     # renpy/common/00gui.rpy:387
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "O carregamento perderá o progresso não salvo.  Atem certeza de que deseja fazer isso?"
+    new "O carregamento perderá o progresso não salvo.\nTem certeza de que deseja fazer isso?"
 
     # renpy/common/00gui.rpy:388
     old "Are you sure you want to quit?"
@@ -452,7 +452,7 @@ translate PortuguesBR strings:
 
     # renpy/common/00gui.rpy:389
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Tem certeza de que deseja retornar ao menu principal?  Eis perderá o progresso não salvo."
+    new "Tem certeza de que deseja retornar ao menu principal?\nIsto irá perder o progresso não salvo."
 
     # renpy/common/00gui.rpy:390
     old "Are you sure you want to end the replay?"
@@ -664,11 +664,11 @@ translate PortuguesBR strings:
 
     # renpy/common/00preferences.rpy:599
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Abertura da área de transferência ativada. Pressione 'shift + C' para desativar."
+    new "Abertura da área de transferência ativada. Pressione 'shift+C' para desativar."
 
     # renpy/common/00preferences.rpy:601
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "A voz própria diria '[renpy.display.tts.last]'. Pressione 'alt + shift + V' para desabilitar."
+    new "A voz própria diria '[renpy.display.tts.last]'. Pressione 'alt+shift+V' para desabilitar."
 
     # renpy/common/00preferences.rpy:603
     old "Self-voicing enabled. Press 'v' to disable."
@@ -700,11 +700,11 @@ translate PortuguesBR strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Recarregar o jogo (Shift + R)"
+    new "Recarregar o jogo (Shift+R)"
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "Console (Shift + O)"
+    new "Console (Shift+O)"
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
@@ -732,11 +732,11 @@ translate PortuguesBR strings:
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new "[name][attributes] (oculto)"
+    new "[name] [attributes] (oculto)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
-    new "[name][attributes]"
+    new "[name] [attributes]"
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
@@ -756,11 +756,11 @@ translate PortuguesBR strings:
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new "Retângulo:% r"
+    new "Retângulo: %r"
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Posição do mouse:% r"
+    new "Posição do mouse: %r"
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
@@ -796,7 +796,7 @@ translate PortuguesBR strings:
 
     # renpy/common/_developer/developer.rpym:653
     old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "  {color=#cfc} ✔ imagem prevista (boa) {/color}   {color=#fcc} ✘ imagem não prevista (ruim) {/color}   {color=#fff} Arraste para mover. {/color}"
+    new "\n{color=#cfc}✔ imagem prevista (boa){/color}\n{color=#fcc}✘ imagem não prevista (ruim){/color}\n{color=#fff}Arraste para mover.{/color}"
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
@@ -824,19 +824,19 @@ translate PortuguesBR strings:
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
-    new " (nenhuma propriedade afeta a exibição)"
+    new "        (nenhuma propriedade afeta a exibição)"
 
     # renpy/common/_developer/inspector.rpym:147
     old "        (default properties omitted)"
-    new " (propriedades padrão omitidas)"
+    new "        (propriedades padrão omitidas)"
 
     # renpy/common/_developer/inspector.rpym:185
     old "<repr() failed>"
-    new "<repr () falhou>"
+    new "<repr() falhou>"
 
     # renpy/common/_layout/classic_load_save.rpym:170
     old "a"
-    new "uma"
+    new "a"
 
     # renpy/common/_layout/classic_load_save.rpym:179
     old "q"
@@ -1012,7 +1012,7 @@ translate PortuguesBR strings:
 
     # renpy/common/00gltest.rpy:185
     old "30"
-    new "trinta"
+    new "30"
 
     # renpy/common/00gltest.rpy:191
     old "Tearing"
@@ -1024,7 +1024,7 @@ translate PortuguesBR strings:
 
     # renpy/common/00gltest.rpy:214
     old "Quit"
-    new "Desistir"
+    new "Sair"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
@@ -1048,11 +1048,11 @@ translate PortuguesBR strings:
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "O arquivo {a=edit:1:log.txt} log.txt {/a} pode conter informações para ajudá-lo a determinar o que há de errado com seu computador."
+    new "O arquivo {a=edit:1:log.txt}log.txt{/a} pode conter informações para ajudá-lo a determinar o que há de errado com seu computador."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Mais detalhes sobre como corrigir isso podem ser encontrados na  {a=[url]} documentação {/a}."
+    new "Mais detalhes sobre como corrigir isso podem ser encontrados na {a=[url]}documentação{/a}."
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
@@ -1076,7 +1076,7 @@ translate PortuguesBR strings:
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrando [name] ([i] / [total])"
+    new "Calibrando [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
@@ -1140,7 +1140,7 @@ translate PortuguesBR strings:
 
     # renpy/common/_errorhandling.rpym:630
     old "Reload"
-    new "recarregar"
+    new "Recarregar"
 
     # renpy/common/_errorhandling.rpym:632
     old "Reloads the game from disk, saving and restoring game state if possible."

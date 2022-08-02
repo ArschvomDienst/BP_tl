@@ -9,3 +9,7 @@ translate PortuguesBR strings:
     # game
     old "Yummy for fuzzies"
     new "Gostoso para gatos"
+    
+    # game
+    old "Thanks:"
+    new "Obrigado:"

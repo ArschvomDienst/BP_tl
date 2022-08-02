@@ -1996,19 +1996,19 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=ritor_h}{color=#8c8c8d}Торговаться{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Comércio {/color}"
+    new "{#image=ritor_h} {color=#8c8c8d}Pechincha{/color}"
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=ritor}Торговаться"
-    new "{#image=ritor} Pechincha"
+    new "{#image=ritor}Pechincha"
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=cour_h}{color=#8c8c8d}Согласиться{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Concordo {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Concordo{/color}"
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=cour}Согласиться"
-    new "{#image=cour} Concordo"
+    new "{#image=cour}Concordo"
 
     # game/RANDOM_EVENTS.rpy:113
     old "Требуется смелость (16)"
@@ -2028,7 +2028,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:325
     old "{color=#8c8c8d}Залезть внутрь{/color}"
-    new "{color=#8c8c8d} Escale para dentro {/color}"
+    new "{color=#8c8c8d}Suba para dentro{/color}"
 
     # game/RANDOM_EVENTS.rpy:325
     old "Залезть внутрь"
@@ -2048,11 +2048,11 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:733
     old "Покормить"
-    new "Alimentar"
+    new "Alimentação"
 
     # game/RANDOM_EVENTS.rpy:733
     old "{color=#8c8c8d}Покормить{/color}"
-    new "{color=#8c8c8d} Feed {/color}"
+    new "{color=#8c8c8d}Alimentação{/color}"
 
     # game/RANDOM_EVENTS.rpy:744
     old "Я уже кормила ее сегодня"
@@ -2060,7 +2060,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:748
     old "Нужно купить корм"
-    new "Precisa comprar feed"
+    new "Precisa comprar comida"
 
     # game/RANDOM_EVENTS.rpy:769
     old "Получен новый рецепт"
@@ -2072,7 +2072,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:858
     old "Загорать в купальнике"
-    new "Tomando sol em um maiô"
+    new "Banho de sol em um maiô"
 
     # game/RANDOM_EVENTS.rpy:860
     old "Требуется смелость (25)"
@@ -2080,19 +2080,19 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1144
     old "Красивое тело{image=0}{image=fem_plus}"
-    new "Belo corpo {image=0} {image=fem_plus}"
+    new "Belo corpo{image=0}{image=fem_plus}"
 
     # game/RANDOM_EVENTS.rpy:1144
     old "Пойду своей дорогой{image=0}{image=fem_minus}"
-    new "Eu irei do meu jeito {image=0} {image=fem_minus}"
+    new "Eu irei do meu jeito{image=0}{image=fem_minus}"
 
     # game/RANDOM_EVENTS.rpy:1176
     old "Это заводит{image=0}{image=male_plus}"
-    new "Isso liga {image=0} {image=male_plus}"
+    new "Isso liga{image=0}{image=male_plus}"
 
     # game/RANDOM_EVENTS.rpy:1176
     old "Неприятное зрелище{image=0}{image=male_minus}"
-    new "Visão desagradável {image=0} {image=male_minus}"
+    new "Visão desagradável{image=0}{image=male_minus}"
 
     # game/RANDOM_EVENTS.rpy:1231
     old "{#image=agility} Схватить"
@@ -2100,15 +2100,15 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1231
     old "{#image=agility_h}{color=#8c8c8d} Схватить{/color}"
-    new "{#image=agility_h} {color=#8c8c8d} Captura {/color}"
+    new "{#image=agility_h}{color=#8c8c8d} Captura{/color}"
 
     # game/RANDOM_EVENTS.rpy:1262
     old "{#image=vozb_h}{color=#8c8c8d}Взять в рот{/color}"
-    new "{#image=vozb_h} {color=#8c8c8d} Leve em sua boca {/color}"
+    new "{#image=vozb_h}{color=#8c8c8d}Leve em sua boca{/color}"
 
     # game/RANDOM_EVENTS.rpy:1262
     old "{#image=vozb}Взять в рот"
-    new "{#image=vozb} Pega na boca"
+    new "{#image=vozb}Leve em sua boca"
 
     # game/RANDOM_EVENTS.rpy:1295
     old "Проглотить"
@@ -2120,19 +2120,19 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1473
     old "{#image=fem_h}{color=#8c8c8d}Я люблю девушек{/color}"
-    new "{#image=fem_h} {color=#8c8c8d} Eu amo garotas {/color}"
+    new "{#image=fem_h}{color=#8c8c8d}Eu amo garotas{/color}"
 
     # game/RANDOM_EVENTS.rpy:1473
     old "{#image=fem}Я люблю девушек"
-    new "{#image=fem} Eu amo garotas"
+    new "{#image=fem}Eu amo garotas"
 
     # game/RANDOM_EVENTS.rpy:1473
     old "{#image=male_h}{color=#8c8c8d}Я согласна{/color}"
-    new "{#image=male_h} {color=#8c8c8d} Concordo {/color}"
+    new "{#image=male_h}{color=#8c8c8d}Concordo{/color}"
 
     # game/RANDOM_EVENTS.rpy:1473
     old "{#image=male}Я согласна"
-    new "{#image=male} Eu concordo"
+    new "{#image=male}concordo"
 
     # game/RANDOM_EVENTS.rpy:1473
     old "Не в этот раз"

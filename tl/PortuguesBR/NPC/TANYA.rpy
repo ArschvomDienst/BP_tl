@@ -1448,7 +1448,7 @@ translate PortuguesBR strings:
 
     # game/NPC/TANYA.rpy:570
     old "{color=#8c8c8d}Посидеть с Таней{/color}"
-    new "{color=#8c8c8d} Sente-se com Tanya {/color}"
+    new "{color=#8c8c8d}Sente-se com Tanya{/color}"
 
     # game/NPC/TANYA.rpy:574
     old "Не буду больше отвлекать Таню сегодня"

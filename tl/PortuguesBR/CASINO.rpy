@@ -272,35 +272,35 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:81
     old "{#image=power_h}{color=#8c8c8d}Убери руки!{/color}"
-    new "{#image=power_h} {color=#8c8c8d} Tire suas mãos! {/color}"
+    new "{#image=power_h}{color=#8c8c8d}Tire suas mãos!{/color}"
 
     # game/CASINO.rpy:81
     old "{#image=power}Убери руки!"
-    new "{#image=power} Tire suas mãos!"
+    new "{#image=power}Tire suas mãos!"
 
     # game/CASINO.rpy:81
     old "{#image=ritor_h}{color=#8c8c8d}Дай больше денег{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Dê-me mais dinheiro {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Me dê mais dinheiro{/color}"
 
     # game/CASINO.rpy:81
     old "{#image=ritor}Дай больше денег"
-    new "{#image=ritor} Dê-me mais dinheiro"
+    new "{#image=ritor}Me dê mais dinheiro"
 
     # game/CASINO.rpy:81
     old "{#image=cour_h}{color=#8c8c8d}{i}*Согласиться*{/i}{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} {i} * Concordo * {/i} {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{i}*Concorda*{/i}{/color}"
 
     # game/CASINO.rpy:81
     old "{#image=cour}{i}*Согласиться*{/i}"
-    new "{#image=cour} {i} * Concordo * {/i}"
+    new "{#image=cour}{i}*Concorda*{/i}"
 
     # game/CASINO.rpy:81
     old "{i}*Позвать охрану*{/i}"
-    new "{i} * Chamar segurança * {/i}"
+    new "{i}*Chamar Segurança*{/i}"
 
     # game/CASINO.rpy:81
     old "{i}*Убежать*{/i}"
-    new "{i} * Fuja * {/i}"
+    new "{i}*Fuja*{/i}"
 
     # game/CASINO.rpy:85
     old "Требуется физическая сила (12)"
@@ -336,7 +336,7 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:83
     old "{#image=ritor}{b}Дай больше денег{/b}"
-    new "{#image=ritor}{b}Dê-me mais dinheiro{/b}"
+    new "{#image=ritor}{b}Me dê mais dinheiro{/b}"
 
     # game/CASINO.rpy:83
     old "{#image=cour}{i}{b}*Согласиться*{/b}{/i}"
@@ -344,5 +344,5 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:83
     old "{i}{b}*Позвать охрану*{/b}{/i}"
-    new "{i}{b}*Segurança da chamada*{/b}{/i}"
+    new "{i}{b}*Chamar Segurança*{/b}{/i}"
 

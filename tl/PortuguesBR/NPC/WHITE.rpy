@@ -1024,5 +1024,5 @@ translate PortuguesBR white_dia_4411a463:
 translate PortuguesBR white_dia_e5766297_1:
 
     # white "Мисс Нэш..."
-    white "Miss Nash ..."
+    white "Senhorita Nash ..."
 

@@ -2182,7 +2182,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MICHAEL.rpy:104
     old "{color=#8c8c8d}Начнем репетицию{/color}"
-    new "{color=#8c8c8d} Vamos começar o ensaio {/color}"
+    new "{color=#8c8c8d}Vamos começar o ensaio{/color}"
 
     # game/NPC/MICHAEL.rpy:104
     old "Я нашла Джилл"
@@ -2218,11 +2218,11 @@ translate PortuguesBR strings:
 
     # game/NPC/MICHAEL.rpy:319
     old "{#image=ritor_h}{color=#8c8c8d}Как насчет материальной помощи?{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d} Que tal ajuda financeira? {/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Que tal ajuda financeira?{/color}"
 
     # game/NPC/MICHAEL.rpy:319
     old "{#image=ritor}Как насчет материальной помощи?"
-    new "{#image=ritor} Que tal ajuda financeira?"
+    new "{#image=ritor}Que tal ajuda financeira?"
 
     # game/NPC/MICHAEL.rpy:319
     old "Я поищу что-нибудь"

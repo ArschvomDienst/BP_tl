@@ -464,7 +464,7 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:18
     old "{color=#8c8c8d}На этой неделе вы уже выполняли фантазию{/color}"
-    new "{color=#8c8c8d} Esta semana você já completou sua fantasia {/color}"
+    new "{color=#8c8c8d}Esta semana você já completou sua fantasia{/color}"
 
     # game/FANTASIES.rpy:18
     old "Информация о выбранной фантазии"
@@ -472,15 +472,15 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:18
     old "{color=#8c8c8d}Ожидается подтверждение регистрации{/color}"
-    new "{color=#8c8c8d} Confirmação de registro pendente {/color}"
+    new "{color=#8c8c8d}Confirmação de registro pendente{/color}"
 
     # game/FANTASIES.rpy:18
     old "{#image=cour_h}{color=#8c8c8d}Зарегистрироваться{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Registre-se {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Cadastre-se{/color}"
 
     # game/FANTASIES.rpy:18
     old "{#image=cour}Зарегистрироваться"
-    new "{#image=cour} Cadastre-se"
+    new "{#image=cour}Cadastre-se"
 
     # game/FANTASIES.rpy:494
     old "Эффектная поездка"
@@ -492,27 +492,27 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:494
     old "{#image=cour_h}{color=#8c8c8d}Под столом{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Debaixo da mesa {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Debaixo da mesa{/color}"
 
     # game/FANTASIES.rpy:494
     old "{#image=cour}Под столом"
-    new "{#image=cour} Debaixo da mesa"
+    new "{#image=cour}Debaixo da mesa"
 
     # game/FANTASIES.rpy:494
     old "{#image=cour_h}{color=#8c8c8d}Знания - сила{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Conhecimento é poder {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Conhecimento é poder{/color}"
 
     # game/FANTASIES.rpy:494
     old "{#image=cour}Знания - сила"
-    new "{#image=cour} Conhecimento é poder"
+    new "{#image=cour}Conhecimento é poder"
 
     # game/FANTASIES.rpy:494
     old "{#image=cour_h}{color=#8c8c8d}Регистрация 2.0{/color}"
-    new "{#image=cour_h} {color=#8c8c8d} Registro 2.0 {/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Registro 2.0{/color}"
 
     # game/FANTASIES.rpy:494
     old "{#image=cour}Регистрация 2.0"
-    new "{#image=cour} Registro 2.0"
+    new "{#image=cour}Registro 2.0"
 
     # game/FANTASIES.rpy:520
     old "Требуется смелость (23)"
@@ -540,11 +540,11 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:545
     old "Завтра в 15:00 на маршруте \"Заводской район - Центр\""
-    new "Amanhã às 15:00 na rota 'Zavodskoy District - Center'"
+    new "Amanhã às 15:00 na rota 'Zavodskoy District - Centro'"
 
     # game/FANTASIES.rpy:547
     old "Сегодня в 15:00 на маршруте \"Заводской район - Центр\""
-    new "Hoje às 15:00 na rota 'Zavodskoy District - Centre'"
+    new "Hoje às 15:00 na rota 'Zavodskoy District - Centro'"
 
     # game/FANTASIES.rpy:548
     old "Оплата:"
@@ -580,7 +580,7 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:568
     old "Сегодня в 18:00, кафе \"Гавана\" на Улице Роз."
-    new "Hoje às 18h, Café 'Havana' na Rose Street."
+    new "Hoje às 18:00, Café 'Havana' na Rose Street."
 
     # game/FANTASIES.rpy:577
     old "Знания - сила"
@@ -596,11 +596,11 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:587
     old "Завтра в 15:00, библиотека на Улице Роз."
-    new "Amanhã às 15h, na biblioteca da Rose Street."
+    new "Amanhã às 15:00, na biblioteca da Rose Street."
 
     # game/FANTASIES.rpy:589
     old "Сегодня в 15:00, библиотека на Улице Роз."
-    new "Hoje às 15h, a biblioteca da Rose Street."
+    new "Hoje às 15:00, a biblioteca da Rose Street."
 
     # game/FANTASIES.rpy:601
     old "Вы должны проехать в метро в приготовленном нами костюме. Костюм закрытый, без обнажения интимных зон. Получить его можно в бутике Jade Mall (спросить у продавца). После выполнения оставьте костюм на скамейке, где вы проходили регистрацию."
@@ -612,7 +612,7 @@ translate PortuguesBR strings:
 
     # game/FANTASIES.rpy:608
     old "Завтра в 14:00, метро, маршрут \"Центр - Заводской район\""
-    new "Amanhã às 14h, metrô, rota 'Centro - distrito de Zavodskoy'"
+    new "Amanhã às 14:00, metrô, rota 'Centro - distrito de Zavodskoy'"
 
     # game/FANTASIES.rpy:610
     old "Сегодня в 14:00, метро, маршрут \"Центр - Заводской район\""

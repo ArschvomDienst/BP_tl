@@ -332,7 +332,7 @@ translate PortuguesBR strings:
 
     # game/stats.rpy:1734
     old "{color=#8c8c8d}Накраситься и отправиться в колледж{/color}"
-    new "{color=#8c8c8d} Coloque a maquiagem e vá para a faculdade {/color}"
+    new "{color=#8c8c8d}Coloque a maquiagem e vá para a faculdade{/color}"
 
     # game/stats.rpy:1734
     old "Накраситься и отправиться в колледж"
@@ -392,7 +392,7 @@ translate PortuguesBR strings:
 
     # game/stats.rpy:14
     old "Зайти к Снейку"
-    new "Ir ver o Snake"
+    new "Va ver o Snake"
 
     # game/stats.rpy:74
     old "Вернуться к Кевину"
