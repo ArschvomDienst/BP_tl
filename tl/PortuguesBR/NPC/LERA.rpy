@@ -4530,11 +4530,11 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:443
     old "{color=#8c8c8d}{b}Может вместе позанимаемся?{/b}{/color}"
-    new "{color=#8c8c8d}{b}Talvez possamos malhar juntos?{/b}{/color}"
+    new "{color=#8c8c8d}{b}Talvez possamos malhar juntas?{/b}{/color}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Может вместе позанимаемся?{/b}"
-    new "{b}Talvez possamos malhar juntos?{/b}"
+    new "{b}Talvez possamos malhar juntas?{/b}"
 
     # game/NPC/LERA.rpy:1112
     old "Нужно купить коврик"
@@ -4542,7 +4542,7 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:1118
     old "{color=#8c8c8d}{b}Заниматься без одежды{/b}{/color}"
-    new "{color=#8c8c8d}{b}Estudar sem roupa{/b}{/color}"
+    new "{color=#8c8c8d}{b}Exercício sem roupa{/b}{/color}"
 
     # game/NPC/LERA.rpy:1118
     old "{b}Заниматься без одежды{/b}"
@@ -4550,7 +4550,7 @@ translate PortuguesBR strings:
 
     # game/NPC/LERA.rpy:1118
     old "{b}Заниматься в одежде{/b}"
-    new "{b}Praticar com roupas{/b}"
+    new "{b}Exercício com roupas{/b}"
 
     # game/NPC/LERA.rpy:1120
     old "Это глупо"
@@ -4562,41 +4562,41 @@ translate PortuguesBR strings:
 translate PortuguesBR dia_lera_6c8dc476:
 
     # lera "Эй, ты, кажется, лифчик где-то потеряла!"
-    lera ""
+    lera "Ei, parece que você perdeu seu sutiã em algum lugar!"
 
 # game/NPC/LERA.rpy:203
 translate PortuguesBR dia_lera_8c533163:
 
     # gg smile "Нет, просто за весь день он так натирает везде, что хотя бы дома хочется свободы."
-    gg smile ""
+    gg smile "Não, é que o dia todo ele esfrega tanto em todo lugar que pelo menos em casa você quer liberdade."
 
 # game/NPC/LERA.rpy:205
 translate PortuguesBR dia_lera_0b42e95e:
 
     # lera "Да, мне вас большегрудых не понять."
-    lera ""
+    lera "Sim, não consigo entender vocês peitudas."
 
 # game/NPC/LERA.rpy:206
 translate PortuguesBR dia_lera_f557d0bd:
 
     # gg smile "Я подумала, что у нас тут одни девочки, и это не должно быть проблемой."
-    gg smile ""
+    gg smile "Achei que éramos todas garotas e isso não deveria ser um problema."
 
 # game/NPC/LERA.rpy:207
 translate PortuguesBR dia_lera_62d93e15:
 
     # lera "Думаю да... То есть... Конечно, Алекс... Ходи как хочешь."
-    lera ""
+    lera "Acho que sim... quero dizer... Claro, Alex... Vá como quiser."
 
 # game/NPC/LERA.rpy:208
 translate PortuguesBR dia_lera_66d285bf:
 
     # gg smile "Можешь и сама попробовать, это приятно."
-    gg smile ""
+    gg smile "Você pode tentar sozinha, é bom."
 
 # game/NPC/LERA.rpy:210
 translate PortuguesBR dia_lera_0783f6c2:
 
     # lera "Я... подумаю над твоим предложением."
-    lera ""
+    lera "Eu... vou pensar na sua oferta."
 
