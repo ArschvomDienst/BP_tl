@@ -76,7 +76,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:362
     old "Тренироваться"
-    new "Trem"
+    new "Treinar"
 
     # game/DATA.rpy:368
     old "Йога"
@@ -184,7 +184,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:849
     old "Jade Mall"
-    new "Shopping de jade"
+    new "Shopping da jade"
 
     # game/DATA.rpy:856
     old "Спорткомплекс"
@@ -216,7 +216,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:932
     old "Бистро"
-    new "Bistro"
+    new "Restaurante"
 
     # game/DATA.rpy:943
     old "Патреон Банк"
@@ -276,7 +276,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1232
     old "Сцена"
-    new "Cena"
+    new "Palco"
 
     # game/DATA.rpy:1258
     old "Заниматься"
@@ -304,7 +304,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1341
     old "Owl Music"
-    new "Owl Music"
+    new "Música da Coruja"
 
     # game/DATA.rpy:1345
     old "9:00 - 21:00"
@@ -316,7 +316,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1402
     old "Фотостудия"
-    new "estúdio fotográfico"
+    new "Estúdio fotográfico"
 
     # game/DATA.rpy:1415
     old "Сауна"
@@ -336,7 +336,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1503
     old "Реп. точка"
-    new "Rep. ponto"
+    new "Local de ensaio"
 
     # game/DATA.rpy:1505
     old "18:00 - 23:00"
@@ -392,7 +392,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1788
     old "Красный квартал"
-    new "Quarteirão vermelho"
+    new "Red quarter"
 
     # game/DATA.rpy:1815
     old "Корт"
@@ -420,7 +420,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2034
     old "Проректор"
-    new "Vice reitor"
+    new "Vice diretor"
 
     # game/DATA.rpy:2046
     old "Класс музыки"
@@ -456,7 +456,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2226
     old "Дом Джилл"
-    new "Casa de Jill"
+    new "Casa da Jill"
 
     # game/DATA.rpy:2264
     old "13:00-16:00"
@@ -464,7 +464,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2270
     old "Главная улица"
-    new "A rua principal"
+    new "Rua principal"
 
     # game/DATA.rpy:2277
     old "Кинотеатр"
@@ -532,7 +532,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2620
     old "Загорать"
-    new "banho de sol"
+    new "Banho de sol"
 
     # game/DATA.rpy:2626
     old "Плавать"
@@ -540,11 +540,11 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:2803
     old "Квартира Руби"
-    new "Apartamento de ruby"
+    new "Apartamento da ruby"
 
     # game/DATA.rpy:2805
     old "Вс. 9:00-18:00"
-    new "Sol. 9:00-18:00"
+    new "Dom. 9:00-18:00"
 
     # game/DATA.rpy:2818
     old "Pastry shop"
@@ -580,7 +580,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3272
     old "Дом Пенни"
-    new "Penny's House"
+    new "Casa da Penny"
 
     # game/DATA.rpy:3300
     old "7:00-11:00 (Сб,Вс)"
@@ -620,7 +620,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3691
     old "Кабинет Пэрис"
-    new "Escritório de Paris"
+    new "Escritório da Paris"
 
     # game/DATA.rpy:3814
     old "Подождать 15 минут"
@@ -640,7 +640,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3828
     old "Я протрезвею через [time_trezv]ч. [time_trezv_min]мин."
-    new "Vou ficar sóbrio em [time_trezv] horas. [time_trezv_min] min."
+    new "Vou ficar sóbrio em [time_trezv]horas. [time_trezv_min]min."
 
     # game/DATA.rpy:3840
     old "Природная смелость:"
@@ -656,7 +656,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3849
     old "[smel_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[smel_b] ([sweet_bonus_time_show] horas. [sweet_bonus_time_show_min] min.)"
+    new "[smel_b] ([sweet_bonus_time_show]horas. [sweet_bonus_time_show_min]min.)"
 
     # game/DATA.rpy:3875
     old "Природная красота:"
@@ -684,7 +684,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3900
     old "[sharm_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[sharm_b] ([sweet_bonus_time_show] horas. [sweet_bonus_time_show_min] min.)"
+    new "[sharm_b] ([sweet_bonus_time_show]horas. [sweet_bonus_time_show_min]min.)"
 
     # game/DATA.rpy:3903
     old "Сперма на лице:"
@@ -708,7 +708,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3932
     old "Мои руки испачканы спермой"
-    new "Minhas mãos estão manchadas de porra"
+    new "Minhas mãos estão manchadas de esperma"
 
     # game/DATA.rpy:3934
     old "У меня на попе следы спермы"
@@ -720,7 +720,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:3945
     old "Время действия [time_contr_pills_left_hour]ч. [time_contr_pills_left_min]мин."
-    new "Tempo de validade [time_contr_pills_left_hour] horas. [time_contr_pills_left_min] min."
+    new "Tempo de ação [time_contr_pills_left_hour]horas. [time_contr_pills_left_min]min."
 
     # game/DATA.rpy:4011
     old "Я уже выпила таблетку. Надо подождать."
@@ -1020,7 +1020,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4505
     old "Ослабленная депрессия:"
-    new "Depressão facilitada:"
+    new "Depressão enfraquecida:"
 
     # game/DATA.rpy:4507
     old "([bad_mood_inf_[9][2]] мин)"
@@ -1044,39 +1044,39 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:4718
     old "возле колледжа"
-    new "perto da faculdade"
+    new "Perto do colégio"
 
     # game/DATA.rpy:4720
     old "в Перл бич"
-    new "em Pearl Beach"
+    new "Em Pearl Beach"
 
     # game/DATA.rpy:4722
     old "возле старых шахт"
-    new "perto das velhas minas"
+    new "Perto das velhas minas"
 
     # game/DATA.rpy:4724
     old "на Улице Роз"
-    new "na rua das rosas"
+    new "Na Rose Street"
 
     # game/DATA.rpy:4726
     old "возле Шоссе"
-    new "perto da rodovia"
+    new "Perto da rodovia"
 
     # game/DATA.rpy:4728
     old "возле мотеля"
-    new "perto do motel"
+    new "Perto do motel"
 
     # game/DATA.rpy:4730
     old "на заправке"
-    new "em um posto de gasolina"
+    new "Em um posto de gasolina"
 
     # game/DATA.rpy:4732
     old "в чайна-тауне"
-    new "em chinatown"
+    new "Em chinatown"
 
     # game/DATA.rpy:4734
     old "в южном районе"
-    new "na região sul"
+    new "Na região sul"
 
 # TODO: Translation updated at 2022-02-26 18:12
 
@@ -1084,7 +1084,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1228
     old "Комната персонала"
-    new "sala dos funcionários"
+    new "Sala dos funcionários"
 
     # game/DATA.rpy:4569
     old "Бонус жаворонка:"
@@ -1144,7 +1144,7 @@ translate PortuguesBR strings:
 
     # game/DATA.rpy:1469
     old "Массажная комната"
-    new "sala de massagem"
+    new "Sala de massagem"
 
     # game/DATA.rpy:4628
     old "Бонус массажа:"
@@ -1165,23 +1165,24 @@ translate PortuguesBR strings:
     # game/DATA.rpy:4122
     old "+24ч"
     new "+24h"
+
 # TODO: Translation updated at 2022-08-15 22:28
 
 translate PortuguesBR strings:
 
     # game/DATA.rpy:389
     old "{b}Расслабиться{/b}"
-    new ""
+    new "{b}Relaxe{/b}"
 
     # game/DATA.rpy:2281
     old "Дом Алисы"
-    new ""
+    new "Casa da Alice"
 
     # game/DATA.rpy:3873
     old "Мужская комната"
-    new ""
+    new "Quarto masculino"
 
     # game/DATA.rpy:3881
     old "Женская комната"
-    new ""
+    new "Quarto feminino"
 
