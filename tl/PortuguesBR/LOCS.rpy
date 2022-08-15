@@ -4748,11 +4748,11 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:978
     old "Я помогу тебе"
-    new "vou te ajudar"
+    new "Vou te ajudar"
 
     # game/LOCS.rpy:978
     old "Мне некогда"
-    new "estou ocupado"
+    new "Estou ocupada"
 
     # game/LOCS.rpy:1139
     old "Отказаться"
@@ -4796,7 +4796,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:3001
     old "Мне надо подумать над этим"
-    new "eu preciso pensar sobre isso"
+    new "Eu preciso pensar sobre isso"
 
     # game/LOCS.rpy:3003
     old "Требуется шарм (65)"
@@ -4808,7 +4808,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:3730
     old "{#image=cour} Снять купальник"
-    new "{#image=cour} Tire seu maiô"
+    new "{#image=cour} Tire o maiô"
 
     # game/LOCS.rpy:3730
     old "Плавать в купальнике"
@@ -4828,7 +4828,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:4120
     old "Обернуться"
-    new "dar a volta"
+    new "Dar a volta"
 
     # game/LOCS.rpy:4982
     old "Зайти в соседнюю кабинку"
@@ -4918,7 +4918,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:3876
     old "Костюмы"
-    new "Se adequa"
+    new "Traje"
 
 # TODO: Translation updated at 2022-04-27 18:57
 
@@ -4966,65 +4966,65 @@ translate PortuguesBR strings:
 translate PortuguesBR shop_adv_79f81777:
 
     # gg2 zadum "Ой-ёй... Вот и реклама со мной..."
-    gg2 zadum ""
+    gg2 zadum "Oh-oh... Aqui está um anúncio comigo..."
 
 # game/LOCS.rpy:561
 translate PortuguesBR shop_adv_6ee9b856:
 
     # gg2 sad "Смешанное чувство. С одной стороны, мое лицо теперь на каждой бутылке, с другой - это дешевое моющее средство, а не элитный парфюм."
-    gg2 sad ""
+    gg2 sad "Sentimentos confusos. Por um lado, meu rosto agora está em todos os frascos, por outro lado, é um limpador barato, não um perfume de elite."
 
 # game/LOCS.rpy:562
 translate PortuguesBR shop_adv_b8c7e13c:
 
     # gg2 zadum "Хотя раньше я и о таком не мечтала."
-    gg2 zadum ""
+    gg2 zadum "Mesmo que eu nunca tenha sonhado com isso antes."
 
 # game/LOCS.rpy:567
 translate PortuguesBR shop_adv_ee8c569b:
 
     # gg2 sad "Вот блин... Ну это уже перебор, теперь придется смотреть на это каждый раз при посещении магазина."
-    gg2 sad ""
+    gg2 sad "Caramba... Bem, isso já é demais, agora você tem que olhar para ele toda vez que for à loja."
 
 # game/LOCS.rpy:568
 translate PortuguesBR shop_adv_670f39f5:
 
     # gg2 zadum "Какая же у меня тут неискренняя улыбка... Мне еще многому придется научиться."
-    gg2 zadum ""
+    gg2 zadum "Que sorriso insincero eu tenho aqui... Ainda tenho muito a aprender."
 
 # game/LOCS.rpy:5938
 translate PortuguesBR hot_arctic_10cc105f:
 
     # paris "Рада также будет держать бар в чистоте в дневное время, так что если будут вопросы, ты всегда найдешь ее здесь. Кроме выходных, разумеется."
-    paris ""
+    paris "A Rada também manterá o bar limpo durante o dia, portanto, se você tiver dúvidas, sempre poderá encontrá-la aqui. Exceto finais de semana, é claro."
 
 # game/LOCS.rpy:6047
 translate PortuguesBR hot_arctic_glory_girls_1c8fc6bc:
 
     # gg2 zadum "Да уж... Это место совсем изменилось. Даже туалет перестал быть туалетом и превратился в филиал Комнаты Славы. Только работать он будет пять дней в неделю."
-    gg2 zadum ""
+    gg2 zadum "Sim... Este lugar mudou completamente. Até o banheiro deixou de ser um banheiro e se tornou um ramo do Hall da Fama. Ele só trabalha cinco dias por semana."
 
 # game/LOCS.rpy:6048
 translate PortuguesBR hot_arctic_glory_girls_7ab847be:
 
     # gg2 zadum "Да, это место становится популярным и прибыльным, но я даже немного скучаю по нашему милому розовому кафе с вкусным мороженым."
-    gg2 zadum ""
+    gg2 zadum "Sim, este lugar está se tornando popular e lucrativo, mas eu até sinto falta do nosso fofo café rosa com sorvete delicioso."
 
 # game/LOCS.rpy:6069
 translate PortuguesBR alisa_home_15a644fa:
 
     # gg2 zadum "Мне здесь нечего делать. Я же не сталкер какой-нибудь."
-    gg2 zadum ""
+    gg2 zadum "Não tenho nada para fazer aqui. Não sou nenhum tipo de perseguidor."
 
 # game/LOCS.rpy:6073
 translate PortuguesBR alisa_home_95d68c7c:
 
     # gg2 zadum "Хоть Алиса меня и пригласила, немного неловко вот так вот врываться к ней домой. Надеюсь, я выбрала подходящее время."
-    gg2 zadum ""
+    gg2 zadum "Mesmo que Alice me convidou, é um pouco embaraçoso invadir a casa dela assim. Espero ter escolhido o momento certo."
 
 # game/LOCS.rpy:6077
 translate PortuguesBR alisa_home_5fbcdfb1:
 
     # gg2 zadum "После случая у бассейна мне будет совсем неловко видеть Алису."
-    gg2 zadum ""
+    gg2 zadum "Depois do incidente na piscina, ficarei muito envergonhada de ver Alice."
 
