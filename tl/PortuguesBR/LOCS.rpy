@@ -4958,7 +4958,7 @@ translate PortuguesBR strings:
 
     # game/LOCS.rpy:4311
     old "Накраситься и вернуться на шоссе в дождливую погоду днем ({image=smel_.png} 16([allsmel]))"
-    new "Faça as pazes e volte para a estrada com tempo chuvoso durante o dia ({image=smel_.png} 16([allsmel]))"
+    new "Se maquiar e volte para a estrada com tempo chuvoso durante o dia ({image=smel_.png} 16([allsmel]))"
 
 # TODO: Translation updated at 2022-08-15 22:28
 
