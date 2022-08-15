@@ -1030,21 +1030,21 @@ translate german strings:
 
     # game/ACT.rpy:565
     old "Выполнить все заказы на статьи"
-    new ""
+    new "Alle bestellten Beiträge fertigstellen"
 
     # game/ACT.rpy:1624
     old "{b}{#image=cour_h}{color=#8c8c8d}Раздеться и лечь{/color}{/b}"
-    new ""
+    new "{b}{#image=cour_h}{color=#8c8c8d}Zieh dich aus und leg dich hin{/color}{/b}"
 
     # game/ACT.rpy:1624
     old "{b}{#image=cour} Раздеться и лечь{/b}"
-    new ""
+    new "{b}{#image=cour}Zieh dich aus und leg dich hin{/b}"
 
     # game/ACT.rpy:2173
     old "{b}Сделать кофе{/b}"
-    new ""
+    new "{b}Mach Kaffee{/b}"
 
     # game/ACT.rpy:2173
     old "{b}{color=#8c8c8d}Сделать кофе{/color}{/b}"
-    new ""
+    new "{b}{color=#8c8c8d}Mach Kaffee{/color}{/b}"
 
