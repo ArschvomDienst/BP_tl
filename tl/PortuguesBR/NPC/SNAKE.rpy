@@ -852,7 +852,7 @@ translate PortuguesBR strings:
 
     # game/NPC/SNAKE.rpy:441
     old "Кончить"
-    new "porra"
+    new "Gozar"
 
     # game/NPC/SNAKE.rpy:443
     old "Нужны тренировки"
@@ -876,251 +876,251 @@ translate PortuguesBR strings:
 translate PortuguesBR snake_sex_aa935865:
 
     # alex "Боюсь, игра зашла слишком далеко..."
-    alex ""
+    alex "Receio que o jogo tenha ido longe demais..."
 
 # game/NPC/SNAKE.rpy:424
 translate PortuguesBR snake_sex_e35c0621:
 
     # alex "Просто, я пойду..."
-    alex ""
+    alex "Apenas, eu irei..."
 
 # game/NPC/SNAKE.rpy:428
 translate PortuguesBR snake_sex2_db38b7bd:
 
     # aut "Снейк повалил меня на ковер и стащил трусики."
-    aut ""
+    aut "Snake me empurrou para o tapete e tirou minha calcinha."
 
 # game/NPC/SNAKE.rpy:429
 translate PortuguesBR snake_sex2_b3f46888:
 
     # aut "Когда его язык коснулся моего клитора, я против своей воли сладко застонала."
-    aut ""
+    aut "Quando sua língua tocou meu clitóris, eu gemi docemente contra minha vontade."
 
 # game/NPC/SNAKE.rpy:436
 translate PortuguesBR snake_sex2_59a636fa:
 
     # aut "Он умело работал языком, и вскоре я ощутила накатывающую волну."
-    aut ""
+    aut "Ele trabalhou habilmente com a língua, e logo senti uma onda rolando."
 
 # game/NPC/SNAKE.rpy:437
 translate PortuguesBR snake_sex2_f0dace9d:
 
     # aut "Мне не хватало дыхания чтобы кричать."
-    aut ""
+    aut "Eu não tinha fôlego suficiente para gritar."
 
 # game/NPC/SNAKE.rpy:452
 translate PortuguesBR snake_sex2_66d653ff:
 
     # aut "Я царапала рукой ковер и была готова кончить."
-    aut ""
+    aut "Arranhei o tapete com a mão e estava pronta para vir."
 
 # game/NPC/SNAKE.rpy:453
 translate PortuguesBR snake_sex2_0e4fe126:
 
     # snake "Не так быстро. Я только начал!"
-    snake ""
+    snake "Não tão rápido. acabei de começar!"
 
 # game/NPC/SNAKE.rpy:469
 translate PortuguesBR snake_sex2_1ae9d04b:
 
     # aut "Снейк сел на ковер и усадил меня сверху."
-    aut ""
+    aut "Snake sentou-se no tapete e me sentou em cima."
 
 # game/NPC/SNAKE.rpy:470
 translate PortuguesBR snake_sex2_23080c8d:
 
     # aut "С первого толчка его член полностью вошел в мою мокрую киску."
-    aut ""
+    aut "Desde o primeiro empurrão, seu pau entrou na minha boceta molhada completamente."
 
 # game/NPC/SNAKE.rpy:471
 translate PortuguesBR snake_sex2_e9ebd42c:
 
     # aut "Я обхватила парня ногами и начала быстро двигать бедрами."
-    aut ""
+    aut "Envolvi minhas pernas ao redor do cara e comecei a mover rapidamente meus quadris."
 
 # game/NPC/SNAKE.rpy:483
 translate PortuguesBR snake_sex2_12fadb0c:
 
     # snake "Блять, какая ты горячая внутри! Как же охуенно! Нравится, сучка?"
-    snake ""
+    snake "Porra, você é quente por dentro! Que incrível! Você gosta disso, vadia?"
 
 # game/NPC/SNAKE.rpy:484
 translate PortuguesBR snake_sex2_d02758e4:
 
     # alex "Да! Очень хорошо!"
-    alex ""
+    alex "Sim! Muito bom!"
 
 # game/NPC/SNAKE.rpy:485
 translate PortuguesBR snake_sex2_35caff4e:
 
     # aut "Во мне его член стал еще тверже."
-    aut ""
+    aut "Em mim, seu pau ficou ainda mais duro."
 
 # game/NPC/SNAKE.rpy:486
 translate PortuguesBR snake_sex2_f6d9a048:
 
     # alex "Трахни меня как следует!"
-    alex ""
+    alex "Foda-me direito!"
 
 # game/NPC/SNAKE.rpy:502
 translate PortuguesBR snake_sex2_e67a92af:
 
     # aut "Я толкнула Снейка на ковер и начала активно прыгать на его члене, стараясь как можно глубже насаживаться на него."
-    aut ""
+    aut "Eu empurrei Snake no tapete e comecei a pular ativamente em seu pau, tentando sentar nele o mais profundamente possível."
 
 # game/NPC/SNAKE.rpy:512
 translate PortuguesBR snake_sex2_c40a57eb:
 
     # aut "Снейк придерживал меня за попу, и я свободной рукой ласкала себя."
-    aut ""
+    aut "Snake segurou minha bunda, e eu me acariciei com minha mão livre."
 
 # game/NPC/SNAKE.rpy:513
 translate PortuguesBR snake_sex2_6aa47563:
 
     # alex "Я скоро кончу! И ты меня не остановишь!"
-    alex ""
+    alex "Vou terminar em breve! E você não vai me parar!"
 
 # game/NPC/SNAKE.rpy:527
 translate PortuguesBR snake_sex2_bebc22ac:
 
     # snake "Хочу трахнуть тебя в задницу! Прямо сейчас!"
-    snake ""
+    snake "Eu quero foder você na bunda! Agora mesmo!"
 
 # game/NPC/SNAKE.rpy:623
 translate PortuguesBR snake_anal_menu_5c77955a:
 
     # snake "В прошлый раз ты была не против, так что обкончаю тебя снова!"
-    snake ""
+    snake "Você não se importou da última vez, então eu vou gozar em você de novo!"
 
 # game/NPC/SNAKE.rpy:665
 translate PortuguesBR snake_anal_menu_33881d23:
 
     # aut "С этим я не могла спорить."
-    aut ""
+    aut "Eu não podia discutir com isso."
 
 # game/NPC/SNAKE.rpy:896
 translate PortuguesBR snake_dia_f222bf2c:
 
     # alex "Ты тут весь день сидишь?"
-    alex ""
+    alex "Você ficou sentado aqui o dia todo?"
 
 # game/NPC/SNAKE.rpy:897
 translate PortuguesBR snake_dia_6bf2db0c:
 
     # snake "Не, просто играл на улице весь день, устал."
-    snake ""
+    snake "Não, apenas joguei fora o dia todo, cansado."
 
 # game/NPC/SNAKE.rpy:898
 translate PortuguesBR snake_dia_5667bce8:
 
     # alex "А меня не позвал..."
-    alex ""
+    alex "E ele não me ligou..."
 
 # game/NPC/SNAKE.rpy:899
 translate PortuguesBR snake_dia_b478bd7c:
 
     # snake "Мне не показалось, что в прошлый раз тебе было особо инетересно петь со мной."
-    snake ""
+    snake "Não pensei que da última vez você estivesse particularmente interessado em cantar comigo."
 
 # game/NPC/SNAKE.rpy:922
 translate PortuguesBR snake_dia_3fc67922:
 
     # alex "Но мне понравилось продолжение дня."
-    alex ""
+    alex "Mas eu gostei do resto do dia."
 
 # game/NPC/SNAKE.rpy:924
 translate PortuguesBR snake_dia_07c31a89:
 
     # snake "В таком случае мы можем пропустить первую часть."
-    snake ""
+    snake "Nesse caso, podemos pular a primeira parte."
 
 # game/NPC/SNAKE.rpy:926
 translate PortuguesBR snake_dia_693a76c9:
 
     # alex "Звучит заманчиво."
-    alex ""
+    alex "Soa tentador."
 
 # game/NPC/SNAKE.rpy:937
 translate PortuguesBR snake_dia_84f15c1a:
 
     # snake "Напомни, с чего началась вторая часть?"
-    snake ""
+    snake "Lembra-me como começou a segunda parte?"
 
 # game/NPC/SNAKE.rpy:938
 translate PortuguesBR snake_dia_ee9f3065:
 
     # alex "Ты снял майку и предложил мне сигарету."
-    alex ""
+    alex "Você tirou a camisa e me ofereceu um cigarro."
 
 # game/NPC/SNAKE.rpy:940
 translate PortuguesBR snake_dia_dcc7cb71:
 
     # snake "Не буду же я нарушать традиции."
-    snake ""
+    snake "Não vou quebrar a tradição."
 
 # game/NPC/SNAKE.rpy:941
 translate PortuguesBR snake_dia_9a48e8cd:
 
     # snake "Ты, кстати, в этот момент уже была в белье."
-    snake ""
+    snake "A propósito, naquele momento você já estava de calcinha."
 
 # game/NPC/SNAKE.rpy:954
 translate PortuguesBR snake_dia_52afac2f:
 
     # alex "Может мы пропустим этот этап?"
-    alex ""
+    alex "Podemos pular essa etapa?"
 
 # game/NPC/SNAKE.rpy:955
 translate PortuguesBR snake_dia_7617647f:
 
     # snake "Тогда и я не буду тянуть."
-    snake ""
+    snake "Então eu não vou puxar."
 
 # game/NPC/SNAKE.rpy:966
 translate PortuguesBR snake_dia_cf80634b:
 
     # alex "Я смотрю, он уже готов."
-    alex ""
+    alex "Eu vejo que está pronto."
 
 # game/NPC/SNAKE.rpy:967
 translate PortuguesBR snake_dia_ce19ba67:
 
     # snake "Да... Готов трахнуть тебя в ротик."
-    snake ""
+    snake "Sim... Pronto para te foder na boca."
 
 # game/NPC/SNAKE.rpy:968
 translate PortuguesBR snake_dia_a5c21a9b:
 
     # alex "Ну так сделай это..."
-    alex ""
+    alex "Então faça..."
 
 # game/NPC/SNAKE.rpy:979
 translate PortuguesBR snake_dia_1b25da8b:
 
     # aut "Снейк взял меня за голову и потянул на себя."
-    aut ""
+    aut "Snake agarrou minha cabeça e me puxou para ele."
 
 # game/NPC/SNAKE.rpy:980
 translate PortuguesBR snake_dia_780fa95b:
 
     # aut "Я с удовольствием обхватила губами его твердый прибор."
-    aut ""
+    aut "Abracei seu dispositivo rígido com prazer."
 
 # game/NPC/SNAKE.rpy:992
 translate PortuguesBR snake_dia_54f528dd:
 
     # snake "Как же мне нравится ебать твой влажный рот!"
-    snake ""
+    snake "Como eu gosto de foder sua boca molhada!"
 
 # game/NPC/SNAKE.rpy:1005
 translate PortuguesBR snake_dia_112386ad:
 
     # snake "А теперь я отлижу тебе как следует!"
-    snake ""
+    snake "E agora eu vou te lamber direito!"
 
 translate PortuguesBR strings:
 
     # game/NPC/SNAKE.rpy:893
     old "{b}Заняться сексом{/b}"
-    new ""
+    new "{b}Faça sexo{/b}"
 
