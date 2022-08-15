@@ -292,7 +292,7 @@ translate PortuguesBR inf_camping_sleep_menu_52ef4abb:
 translate PortuguesBR inf_camping_sleep_menu_ba90d934:
 
     # gg smile "Не стоит. Я пойду, пожалуй. Спасибо, Рик."
-    gg smile "Não vale a pena. Eu acho que eu vou. Obrigado, Rick."
+    gg smile "Não vale a pena. Eu acho que eu vou. Obrigada, Rick."
 
 # game/ACT.rpy:1766
 translate PortuguesBR inf_camping_sleep_menu_7ff3a951:
@@ -340,7 +340,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:27
     old "Помыть руки"
-    new "Para lavar as mãos"
+    new "Lavar as mãos"
 
     # game/ACT.rpy:27
     old "Умыться"
@@ -400,7 +400,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:244
     old "Включить автоматический макияж"
-    new "Habilitar maquiagem automática"
+    new "Ligue maquiagem automática"
 
     # game/ACT.rpy:279
     old "Выключить автоматическое нанесение парфюма"
@@ -560,7 +560,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:540
     old "Застрять в прачечной"
-    new "Preso na roupa"
+    new "Ficar presa na lavanderia"
 
     # game/ACT.rpy:549
     old "Устроиться в казино"
@@ -792,7 +792,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:1990
     old "Мне не стоит наглеть"
-    new "Eu não deveria ser atrevido"
+    new "Eu não deveria ser atrevida"
 
     # game/ACT.rpy:1995
     old "Хватит кофе на сегодня"
@@ -848,7 +848,7 @@ translate PortuguesBR strings:
 
     # game/ACT.rpy:493
     old "Секс и баскетбол"
-    new "sexo e basquete"
+    new "Sexo e basquete"
 
     # game/ACT.rpy:499
     old "Полная свобода"
@@ -872,27 +872,27 @@ translate PortuguesBR strings:
 translate PortuguesBR camping_coffee_menu_09d2998e:
 
     # alex2 "Не самый вкусный кофе в моей жизни, но сойдет."
-    alex2 ""
+    alex2 "Não é o melhor café que já tomei, mas serve."
 
 translate PortuguesBR strings:
 
     # game/ACT.rpy:565
     old "Выполнить все заказы на статьи"
-    new ""
+    new "Preencher todos os pedidos de artigos"
 
     # game/ACT.rpy:1624
     old "{b}{#image=cour_h}{color=#8c8c8d}Раздеться и лечь{/color}{/b}"
-    new ""
+    new "{b}{#image=cour_h}{color=#8c8c8d}Despir e deitar{/color}{/b}"
 
     # game/ACT.rpy:1624
     old "{b}{#image=cour} Раздеться и лечь{/b}"
-    new ""
+    new "{b}{#image=cour} Despir e deitar{/b}"
 
     # game/ACT.rpy:2173
     old "{b}Сделать кофе{/b}"
-    new ""
+    new "{b}Fazer café{/b}"
 
     # game/ACT.rpy:2173
     old "{b}{color=#8c8c8d}Сделать кофе{/color}{/b}"
-    new ""
+    new "{b}{color=#8c8c8d}Fazer café{/color}{/b}"
 
