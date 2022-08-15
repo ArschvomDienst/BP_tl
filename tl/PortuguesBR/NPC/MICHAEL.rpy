@@ -1000,7 +1000,7 @@ translate PortuguesBR michael_dress_menu_9dbd99c8:
 translate PortuguesBR michael_dress_menu_bc6d8ad4:
 
     # gg happy "Правда?! Спасибо! Я очень стараюсь!"
-    gg happy "Verdade?! Obrigado! Estou realmente tentando!"
+    gg happy "Verdade?! Obrigada! Estou realmente tentando!"
 
 # game/NPC/MICHAEL.rpy:393
 translate PortuguesBR michael_dress_menu_733f8ccd:
@@ -1978,7 +1978,7 @@ translate PortuguesBR michael_home_visit_10372313:
 translate PortuguesBR michael_home_visit_7de08fca:
 
     # alex "Спасибо, я обязательно попробую."
-    alex "Obrigado, com certeza vou tentar."
+    alex "Obrigada, com certeza vou tentar."
 
 # game/NPC/MICHAEL.rpy:848
 translate PortuguesBR michael_home_visit_c30c92f7:
@@ -2264,7 +2264,7 @@ translate PortuguesBR michael_dress_menu_c445c981:
 translate PortuguesBR guitar_lesson_87543a1e:
 
     # alex "Спасибо за заботу."
-    alex "Obrigado por cuidar de mim."
+    alex "Obrigada por cuidar de mim."
 
 translate PortuguesBR strings:
 
@@ -2334,95 +2334,95 @@ translate PortuguesBR dia_michael_93e0aea2:
 translate PortuguesBR repa_action_142a3770:
 
     # rick "Ого! У нас сегодня гости!"
-    rick ""
+    rick "Uau! Temos convidados hoje!"
 
 # game/NPC/MICHAEL.rpy:266
 translate PortuguesBR repa_action_dcc7d139:
 
     # owl "Решила послушать, что вы тут играете. А то что я за менеджер такой?"
-    owl ""
+    owl "Decidi ouvir o que você está tocando aqui. Que tipo de gerente eu sou?"
 
 # game/NPC/MICHAEL.rpy:270
 translate PortuguesBR repa_action_d1629678:
 
     # gg hit "Мадемуазель? А чего это ты такой вежливый стал вдруг?"
-    gg hit ""
+    gg hit "Mademoiselle? Por que você é tão educada de repente?"
 
 # game/NPC/MICHAEL.rpy:273
 translate PortuguesBR repa_action_51c68c81:
 
     # gg smile "В светское общество четырнадцатого века?"
-    gg smile ""
+    gg smile "Na sociedade laica do século XIV?"
 
 # game/NPC/MICHAEL.rpy:309
 translate PortuguesBR repa_action_e776ef19:
 
     # ow smile "Честно вам скажу, новый материал - просто огонь!"
-    ow smile ""
+    ow smile "Honestamente, eu vou te dizer, o novo material é apenas fogo!"
 
 # game/NPC/MICHAEL.rpy:310
 translate PortuguesBR repa_action_a8222dcd:
 
     # ow smile "Угадываются нотки \"Lime Tree\", но с женским вокалом звучит совсем иначе. Да, пока не хватает сыгранности, но репетиций было слишком мало."
-    ow smile ""
+    ow smile "Notas de 'Lime Tree' são adivinhadas, mas com vocais femininos soa completamente diferente. Sim, ainda não há trabalho em equipe suficiente, mas houve poucos ensaios."
 
 # game/NPC/MICHAEL.rpy:311
 translate PortuguesBR repa_action_e6b18487:
 
     # ow smile "Я, кажется, знаю, для какой площадки ваши песни отлично подойдут. Я буду с ними договариваться, а вы пока продолжайте репетировать."
-    ow smile ""
+    ow smile "Parece que sei para qual plataforma suas músicas são perfeitas. Vou negociar com eles, enquanto você continua ensaiando."
 
 # game/NPC/MICHAEL.rpy:312
 translate PortuguesBR repa_action_4843e3d4:
 
     # ow smile "Кстати, Алекс..."
-    ow smile ""
+    ow smile "Aliás, Alex..."
 
 # game/NPC/MICHAEL.rpy:314
 translate PortuguesBR repa_action_50cb60f3:
 
     # gg sad "Да?"
-    gg sad ""
+    gg sad "Sim?"
 
 # game/NPC/MICHAEL.rpy:315
 translate PortuguesBR repa_action_c2147a56:
 
     # owl "У тебя очень приятный голос, ты молодец. Но даже на репетиции я чувствую в тебе какую-то зажатость."
-    owl ""
+    owl "Você tem uma voz muito agradável, bem feito. Mas mesmo no ensaio, sinto alguma tensão em você."
 
 # game/NPC/MICHAEL.rpy:316
 translate PortuguesBR repa_action_fa4d1d90:
 
     # owl "Было бы полезно взять несколько уроков сценического мастерства, или что-то в этом роде."
-    owl ""
+    owl "Seria útil ter algumas aulas de atuação, ou algo assim."
 
 # game/NPC/MICHAEL.rpy:320
 translate PortuguesBR repa_action_f8b69e6b:
 
     # kian "Одна моя работница как раз записалась на какие-то курсы по этой теме. Говорит, какая-то известная рокерша за 5 занятий делает рок-звезд."
-    kian ""
+    kian "Um dos meus funcionários acabou de se inscrever em alguns cursos sobre esse assunto. Ele diz que algum roqueiro famoso faz estrelas do rock em 5 aulas."
 
 # game/NPC/MICHAEL.rpy:321
 translate PortuguesBR repa_action_01cbdb18:
 
     # owl "Скорее всего она говорит о Рут Лейн. Я немного знакома с ней, и слышала, что она открыла курсы. В прошлом она была гимнасткой, а потом собрала группу."
-    owl ""
+    owl "Ela provavelmente está falando sobre Ruth Lane. Eu conheço um pouco, e ouvi dizer que ela abriu cursos. No passado, ela era ginasta, e depois reuniu um grupo."
 
 # game/NPC/MICHAEL.rpy:322
 translate PortuguesBR repa_action_2d15ed76:
 
     # owl "Они играют очень тяжелое музло, прямо скажем, на любителя. Но порвать зал эта девочка может, без вопросов."
-    owl ""
+    owl "Eles tocam muzlo muito pesado, francamente, para um amador. Mas essa garota pode quebrar o corredor, sem perguntas."
 
 # game/NPC/MICHAEL.rpy:323
 translate PortuguesBR repa_action_201e1bda:
 
     # kian "Она преподает в танцевальной студии где-то на Улице Роз. Попробуй к ней сходить."
-    kian ""
+    kian "Ela ensina em um estúdio de dança em algum lugar da Rose Street. Tente visitá-la."
 
 # game/NPC/MICHAEL.rpy:333
 translate PortuguesBR repa_action_3945eba6:
 
     # gg smile "Хорошо, я постараюсь найти время."
-    gg smile ""
+    gg smile "Ok, vou tentar encontrar um tempo."
 
