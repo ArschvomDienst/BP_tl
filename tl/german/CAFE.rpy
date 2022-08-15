@@ -2442,233 +2442,233 @@ translate german strings:
 translate german hot_arctic_open_0f38f1a4:
 
     # amanda "Получается, мы теперь будем работать только по вечерам?"
-    amanda ""
+    amanda "Also arbeiten wir nur am Abend?"
 
 # game/CAFE.rpy:1468
 translate german hot_arctic_open_c34fe084:
 
     # jane "Ага. И платить обещали больше, чем раньше."
-    jane ""
+    jane "Ja. Und wir kriegen mehr Lohn als zuvor."
 
 # game/CAFE.rpy:1469
 translate german hot_arctic_open_4a160974:
 
     # amanda "Звучит неплохо."
-    amanda ""
+    amanda "Klingt Gut."
 
 # game/CAFE.rpy:1773
 translate german hot_arctic_work_2aa83ada:
 
     # aut "Бар опустел, но из мужской комнаты еще доносились голоса."
-    aut ""
+    aut "Die Bar war leer. Aber es kamen Männerstimmen aus der Herrentoilette."
 
 # game/CAFE.rpy:1787
 translate german rada_glory_wc_dia_a631a010:
 
     # rada "Привет. Пэрис попросила показать тебе обновленный туалет. Пойдем."
-    rada ""
+    rada "Hallo. Paris hat mich gebeten, dir die renovierte Toiletten zu zeigen. Folg' mir bitte."
 
 # game/CAFE.rpy:1788
 translate german rada_glory_wc_dia_1a4fab8b:
 
     # gg smile "Даже интересно, что там Хозяйка придумала..."
-    gg smile ""
+    gg smile "Ich frage mich was sich die Herrin jetzt wieder ausgedacht hat ..."
 
 # game/CAFE.rpy:1789
 translate german rada_glory_wc_dia_18094477:
 
     # rada "По задумке Хозяйки после вашего шоу гости должны идти в Красный Квартал сбрасывать напряжение."
-    rada ""
+    rada "Der Idee der Herrin nach sollten sich die Gäste nicht bis zum Roten Viertel schleppen müssen um Druck abzulassen nach der Show."
 
 # game/CAFE.rpy:1790
 translate german rada_glory_wc_dia_dcec07de:
 
     # rada "Задумка себя оправдала, поток клиентов в Квартал увеличился. Но среди наших гостей есть немало тех, кто возбуждается, глядя на шоу, потом идет в темный уголок, дергает пипирку и уходит домой."
-    rada ""
+    rada "Die Geschäftsidee hat sich als hervorragend herausgestellt, die Anzahl der Kunden im Viertel hat sich merklich erhöht. Aber unter unseren Gästen gibt es viele die durch die Show geil werden, sich in einer dunklen Ecke einen runterholen und heimgehen."
 
 # game/CAFE.rpy:1793
 translate german rada_glory_wc_dia_05eae359:
 
     # rada "Это помещение должно исправить проблему. Он разделен на две части. Это мужская."
-    rada ""
+    rada "Dieser Raum sollte das Problem lösen. Er ist in zwei Teile aufgeteilt, dies hier ist der für die Männer."
 
 # game/CAFE.rpy:1794
 translate german rada_glory_wc_dia_29aef064:
 
     # gg udiv "Да, наш туалет сильно преобразился."
-    gg udiv ""
+    gg udiv "Ja, unsere Toiletten haben sich sehr verändert."
 
 # game/CAFE.rpy:1795
 translate german rada_glory_wc_dia_31981685:
 
     # rada "Вообще-то это уже не туалет. Пойдем в женскую часть, я покажу."
-    rada ""
+    rada "Um Ehrlich zu sein ist es keine Toilette mehr. Gehen wir in den Teil für die Frauen und ich zeig es dir."
 
 # game/CAFE.rpy:1798
 translate german rada_glory_wc_dia_533c31cc:
 
     # rada "Да, обе комнаты поделены на кабинки. Мужская - на три, женская - не две."
-    rada ""
+    rada "Beide Räume sind in Kabinen unterteilt. Der Raum für die Herren in drei - der für die Frauen in zwei."
 
 # game/CAFE.rpy:1800
 translate german rada_glory_wc_dia_1a37c8d7:
 
     # rada "Но это не туалет, как может показаться."
-    rada ""
+    rada "Aber auch wenn es so scheint ist es keine Toilette mehr."
 
 # game/CAFE.rpy:1801
 translate german rada_glory_wc_dia_14cd165a:
 
     # gg smile "Ну да, можно было догадаться. И кто здесь будет работать?"
-    gg smile ""
+    gg smile "Ja, das kann ich sehen. Und wer wird hier arbeiten?"
 
 # game/CAFE.rpy:1803
 translate german rada_glory_wc_dia_e781f490:
 
     # rada "Хозяйка пришлет пару девочек из Комнаты Славы. Многие хотят работать больше одного дня в неделю, да и популярность анонимного секса в последнее время растет."
-    rada ""
+    rada "Die Herrin schickt ein paar Mädchen von der Ruhmeshalle. Viele von ihnen wollen an mehr als nur einem Tag der Woche arbeiten, und anonymer Sex hat Hochkonjunktur."
 
 # game/CAFE.rpy:1804
 translate german rada_glory_wc_dia_41cb400b:
 
     # gg zadum "Понятно..."
-    gg zadum ""
+    gg zadum "Alles Klar ..."
 
 # game/CAFE.rpy:1806
 translate german rada_glory_wc_dia_811a856c:
 
     # rada "Но если ты или кто-то из девочек захочет поработать, никаких проблем. Но только после шоу, разумеется..."
-    rada ""
+    rada "Aber wenn du oder eines der anderen Mädels hier arbeiten wollen auch kein Problem. Aber natürlich nur nach der Show ..."
 
 # game/CAFE.rpy:1807
 translate german rada_glory_wc_dia_afe7829f:
 
     # gg smile "Я подумаю над этим."
-    gg smile ""
+    gg smile "Ich denk darüber nach."
 
 # game/CAFE.rpy:1808
 translate german rada_glory_wc_dia_05515c6f:
 
     # gg zadum "Значит туалета у нас теперь совсем нет?"
-    gg zadum ""
+    gg zadum "Also habe wir jetzt keine Toilette mehr?"
 
 # game/CAFE.rpy:1809
 translate german rada_glory_wc_dia_1a79eb71:
 
     # rada "Есть, но он находится отдельно. Для этих комнат понадобилось много места, по этому туалет получился одноместный. Хозяйка считает, что этого должно хватить."
-    rada ""
+    rada "Doch es gibt natürlich noch eine, aber sie ist natürlich separat. Diese Räume so herzurichten hat viel Platz gebraucht, also ist die Toilette nur noch eine einzige Kabine. Die Herrin meint aber, dass sei genug."
 
 # game/CAFE.rpy:1810
 translate german rada_glory_wc_dia_0c6d8294:
 
     # rada "Ну, вроде все. Если будут какие-то вопросы - я в зале."
-    rada ""
+    rada "Das wars auch schon. Wenn du noch weitere Fragen hast, findest du mich im Schankraum."
 
 # game/CAFE.rpy:1817
 translate german hot_arctic_glory_work_16dc341c:
 
     # aut "Большинство гостей разошлось, но некоторые направились в Мужскую Комнату, ожидая продолжения. Там даже образовалась небольшая очередь."
-    aut ""
+    aut "Die meisten Gäste gingen heim, aber viele gingen auf die Herrentoilette für eine Zugabe. Es bildete sich sogar eine kleine Schlange vor der Tür."
 
 # game/CAFE.rpy:1819
 translate german hot_arctic_glory_work_353ee252:
 
     # aut "С женской стороны оставались пустые места. Одно из них заняла Джейн, что меня совсем не удивляло."
-    aut ""
+    aut "Auf der Seite der Frauen gab es noch lehre Sitze. Jane nahm einen davon, was mich nicht im Geringsten erstaunt hat."
 
 # game/CAFE.rpy:1821
 translate german hot_arctic_glory_work_acf31ae4:
 
     # gg2 zadum "Кажется, кто-то решил не дожидаться своей очереди."
-    gg2 zadum ""
+    gg2 zadum "Jemand war wohl nicht zufrieden zu warten."
 
 # game/CAFE.rpy:1826
 translate german hot_arctic_glory_work_5a59cac8:
 
     # gg2 smile "Придется выручать подругу. Сама она может не справиться. И лучше бы снять майку, чтобы не заляпать."
-    gg2 smile ""
+    gg2 smile "Ich muss meiner Freundin helfen, sie schafft das unmöglich alleine. Ich sollte besser das Shirt ausziehen, nicht das da noch Flecken reinkommen."
 
 # game/CAFE.rpy:1828
 translate german hot_arctic_glory_work_731c33df:
 
     # aut "Мужчины по ту сторону стенки вели себя по-разному."
-    aut ""
+    aut "Die Männer auf der anderen Seite verhielten sich anders."
 
 # game/CAFE.rpy:1839
 translate german hot_arctic_glory_work_f4b2d649:
 
     # aut "Кто-то просто просовывал член и ждал от меня активной работы..."
-    aut ""
+    aut "Jemand steckte seinen Schwanz durch das Loch und wartete einfach auf meine Arbeit ..."
 
 # game/CAFE.rpy:1845
 translate german hot_arctic_glory_work_70545797:
 
     # aut "Кто-то сразу начинал двигать бедрами, и мне нужно было только подставлять ротик под яростные фрикции."
-    aut ""
+    aut "Ein Anderer begann sofort die Hüfte zu bewegen und ich musste nur den Mund aufmachen."
 
 # game/CAFE.rpy:1851
 translate german hot_arctic_glory_work_cb387ead:
 
     # aut "Почти все сразу были возбуждены и быстро кончали. Наверно, сказывалось наше горячее шоу."
-    aut ""
+    aut "Aber Alle waren sehr erregt und schnell fertig. Unsere Show hat wohl sehr gut gefallen."
 
 # game/CAFE.rpy:1863
 translate german hot_arctic_glory_work_af8b7c69:
 
     # aut "Помещения заполнила смесь возбуждающих влажных звуком и мужских стонов."
-    aut ""
+    aut "Die Räume waren gefüllt mit einer Mixtur aus erregtem, nassen Klatschen und männlichem Stöhnen."
 
 # game/CAFE.rpy:1864
 translate german hot_arctic_glory_work_b4016679:
 
     # aut "Девушка из Красного Квартала хладнокровно и профессионально выполняла работу, в то время как Джейн громко стонала, отсасывая незнакомцам, и принимая на грудь их сперму."
-    aut ""
+    aut "Das Mädchen aus dem Roten Viertel arbeitete ruhig und professionell während Jane laut stöhnte als sie Fremden einen blies und ihr Sperma sich auf ihren Brüsten sammelte."
 
 # game/CAFE.rpy:1876
 translate german hot_arctic_glory_work_584e0ff3:
 
     # aut "От возбуждения голова шла кругом. С каждым глотком горячего семени я все больше чувствовала свою власть над этими мужчинами."
-    aut ""
+    aut "Mein Kopf drehte sich vor Lust. Mit jedem Tropfen heißem Sperma fühlte ich mehr Macht über die Männer denen es gehörte."
 
 # game/CAFE.rpy:1877
 translate german hot_arctic_glory_work_8b0b32a9:
 
     # aut "Я была для них всего лишь бездушным спермоприемником, но я чувствовала себя жрицей секса, дарующей своим адептам высочайшее наслаждение."
-    aut ""
+    aut "Für sie war ich nur ein namenloser Spermaschlucker, aber ich fühlte mich wie eine Hohepriesterin des Sex die ihren Betenden die höchsten Vergnügen bereitete."
 
 # game/CAFE.rpy:1889
 translate german hot_arctic_glory_work_d7a4fa71:
 
     # aut "И я решила закончить обряд ритуальным омовением своего лица."
-    aut ""
+    aut "Ich beendete die Zeremonie mit der rituellen Waschung meines Gesichtes."
 
 # game/CAFE.rpy:1901
 translate german hot_arctic_glory_work_347e4fb2:
 
     # aut "В то время, как я рисовала в своей голове фантастические образы, пытаясь придать процессу сакральный символизм, девушка из Красного Квартала буднично вытерла подбородок рукой и ушла. Ее рабочая смена была окончена."
-    aut ""
+    aut "Während ich mir in meinem Kopf vorspielte, dies sei ein Akt mit heiligen Symbolen und Prozeduren wischte sich das Mädchen aus dem Roten Viertel nur beiläufig das Kinn mit der Hand ab und Ging. Ihre Schicht war vorbei."
 
 # game/CAFE.rpy:1902
 translate german hot_arctic_glory_work_01fce06b:
 
     # aut "Джейн просто грязно отсосала гостям, получив при этом огромное удовольствие. Мы все делали одно и то же, но каждый видел в этом какой-то свой смысл."
-    aut ""
+    aut "Jane hat die Gäste leer gelutscht und dabei selbst große Befriedigung bekommen. Wir taten alle dasselbe, aber jede von uns sah etwas Anderes darin."
 
 # game/CAFE.rpy:1907
 translate german hot_arctic_glory_work_b6da05cc:
 
     # aut "Но было и кое-что общее. Мы все заработали немного денег. А это всегда приятно, не так ли?"
-    aut ""
+    aut "Aber wir hatten auch etwas gemeinsam. Wir alle verdienten dabei Geld, und ist das nichts Schönes?"
 
 # game/CAFE.rpy:1921
 translate german hot_arctic_glory_work_1372d760:
 
     # gg2 zadum "Думаю, не в этот раз..."
-    gg2 zadum ""
+    gg2 zadum "Nicht dieses Mal ..."
 
 translate german strings:
 
     # game/CAFE.rpy:1774
     old "Поработать в Женской Комнате"
-    new ""
+    new "Im Frauenbereich arbeiten"
 

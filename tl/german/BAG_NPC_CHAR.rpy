@@ -582,13 +582,13 @@ translate german strings:
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "{color=#c20000}Салфетки закончились{/color}"
-    new ""
+    new "{color=#c20000}Servietten sind aus{/color}"
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "Вытереть сперму на лице"
-    new ""
+    new "Wisch dir das Sperma aus dem Gesicht"
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "Вытереть сперму на груди"
-    new ""
+    new "Wisch dir das Sperma von den Brüsten"
 
