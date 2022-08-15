@@ -28,7 +28,7 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:57
     old "Десерты"
-    new "sobremesas"
+    new "Sobremesas"
 
     # game/EDA and SHOPS.rpy:80
     old "Пицца приготовлена"
@@ -48,7 +48,7 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:114
     old "Пицца"
-    new "pizza"
+    new "Pizza"
 
     # game/EDA and SHOPS.rpy:115
     old "Ингредиенты:"
@@ -68,7 +68,7 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:173
     old "Яблочный пирог"
-    new "torta de maçã"
+    new "Torta de maçã"
 
     # game/EDA and SHOPS.rpy:209
     old "Порций: 4"
@@ -172,7 +172,7 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:564
     old "Цена: 1000$"
-    new "Preço: $1000"
+    new "Preço: $1.000"
 
     # game/EDA and SHOPS.rpy:570
     old "Теннисный костюм"
@@ -200,9 +200,9 @@ translate PortuguesBR strings:
 
     # game/EDA and SHOPS.rpy:435
     old "{image=smel_.png} {color=#8c8c8d}Купить{/color}"
-    new ""
+    new "{image=smel_.png} {color=#8c8c8d}Comprar{/color}"
 
     # game/EDA and SHOPS.rpy:437
     old "{image=smel_.png} Купить"
-    new ""
+    new "{image=smel_.png} Comprar"
 
