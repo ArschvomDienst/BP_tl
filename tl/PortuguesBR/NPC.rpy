@@ -100,7 +100,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1289
     old "Уговорить Сову("
-    new "Persuadir a Coruja ("
+    new "Persuadir a Coruja("
 
     # game/NPC.rpy:1291
     old "14([ritor]))"
@@ -124,11 +124,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1310
     old "Продолжать занятия у Фальцета"
-    new "Continue as aulas com Falset"
+    new "Continue as aulas com Falsetto"
 
     # game/NPC.rpy:1314
     old "Поговорить с Майклом"
-    new "Fale com o michael"
+    new "Fale com o Michael"
 
     # game/NPC.rpy:1318
     old "Найти дом Джилл в Перл Бич"
@@ -152,11 +152,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1337
     old "Узнать о Директоре"
-    new "Saiba mais sobre o diretor"
+    new "Saiba mais sobre o Diretor"
 
     # game/NPC.rpy:1341
     old "Найти Директора в старой школе"
-    new "Encontre o diretor na velha escola"
+    new "Encontre o Diretor na velha escola"
 
     # game/NPC.rpy:1345
     old "Рассказать Майклу о Джилл"
@@ -244,7 +244,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1438
     old "Поговорить с Холли"
-    new "Fale com a holly"
+    new "Fale com a Holly"
 
     # game/NPC.rpy:1442
     old "Поговорить с Кондором"
@@ -396,7 +396,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1600
     old "Заехать к Сове в магазин"
-    new "Vá para a coruja na loja"
+    new "Vá para a loja da Coruja"
 
     # game/NPC.rpy:1604
     old "Продолжить уроки у Майкла([guitar_skill]/20)"
@@ -512,11 +512,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1775
     old "Накраситься и вернуться на шоссе"
-    new "Me maquiar e voltar para a rodovia"
+    new "Se maquiar e voltar para a rodovia"
 
     # game/NPC.rpy:1777
     old "в дождливую погоду днем ("
-    new "em tempo chuvoso durante o dia("
+    new "Em tempo chuvoso durante o dia("
 
     # game/NPC.rpy:1779
     old "16([allsmel]))"
@@ -540,7 +540,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1799
     old "Провести 5-е занятие (Пн,Ср, 9:00)"
-    new "Conduza a 5ª lição (Seg, Quarta, 9:00)"
+    new "Conduza a 5ª aula (Seg, Quarta, 9:00)"
 
     # game/NPC.rpy:1807
     old "Расследовать пропажу смартфона в колледже (нужна рабочая одежда)"
@@ -624,11 +624,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1895
     old "Пройти проверку для сайта в парке на скамейке (Сб 13:00)"
-    new "Faça a verificação do site no parque no banco (sábado 13:00)"
+    new "Faça a verificação do site no banco do parque (sábado 13:00)"
 
     # game/NPC.rpy:1903
     old "Теперь я могу брать заказы на ourfantasies.bp"
-    new "Agora posso receber pedidos em nossas fantasias.bp"
+    new "Agora posso receber pedidos em ourfantasies.bp"
 
     # game/NPC.rpy:1909
     old "Проехать на автобусе от дома до центра в шортах (завтра, 15:00)"
@@ -664,11 +664,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1941
     old "Посидеть на скамейке в парке без лифчика (завтра, 13:00)"
-    new "Sente-se em um banco de parque sem sutiã (amanhã, 13:00)"
+    new "Sente-se em um banco no parque sem sutiã (amanhã, 13:00)"
 
     # game/NPC.rpy:1943
     old "Посидеть на скамейке в парке без лифчика (сегодня, 13:00)"
-    new "Sente-se em um banco de parque sem sutiã (hoje, 13:00)"
+    new "Sente-se em um banco no parque sem sutiã (hoje, 13:00)"
 
     # game/NPC.rpy:1951
     old "Валери Морган"
@@ -680,7 +680,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2017
     old "Отдать долг в [dolg_val]$"
-    new "Reembolsar dívida em [dolg_val]$"
+    new "Reembolsar dívida em $[dolg_val]"
 
     # game/NPC.rpy:2021
     old "Поговорить о сестре"
@@ -760,19 +760,19 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2108
     old "Передать привет от Пенни"
-    new "Diga olá de Penny"
+    new "Diga olá a Penny"
 
     # game/NPC.rpy:2113
     old "Встретить Валери на теннисном корте (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Conheça Valerie na quadra de tênis (seg, ter, qui, sex, das 14:00 às 16:00)"
+    new "Conheça Valerie na quadra de tênis (seg,ter,qui,sex, das 14:00 às 16:00)"
 
     # game/NPC.rpy:2118
     old "Напиться и зайти к Валери ночью"
-    new "Fique bêbado e visite Valerie à noite"
+    new "Fique bêbada e visite Valerie à noite"
 
     # game/NPC.rpy:2123
     old "Доступно только для пьющей Алекс"
-    new "Disponível apenas para bebedor Alex"
+    new "Disponível apenas para Alex bêbada"
 
     # game/NPC.rpy:2138
     old "Я могу ездить с Вэл на йогу (Вт, Чт, 6:00-6:20)"
@@ -784,7 +784,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2151
     old "Посмотреть"
-    new "Veja"
+    new "Olhar"
 
     # game/NPC.rpy:2154
     old "(8)"
@@ -840,7 +840,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2297
     old "Прийти на завтрак в белье"
-    new "Venha para o café da manhã em sua cueca"
+    new "Venha para o café da manhã de calcinha"
 
     # game/NPC.rpy:2305
     old "Помочь Барбаре с уборкой (Сб 9:00)"
@@ -876,7 +876,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2343
     old "Остаться с Барбарой наедине на кухне"
-    new "Fique sozinho com Bárbara na cozinha"
+    new "Fique sozinha com Bárbara na cozinha"
 
     # game/NPC.rpy:2351
     old "Купить откровенный костюм и маску"
@@ -924,7 +924,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2404
     old "Написать Мэтью"
-    new "Email Matthew"
+    new "Escreva para Mateus"
 
     # game/NPC.rpy:2409
     old "Поговорить с Санчо о кровати и картинах"
@@ -1012,19 +1012,19 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2646
     old "Написать Руби в ее выходной (Пн, Вт, Чт, Пт)"
-    new "Deixe Ruby em seu dia de folga (seg, ter, qui, sex)"
+    new "Mande uma mensagem para Ruby em seu dia de folga (seg, ter, qui, sex)"
 
     # game/NPC.rpy:2650
     old "Написать Руби еще раз (Пн, Вт, Чт, Пт)"
-    new "Enviar e-mail para Ruby novamente (seg, ter, qui, sex)"
+    new "Mande uma mensagem para Ruby novamente (seg, ter, qui, sex)"
 
     # game/NPC.rpy:2659
     old "Подружиться с Руби"
-    new "Amizade com Ruby"
+    new "Faça amizade com Ruby"
 
     # game/NPC.rpy:2669
     old "Поговорить с Руби на теннисном корте (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Fale com Ruby na quadra de tênis (seg, ter, qui, sex 14:00-16:00)"
+    new "Fale com Ruby na quadra de tênis (seg,ter,qui,sex 14:00-16:00)"
 
     # game/NPC.rpy:2674
     old "Купить теннисный костюм и ракетку"
@@ -1032,11 +1032,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2679
     old "Поиграть с Руби в теннис (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Jogue tênis com Ruby (seg, ter, qui, sex 14:00-16:00)"
+    new "Jogue tênis com Ruby (seg,ter,qui,sex 14:00-16:00)"
 
     # game/NPC.rpy:2684
     old "Поиграть с Руби в теннис без трусиков (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Jogue tênis sem calcinha com Ruby (seg, ter, qui, sex 14:00-16:00)"
+    new "Jogue tênis sem calcinha com Ruby (seg,ter,qui,sex 14:00-16:00)"
 
     # game/NPC.rpy:2694
     old "Теперь я могу приглашать Руби на свидания"
@@ -1068,7 +1068,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2810
     old "Встретить Эш в Красном Квартале после 21:00"
-    new "Encontre Ash no Distrito Vermelho após as 21:00"
+    new "Encontre Ash no Red District após as 21:00"
 
     # game/NPC.rpy:2814
     old "Поговорить с Ванессой в секс-шопе после 21:00"
@@ -1076,7 +1076,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2823
     old "Теперь я могу проводить время с Эш и Джоном (Ср,Сб,Вс 0:00-5:00)"
-    new "Agora posso passar um tempo com Ash e John (Quarta, Sáb, Dom 0:00-5:00)"
+    new "Agora posso passar um tempo com Ash e John (Quarta,Sáb,Dom 0:00-5:00)"
 
     # game/NPC.rpy:2828
     old "Я могу пользоваться секс-машиной Эш"
@@ -1104,7 +1104,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:2906
     old "Ближе познакомиться с Марджи"
-    new "Conhecendo Margie melhor"
+    new "Conhecendo melhor a Margie"
 
     # game/NPC.rpy:2913
     old "Посетить сауну с Пенелопой"
@@ -1156,7 +1156,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3008
     old "Встретить Марджи в Jade Mall"
-    new "Conheça Margie no Jade Mall"
+    new "Conheça Margie no Shopping da Jade"
 
     # game/NPC.rpy:3012
     old "Наладить отношения с Фредом"
@@ -1176,7 +1176,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3076
     old "Поговорить с Амандой"
-    new "Fale com a amanda"
+    new "Fale com a Amanda"
 
     # game/NPC.rpy:3080
     old "Поговорить с Джейн об Аманде"
@@ -1220,7 +1220,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3197
     old "Поиграть с парнями в баскетбол ("
-    new "Jogue basquete com os caras ("
+    new "Jogue basquete com os meninos ("
 
     # game/NPC.rpy:3204
     old "Я могу заниматься сексом с Метлой после игры"
@@ -1244,7 +1244,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3310
     old "Тренировать силу ("
-    new "Força do trem ("
+    new "Treinar força ("
 
     # game/NPC.rpy:3312
     old "11([power]),"
@@ -1276,7 +1276,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3340
     old "Понаблюдать за Фредом и Марджи (Ср,Сб,Вс после 17:00)"
-    new "Assistir Fred e Margie (Quarta, Sáb, Dom depois das 17:00)"
+    new "Assistir Fred e Margie (Quarta,Sáb,Dom depois das 17:00)"
 
     # game/NPC.rpy:3353
     old "Я выбрала концовку с Марджи"
@@ -1336,7 +1336,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3476
     old "Лео Вулф"
-    new "Leo Wolfe"
+    new "Leo Wolf"
 
     # game/NPC.rpy:3497
     old "Пойти с Лео на свидание"
@@ -1464,7 +1464,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3857
     old "Вернуться завтра (13:00 - 16:00)"
-    new "Retorno amanhã (13:00 - 16:00)"
+    new "Voltar amanhã (13:00 - 16:00)"
 
     # game/NPC.rpy:3873
     old "Раздавать листовки несколько дней подряд"
@@ -1492,7 +1492,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3900
     old "Отнести пакет ректору колледжа"
-    new "Leve o pacote ao reitor do colégio"
+    new "Leve o pacote ao diretor do colégio"
 
     # game/NPC.rpy:3908
     old "Забрать чемодан в метро в центре (13:00 - 15:00)"
@@ -1524,7 +1524,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:3972
     old "в Красном Квартале("
-    new "no bairro vermelho("
+    new "no Red Quarter("
 
     # game/NPC.rpy:3974
     old "19([allsmel]))"
@@ -1560,7 +1560,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4004
     old "Найти Пэрис в Красном Квартале (Вс,Пн 0:00-4:00)"
-    new "Encontre Paris no Distrito Vermelho (Dom, Seg 0:00-4:00)"
+    new "Encontre Paris no Red Quarter (Dom,Seg 0:00-4:00)"
 
     # game/NPC.rpy:4041
     old "Прийти на второе занятие в другой день"
@@ -1584,7 +1584,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4077
     old "Хесус Герреро"
-    new "Jesus Guerreiro"
+    new "Jesus Warrior"
 
     # game/NPC.rpy:4120
     old "Магнус"
@@ -1596,11 +1596,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4183
     old "Зайти в Красный Квартал через пару дней"
-    new "Entre no Bairro Vermelho em alguns dias"
+    new "Entre no Red Quarter em alguns dias"
 
     # game/NPC.rpy:4187
     old "Зайти в Красный Квартал ночью"
-    new "Entre no Bairro Vermelho à noite"
+    new "Entre no Red Quarter à noite"
 
     # game/NPC.rpy:4195
     old "Дождаться сообщения от Пэрис"
@@ -1628,11 +1628,11 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4259
     old "Найти Красный Квартал"
-    new "Encontre o Bairro Vermelho"
+    new "Encontre o Red Quarter"
 
     # game/NPC.rpy:4263
     old "Осмотреть Красный Квартал ночью"
-    new "Explore o Bairro Vermelho à noite"
+    new "Explore o Red Quarter à noite"
 
     # game/NPC.rpy:4273
     old "Проститутка"
@@ -1668,7 +1668,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4473
     old "Купить строгий костюм"
-    new "Compre terno formal"
+    new "Compre traje formal"
 
     # game/NPC.rpy:4477
     old "Поговорить с миссис Картер"
@@ -1708,7 +1708,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4697
     old "Вернуться в подвал завтра"
-    new "De volta ao porão amanhã"
+    new "Volte para o porão amanhã"
 
     # game/NPC.rpy:4705
     old "Заплатить Санчо 2000$"
@@ -1724,7 +1724,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4733
     old "Вернуться в подвал днем"
-    new "De volta ao porão à tarde"
+    new "Volte para o porão à tarde"
 
     # game/NPC.rpy:4737
     old "Заплатить Санчо 4000$ за мебель"
@@ -1736,7 +1736,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4753
     old "Договориться насчет туалета"
-    new "Combine um banheiro"
+    new "Providencie um banheiro"
 
     # game/NPC.rpy:4757
     old "Заплатить Санчо 3000$ за ремонт туалета"
@@ -1772,7 +1772,7 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:4861
     old "Сняться для рекламы у Жерара"
-    new "Para filmar para anunciar com Gerard"
+    new "Fotografe para publicidade com Gerard"
 
     # game/NPC.rpy:4873
     old "28"
@@ -1880,25 +1880,25 @@ translate PortuguesBR strings:
 
     # game/NPC.rpy:1779
     old "Я могу играть с Руби в теннис"
-    new ""
+    new "Eu posso jogar tênis com Ruby"
 
     # game/NPC.rpy:2344
     old "Лео Вульф"
-    new ""
+    new "Leo Wolf"
 
     # game/NPC.rpy:2644
     old "Виктора"
-    new ""
+    new "Vencedor"
 
     # game/NPC.rpy:3067
     old "Я могу заниматься сексом со Снейком по вечерам."
-    new ""
+    new "Posso fazer sexo com Snake à noite."
 
     # game/NPC.rpy:3148
     old "Джилл Бауэрман"
-    new ""
+    new "Jill Bowerman"
 
     # game/NPC.rpy:3588
     old "Скарлет Купер"
-    new ""
+    new "Scarlet Cooper"
 
