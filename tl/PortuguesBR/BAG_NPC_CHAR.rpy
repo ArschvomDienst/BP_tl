@@ -58,7 +58,7 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:23
     old "Покурить"
-    new "Fumaça"
+    new "Fumar"
 
     # game/BAG_NPC_CHAR.rpy:25
     old "Не хочу курить"
@@ -66,7 +66,7 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:27
     old "Здесь нельзя курить"
-    new "Não fumar aqui"
+    new "Você não pode fumar aqui"
 
     # game/BAG_NPC_CHAR.rpy:29
     old "Сигареты закончились"
@@ -118,7 +118,7 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:312
     old "Хватит на сегодня энергетиков"
-    new "Engenheiros de energia suficientes para hoje"
+    new "Bebidas energéticas suficientes para hoje"
 
     # game/BAG_NPC_CHAR.rpy:493
     old "Читать"
@@ -134,7 +134,7 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:529
     old "Я наелась"
-    new "eu estou cheio"
+    new "Estou cheia"
 
     # game/BAG_NPC_CHAR.rpy:699
     old "Это слишком много для меня"
@@ -186,13 +186,13 @@ translate PortuguesBR strings:
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "{color=#c20000}Салфетки закончились{/color}"
-    new ""
+    new "{color=#c20000}Os guardanapos acabaram{/color}"
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "Вытереть сперму на лице"
-    new ""
+    new "limpe o esperma em seu rosto"
 
     # game/BAG_NPC_CHAR.rpy:1368
     old "Вытереть сперму на груди"
-    new ""
+    new "Limpe o esperma do peito"
 
