@@ -2394,3 +2394,17 @@ translate PortuguesBR fan_meet1_d8955e15:
     # devush "Эх, жаль... Ну ладно..."
     devush "Ah, desculpe... Tudo bem..."
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/ROCK.rpy:762
+translate PortuguesBR alisa_studio1_d40f69b5:
+
+    # alisa "Мы тут скоро выступаем с группой, надеюсь, ты придешь."
+    alisa ""
+
+translate PortuguesBR strings:
+
+    # game/ROCK.rpy:1238
+    old "Почитать последние новости в телефоне"
+    new ""
+

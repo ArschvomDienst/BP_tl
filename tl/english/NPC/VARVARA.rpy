@@ -4484,3 +4484,137 @@ translate english strings:
     old "Зайти к Барбаре (23:00 - 1:00) ({image=smel_.png} 13([allsmel]))"
     new "Visit Barbara from 23:00 to 1:00 ({image=smel_.png} 13([allsmel]))"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/VARVARA.rpy:719
+translate english dia_varv_4a76cb06:
+
+    # varv "Я смотрю, ты уже совсем не стесняешься."
+    varv "I see you're not shy anymore."
+
+# game/NPC/VARVARA.rpy:720
+translate english dia_varv_b3f202ed:
+
+    # gg zadum "Извини, я просто устала носить этот дурацкий лифчик весь день. Но если это проблема, то я надену что-нибудь..."
+    gg zadum "Sorry, I'm just tired of wearing this stupid bra all day. But if it's a problem, then I'll put on something..."
+
+# game/NPC/VARVARA.rpy:721
+translate english dia_varv_1b767e6d:
+
+    # varv "Брось, все в порядке, тут все свои."
+    varv "Come on, it's all right."
+
+# game/NPC/VARVARA.rpy:723
+translate english dia_varv_8ca5a41f:
+
+    # varv "Помню, как ты смущалась, когда увидела меня в душе. А теперь сама разгуливашь по квартире с голой грудью."
+    varv "I remember how embarrassed you were when you saw me in the shower. And now you're walking around the apartment with bare breasts."
+
+# game/NPC/VARVARA.rpy:724
+translate english dia_varv_1a23c679:
+
+    # gg smile "Да, этот город плохо на меня влияет..."
+    gg smile "Yes, this city is a bad influence on me..."
+
+# game/NPC/VARVARA.rpy:725
+translate english dia_varv_9e14b26f:
+
+    # varv "Я думаю, он просто помогает нам понять себя."
+    varv "I think it's just helping us understand ourselves."
+
+# game/NPC/VARVARA.rpy:726
+translate english dia_varv_ccd93ed2:
+
+    # gg zadum "Сложная мысль..."
+    gg zadum "So complicated..."
+
+# game/NPC/VARVARA.rpy:727
+translate english dia_varv_51c7a98e:
+
+    # varv "Ходи как хочешь, Алекс. Я же говорила: это твой дом..."
+    varv "Do what you want, Alex. I told you: this is your home..."
+
+# game/NPC/VARVARA.rpy:728
+translate english dia_varv_1355063f:
+
+    # gg smile "Спасибо, Барбара. Это очень приятно слышать..."
+    gg smile "Thank you, Barbara. That's very nice to hear..."
+
+# game/NPC/VARVARA.rpy:798
+translate english dia_varv_44730aec:
+
+    # gg sad "Мне почему-то неловко покупать что-то в секс-шопах."
+    gg sad "For some reason, I feel shy to buy something in sex shops."
+
+# game/NPC/VARVARA.rpy:799
+translate english dia_varv_acf602a4:
+
+    # varv "Секс-шоп - это такой же магазин, как и любой другой."
+    varv "A sex shop is the same store as any other."
+
+# TODO: Translation updated at 2022-08-05 16:10
+
+# game/NPC/VARVARA.rpy:1217
+translate english varv_dia_menu_d949adde:
+
+    # alex "Ты уже говорила."
+    alex "You already told me."
+
+# game/NPC/VARVARA.rpy:1218
+translate english varv_dia_menu_e027b8b7:
+
+    # varv "Мне не сложно повторить. И я сейчас не про слова."
+    varv "It's not difficult for me to repeat. And I'm not talking about words now."
+
+# game/NPC/VARVARA.rpy:1248
+translate english varv_cleaning_menu_7f7669a5:
+
+    # varv "Ты уже не та скромняжка, что раньше. Но в тебе все еще есть эту чужесная невинность."
+    varv "You're not the same modest girl you used to be. But you still have that wonderful innocence."
+
+# game/NPC/VARVARA.rpy:1249
+translate english varv_cleaning_menu_6ba141be:
+
+    # varv "Не растеряй его... Меня это заводит!"
+    varv "Don't lose it... It turns me on!"
+
+# game/NPC/VARVARA.rpy:1281
+translate english varv_cleaning_menu_56e20db6:
+
+    # alex "Ох... Может мы сегодня обойдемся без швабры?"
+    alex "Oh... Can we do without a mop today?"
+
+# game/NPC/VARVARA.rpy:1282
+translate english varv_cleaning_menu_2939ac71:
+
+    # varv "Ну уж нет. Мне понравилось трахать тебя этой штукой."
+    varv "Well, no. I enjoyed fucking you with this thing."
+
+# game/NPC/VARVARA.rpy:1293
+translate english varv_cleaning_menu_f347e697:
+
+    # alex "Это странно, но я хочу, чтобы ты сделала это!"
+    alex "It's weird, but I want you to do it!"
+
+# game/NPC/VARVARA.rpy:1294
+translate english varv_cleaning_menu_dbee4727:
+
+    # varv "С удовольствием, маленькая шлюшка!"
+    varv "With pleasure, little slut!"
+
+# game/NPC/VARVARA.rpy:1343
+translate english varv_cleaning_menu_e70ebdab:
+
+    # aut "Мысль, что это мама моей подруги, давно отошла на второй план. Да и какая разница, в конце концов..."
+    aut "The idea that this is my friend's mom has long faded into the background. And what's the difference, after all..."
+
+translate english strings:
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem_h}{color=#8c8c8d}{b}Расслабиться{/b}{/color}"
+    new "{#image=fem_h}{color=#8c8c8d}{b}Relax{/b}{/color}"
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem}{b}Расслабиться{/b}"
+    new "{#image=fem}{b}Relax{/b}"
+

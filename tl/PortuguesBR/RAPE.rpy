@@ -2880,3 +2880,11 @@ translate PortuguesBR strings:
     old "Провал"
     new "Fracasso"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/RAPE.rpy:616
+translate PortuguesBR park_rape_df71a421:
+
+    # gg2 zadum "В парке сидит какая-то компания. Среди них есть девушка, вряд ли можно ожидать чего-то плохого."
+    gg2 zadum ""
+

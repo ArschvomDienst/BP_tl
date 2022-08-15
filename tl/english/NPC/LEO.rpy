@@ -1308,3 +1308,11 @@ translate english strings:
     old "{b}У тебя такие сильные руки{/b}"
     new "{b}You have such strong hands{/b}"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/NPC/LEO.rpy:46
+    old "{color=#00ff00}{b}Вам нужна аппаратура для сцены?{/b}{/color}"
+    new "{color=#00ff00}{b}Do you need equipment for the stage?{/b}{/color}"
+

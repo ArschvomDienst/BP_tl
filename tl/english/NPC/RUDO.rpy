@@ -2730,3 +2730,107 @@ translate english strings:
     old "Найти Директора в старой школе ночью"
     new "Find a Director in an old school at night"
 
+# TODO: Translation updated at 2022-08-15 22:13
+
+# game/NPC/RUDO.rpy:1208
+translate english flavie_broom_c42cce50:
+
+    # aut "Проходя мимо мусорки, я увидела Селесту, тетю Флави."
+    aut ""
+
+# game/NPC/RUDO.rpy:1209
+translate english flavie_broom_c3c501c8:
+
+    # gg2 hit "Может девушка наконец сбежала, и тетя в ярости ее ищет?"
+    gg2 hit ""
+
+# game/NPC/RUDO.rpy:1210
+translate english flavie_broom_a4a2bc56:
+
+    # gg2 zadum "Да уж, ярости в ее глазах хватает. Или она только на меня так смотрит?"
+    gg2 zadum ""
+
+# game/NPC/RUDO.rpy:1212
+translate english flavie_broom_7aa40d66:
+
+    # aut "Но нет, Флави не сбежала. Я нашла ее рядом с баскетбольной площадкой, где ее трахал Метла."
+    aut ""
+
+# game/NPC/RUDO.rpy:1214
+translate english flavie_broom_190394b0:
+
+    # aut "На лице девушки была широкая, почти искренняя улыбка."
+    aut ""
+
+# game/NPC/RUDO.rpy:1215
+translate english flavie_broom_b459a059:
+
+    # aut "Так могла улыбаться девочка, играющая со щенком или с кукольным домиком."
+    aut ""
+
+# game/NPC/RUDO.rpy:1217
+translate english flavie_broom_10c0ebf6:
+
+    # aut "Но Флави не играла. Она подставляла свое анальное отверстие под огромный член темнокожего парня."
+    aut ""
+
+# game/NPC/RUDO.rpy:1218
+translate english flavie_broom_4ea171ac:
+
+    # aut "Казалось, Метла разрывает малышку изнутри, на всю длину вгоняя в нее свой длинный прибор."
+    aut ""
+
+# game/NPC/RUDO.rpy:1219
+translate english flavie_broom_52ca0cce:
+
+    # aut "Но Флави лишь мило попискивала. Было видно, что долгие тренировки с Селестой не прошли даром."
+    aut ""
+
+# game/NPC/RUDO.rpy:1221
+translate english flavie_broom_7e7cde0a:
+
+    # aut "Метла поставил девушку на колени и попытался засунуть своего монстра ей в рот как можно глубже."
+    aut ""
+
+# game/NPC/RUDO.rpy:1223
+translate english flavie_broom_640e33f2:
+
+    # aut "Но Метла явно недооценил малышку Флави."
+    aut ""
+
+# game/NPC/RUDO.rpy:1224
+translate english flavie_broom_4bafec6d:
+
+    # aut "Девушка привстала и насадила свою голову на огромный член. Ее рот и горло растянулись до невероятных размеров, но Флави всем своим видом не выражала ни малейшего дискомфорта."
+    aut ""
+
+# game/NPC/RUDO.rpy:1226
+translate english flavie_broom_e03488de:
+
+    # broom "Блять! Щас концу!"
+    broom ""
+
+# game/NPC/RUDO.rpy:1227
+translate english flavie_broom_f1f8cd6f:
+
+    # aut "Мокрый член Метлы выскользнул из податливого горла Флави и красноречиво дергался, готовый взорваться в любую секунду."
+    aut ""
+
+# game/NPC/RUDO.rpy:1229
+translate english flavie_broom_407df0ba:
+
+    # aut "Девушка даже не закрыла глаза, когда горячая сперма падала ей на лицо."
+    aut ""
+
+# game/NPC/RUDO.rpy:1231
+translate english flavie_broom_faa70eef:
+
+    # aut "Метла даже обошелся без пошлых комментариев, а просто отдал Флави деньги."
+    aut ""
+
+# game/NPC/RUDO.rpy:1232
+translate english flavie_broom_32015339:
+
+    # aut "Видимо, девушка смогла его впечатлить."
+    aut ""
+

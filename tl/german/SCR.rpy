@@ -1089,3 +1089,31 @@ translate german strings:
     old "Журнал квестов (J)"
     new "Questlog (J)"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/SCR.rpy:1297
+    old "Нужно больше вдохновения"
+    new ""
+
+    # game/SCR.rpy:1624
+    old "Вдохновение"
+    new ""
+
+    # game/SCR.rpy:2345
+    old "Интимная стрижка"
+    new ""
+
+    # game/SCR.rpy:2346
+    old "Побрито"
+    new ""
+
+    # game/SCR.rpy:2347
+    old "Стрижка"
+    new ""
+
+    # game/SCR.rpy:2348
+    old "Мохнатка"
+    new ""
+

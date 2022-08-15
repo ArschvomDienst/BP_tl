@@ -4842,3 +4842,47 @@ translate german strings:
     old "Принести Валери 2 бутылки вина после 18:00 (Пн,Вт,Чт,Пт) {image=smel_.png}10([allsmel]) {image=sila_.png}7([power])"
     new "Bring Valerie zwei Flaschen Wein 18:00 (Mo,Die,Do,Fr) {image=smel_.png}10([allsmel]) {image=sila_.png}7([power])"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/NPC/LERA.rpy:202
+translate german dia_lera_6c8dc476:
+
+    # lera "Эй, ты, кажется, лифчик где-то потеряла!"
+    lera ""
+
+# game/NPC/LERA.rpy:203
+translate german dia_lera_8c533163:
+
+    # gg smile "Нет, просто за весь день он так натирает везде, что хотя бы дома хочется свободы."
+    gg smile ""
+
+# game/NPC/LERA.rpy:205
+translate german dia_lera_0b42e95e:
+
+    # lera "Да, мне вас большегрудых не понять."
+    lera ""
+
+# game/NPC/LERA.rpy:206
+translate german dia_lera_f557d0bd:
+
+    # gg smile "Я подумала, что у нас тут одни девочки, и это не должно быть проблемой."
+    gg smile ""
+
+# game/NPC/LERA.rpy:207
+translate german dia_lera_62d93e15:
+
+    # lera "Думаю да... То есть... Конечно, Алекс... Ходи как хочешь."
+    lera ""
+
+# game/NPC/LERA.rpy:208
+translate german dia_lera_66d285bf:
+
+    # gg smile "Можешь и сама попробовать, это приятно."
+    gg smile ""
+
+# game/NPC/LERA.rpy:210
+translate german dia_lera_0783f6c2:
+
+    # lera "Я... подумаю над твоим предложением."
+    lera ""
+

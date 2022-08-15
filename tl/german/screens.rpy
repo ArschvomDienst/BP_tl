@@ -314,3 +314,15 @@ translate german strings:
     old "Выйти из игры"
     new "Spiel beenden"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/screens.rpy:840
+    old "Deutsch"
+    new ""
+
+    # game/screens.rpy:841
+    old "Português (BRA)"
+    new ""
+

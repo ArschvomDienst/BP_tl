@@ -1309,3 +1309,11 @@ translate german strings:
     old "{b}У тебя такие сильные руки{/b}"
     new "{b}Du hast so starke Hände{/b}"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/NPC/LEO.rpy:46
+    old "{color=#00ff00}{b}Вам нужна аппаратура для сцены?{/b}{/color}"
+    new ""
+

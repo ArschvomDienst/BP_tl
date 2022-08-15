@@ -622,3 +622,19 @@ translate english strings:
     old "Хватит на сегодня газировки"
     new "Enough soda for today"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/BAG_NPC_CHAR.rpy:1357
+    old "{color=#c20000}Салфетки закончились{/color}"
+    new "{color=#c20000}Napkins are out{/color}"
+
+    # game/BAG_NPC_CHAR.rpy:1357
+    old "Вытереть сперму на лице"
+    new "Wipe the cum on the face"
+
+    # game/BAG_NPC_CHAR.rpy:1357
+    old "Вытереть сперму на груди"
+    new "Wipe the cum on the chest"
+

@@ -1026,3 +1026,11 @@ translate english white_dia_e5766297_1:
     # white "Мисс Нэш..."
     white "Miss Nash..."
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/WHITE.rpy:228
+translate english white_dia_d9e049a5:
+
+    # aut "Полковник пошла к машине, все также не глядя на меня. Я не могла ответить на вопрос, правильно ли она сделала, отпустив преступницу. Но было понятно, что поступить иначе Дебора просто не могла."
+    aut "The colonel came to the car, without looking at me. I could not give the appropriate answer whether she had done the right choise by releasing the criminal. But it was clear that Deborah simply could not do otherwise."
+

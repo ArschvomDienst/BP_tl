@@ -1844,3 +1844,11 @@ translate PortuguesBR strings:
     old "Паук"
     new "Spider"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/script.rpy:6621
+    old "Шейла"
+    new ""
+

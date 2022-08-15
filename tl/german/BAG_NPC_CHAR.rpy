@@ -576,3 +576,19 @@ translate german strings:
     old "Хватит на сегодня газировки"
     new "Genug Brause für heute"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/BAG_NPC_CHAR.rpy:1368
+    old "{color=#c20000}Салфетки закончились{/color}"
+    new ""
+
+    # game/BAG_NPC_CHAR.rpy:1368
+    old "Вытереть сперму на лице"
+    new ""
+
+    # game/BAG_NPC_CHAR.rpy:1368
+    old "Вытереть сперму на груди"
+    new ""
+

@@ -1134,3 +1134,11 @@ translate french strings:
     old "->"
     new ""
 
+# TODO: Translation updated at 2022-08-15 22:19
+
+translate french strings:
+
+    # game/DATA.rpy:389
+    old "{b}Расслабиться{/b}"
+    new ""
+

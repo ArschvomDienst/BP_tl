@@ -3248,3 +3248,239 @@ translate PortuguesBR strings:
     old "Зайти в \"Hot Arctic\" днем"
     new "Vá para 'Hot Arctic' durante o dia"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/CAFE.rpy:1467
+translate PortuguesBR hot_arctic_open_0f38f1a4:
+
+    # amanda "Получается, мы теперь будем работать только по вечерам?"
+    amanda ""
+
+# game/CAFE.rpy:1468
+translate PortuguesBR hot_arctic_open_c34fe084:
+
+    # jane "Ага. И платить обещали больше, чем раньше."
+    jane ""
+
+# game/CAFE.rpy:1469
+translate PortuguesBR hot_arctic_open_4a160974:
+
+    # amanda "Звучит неплохо."
+    amanda ""
+
+# game/CAFE.rpy:1773
+translate PortuguesBR hot_arctic_work_2aa83ada:
+
+    # aut "Бар опустел, но из мужской комнаты еще доносились голоса."
+    aut ""
+
+# game/CAFE.rpy:1787
+translate PortuguesBR rada_glory_wc_dia_a631a010:
+
+    # rada "Привет. Пэрис попросила показать тебе обновленный туалет. Пойдем."
+    rada ""
+
+# game/CAFE.rpy:1788
+translate PortuguesBR rada_glory_wc_dia_1a4fab8b:
+
+    # gg smile "Даже интересно, что там Хозяйка придумала..."
+    gg smile ""
+
+# game/CAFE.rpy:1789
+translate PortuguesBR rada_glory_wc_dia_18094477:
+
+    # rada "По задумке Хозяйки после вашего шоу гости должны идти в Красный Квартал сбрасывать напряжение."
+    rada ""
+
+# game/CAFE.rpy:1790
+translate PortuguesBR rada_glory_wc_dia_dcec07de:
+
+    # rada "Задумка себя оправдала, поток клиентов в Квартал увеличился. Но среди наших гостей есть немало тех, кто возбуждается, глядя на шоу, потом идет в темный уголок, дергает пипирку и уходит домой."
+    rada ""
+
+# game/CAFE.rpy:1793
+translate PortuguesBR rada_glory_wc_dia_05eae359:
+
+    # rada "Это помещение должно исправить проблему. Он разделен на две части. Это мужская."
+    rada ""
+
+# game/CAFE.rpy:1794
+translate PortuguesBR rada_glory_wc_dia_29aef064:
+
+    # gg udiv "Да, наш туалет сильно преобразился."
+    gg udiv ""
+
+# game/CAFE.rpy:1795
+translate PortuguesBR rada_glory_wc_dia_31981685:
+
+    # rada "Вообще-то это уже не туалет. Пойдем в женскую часть, я покажу."
+    rada ""
+
+# game/CAFE.rpy:1798
+translate PortuguesBR rada_glory_wc_dia_533c31cc:
+
+    # rada "Да, обе комнаты поделены на кабинки. Мужская - на три, женская - не две."
+    rada ""
+
+# game/CAFE.rpy:1800
+translate PortuguesBR rada_glory_wc_dia_1a37c8d7:
+
+    # rada "Но это не туалет, как может показаться."
+    rada ""
+
+# game/CAFE.rpy:1801
+translate PortuguesBR rada_glory_wc_dia_14cd165a:
+
+    # gg smile "Ну да, можно было догадаться. И кто здесь будет работать?"
+    gg smile ""
+
+# game/CAFE.rpy:1803
+translate PortuguesBR rada_glory_wc_dia_e781f490:
+
+    # rada "Хозяйка пришлет пару девочек из Комнаты Славы. Многие хотят работать больше одного дня в неделю, да и популярность анонимного секса в последнее время растет."
+    rada ""
+
+# game/CAFE.rpy:1804
+translate PortuguesBR rada_glory_wc_dia_41cb400b:
+
+    # gg zadum "Понятно..."
+    gg zadum ""
+
+# game/CAFE.rpy:1806
+translate PortuguesBR rada_glory_wc_dia_811a856c:
+
+    # rada "Но если ты или кто-то из девочек захочет поработать, никаких проблем. Но только после шоу, разумеется..."
+    rada ""
+
+# game/CAFE.rpy:1807
+translate PortuguesBR rada_glory_wc_dia_afe7829f:
+
+    # gg smile "Я подумаю над этим."
+    gg smile ""
+
+# game/CAFE.rpy:1808
+translate PortuguesBR rada_glory_wc_dia_05515c6f:
+
+    # gg zadum "Значит туалета у нас теперь совсем нет?"
+    gg zadum ""
+
+# game/CAFE.rpy:1809
+translate PortuguesBR rada_glory_wc_dia_1a79eb71:
+
+    # rada "Есть, но он находится отдельно. Для этих комнат понадобилось много места, по этому туалет получился одноместный. Хозяйка считает, что этого должно хватить."
+    rada ""
+
+# game/CAFE.rpy:1810
+translate PortuguesBR rada_glory_wc_dia_0c6d8294:
+
+    # rada "Ну, вроде все. Если будут какие-то вопросы - я в зале."
+    rada ""
+
+# game/CAFE.rpy:1817
+translate PortuguesBR hot_arctic_glory_work_16dc341c:
+
+    # aut "Большинство гостей разошлось, но некоторые направились в Мужскую Комнату, ожидая продолжения. Там даже образовалась небольшая очередь."
+    aut ""
+
+# game/CAFE.rpy:1819
+translate PortuguesBR hot_arctic_glory_work_353ee252:
+
+    # aut "С женской стороны оставались пустые места. Одно из них заняла Джейн, что меня совсем не удивляло."
+    aut ""
+
+# game/CAFE.rpy:1821
+translate PortuguesBR hot_arctic_glory_work_acf31ae4:
+
+    # gg2 zadum "Кажется, кто-то решил не дожидаться своей очереди."
+    gg2 zadum ""
+
+# game/CAFE.rpy:1826
+translate PortuguesBR hot_arctic_glory_work_5a59cac8:
+
+    # gg2 smile "Придется выручать подругу. Сама она может не справиться. И лучше бы снять майку, чтобы не заляпать."
+    gg2 smile ""
+
+# game/CAFE.rpy:1828
+translate PortuguesBR hot_arctic_glory_work_731c33df:
+
+    # aut "Мужчины по ту сторону стенки вели себя по-разному."
+    aut ""
+
+# game/CAFE.rpy:1839
+translate PortuguesBR hot_arctic_glory_work_f4b2d649:
+
+    # aut "Кто-то просто просовывал член и ждал от меня активной работы..."
+    aut ""
+
+# game/CAFE.rpy:1845
+translate PortuguesBR hot_arctic_glory_work_70545797:
+
+    # aut "Кто-то сразу начинал двигать бедрами, и мне нужно было только подставлять ротик под яростные фрикции."
+    aut ""
+
+# game/CAFE.rpy:1851
+translate PortuguesBR hot_arctic_glory_work_cb387ead:
+
+    # aut "Почти все сразу были возбуждены и быстро кончали. Наверно, сказывалось наше горячее шоу."
+    aut ""
+
+# game/CAFE.rpy:1863
+translate PortuguesBR hot_arctic_glory_work_af8b7c69:
+
+    # aut "Помещения заполнила смесь возбуждающих влажных звуком и мужских стонов."
+    aut ""
+
+# game/CAFE.rpy:1864
+translate PortuguesBR hot_arctic_glory_work_b4016679:
+
+    # aut "Девушка из Красного Квартала хладнокровно и профессионально выполняла работу, в то время как Джейн громко стонала, отсасывая незнакомцам, и принимая на грудь их сперму."
+    aut ""
+
+# game/CAFE.rpy:1876
+translate PortuguesBR hot_arctic_glory_work_584e0ff3:
+
+    # aut "От возбуждения голова шла кругом. С каждым глотком горячего семени я все больше чувствовала свою власть над этими мужчинами."
+    aut ""
+
+# game/CAFE.rpy:1877
+translate PortuguesBR hot_arctic_glory_work_8b0b32a9:
+
+    # aut "Я была для них всего лишь бездушным спермоприемником, но я чувствовала себя жрицей секса, дарующей своим адептам высочайшее наслаждение."
+    aut ""
+
+# game/CAFE.rpy:1889
+translate PortuguesBR hot_arctic_glory_work_d7a4fa71:
+
+    # aut "И я решила закончить обряд ритуальным омовением своего лица."
+    aut ""
+
+# game/CAFE.rpy:1901
+translate PortuguesBR hot_arctic_glory_work_347e4fb2:
+
+    # aut "В то время, как я рисовала в своей голове фантастические образы, пытаясь придать процессу сакральный символизм, девушка из Красного Квартала буднично вытерла подбородок рукой и ушла. Ее рабочая смена была окончена."
+    aut ""
+
+# game/CAFE.rpy:1902
+translate PortuguesBR hot_arctic_glory_work_01fce06b:
+
+    # aut "Джейн просто грязно отсосала гостям, получив при этом огромное удовольствие. Мы все делали одно и то же, но каждый видел в этом какой-то свой смысл."
+    aut ""
+
+# game/CAFE.rpy:1907
+translate PortuguesBR hot_arctic_glory_work_b6da05cc:
+
+    # aut "Но было и кое-что общее. Мы все заработали немного денег. А это всегда приятно, не так ли?"
+    aut ""
+
+# game/CAFE.rpy:1921
+translate PortuguesBR hot_arctic_glory_work_1372d760:
+
+    # gg2 zadum "Думаю, не в этот раз..."
+    gg2 zadum ""
+
+translate PortuguesBR strings:
+
+    # game/CAFE.rpy:1774
+    old "Поработать в Женской Комнате"
+    new ""
+

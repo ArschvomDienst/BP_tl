@@ -1454,3 +1454,407 @@ translate english strings:
     old "Прийти на репетицию в другой день"
     new "Come to rehearsal the next day"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/ALISA.rpy:230
+translate english pearl_alisa_car2_5658dd64:
+
+    # aut "Некоторые из моих поступков влияли не только на меня, но и на других."
+    aut "Some of my actions influenced not only me, but also others."
+
+# game/NPC/ALISA.rpy:418
+translate english alisa_concert_3cf4c25d:
+
+    # aut "Я решила в этот раз не брать машину. Вдруг перед концертом захочется выпить?"
+    aut "I decided not to take the car this time. What if you want a drink before the concert?"
+
+# game/NPC/ALISA.rpy:676
+translate english alisa_pool_79e23970:
+
+    # aut "Алиса в одиночестве плавала в бассейне. Фроста видно не было."
+    aut "Alice was swimming alone in the pool. I couldn't see Frost."
+
+# game/NPC/ALISA.rpy:678
+translate english alisa_pool_5685d964:
+
+    # aut "Алиса сразу заметила меня и подплыла поближе."
+    aut "Alice immediately noticed me and swam closer."
+
+# game/NPC/ALISA.rpy:679
+translate english alisa_pool_dcacdca6:
+
+    # aut "Купальника на ней не было."
+    aut "She wasn't wearing a swimsuit."
+
+# game/NPC/ALISA.rpy:680
+translate english alisa_pool_1c7ecb51:
+
+    # alisa "Рада, что ты зашла. Пусть тебя не смущает мой вид, я не надеваю купальник, когда плаваю одна."
+    alisa "Rada, nice to see you. Don't be confused by my appearance, I don't wear a swimsuit when I swim alone."
+
+# game/NPC/ALISA.rpy:681
+translate english alisa_pool_a72e6d71:
+
+    # gg zadum "Да, я понимаю."
+    gg zadum "It's ok."
+
+# game/NPC/ALISA.rpy:682
+translate english alisa_pool_04bec915:
+
+    # aut "Я старалась не пожирать глазами прекрасное тело Алисы и говорить максимально непринужденно."
+    aut "I tried not to gaze devouringly at Alice's beautiful body and speak as casually as possible."
+
+# game/NPC/ALISA.rpy:684
+translate english alisa_pool_9ffe9858:
+
+    # alisa "Я схожу за полотенцем, дай мне пару минут."
+    alisa "I'm going to get a towel, give me a couple of minutes."
+
+# game/NPC/ALISA.rpy:685
+translate english alisa_pool_3ca5aacf:
+
+    # gg2 sad "Какая же она красивая..."
+    gg2 sad "How beautiful she is..."
+
+# game/NPC/ALISA.rpy:687
+translate english alisa_pool_2adf8943:
+
+    # alisa "Так что ты там хотела обсудить? Очередной бред из желтой прессы?"
+    alisa "So what did you want to discuss there? Another rubbish from the yellow press?"
+
+# game/NPC/ALISA.rpy:688
+translate english alisa_pool_1761fd52:
+
+    # gg zadum "Я сейчас и сама понимаю, что это было глупо. Просто я слышала, что журналисты..."
+    gg zadum "I see that it was stupid. I just heard that journalists.."
+
+# game/NPC/ALISA.rpy:689
+translate english alisa_pool_7ddcba2b:
+
+    # alisa "Это не журоналисты, Алекс. Давай присядем."
+    alisa "They're not journalists, Alex. Let's sit down."
+
+# game/NPC/ALISA.rpy:691
+translate english alisa_pool_31c92a1c:
+
+    # aut "Я думала, что Алиса хоть что-то наденет на себя, но ее, похоже, все устраивало."
+    aut "I thought Alice would at least put something on, but she seemed to be satisfied with everything."
+
+# game/NPC/ALISA.rpy:692
+translate english alisa_pool_70ba5965:
+
+    # gg zadum "Просто я прочитала это и подумала, что... в общем..."
+    gg zadum "I just read it and thought that... well..."
+
+# game/NPC/ALISA.rpy:715
+translate english alisa_pool_d4a081e1:
+
+    # aut "Я села рядом с Алисой."
+    aut "I sat down next to Alice."
+
+# game/NPC/ALISA.rpy:716
+translate english alisa_pool_b15caabc:
+
+    # alex "Просто ты звезда, а я обычная фанатка..."
+    alex "It's just that...you know... you're a star, and I'm an ordinary fan..."
+
+# game/NPC/ALISA.rpy:717
+translate english alisa_pool_db6ca08e:
+
+    # alisa "Не хочется чувствовать себя использованной?"
+    alisa "Don't want to feel used?"
+
+# game/NPC/ALISA.rpy:718
+translate english alisa_pool_0397c699:
+
+    # alex "Спасибо, что помогла сформулировать."
+    alex "Thank you for helping me to find words."
+
+# game/NPC/ALISA.rpy:719
+translate english alisa_pool_c739135f:
+
+    # alisa "Ты уже давно не обычная фанатка. Мы коллеги. Привыкай..."
+    alisa "You're not an ordinary fan anymore. We are colleagues. Get used to it..."
+
+# game/NPC/ALISA.rpy:720
+translate english alisa_pool_c0e111ab:
+
+    # alex "Да, но когда я была у тебя в прошлый раз, я смотрела на Фроста и ту девушку, испачканную спермой... Ведь раньше я мечтала быть на ее месте..."
+    alex "Yeah, but the last time I was in your shoes, I was looking at Frost and that girl smeared with cum... After all, I used to dream of being in her place..."
+
+# game/NPC/ALISA.rpy:722
+translate english alisa_pool_17e91cc9:
+
+    # alisa "Это значит, что твоя самооценка выросла. Ты понимаешь, что достойна большего."
+    alisa "It means that your self-esteem has grown. You know that you deserve more."
+
+# game/NPC/ALISA.rpy:723
+translate english alisa_pool_ef88b6c1:
+
+    # alisa "Я не использовала тебя ни секунды, Алекс. Мне просто нравится твое общество. Впрочем, я уже объясняла это."
+    alisa "I didn't use you for a second, Alex. I just like your company. However, I have already explained this."
+
+# game/NPC/ALISA.rpy:746
+translate english alisa_pool_9354063a:
+
+    # alex "Просто я сама хочу всего добиться в музыке, не становясь любовницей известного продюссера или типа того."
+    alex "It's just that I want to achieve everything in music by own strength, without becoming the lover of a famous producer or something."
+
+# game/NPC/ALISA.rpy:748
+translate english alisa_pool_be5f7b4a:
+
+    # alisa "Ты все больше напоминаешь меня... Я расскажу одну историю."
+    alisa "You look more and more like me... I'll tell you a story."
+
+# game/NPC/ALISA.rpy:750
+translate english alisa_pool_1024cf0d:
+
+    # alisa "Это было десять лет назад. Я была студенткой, но параллельно училась вокалу и хотела стать звездой."
+    alisa "That was ten years ago. I was a student, but I studied vocal at the same time and wanted to become a star."
+
+# game/NPC/ALISA.rpy:751
+translate english alisa_pool_9dcead6b:
+
+    # alisa "Я отправляла свои записи на разные лейблы, но мне никто не отвечал. Потом кто-то посоветовал прикладывать к кассетам еще и свою фотографию. Это сработало, но не так, как мне хотелось."
+    alisa "I sent my recordings to different labels, but no one answered me. Then someone advised me to attach my photo to the cassettes as well. It worked, but not the way I wanted it to."
+
+# game/NPC/ALISA.rpy:752
+translate english alisa_pool_fbb1bf02:
+
+    # alisa "Мне перезвонил один известный продюссер, и я вне себя от счастья поехала у нему на прослушивание."
+    alisa "I got a call back from a well-known producer, and I was overjoyed to go to his audition."
+
+# game/NPC/ALISA.rpy:754
+translate english alisa_pool_3f419378:
+
+    # alisa "Перед визитом я долго распевалась и репетировала ответы на возможные вопросы."
+    alisa "Before the visit, I sang for a long time and rehearsed answers to possible questions."
+
+# game/NPC/ALISA.rpy:755
+translate english alisa_pool_9832f7f1:
+
+    # alisa "Да, я была юна и наивна."
+    alisa "Yes, I was young and naive."
+
+# game/NPC/ALISA.rpy:757
+translate english alisa_pool_1eeb68ad:
+
+    # alisa "Я пришла на студию, поздоровалась, и спустя минуту известный продюссер уже спустил штаны, недвусмысленно предлагая мне легкий путь в шоу-бизнес."
+    alisa "I came to the studio, said hello and a minute later the famous producer had already pulled down his pants, unequivocally offering me an easy way into show business."
+
+# game/NPC/ALISA.rpy:759
+translate english alisa_pool_0998c0f1:
+
+    # alisa "Прекрасно помню степень своего удивления и омерзения."
+    alisa "I perfectly remember the degree of my surprise and disgust."
+
+# game/NPC/ALISA.rpy:760
+translate english alisa_pool_d113524a:
+
+    # alisa "Таких походов было несколько. Все проходили примерно по одному сценарию. Тогда я поняла, что тактику нужно менять."
+    alisa "There were several such attempts. Everythong followed approximately the same scenario. Then I realized that tactics needed to be changed."
+
+# game/NPC/ALISA.rpy:783
+translate english alisa_pool_5790650b:
+
+    # alex "Да уж, об этом в Википедии не прочитаешь. А дальше что было?"
+    alex "Yeah, you won't read about it on Wikipedia. What happened next?"
+
+# game/NPC/ALISA.rpy:785
+translate english alisa_pool_f251241b:
+
+    # alisa "А дальше ты знаешь, наверно. Я познакомилась с Фростом на каком-то мелком сейшне. Мы создали группу и разъебали чарты по всей стране. Извини за грубость, но иначе не скажешь."
+    alisa "And then probably you know. I met Frost at some small session. We formed a band and fucked up the charts all over the country. I'm sorry for being rude, but I can't say differently."
+
+# game/NPC/ALISA.rpy:786
+translate english alisa_pool_80e2db04:
+
+    # alisa "Звучит, конечно, легко, но страшно вспомнить все проблемы, с которыми мы столкнулись на пути. Но об этом я и так рассказываю в каждом интервью."
+    alisa "It sounds easy, of course, but it's scary to remember all the problems we encountered on the way. But I talk about this in every interview anyway."
+
+# game/NPC/ALISA.rpy:787
+translate english alisa_pool_208a4736:
+
+    # alisa "Зато теперь никто меня не сможет упрекнуть, что я заработала славу искусственными сиськами. Как раз на эти самые сиськи мне пришлось зарабатывать своими силами."
+    alisa "But now no one can blame me that I earned fame with fake tits. I had to earn money on my own for these ."
+
+# game/NPC/ALISA.rpy:810
+translate english alisa_pool_cfa033da:
+
+    # alisa "По этому твое желание добиться всего талантом, а не вагиной, мне очень понятно."
+    alisa "Therefore, your desire to achieve everything with talent and not with a vagina, is very clear to me"
+
+# game/NPC/ALISA.rpy:811
+translate english alisa_pool_71d00179:
+
+    # alex "Ты такая крутая... Бесконечно восхищаюсь тобой."
+    alex "You're so cool... I admire you endlessly."
+
+# game/NPC/ALISA.rpy:812
+translate english alisa_pool_0cda4c17:
+
+    # alisa "Не надо меня идеализировать. В других аспектах жизни я была не настолько чистоплотна."
+    alisa "Don't idealize me. In other aspects of life, I was not so holy."
+
+# game/NPC/ALISA.rpy:836
+translate english alisa_pool_84e9b5d6:
+
+    # alex "Что ты имеешь в виду?"
+    alex "What are you talking about?"
+
+# game/NPC/ALISA.rpy:838
+translate english alisa_pool_39c376c7:
+
+    # alisa "Ну, однажды я подрочила старому преподу за оценку."
+    alisa "Well, once I jerked off an old teacher for a grade."
+
+# game/NPC/ALISA.rpy:839
+translate english alisa_pool_4125d3cc:
+
+    # gg udiv "Серьезно?!"
+    gg udiv "What?"
+
+# game/NPC/ALISA.rpy:841
+translate english alisa_pool_2cff1a12:
+
+    # alisa "Ну а что? Это был самый простой путь, и мне не хотелось тратить время на подготовку к тупому экзамену."
+    alisa "Well, why not? It was the easiest way, and I didn't want to waste time preparing for a stupid exam.."
+
+# game/NPC/ALISA.rpy:842
+translate english alisa_pool_12d44f73:
+
+    # alisa "Я сделала это прямо в аудитории, когда все ушли."
+    alisa "I did it right in the lecture hall when everyone left."
+
+# game/NPC/ALISA.rpy:845
+translate english alisa_pool_c6f443ac:
+
+    # alisa "Ну а так по мелочи: когда нечем в баре расплатиться, или когда за превыщение останавливают..."
+    alisa "Well, as for the little things: when there is nothing to pay in the bar or when I was stoped for speeding..."
+
+# game/NPC/ALISA.rpy:846
+translate english alisa_pool_c34bb002:
+
+    # alisa "Сейчас я себе такие выходки позволить не могу, конечно, а по юности всякое бывало."
+    alisa "Now I can't afford such antics, of course, but in my youth, everything happened."
+
+# game/NPC/ALISA.rpy:848
+translate english alisa_pool_dcb8f685:
+
+    # gg udiv "Да уж... Такое точно не пишут в Википедии."
+    gg udiv "Yeah... This is definitely not written in Wikipedia."
+
+# game/NPC/ALISA.rpy:850
+translate english alisa_pool_e7b0952b:
+
+    # alisa "Ты так искренне удивляешься. Я уверена, у тебя тоже найдется пара-тройка подобных историй, не так ли?"
+    alisa "You're so genuinely surprised. I'm sure you have a couple of similar stories too, don't you?"
+
+# game/NPC/ALISA.rpy:852
+translate english alisa_pool_595f79e9:
+
+    # gg zadum "Ну..."
+    gg zadum "Well..."
+
+# game/NPC/ALISA.rpy:854
+translate english alisa_pool_54fcf92c:
+
+    # alisa "Да ладно тебе! Я тебе уже всякого рассказала. Теперь твоя очередь."
+    alisa "Come on! I've already told you everything. Now it's your turn."
+
+# game/NPC/ALISA.rpy:877
+translate english alisa_pool_1a3b29af:
+
+    # alex "Ну, я как-то попросила помощи и одного парня, а он положил мне в руки свой член, размером с мою ногу."
+    alex "Well, I once asked one guy for help, and he put his penis, the size of my leg, in my hands."
+
+# game/NPC/ALISA.rpy:878
+translate english alisa_pool_2548a2e6:
+
+    # alex "А мои уроки сценического мастерства закончились групповым сексом."
+    alex "My stage lessons ended with group sex."
+
+# game/NPC/ALISA.rpy:880
+translate english alisa_pool_b884e212:
+
+    # alex "А еще я сосала у дальнобойщика за деньги."
+    alex "I also sucked at a trucker for money."
+
+# game/NPC/ALISA.rpy:882
+translate english alisa_pool_43b33683:
+
+    # alex "А еще я работала вебкам-моделью, не показывая лицо."
+    alex "Also worked as a webcam model without showing my face."
+
+# game/NPC/ALISA.rpy:905
+translate english alisa_pool_a9fbdf98:
+
+    # alex "А еще... Алиса???"
+    alex "And also... Alice???"
+
+# game/NPC/ALISA.rpy:906
+translate english alisa_pool_d3bd8b30:
+
+    # alisa "..."
+    alisa "..."
+
+# game/NPC/ALISA.rpy:909
+translate english alisa_pool_c794d86e:
+
+    # gg udiv "Оу..."
+    gg udiv "Oh..."
+
+# game/NPC/ALISA.rpy:912
+translate english alisa_pool_fe5fa1da:
+
+    # aut "Алиса спокойно мастурбировала рядом со мной."
+    aut "Alice was calmly masturbating next to me."
+
+# game/NPC/ALISA.rpy:915
+translate english alisa_pool_01fa4e66:
+
+    # alisa "Ох... Извини... Я..."
+    alisa "Oh... Sorry... I..."
+
+# game/NPC/ALISA.rpy:916
+translate english alisa_pool_6a3b530e:
+
+    # gg zadum "..."
+    gg zadum "..."
+
+# game/NPC/ALISA.rpy:919
+translate english alisa_pool_12308ab7:
+
+    # alisa "Что-то меня накрыло, от этих разговоров. Прости, представляю, как тебе сейчас неловко."
+    alisa "Something covered me from these conversations. I'm sorry, I can imagine how uncomfortable you are right now."
+
+# game/NPC/ALISA.rpy:920
+translate english alisa_pool_bbd188d7:
+
+    # aut "Алиса вытащила пальцы из киски, но продолжала легонько поглаживать ее."
+    aut "Alice pulled her fingers out of her pussy, but continued to gently stroke her."
+
+# game/NPC/ALISA.rpy:921
+translate english alisa_pool_db111217:
+
+    # alisa "Слушай, ты не могла бы оставить меня одну. Мне надо кое-то сделать. Ну, ты понимаешь..."
+    alisa "Listen, you couldn't leave me alone. I have to do something. Well, you know..."
+
+# game/NPC/ALISA.rpy:922
+translate english alisa_pool_2297e855:
+
+    # gg zadum "Д-да... Конечно."
+    gg zadum "Y-yes... Sure."
+
+# game/NPC/ALISA.rpy:923
+translate english alisa_pool_a0d17534:
+
+    # alisa "Заезжай в любой другой день, я всегда рада тебя видеть."
+    alisa "Come by any other day, I'm always glad to see you."
+
+# game/NPC/ALISA.rpy:948
+translate english alisa_pool_c7dc7d18:
+
+    # aut "Я уходила со странным чувством. Ведь я понимала, что прямо сейчас за моей спиной голая Алиса Дарк мастурбирует, возбужденная моими рассказами о жизни. Сюр какой-то..."
+    aut "I left with a strange feeling. After all, I knew that right now, behind me, naked Alice Dark is masturbating, excited by my stories about life. That's unbelievable"
+

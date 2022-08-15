@@ -90,3 +90,11 @@ translate PortuguesBR strings:
     old "Предыдущий канал"
     new "Canal anterior"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/flat.rpy:114
+    old "Нижнее белье"
+    new ""
+

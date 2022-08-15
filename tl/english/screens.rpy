@@ -326,3 +326,15 @@ translate english strings:
     old "Выйти из игры"
     new "Exit game"
 
+# TODO: Translation updated at 2022-06-23 14:51
+
+translate english strings:
+
+    # game/screens.rpy:838
+    old "Deutsch"
+    new "Deutsch"
+
+    # game/screens.rpy:839
+    old "Português (BRA)"
+    new "Português (BRA)"
+

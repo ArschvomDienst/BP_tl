@@ -3547,3 +3547,11 @@ translate english strings:
     old "Хочу посмотреть на вас"
     new "I want to watch"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/RAPE.rpy:474
+translate english park_rape_df71a421:
+
+    # gg2 zadum "В парке сидит какая-то компания. Среди них есть девушка, вряд ли можно ожидать чего-то плохого."
+    gg2 zadum "Some guys are sitting in the park. There is a girl among them, you can hardly expect anything bad."
+

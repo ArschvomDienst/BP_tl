@@ -2510,3 +2510,11 @@ translate german strings:
     old "{#image=cour}{b}Просунуть руку{/b}"
     new "{#image=cour}{b}Streck die Hand aus{/b}"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/RANDOM_EVENTS.rpy:775
+translate german finding_f49163ee:
+
+    # aut "Я нашла банку колы."
+    aut ""
+

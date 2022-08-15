@@ -2208,3 +2208,33 @@ translate PortuguesBR strings:
     old "{b}Согласиться{/b}"
     new "{b}Concordo{/b}"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/RED.rpy:1021
+translate PortuguesBR martina_mist_dp_d851eba7:
+
+    # martina "Конечно! Я боюсь потерять член в твоей огроной вагине."
+    martina ""
+
+# game/RED.rpy:1218
+translate PortuguesBR martina_mist_dp_b4762879:
+
+    # aut "Бразки спермы внутри меня не прекращались. Казалось, меня наполняют из шланга"
+    aut ""
+
+# game/RED.rpy:1259
+translate PortuguesBR martina_mist_dp_86dbae5a:
+
+    # aut "Хозяйка быстро дрочила каменный член с толстыми венами, а ее большие яйца покачивались перед моим лицом."
+    aut ""
+
+translate PortuguesBR strings:
+
+    # game/RED.rpy:483
+    old "{color=#8c8c8d}{b}Заплатить (150$){/b}{/color}"
+    new ""
+
+    # game/RED.rpy:483
+    old "{b}Заплатить (150$){/b}"
+    new ""
+

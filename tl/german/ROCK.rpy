@@ -2422,3 +2422,17 @@ translate german fan_meet1_d8955e15:
     # devush "Эх, жаль... Ну ладно..."
     devush "Schade ... Naja gut ..."
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/ROCK.rpy:762
+translate german alisa_studio1_d40f69b5:
+
+    # alisa "Мы тут скоро выступаем с группой, надеюсь, ты придешь."
+    alisa ""
+
+translate german strings:
+
+    # game/ROCK.rpy:1238
+    old "Почитать последние новости в телефоне"
+    new ""
+

@@ -178,3 +178,11 @@ translate german strings:
     old "Наряд для особых случаев"
     new "Spezialbekleidung"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/flat.rpy:114
+    old "Нижнее белье"
+    new ""
+

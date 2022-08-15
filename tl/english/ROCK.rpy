@@ -2423,3 +2423,17 @@ translate english fan_meet1_d8955e15:
     # devush "Эх, жаль... Ну ладно..."
     devush "Oh, it's a pity... Well okay..."
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/ROCK.rpy:762
+translate english alisa_studio1_d40f69b5:
+
+    # alisa "Мы тут скоро выступаем с группой, надеюсь, ты придешь."
+    alisa "We're playing with a band here soon, I hope you'll come to see it."
+
+translate english strings:
+
+    # game/ROCK.rpy:1238
+    old "Почитать последние новости в телефоне"
+    new "Read the latest news on your phone"
+

@@ -2245,3 +2245,33 @@ translate english strings:
     old "{b}Согласиться{/b}"
     new "{b}Agree{/b}"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/RED.rpy:1021
+translate english martina_mist_dp_d851eba7:
+
+    # martina "Конечно! Я боюсь потерять член в твоей огроной вагине."
+    martina "Of course! I'm afraid of losing my dick in your huge vagina."
+
+# game/RED.rpy:1218
+translate english martina_mist_dp_b4762879:
+
+    # aut "Бразки спермы внутри меня не прекращались. Казалось, меня наполняют из шланга"
+    aut "The spurts of cum inside me did not stop. It felt like I was being filled from a hose"
+
+# game/RED.rpy:1259
+translate english martina_mist_dp_86dbae5a:
+
+    # aut "Хозяйка быстро дрочила каменный член с толстыми венами, а ее большие яйца покачивались перед моим лицом."
+    aut "Mistress quickly jerked off a stone penis with thick veins, and her big balls swayed in front of my face."
+
+translate english strings:
+
+    # game/RED.rpy:483
+    old "{color=#8c8c8d}{b}Заплатить (150$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Pay (150$){/b}{/color}"
+
+    # game/RED.rpy:483
+    old "{b}Заплатить (150$){/b}"
+    new "{b}Pay (150$){/b}"
+

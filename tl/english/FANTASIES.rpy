@@ -686,3 +686,15 @@ translate english strings:
     old "Зарегистрироваться на ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
     new "Register on ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/FANTASIES.rpy:20
+    old "{#image=cour_h}{color=#8c8c8d}{b}Зарегистрироваться{/b}{/color}"
+    new ""
+
+    # game/FANTASIES.rpy:20
+    old "{#image=cour}{b}Зарегистрироваться{/b}"
+    new "{#image=cour}{b}Sign up{/b}"
+

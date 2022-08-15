@@ -194,3 +194,15 @@ translate PortuguesBR strings:
     old "Полупрозрачное белье"
     new "Calcinha trasparente"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/EDA and SHOPS.rpy:435
+    old "{image=smel_.png} {color=#8c8c8d}Купить{/color}"
+    new ""
+
+    # game/EDA and SHOPS.rpy:437
+    old "{image=smel_.png} Купить"
+    new ""
+

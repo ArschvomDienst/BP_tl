@@ -2508,3 +2508,101 @@ translate english dia_michael_93e0aea2:
     # gg2 hit "Тины нет на посту. Неужали я снова застану голубков за любовными утехами?"
     gg2 hit "Tina is not on duty. Am I really going to find lovebirds in bed again?"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/MICHAEL.rpy:265
+translate english repa_action_142a3770:
+
+    # rick "Ого! У нас сегодня гости!"
+    rick "Wow! We have guests today!"
+
+# game/NPC/MICHAEL.rpy:266
+translate english repa_action_dcc7d139:
+
+    # owl "Решила послушать, что вы тут играете. А то что я за менеджер такой?"
+    owl "I decided to listen to what you're playing here. How can I be a manager if I don't do that?"
+
+# game/NPC/MICHAEL.rpy:270
+translate english repa_action_d1629678:
+
+    # gg hit "Мадемуазель? А чего это ты такой вежливый стал вдруг?"
+    gg hit "Mademoiselle? Why are you being so polite all of a sudden?"
+
+# game/NPC/MICHAEL.rpy:273
+translate english repa_action_51c68c81:
+
+    # gg smile "В светское общество четырнадцатого века?"
+    gg smile "Into the secular society of the fourteenth century?"
+
+# game/NPC/MICHAEL.rpy:309
+translate english repa_action_e776ef19:
+
+    # ow smile "Честно вам скажу, новый материал - просто огонь!"
+    ow smile "Honestly, the new stuff is just fire!"
+
+# game/NPC/MICHAEL.rpy:310
+translate english repa_action_a8222dcd:
+
+    # ow smile "Угадываются нотки \"Lime Tree\", но с женским вокалом звучит совсем иначе. Да, пока не хватает сыгранности, но репетиций было слишком мало."
+    ow smile " I hear the notes of \"Lime Tree\", but with female vocals it sounds completely different. Yes, there is not enough teamwork yet, but there were too few rehearsals."
+
+# game/NPC/MICHAEL.rpy:311
+translate english repa_action_e6b18487:
+
+    # ow smile "Я, кажется, знаю, для какой площадки ваши песни отлично подойдут. Я буду с ними договариваться, а вы пока продолжайте репетировать."
+    ow smile "I think I know which stage your songs are perfect for. I will negotiate with owners and you can continue rehearsals."
+
+# game/NPC/MICHAEL.rpy:312
+translate english repa_action_4843e3d4:
+
+    # ow smile "Кстати, Алекс..."
+    ow smile "By the way, Alex..."
+
+# game/NPC/MICHAEL.rpy:314
+translate english repa_action_50cb60f3:
+
+    # gg sad "Да?"
+    gg sad "Yes?"
+
+# game/NPC/MICHAEL.rpy:315
+translate english repa_action_c2147a56:
+
+    # owl "У тебя очень приятный голос, ты молодец. Но даже на репетиции я чувствую в тебе какую-то зажатость."
+    owl "You have a charming voice, you're doing great. But even at the rehearsal, I feel a kind of tightness in you."
+
+# game/NPC/MICHAEL.rpy:316
+translate english repa_action_fa4d1d90:
+
+    # owl "Было бы полезно взять несколько уроков сценического мастерства, или что-то в этом роде."
+    owl "It would be useful to take some stage lessons, or something like that."
+
+# game/NPC/MICHAEL.rpy:320
+translate english repa_action_f8b69e6b:
+
+    # kian "Одна моя работница как раз записалась на какие-то курсы по этой теме. Говорит, какая-то известная рокерша за 5 занятий делает рок-звезд."
+    kian "One of my employees just signed up for some courses on this topic. He says some famous rocker turned to rock stars in 5 classes."
+
+# game/NPC/MICHAEL.rpy:321
+translate english repa_action_01cbdb18:
+
+    # owl "Скорее всего она говорит о Рут Лейн. Я немного знакома с ней, и слышала, что она открыла курсы. В прошлом она была гимнасткой, а потом собрала группу."
+    owl "She's probably talking about Ruth Lane. I know her a little and I heard that she opened courses. In the past, she was a gymnast and then she created a group."
+
+# game/NPC/MICHAEL.rpy:322
+translate english repa_action_2d15ed76:
+
+    # owl "Они играют очень тяжелое музло, прямо скажем, на любителя. Но порвать зал эта девочка может, без вопросов."
+    owl "They play very heavy music, but tastes differ, you know. Anyway this girl can tear up the hall, I'm sure."
+
+# game/NPC/MICHAEL.rpy:323
+translate english repa_action_201e1bda:
+
+    # kian "Она преподает в танцевальной студии где-то на Улице Роз. Попробуй к ней сходить."
+    kian "She teaches at a dance studio somewhere on Rose Street. Try to go to her."
+
+# game/NPC/MICHAEL.rpy:333
+translate english repa_action_3945eba6:
+
+    # gg smile "Хорошо, я постараюсь найти время."
+    gg smile "Okay, I'll try to find the time."
+

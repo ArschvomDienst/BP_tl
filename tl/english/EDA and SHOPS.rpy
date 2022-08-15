@@ -680,3 +680,15 @@ translate english strings:
     old "Полупрозрачное белье"
     new "Almost diaphanous underwear"
 
+# TODO: Translation updated at 2022-06-23 14:36
+
+translate english strings:
+
+    # game/EDA and SHOPS.rpy:435
+    old "{image=smel_.png} {color=#8c8c8d}Купить{/color}"
+    new "{image=smel_.png} {color=#8c8c8d}Buy{/color}"
+
+    # game/EDA and SHOPS.rpy:437
+    old "{image=smel_.png} Купить"
+    new "{image=smel_.png} Buy"
+

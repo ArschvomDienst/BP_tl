@@ -502,3 +502,23 @@ translate english strings:
     old "Дождаться приезда Майкла в 12:00"
     new "Wait for Michael's arrival at 12:00"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/stats.rpy:881
+translate english stat_f3e92af7:
+
+    # gg2 sad "Блять, как же хочется курить! Ни о чем другом думать не могу!"
+    gg2 sad "Fuck, I want to buy! I can't think of anything else!"
+
+# game/stats.rpy:887
+translate english stat_8166ad89:
+
+    # gg2 sad "Я уже давно не курила. Тяжело сосредоточиться на чем-то."
+    gg2 sad "I haven't smoked for a long time. It's hard to focus on something."
+
+# game/stats.rpy:1146
+translate english stat_c8b4eb7a:
+
+    # gg2 hit "У меня теперь достаточно смелости, чтобы ходить по квартире теплесс."
+    gg2 hit "It's not enough courage to walk around the apartment topless."
+

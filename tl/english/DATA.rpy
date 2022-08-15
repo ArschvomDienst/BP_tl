@@ -1530,3 +1530,27 @@ translate english strings:
     old "([mood_inf_[30][2]] мин.)"
     new "([mood_inf_[30][2]] min.)"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/DATA.rpy:2278
+    old "Дом Алисы"
+    new "Alice's House"
+
+    # game/DATA.rpy:3867
+    old "Мужская комната"
+    new "Men's room"
+
+    # game/DATA.rpy:3875
+    old "Женская комната"
+    new "Women's room"
+
+# TODO: Translation updated at 2022-08-05 16:10
+
+translate english strings:
+
+    # game/DATA.rpy:389
+    old "{b}Расслабиться{/b}"
+    new "{b}Relax{/b}"
+

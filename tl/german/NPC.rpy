@@ -2290,3 +2290,31 @@ translate german strings:
     old "Я могу заниматься йогой с Валери дома (6:00 кроме Вт и Чт)"
     new "Ich kann mit Valerie Yoga machen (6:00 außer Dienstag und Donnerstag)"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/NPC.rpy:1779
+    old "Я могу играть с Руби в теннис"
+    new ""
+
+    # game/NPC.rpy:2344
+    old "Лео Вульф"
+    new ""
+
+    # game/NPC.rpy:2644
+    old "Виктора"
+    new ""
+
+    # game/NPC.rpy:3067
+    old "Я могу заниматься сексом со Снейком по вечерам."
+    new ""
+
+    # game/NPC.rpy:3148
+    old "Джилл Бауэрман"
+    new ""
+
+    # game/NPC.rpy:3588
+    old "Скарлет Купер"
+    new ""
+

@@ -1108,3 +1108,11 @@ translate PortuguesBR strings:
     old "{b}У тебя такие сильные руки{/b}"
     new "{b}Suas mãos são tão fortes{/b}"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/NPC/LEO.rpy:46
+    old "{color=#00ff00}{b}Вам нужна аппаратура для сцены?{/b}{/color}"
+    new ""
+

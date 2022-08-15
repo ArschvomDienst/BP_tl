@@ -4857,3 +4857,47 @@ translate english alex_val_dildo_night_e2ee4120:
     # aut "Я чувствовала ее горячее слегка ускоренное дыхание."
     aut "I could feel her hot, slightly accelerated breathing."
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/LERA.rpy:202
+translate english dia_lera_6c8dc476:
+
+    # lera "Эй, ты, кажется, лифчик где-то потеряла!"
+    lera "Hey, you seem to have lost your bra somewhere!"
+
+# game/NPC/LERA.rpy:203
+translate english dia_lera_8c533163:
+
+    # gg smile "Нет, просто за весь день он так натирает везде, что хотя бы дома хочется свободы."
+    gg smile "No, the whole day it rubs everywhere so much that at least at home I want to have some freedom."
+
+# game/NPC/LERA.rpy:205
+translate english dia_lera_0b42e95e:
+
+    # lera "Да, мне вас большегрудых не понять."
+    lera "Oh, problems of big boobs."
+
+# game/NPC/LERA.rpy:206
+translate english dia_lera_f557d0bd:
+
+    # gg smile "Я подумала, что у нас тут одни девочки, и это не должно быть проблемой."
+    gg smile "I thought that we have only girls here and it shouldn't be a problem."
+
+# game/NPC/LERA.rpy:207
+translate english dia_lera_62d93e15:
+
+    # lera "Думаю да... То есть... Конечно, Алекс... Ходи как хочешь."
+    lera "I think so... That is... Of course, Alex... Do whatever you want."
+
+# game/NPC/LERA.rpy:208
+translate english dia_lera_66d285bf:
+
+    # gg smile "Можешь и сама попробовать, это приятно."
+    gg smile "You can try it yourself, it's nice."
+
+# game/NPC/LERA.rpy:210
+translate english dia_lera_0783f6c2:
+
+    # lera "Я... подумаю над твоим предложением."
+    lera "I'll... think about it."
+

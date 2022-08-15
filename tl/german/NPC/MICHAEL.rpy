@@ -2826,3 +2826,35 @@ translate german strings:
     old "Заниматься на гитаре с Майклом (13:00-15:00)([guitar_lessons_all]/6)"
     new "Lerne Gitarre mit Michael (13:00-15:00)([guitar_lessons_all]/6)"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/NPC/MICHAEL.rpy:265
+translate german repa_action_142a3770:
+
+    # rick "Ого! У нас сегодня гости!"
+    rick ""
+
+# game/NPC/MICHAEL.rpy:266
+translate german repa_action_dcc7d139:
+
+    # owl "Решила послушать, что вы тут играете. А то что я за менеджер такой?"
+    owl ""
+
+# game/NPC/MICHAEL.rpy:270
+translate german repa_action_d1629678:
+
+    # gg hit "Мадемуазель? А чего это ты такой вежливый стал вдруг?"
+    gg hit ""
+
+# game/NPC/MICHAEL.rpy:273
+translate german repa_action_51c68c81:
+
+    # gg smile "В светское общество четырнадцатого века?"
+    gg smile ""
+
+# game/NPC/MICHAEL.rpy:309
+translate german repa_action_e776ef19:
+
+    # ow smile "Честно вам скажу, новый материал - просто огонь!"
+    ow smile ""
+

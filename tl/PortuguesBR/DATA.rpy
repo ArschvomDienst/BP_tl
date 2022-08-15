@@ -1165,3 +1165,23 @@ translate PortuguesBR strings:
     # game/DATA.rpy:4122
     old "+24ч"
     new "+24h"
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/DATA.rpy:389
+    old "{b}Расслабиться{/b}"
+    new ""
+
+    # game/DATA.rpy:2281
+    old "Дом Алисы"
+    new ""
+
+    # game/DATA.rpy:3873
+    old "Мужская комната"
+    new ""
+
+    # game/DATA.rpy:3881
+    old "Женская комната"
+    new ""
+

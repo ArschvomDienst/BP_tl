@@ -310,3 +310,15 @@ translate PortuguesBR strings:
     old "Portugues"
     new "Portugues"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/screens.rpy:840
+    old "Deutsch"
+    new ""
+
+    # game/screens.rpy:841
+    old "Português (BRA)"
+    new ""
+

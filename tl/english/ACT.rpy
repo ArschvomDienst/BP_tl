@@ -1017,3 +1017,33 @@ translate english strings:
     old "Вернуться к Кевину позже"
     new "Get back to Kevin later"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/ACT.rpy:2099
+translate english camping_coffee_menu_09d2998e:
+
+    # alex2 "Не самый вкусный кофе в моей жизни, но сойдет."
+    alex2 "Not the most delicious coffee in my life, but it ok."
+
+translate english strings:
+
+    # game/ACT.rpy:565
+    old "Выполнить все заказы на статьи"
+    new "Make all orders for articles"
+
+    # game/ACT.rpy:1624
+    old "{b}{#image=cour_h}{color=#8c8c8d}Раздеться и лечь{/color}{/b}"
+    new "{b}{#image=cour_h}{color=#8c8c8d}Take off all clothes and lie down{/color}{/b}"
+
+    # game/ACT.rpy:1624
+    old "{b}{#image=cour} Раздеться и лечь{/b}"
+    new "{b}{#image=cour} Take off all clothes and lie down{/b}"
+
+    # game/ACT.rpy:2068
+    old "{b}Сделать кофе{/b}"
+    new "{b}Make coffee{/b}"
+
+    # game/ACT.rpy:2068
+    old "{b}{color=#8c8c8d}Сделать кофе{/color}{/b}"
+    new "{b}{color=#8c8c8d}Make coffee{/color}{/b}"
+

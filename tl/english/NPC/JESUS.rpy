@@ -46,7 +46,7 @@ translate english jesus_date1_27fb028b:
 translate english jesus_date1_f2b9b65c:
 
     # "{i}Надеюсь, я угадал с размером. Буду ждать вас сегодня в 7 рядом с вашей остановкой. Хочу загладить свою вину и пригласить вас на свидание. Если вы не придете, я пойму и больше не буду вас тревожить. С трепетом и нежностью, Хесус...{/i}"
-    "{I}Hope I guessed the right size. I will be waiting for you today at 7 near bus stop. I want to make amends and invite you on a date. If you don't come, I'll understand and I won't bother you anymore. With awe and tenderness, Jesus...{/i}"
+    "{i}Hope I guessed the right size. I will be waiting for you today at 7 near bus stop. I want to make amends and invite you on a date. If you don't come, I'll understand and I won't bother you anymore. With awe and tenderness, Jesus...{/i}"
 
 # game/NPC/JESUS.rpy:26
 translate english jesus_date1_efb81cc4:
@@ -778,7 +778,7 @@ translate english jesus_date1_586308bc:
 translate english jesus_date1_ce355fde:
 
     # jesus "Какая же ты шикарная! Я больше не могу терпеть."
-    jesus "How gorgeous you are! I can't take it anymore."
+    jesus "How gorgeous you are! I can't take it anymore"
 
 # game/NPC/JESUS.rpy:263
 translate english jesus_date1_238c6d56:
@@ -994,7 +994,7 @@ translate english jesus_bj_menu_58a19233:
 translate english jesus_bj_menu_a0977838:
 
     # aut "Она перевела пистолет на Хесуса, и от этого почему-то стало немного легче."
-    aut "She turned the gun on Jesus and for some reason and ater that I felt better."
+    aut "She turned the gun on Jesus and for some reason Aand ater that I felt better."
 
 # game/NPC/JESUS.rpy:384
 translate english jesus_bj_menu_82a3517f:

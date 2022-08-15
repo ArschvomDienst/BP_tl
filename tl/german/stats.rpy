@@ -492,3 +492,23 @@ translate german strings:
     old "Дождаться приезда Майкла в 12:00"
     new "Warte auf die Ankunft von Michael um 12 Uhr"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/stats.rpy:886
+translate german stat_f3e92af7:
+
+    # gg2 sad "Блять, как же хочется курить! Ни о чем другом думать не могу!"
+    gg2 sad ""
+
+# game/stats.rpy:892
+translate german stat_8166ad89:
+
+    # gg2 sad "Я уже давно не курила. Тяжело сосредоточиться на чем-то."
+    gg2 sad ""
+
+# game/stats.rpy:1151
+translate german stat_c8b4eb7a:
+
+    # gg2 hit "У меня теперь достаточно смелости, чтобы ходить по квартире теплесс."
+    gg2 hit ""
+

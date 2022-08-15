@@ -5086,3 +5086,47 @@ translate french strings:
     old "Спросить у Пэрис насчет работы"
     new ""
 
+# TODO: Translation updated at 2022-08-15 22:19
+
+# game/LOCS.rpy:560
+translate french shop_adv_79f81777:
+
+    # gg2 zadum "Ой-ёй... Вот и реклама со мной..."
+    gg2 zadum ""
+
+# game/LOCS.rpy:561
+translate french shop_adv_6ee9b856:
+
+    # gg2 sad "Смешанное чувство. С одной стороны, мое лицо теперь на каждой бутылке, с другой - это дешевое моющее средство, а не элитный парфюм."
+    gg2 sad ""
+
+# game/LOCS.rpy:562
+translate french shop_adv_b8c7e13c:
+
+    # gg2 zadum "Хотя раньше я и о таком не мечтала."
+    gg2 zadum ""
+
+# game/LOCS.rpy:567
+translate french shop_adv_ee8c569b:
+
+    # gg2 sad "Вот блин... Ну это уже перебор, теперь придется смотреть на это каждый раз при посещении магазина."
+    gg2 sad ""
+
+# game/LOCS.rpy:568
+translate french shop_adv_670f39f5:
+
+    # gg2 zadum "Какая же у меня тут неискренняя улыбка... Мне еще многому придется научиться."
+    gg2 zadum ""
+
+# game/LOCS.rpy:6073
+translate french alisa_home_95d68c7c:
+
+    # gg2 zadum "Хоть Алиса меня и пригласила, немного неловко вот так вот врываться к ней домой. Надеюсь, я выбрала подходящее время."
+    gg2 zadum ""
+
+# game/LOCS.rpy:6077
+translate french alisa_home_5fbcdfb1:
+
+    # gg2 zadum "После случая у бассейна мне будет совсем неловко видеть Алису."
+    gg2 zadum ""
+

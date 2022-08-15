@@ -7427,3 +7427,73 @@ translate english strings:
     old "Накраситься и вернуться на шоссе в дождливую погоду днем ({image=smel_.png} 16([allsmel]))"
     new "Make up and get back on the highway on a rainy afternoon({image=smel_.png} 16([allsmel]))"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/LOCS.rpy:5873
+translate english hot_arctic_10cc105f:
+
+    # paris "Рада также будет держать бар в чистоте в дневное время, так что если будут вопросы, ты всегда найдешь ее здесь. Кроме выходных, разумеется."
+    paris "Rada will also keep the bar clean during the daytime, so if you have any questions, you will always find her here. Except weekends, of course."
+
+# game/LOCS.rpy:5982
+translate english hot_arctic_glory_girls_1c8fc6bc:
+
+    # gg2 zadum "Да уж... Это место совсем изменилось. Даже туалет перестал быть туалетом и превратился в филиал Комнаты Славы. Только работать он будет пять дней в неделю."
+    gg2 zadum "Yeah... This place has completely changed. Even the toilet ceased to be a toilet and turned into a branch of the Glory Room. The only thing that has changed is that it will work five days a week."
+
+# game/LOCS.rpy:5983
+translate english hot_arctic_glory_girls_7ab847be:
+
+    # gg2 zadum "Да, это место становится популярным и прибыльным, но я даже немного скучаю по нашему милому розовому кафе с вкусным мороженым."
+    gg2 zadum "Yes, this place is becoming popular and profitable, but I even miss our cute pink cafe with delicious ice cream a little."
+
+# game/LOCS.rpy:6004
+translate english alisa_home_15a644fa:
+
+    # gg2 zadum "Мне здесь нечего делать. Я же не сталкер какой-нибудь."
+    gg2 zadum "I'm not a stalker to stay here for so long.."
+
+# game/LOCS.rpy:6008
+translate english alisa_home_95d68c7c:
+
+    # gg2 zadum "Хоть Алиса меня и пригласила, немного неловко вот так вот врываться к ней домой. Надеюсь, я выбрала подходящее время."
+    gg2 zadum "Even though Alice invited me, it's a little awkward to break into her house like this. I hope I've chosen the right time."
+
+# game/LOCS.rpy:6012
+translate english alisa_home_5fbcdfb1:
+
+    # gg2 zadum "После случая у бассейна мне будет совсем неловко видеть Алису."
+    gg2 zadum "After the incident at the pool, it will be very awkward for me to see Alice."
+
+# TODO: Translation updated at 2022-08-15 22:13
+
+# game/LOCS.rpy:560
+translate english shop_adv_79f81777:
+
+    # gg2 zadum "Ой-ёй... Вот и реклама со мной..."
+    gg2 zadum ""
+
+# game/LOCS.rpy:561
+translate english shop_adv_6ee9b856:
+
+    # gg2 sad "Смешанное чувство. С одной стороны, мое лицо теперь на каждой бутылке, с другой - это дешевое моющее средство, а не элитный парфюм."
+    gg2 sad ""
+
+# game/LOCS.rpy:562
+translate english shop_adv_b8c7e13c:
+
+    # gg2 zadum "Хотя раньше я и о таком не мечтала."
+    gg2 zadum ""
+
+# game/LOCS.rpy:567
+translate english shop_adv_ee8c569b:
+
+    # gg2 sad "Вот блин... Ну это уже перебор, теперь придется смотреть на это каждый раз при посещении магазина."
+    gg2 sad ""
+
+# game/LOCS.rpy:568
+translate english shop_adv_670f39f5:
+
+    # gg2 zadum "Какая же у меня тут неискренняя улыбка... Мне еще многому придется научиться."
+    gg2 zadum ""
+

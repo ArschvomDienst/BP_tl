@@ -1446,7 +1446,7 @@ translate english owl_mes_570968f1:
 translate english owl_mes_22024c51:
 
     # "{#l=Мне так нравится, когда ты всегда всему радуешься<<sweet>>}"
-    "{#l=I like when you happy about everything <<sweet>>"
+    "{#l=I like when you happy about everything <<sweet>>}"
 
 # game/PHONE.rpy:1073
 translate english owl_mes_517dc25d:
@@ -1477,4 +1477,156 @@ translate english strings:
     # game/PHONE.rpy:1081
     old "Дождаться завтрашней фотосессии"
     new "Wait for tomorrow's photoshoot"
+
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/PHONE.rpy:211
+translate english news_check_3e467aa9:
+
+    # gg podozr "Ну конечно! Эти журналюги уже успели напридумывать себе чего-то!"
+    gg podozr "Of course! These journalists have already imagined everything!"
+
+# game/PHONE.rpy:212
+translate english news_check_7c5557b6:
+
+    # gg zlo "И что значит \"новая подружка\"?! Я что, не первая, кого она целует на сцене? Это у нее фишка такая?!"
+    gg zlo "And what does \"new girlfriend\" mean?! Am I not the first person she kisses on stage? Is that her thing?!"
+
+# game/PHONE.rpy:213
+translate english news_check_3ff00d35:
+
+    # gg podozr "Нужно будет с ней об этом поговорить."
+    gg podozr "I'll have to talk to her about it."
+
+# game/PHONE.rpy:1218
+translate english alisa_mes_42c31201:
+
+    # gg2 zadum "Кстати, насчет наряда я не подумала. Думаю, мой сценический прикид хорошо подойдет для концерта."
+    gg2 zadum "By the way, I didn't think about my clothes. I think my stage outfit is well suited for a concert."
+
+# game/PHONE.rpy:1224
+translate english alisa_mes_475d0162:
+
+    # gg2 zadum "Так неловко писать Алисе... Но я должна обсудить с ней вопрос с этой дурацкой статьей..."
+    gg2 zadum "It's so embarrassing to write to Alice... But I have to talk to her about this stupid article..."
+
+# game/PHONE.rpy:1230
+translate english alisa_mes_fa2efc24:
+
+    # "{#r=Привет, Алиса! Извини, что отвлекаю<<pray>><<pray>><<pray>> Ты уже читала эту жесть в новостях, да?}"
+    "{#r=Hello, Alice! Sorry to interrupt you<<pray>><<pray>><<pray>> You've already read this tin in the news, right?}"
+
+# game/PHONE.rpy:1231
+translate english alisa_mes_3a54eb67:
+
+    # "{#l=Привет, красотка! Ты про какую новость?}"
+    "{#l=Hello, sweetie! What news are you talking about?}"
+
+# game/PHONE.rpy:1232
+translate english alisa_mes_2b14aba2:
+
+    # "{#r=Ну типа что я твоя новая подружка или что-то такое<<open>>}"
+    "{#r=Well, like I'm your new girlfriend<<open>>}"
+
+# game/PHONE.rpy:1233
+translate english alisa_mes_013dfde4:
+
+    # "{#l=<<lol>><<lol>><<lol>>}"
+    "{#l=<<lol>><<lol>><<lol>>}"
+
+# game/PHONE.rpy:1234
+translate english alisa_mes_eb99688e:
+
+    # "{#r=Что тут смешного?<<confus>>}"
+    "{#r=What's funny?<<confus>>}"
+
+# game/PHONE.rpy:1235
+translate english alisa_mes_e65d00e9:
+
+    # "{#l=Прости, я и забыла, что эти сайты еще существуют и их кто-то читает <<lol>>}"
+    "{#l=Sorry, I forgot that these sites still exist and someone reads them <<lol>>}"
+
+# game/PHONE.rpy:1236
+translate english alisa_mes_3a404255:
+
+    # "{#r=Значит это все не правда, и я не очередная твоя фанатка, с которой ты просто развлекаешься? <<sorry>>}"
+    "{#r=So that it's all not just a gossip and I'm not another fan of yours that you're just having fun with? <<sorry>>}"
+
+# game/PHONE.rpy:1237
+translate english alisa_mes_37682803:
+
+    # "{#l=Я бы даже обиделась на эти слова, если бы мне не было так смешно <<lol>>}"
+    "{#l=I would even be offended by these words if it wasn't so funny to me <<lol>>}"
+
+# game/PHONE.rpy:1238
+translate english alisa_mes_1f02f814:
+
+    # "{#l=Конечно, это все бред. Заедь ко мне домой как-нибудь, и мы это обсудим, если захочешь.}"
+    "{#l=Of course, this is all nonsense. Come by my house sometime and we'll discuss it if you want.}"
+
+# game/PHONE.rpy:1239
+translate english alisa_mes_a95e4921:
+
+    # "{#r=Хорошо...}"
+    "{#r=Good...}"
+
+# game/PHONE.rpy:1240
+translate english alisa_mes_62ac5586:
+
+    # "{#r=Извини... <<sorry>>}"
+    "{#r=Sorry... <<sorry>>}"
+
+# game/PHONE.rpy:1241
+translate english alisa_mes_78504aaf:
+
+    # "{#l=Все хорошо, Алекс. Буду ждать в гости!}"
+    "{#l=It's okay, Alex. I will be waiting for you!}"
+
+# game/PHONE.rpy:1242
+translate english alisa_mes_e53aa483:
+
+    # "{#r=Договорились <<hug>>}"
+    "{#r=Agreed <<hug>>}"
+
+# game/PHONE.rpy:1243
+translate english alisa_mes_66a3cd6d:
+
+    # "{#l=<<kiss>>}"
+    "{#l=<<kiss>>}"
+
+# game/PHONE.rpy:1245
+translate english alisa_mes_231e9445:
+
+    # gg2 sad "Блин, я чуть не обидела ее... А может даже и обидела немного..."
+    gg2 sad "Damn, I almost offended her... Actually maybe even offended a little..."
+
+# game/PHONE.rpy:1246
+translate english alisa_mes_1652b9b6:
+
+    # gg2 sad "Надо к ней заехать и извиниться..."
+    gg2 sad "I need to stop by and apologize to her..."
+
+# game/PHONE.rpy:1252
+translate english alisa_mes_e8011173:
+
+    # gg2 zadum "Не стоит злоупотреблять нашим знакомством."
+    gg2 zadum "Do not misuse our acquaintance."
+
+translate english strings:
+
+    # game/PHONE.rpy:122
+    old "Серьезная связь или временное увлечение?"
+    new "A serious relationship or a temporary infatuation?"
+
+    # game/PHONE.rpy:123
+    old "Алиса Дарк показала свою новую подружку."
+    new "Alice Dark showed her new girlfriend."
+
+    # game/PHONE.rpy:215
+    old "Написать Алисе"
+    new "Write to Alice"
+
+    # game/PHONE.rpy:1248
+    old "Заехать к Алисе домой"
+    new "Stop by Alice's house"
 

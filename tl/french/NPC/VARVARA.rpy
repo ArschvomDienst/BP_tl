@@ -4018,3 +4018,69 @@ translate french strings:
     old "Поговорить о собственной студии"
     new ""
 
+# TODO: Translation updated at 2022-08-15 22:19
+
+# game/NPC/VARVARA.rpy:1217
+translate french varv_dia_menu_d949adde:
+
+    # alex "Ты уже говорила."
+    alex ""
+
+# game/NPC/VARVARA.rpy:1218
+translate french varv_dia_menu_e027b8b7:
+
+    # varv "Мне не сложно повторить. И я сейчас не про слова."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1248
+translate french varv_cleaning_menu_7f7669a5:
+
+    # varv "Ты уже не та скромняжка, что раньше. Но в тебе все еще есть эту чужесная невинность."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1249
+translate french varv_cleaning_menu_6ba141be:
+
+    # varv "Не растеряй его... Меня это заводит!"
+    varv ""
+
+# game/NPC/VARVARA.rpy:1281
+translate french varv_cleaning_menu_56e20db6:
+
+    # alex "Ох... Может мы сегодня обойдемся без швабры?"
+    alex ""
+
+# game/NPC/VARVARA.rpy:1282
+translate french varv_cleaning_menu_2939ac71:
+
+    # varv "Ну уж нет. Мне понравилось трахать тебя этой штукой."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1293
+translate french varv_cleaning_menu_f347e697:
+
+    # alex "Это странно, но я хочу, чтобы ты сделала это!"
+    alex ""
+
+# game/NPC/VARVARA.rpy:1294
+translate french varv_cleaning_menu_dbee4727:
+
+    # varv "С удовольствием, маленькая шлюшка!"
+    varv ""
+
+# game/NPC/VARVARA.rpy:1343
+translate french varv_cleaning_menu_e70ebdab:
+
+    # aut "Мысль, что это мама моей подруги, давно отошла на второй план. Да и какая разница, в конце концов..."
+    aut ""
+
+translate french strings:
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem_h}{color=#8c8c8d}{b}Расслабиться{/b}{/color}"
+    new ""
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem}{b}Расслабиться{/b}"
+    new ""
+

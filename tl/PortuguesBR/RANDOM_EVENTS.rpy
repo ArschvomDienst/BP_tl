@@ -2286,3 +2286,11 @@ translate PortuguesBR strings:
     old "{#image=cour}{b}Просунуть руку{/b}"
     new "{#image=cour}{b}estenda a mão{/b}"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/RANDOM_EVENTS.rpy:775
+translate PortuguesBR finding_f49163ee:
+
+    # aut "Я нашла банку колы."
+    aut ""
+

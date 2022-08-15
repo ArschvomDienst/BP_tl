@@ -190,3 +190,11 @@ translate english strings:
     old "Наряд для особых случаев"
     new "Outfit for special occasions"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/flat.rpy:114
+    old "Нижнее белье"
+    new "Underwear"
+

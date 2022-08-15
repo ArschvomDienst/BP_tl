@@ -3540,3 +3540,11 @@ translate german strings:
     old "Хочу посмотреть на вас"
     new "Möchte Euch zuschauen"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+# game/RAPE.rpy:616
+translate german park_rape_df71a421:
+
+    # gg2 zadum "В парке сидит какая-то компания. Среди них есть девушка, вряд ли можно ожидать чего-то плохого."
+    gg2 zadum ""
+

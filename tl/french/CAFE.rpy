@@ -3360,3 +3360,123 @@ translate french strings:
     old "Зайти в \"Hot Arctic\" днем"
     new ""
 
+# TODO: Translation updated at 2022-08-15 22:19
+
+# game/CAFE.rpy:1773
+translate french hot_arctic_work_2aa83ada:
+
+    # aut "Бар опустел, но из мужской комнаты еще доносились голоса."
+    aut ""
+
+# game/CAFE.rpy:1817
+translate french hot_arctic_glory_work_16dc341c:
+
+    # aut "Большинство гостей разошлось, но некоторые направились в Мужскую Комнату, ожидая продолжения. Там даже образовалась небольшая очередь."
+    aut ""
+
+# game/CAFE.rpy:1819
+translate french hot_arctic_glory_work_353ee252:
+
+    # aut "С женской стороны оставались пустые места. Одно из них заняла Джейн, что меня совсем не удивляло."
+    aut ""
+
+# game/CAFE.rpy:1821
+translate french hot_arctic_glory_work_acf31ae4:
+
+    # gg2 zadum "Кажется, кто-то решил не дожидаться своей очереди."
+    gg2 zadum ""
+
+# game/CAFE.rpy:1826
+translate french hot_arctic_glory_work_5a59cac8:
+
+    # gg2 smile "Придется выручать подругу. Сама она может не справиться. И лучше бы снять майку, чтобы не заляпать."
+    gg2 smile ""
+
+# game/CAFE.rpy:1828
+translate french hot_arctic_glory_work_731c33df:
+
+    # aut "Мужчины по ту сторону стенки вели себя по-разному."
+    aut ""
+
+# game/CAFE.rpy:1839
+translate french hot_arctic_glory_work_f4b2d649:
+
+    # aut "Кто-то просто просовывал член и ждал от меня активной работы..."
+    aut ""
+
+# game/CAFE.rpy:1845
+translate french hot_arctic_glory_work_70545797:
+
+    # aut "Кто-то сразу начинал двигать бедрами, и мне нужно было только подставлять ротик под яростные фрикции."
+    aut ""
+
+# game/CAFE.rpy:1851
+translate french hot_arctic_glory_work_cb387ead:
+
+    # aut "Почти все сразу были возбуждены и быстро кончали. Наверно, сказывалось наше горячее шоу."
+    aut ""
+
+# game/CAFE.rpy:1863
+translate french hot_arctic_glory_work_af8b7c69:
+
+    # aut "Помещения заполнила смесь возбуждающих влажных звуком и мужских стонов."
+    aut ""
+
+# game/CAFE.rpy:1864
+translate french hot_arctic_glory_work_b4016679:
+
+    # aut "Девушка из Красного Квартала хладнокровно и профессионально выполняла работу, в то время как Джейн громко стонала, отсасывая незнакомцам, и принимая на грудь их сперму."
+    aut ""
+
+# game/CAFE.rpy:1876
+translate french hot_arctic_glory_work_584e0ff3:
+
+    # aut "От возбуждения голова шла кругом. С каждым глотком горячего семени я все больше чувствовала свою власть над этими мужчинами."
+    aut ""
+
+# game/CAFE.rpy:1877
+translate french hot_arctic_glory_work_8b0b32a9:
+
+    # aut "Я была для них всего лишь бездушным спермоприемником, но я чувствовала себя жрицей секса, дарующей своим адептам высочайшее наслаждение."
+    aut ""
+
+# game/CAFE.rpy:1889
+translate french hot_arctic_glory_work_d7a4fa71:
+
+    # aut "И я решила закончить обряд ритуальным омовением своего лица."
+    aut ""
+
+# game/CAFE.rpy:1901
+translate french hot_arctic_glory_work_347e4fb2:
+
+    # aut "В то время, как я рисовала в своей голове фантастические образы, пытаясь придать процессу сакральный символизм, девушка из Красного Квартала буднично вытерла подбородок рукой и ушла. Ее рабочая смена была окончена."
+    aut ""
+
+# game/CAFE.rpy:1902
+translate french hot_arctic_glory_work_01fce06b:
+
+    # aut "Джейн просто грязно отсосала гостям, получив при этом огромное удовольствие. Мы все делали одно и то же, но каждый видел в этом какой-то свой смысл."
+    aut ""
+
+# game/CAFE.rpy:1907
+translate french hot_arctic_glory_work_b6da05cc:
+
+    # aut "Но было и кое-что общее. Мы все заработали немного денег. А это всегда приятно, не так ли?"
+    aut ""
+
+# game/CAFE.rpy:1921
+translate french hot_arctic_glory_work_1372d760:
+
+    # gg2 zadum "Думаю, не в этот раз..."
+    gg2 zadum ""
+
+translate french strings:
+
+    # game/CAFE.rpy:1774
+    old "Поработать в Женской Комнате"
+    new ""
+
+    # game/CAFE.rpy:1822
+    old "Взять в рот"
+    new ""
+

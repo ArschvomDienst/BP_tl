@@ -642,3 +642,15 @@ translate PortuguesBR strings:
     old "Зарегистрироваться на ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
     new "Registre-se em ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+translate PortuguesBR strings:
+
+    # game/FANTASIES.rpy:20
+    old "{#image=cour_h}{color=#8c8c8d}{b}Зарегистрироваться{/b}{/color}"
+    new ""
+
+    # game/FANTASIES.rpy:20
+    old "{#image=cour}{b}Зарегистрироваться{/b}"
+    new ""
+

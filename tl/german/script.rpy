@@ -1990,3 +1990,11 @@ translate german strings:
     old "Паук"
     new "Spinne"
 
+# TODO: Translation updated at 2022-08-15 22:29
+
+translate german strings:
+
+    # game/script.rpy:6621
+    old "Шейла"
+    new ""
+

@@ -614,3 +614,83 @@ translate english strings:
     old "Полежать в автобусе Рика днем ({image=smel_.png} 28([allsmel]))"
     new "Lie down on Rick's bus in the afternoon ({image=smel_.png} 28([allsmel]))"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/RICK.rpy:223
+translate english yeti_menu_9da108e8:
+
+    # alex "У меня есть подруга Валери. Она рассказывала, что раньше с сестрой часто приходила к тебе."
+    alex "I have a friend Valerie. She told me that she used to come to you often with her sister."
+
+# game/NPC/RICK.rpy:224
+translate english yeti_menu_61c38545:
+
+    # rick "Да, помню таких. Особенно сестру. Эвелин, кажется?"
+    rick "Yes, I remember them. Especially sister. Evelyn, isn't it?"
+
+# game/NPC/RICK.rpy:225
+translate english yeti_menu_ab222a77:
+
+    # rick "У нее в тринадцать лет уже такие сиськи были... Сейчас вообще огромные, наверно..."
+    rick "She already had such good tits at the age of thirteen... Now they are huge, probably..."
+
+# game/NPC/RICK.rpy:226
+translate english yeti_menu_e15068d9:
+
+    # alex "Кому что... А Рик все о сиськах..."
+    alex "To whom what... And Rick is all about boobs..."
+
+# game/NPC/RICK.rpy:227
+translate english yeti_menu_6b1d2595:
+
+    # rick "Ну, кто на что учился..."
+    rick "Everyone has their own specialization..."
+
+# game/NPC/RICK.rpy:231
+translate english yeti_menu_c8937d3a:
+
+    # alex "Вот ты снова на сцене. Как ощущения?"
+    alex "Here you are again on stage. How does it feel?"
+
+# game/NPC/RICK.rpy:232
+translate english yeti_menu_3510dec8:
+
+    # rick "Сам пока не понял. Как будто и не прошло семь лет. Только песни другие, да зал поменьше."
+    rick "I haven't figured it out yet. It's like it hasn't been seven years. Only the songs are different and the hall is smaller."
+
+# game/NPC/RICK.rpy:233
+translate english yeti_menu_98ba29b1:
+
+    # alex "Значит, ты все тот же безумный Рик, что и в лучшие годы?"
+    alex "So you're still the same mad Rick as in the best years?"
+
+# game/NPC/RICK.rpy:234
+translate english yeti_menu_00e62ee5:
+
+    # rick "Эй! Мои лучшие годы еще впереди! Не спеши хоронить старину Рика!"
+    rick "Hey! My best years are yet to come! Don't rush to bury old Rick!"
+
+# game/NPC/RICK.rpy:235
+translate english yeti_menu_1feb9727:
+
+    # alex "Извини. Конечно, ты еще ого-го!"
+    alex "Sorry. Of course, you're still wow!"
+
+translate english strings:
+
+    # game/NPC/RICK.rpy:221
+    old "{b}Валери и Эвелин{/b}"
+    new "{b}Valerie and Evelyn{/b}"
+
+    # game/NPC/RICK.rpy:221
+    old "{b}Вот мы и начали концертную деятельность{/b}"
+    new "{b}So we started the concert activity{/b}"
+
+    # game/NPC/RICK.rpy:221
+    old "{b}Как идут репетиции?{/b}"
+    new "{b}How are the rehearsals going?{/b}"
+
+    # game/NPC/RICK.rpy:221
+    old "{b}Как тебе жизнь отшельника?{/b}"
+    new "{b}How do you like the life of a hermit?{/b}"
+

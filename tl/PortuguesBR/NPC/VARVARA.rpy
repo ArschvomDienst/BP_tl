@@ -3970,3 +3970,135 @@ translate PortuguesBR strings:
     old "Зайти к Барбаре (23:00 - 1:00) ({image=smel_.png} 13([allsmel]))"
     new "Visite Barbara (23:00 - 1:00) ({image=smel_.png} 13([allsmel]))"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/NPC/VARVARA.rpy:719
+translate PortuguesBR dia_varv_4a76cb06:
+
+    # varv "Я смотрю, ты уже совсем не стесняешься."
+    varv ""
+
+# game/NPC/VARVARA.rpy:720
+translate PortuguesBR dia_varv_b3f202ed:
+
+    # gg zadum "Извини, я просто устала носить этот дурацкий лифчик весь день. Но если это проблема, то я надену что-нибудь..."
+    gg zadum ""
+
+# game/NPC/VARVARA.rpy:721
+translate PortuguesBR dia_varv_1b767e6d:
+
+    # varv "Брось, все в порядке, тут все свои."
+    varv ""
+
+# game/NPC/VARVARA.rpy:723
+translate PortuguesBR dia_varv_8ca5a41f:
+
+    # varv "Помню, как ты смущалась, когда увидела меня в душе. А теперь сама разгуливашь по квартире с голой грудью."
+    varv ""
+
+# game/NPC/VARVARA.rpy:724
+translate PortuguesBR dia_varv_1a23c679:
+
+    # gg smile "Да, этот город плохо на меня влияет..."
+    gg smile ""
+
+# game/NPC/VARVARA.rpy:725
+translate PortuguesBR dia_varv_9e14b26f:
+
+    # varv "Я думаю, он просто помогает нам понять себя."
+    varv ""
+
+# game/NPC/VARVARA.rpy:726
+translate PortuguesBR dia_varv_ccd93ed2:
+
+    # gg zadum "Сложная мысль..."
+    gg zadum ""
+
+# game/NPC/VARVARA.rpy:727
+translate PortuguesBR dia_varv_51c7a98e:
+
+    # varv "Ходи как хочешь, Алекс. Я же говорила: это твой дом..."
+    varv ""
+
+# game/NPC/VARVARA.rpy:728
+translate PortuguesBR dia_varv_1355063f:
+
+    # gg smile "Спасибо, Барбара. Это очень приятно слышать..."
+    gg smile ""
+
+# game/NPC/VARVARA.rpy:798
+translate PortuguesBR dia_varv_44730aec:
+
+    # gg sad "Мне почему-то неловко покупать что-то в секс-шопах."
+    gg sad ""
+
+# game/NPC/VARVARA.rpy:799
+translate PortuguesBR dia_varv_acf602a4:
+
+    # varv "Секс-шоп - это такой же магазин, как и любой другой."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1217
+translate PortuguesBR varv_dia_menu_d949adde:
+
+    # alex "Ты уже говорила."
+    alex ""
+
+# game/NPC/VARVARA.rpy:1218
+translate PortuguesBR varv_dia_menu_e027b8b7:
+
+    # varv "Мне не сложно повторить. И я сейчас не про слова."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1248
+translate PortuguesBR varv_cleaning_menu_7f7669a5:
+
+    # varv "Ты уже не та скромняжка, что раньше. Но в тебе все еще есть эту чужесная невинность."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1249
+translate PortuguesBR varv_cleaning_menu_6ba141be:
+
+    # varv "Не растеряй его... Меня это заводит!"
+    varv ""
+
+# game/NPC/VARVARA.rpy:1281
+translate PortuguesBR varv_cleaning_menu_56e20db6:
+
+    # alex "Ох... Может мы сегодня обойдемся без швабры?"
+    alex ""
+
+# game/NPC/VARVARA.rpy:1282
+translate PortuguesBR varv_cleaning_menu_2939ac71:
+
+    # varv "Ну уж нет. Мне понравилось трахать тебя этой штукой."
+    varv ""
+
+# game/NPC/VARVARA.rpy:1293
+translate PortuguesBR varv_cleaning_menu_f347e697:
+
+    # alex "Это странно, но я хочу, чтобы ты сделала это!"
+    alex ""
+
+# game/NPC/VARVARA.rpy:1294
+translate PortuguesBR varv_cleaning_menu_dbee4727:
+
+    # varv "С удовольствием, маленькая шлюшка!"
+    varv ""
+
+# game/NPC/VARVARA.rpy:1343
+translate PortuguesBR varv_cleaning_menu_e70ebdab:
+
+    # aut "Мысль, что это мама моей подруги, давно отошла на второй план. Да и какая разница, в конце концов..."
+    aut ""
+
+translate PortuguesBR strings:
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem_h}{color=#8c8c8d}{b}Расслабиться{/b}{/color}"
+    new ""
+
+    # game/NPC/VARVARA.rpy:1224
+    old "{#image=fem}{b}Расслабиться{/b}"
+    new ""
+

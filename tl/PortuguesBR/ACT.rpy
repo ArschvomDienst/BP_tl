@@ -866,3 +866,33 @@ translate PortuguesBR strings:
     old "Вернуться к Кевину позже"
     new "Volte para Kevin mais tarde"
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/ACT.rpy:2204
+translate PortuguesBR camping_coffee_menu_09d2998e:
+
+    # alex2 "Не самый вкусный кофе в моей жизни, но сойдет."
+    alex2 ""
+
+translate PortuguesBR strings:
+
+    # game/ACT.rpy:565
+    old "Выполнить все заказы на статьи"
+    new ""
+
+    # game/ACT.rpy:1624
+    old "{b}{#image=cour_h}{color=#8c8c8d}Раздеться и лечь{/color}{/b}"
+    new ""
+
+    # game/ACT.rpy:1624
+    old "{b}{#image=cour} Раздеться и лечь{/b}"
+    new ""
+
+    # game/ACT.rpy:2173
+    old "{b}Сделать кофе{/b}"
+    new ""
+
+    # game/ACT.rpy:2173
+    old "{b}{color=#8c8c8d}Сделать кофе{/color}{/b}"
+    new ""
+

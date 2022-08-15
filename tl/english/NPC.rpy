@@ -2301,3 +2301,31 @@ translate english strings:
     old "Я могу заниматься йогой с Валери дома (6:00 кроме Вт и Чт)"
     new "I can do yoga with Valerie at home (6:00 except Tue and Thu)"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/NPC.rpy:1779
+    old "Я могу играть с Руби в теннис"
+    new "I can play tennis with Ruby"
+
+    # game/NPC.rpy:2344
+    old "Лео Вульф"
+    new "Leo Wolf"
+
+    # game/NPC.rpy:2644
+    old "Виктора"
+    new "Victora"
+
+    # game/NPC.rpy:3067
+    old "Я могу заниматься сексом со Снейком по вечерам."
+    new "I can have sex with Snake in the evenings."
+
+    # game/NPC.rpy:3148
+    old "Джилл Бауэрман"
+    new "Jill Bowerman"
+
+    # game/NPC.rpy:3588
+    old "Скарлет Купер"
+    new "Scarlett Cooper"
+

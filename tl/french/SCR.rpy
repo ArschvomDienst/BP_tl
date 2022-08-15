@@ -762,3 +762,23 @@ translate french strings:
     old "Журнал квестов (J)"
     new ""
 
+# TODO: Translation updated at 2022-08-15 22:19
+
+translate french strings:
+
+    # game/SCR.rpy:2345
+    old "Интимная стрижка"
+    new ""
+
+    # game/SCR.rpy:2346
+    old "Побрито"
+    new ""
+
+    # game/SCR.rpy:2347
+    old "Стрижка"
+    new ""
+
+    # game/SCR.rpy:2348
+    old "Мохнатка"
+    new ""
+

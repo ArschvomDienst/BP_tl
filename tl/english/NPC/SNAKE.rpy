@@ -870,3 +870,257 @@ translate english strings:
     old "Зайти к Снейку в другой день"
     new "Visit Snake another day"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/NPC/SNAKE.rpy:417
+translate english snake_sex_aa935865:
+
+    # alex "Боюсь, игра зашла слишком далеко..."
+    alex "I'm afraid the game has gone too far..."
+
+# game/NPC/SNAKE.rpy:418
+translate english snake_sex_e35c0621:
+
+    # alex "Просто, я пойду..."
+    alex "Just, I'll go..."
+
+# game/NPC/SNAKE.rpy:422
+translate english snake_sex2_db38b7bd:
+
+    # aut "Снейк повалил меня на ковер и стащил трусики."
+    aut "Snake knocked me down on the carpet and pulled off my panties."
+
+# game/NPC/SNAKE.rpy:423
+translate english snake_sex2_b3f46888:
+
+    # aut "Когда его язык коснулся моего клитора, я против своей воли сладко застонала."
+    aut "When his tongue touched my clitoris, I moaned sweetly against my will."
+
+# game/NPC/SNAKE.rpy:426
+translate english snake_sex2_59a636fa:
+
+    # aut "Он умело работал языком, и вскоре я ощутила накатывающую волну."
+    aut "He knew how to work with his tongue skillfully and soon I felt a rolling wave."
+
+# game/NPC/SNAKE.rpy:427
+translate english snake_sex2_f0dace9d:
+
+    # aut "Мне не хватало дыхания чтобы кричать."
+    aut "I didn't have enough breath to scream."
+
+# game/NPC/SNAKE.rpy:440
+translate english snake_sex2_66d653ff:
+
+    # aut "Я царапала рукой ковер и была готова кончить."
+    aut "I was scratching the carpet with my hand and was ready to cum."
+
+# game/NPC/SNAKE.rpy:441
+translate english snake_sex2_0e4fe126:
+
+    # snake "Не так быстро. Я только начал!"
+    snake "Not so fast. I've just started!"
+
+# game/NPC/SNAKE.rpy:455
+translate english snake_sex2_1ae9d04b:
+
+    # aut "Снейк сел на ковер и усадил меня сверху."
+    aut "Snake sat down on the carpet and moved me on top."
+
+# game/NPC/SNAKE.rpy:456
+translate english snake_sex2_23080c8d:
+
+    # aut "С первого толчка его член полностью вошел в мою мокрую киску."
+    aut "From the first push, his cock completely entered my wet pussy."
+
+# game/NPC/SNAKE.rpy:457
+translate english snake_sex2_e9ebd42c:
+
+    # aut "Я обхватила парня ногами и начала быстро двигать бедрами."
+    aut "I wrapped my legs around the guy and started moving my hips quickly."
+
+# game/NPC/SNAKE.rpy:469
+translate english snake_sex2_12fadb0c:
+
+    # snake "Блять, какая ты горячая внутри! Как же охуенно! Нравится, сучка?"
+    snake "Fuck, how hot you are inside! How fucking awesome! Do you like it, bitch?"
+
+# game/NPC/SNAKE.rpy:470
+translate english snake_sex2_d02758e4:
+
+    # alex "Да! Очень хорошо!"
+    alex "Yes! That's good!"
+
+# game/NPC/SNAKE.rpy:471
+translate english snake_sex2_35caff4e:
+
+    # aut "Во мне его член стал еще тверже."
+    aut "His cock became even harder inside me."
+
+# game/NPC/SNAKE.rpy:472
+translate english snake_sex2_f6d9a048:
+
+    # alex "Трахни меня как следует!"
+    alex " Give me a nice, hard fuck!"
+
+# game/NPC/SNAKE.rpy:484
+translate english snake_sex2_e67a92af:
+
+    # aut "Я толкнула Снейка на ковер и начала активно прыгать на его члене, стараясь как можно глубже насаживаться на него."
+    aut "I pushed Snake onto the carpet and started actively jumping on his dick, trying to sit on him as deeply as possible."
+
+# game/NPC/SNAKE.rpy:490
+translate english snake_sex2_c40a57eb:
+
+    # aut "Снейк придерживал меня за попу, и я свободной рукой ласкала себя."
+    aut "Snake held my ass and I caressed myself with my free hand."
+
+# game/NPC/SNAKE.rpy:491
+translate english snake_sex2_6aa47563:
+
+    # alex "Я скоро кончу! И ты меня не остановишь!"
+    alex "I'm coming soon! And you won't stop me"
+
+# game/NPC/SNAKE.rpy:503
+translate english snake_sex2_bebc22ac:
+
+    # snake "Хочу трахнуть тебя в задницу! Прямо сейчас!"
+    snake "I want to fuck you in the ass! Right now!"
+
+# game/NPC/SNAKE.rpy:580
+translate english snake_anal_menu_5c77955a:
+
+    # snake "В прошлый раз ты была не против, так что обкончаю тебя снова!"
+    snake "You didn't mind last time, so I'll finish you off again!"
+
+# game/NPC/SNAKE.rpy:616
+translate english snake_anal_menu_33881d23:
+
+    # aut "С этим я не могла спорить."
+    aut "I couldn't argue with that."
+
+# game/NPC/SNAKE.rpy:845
+translate english snake_dia_f222bf2c:
+
+    # alex "Ты тут весь день сидишь?"
+    alex "Have you been sitting here all day?"
+
+# game/NPC/SNAKE.rpy:846
+translate english snake_dia_6bf2db0c:
+
+    # snake "Не, просто играл на улице весь день, устал."
+    snake "No, just playing outside all day, tired."
+
+# game/NPC/SNAKE.rpy:847
+translate english snake_dia_5667bce8:
+
+    # alex "А меня не позвал..."
+    alex "But you didn't call me..."
+
+# game/NPC/SNAKE.rpy:848
+translate english snake_dia_b478bd7c:
+
+    # snake "Мне не показалось, что в прошлый раз тебе было особо инетересно петь со мной."
+    snake "I didn't think you were interested in singing with me last time."
+
+# game/NPC/SNAKE.rpy:871
+translate english snake_dia_3fc67922:
+
+    # alex "Но мне понравилось продолжение дня."
+    alex "But I liked what was come next."
+
+# game/NPC/SNAKE.rpy:873
+translate english snake_dia_07c31a89:
+
+    # snake "В таком случае мы можем пропустить первую часть."
+    snake "In this case, we can skip the first part."
+
+# game/NPC/SNAKE.rpy:875
+translate english snake_dia_693a76c9:
+
+    # alex "Звучит заманчиво."
+    alex "Sounds perfect."
+
+# game/NPC/SNAKE.rpy:886
+translate english snake_dia_84f15c1a:
+
+    # snake "Напомни, с чего началась вторая часть?"
+    snake "Remind me, how did the second part begin?"
+
+# game/NPC/SNAKE.rpy:887
+translate english snake_dia_ee9f3065:
+
+    # alex "Ты снял майку и предложил мне сигарету."
+    alex "You took off your shirt and offered me a cigarette."
+
+# game/NPC/SNAKE.rpy:889
+translate english snake_dia_dcc7cb71:
+
+    # snake "Не буду же я нарушать традиции."
+    snake "I won't break traditions."
+
+# game/NPC/SNAKE.rpy:890
+translate english snake_dia_9a48e8cd:
+
+    # snake "Ты, кстати, в этот момент уже была в белье."
+    snake "By the way, you were already in your underwear at that moment."
+
+# game/NPC/SNAKE.rpy:903
+translate english snake_dia_52afac2f:
+
+    # alex "Может мы пропустим этот этап?"
+    alex "Can we skip this stage?"
+
+# game/NPC/SNAKE.rpy:904
+translate english snake_dia_7617647f:
+
+    # snake "Тогда и я не буду тянуть."
+    snake "Then I won't hesitate either"
+
+# game/NPC/SNAKE.rpy:915
+translate english snake_dia_cf80634b:
+
+    # alex "Я смотрю, он уже готов."
+    alex "I see he's ready."
+
+# game/NPC/SNAKE.rpy:916
+translate english snake_dia_ce19ba67:
+
+    # snake "Да... Готов трахнуть тебя в ротик."
+    snake "Yes... I'm ready to fuck your mouth."
+
+# game/NPC/SNAKE.rpy:917
+translate english snake_dia_a5c21a9b:
+
+    # alex "Ну так сделай это..."
+    alex "So do it..."
+
+# game/NPC/SNAKE.rpy:928
+translate english snake_dia_1b25da8b:
+
+    # aut "Снейк взял меня за голову и потянул на себя."
+    aut "Snake took me by the head and pulled me towards him."
+
+# game/NPC/SNAKE.rpy:929
+translate english snake_dia_780fa95b:
+
+    # aut "Я с удовольствием обхватила губами его твердый прибор."
+    aut "I gladly wrapped my lips around his hard cock."
+
+# game/NPC/SNAKE.rpy:941
+translate english snake_dia_54f528dd:
+
+    # snake "Как же мне нравится ебать твой влажный рот!"
+    snake "How I like to fuck your wet mouth!"
+
+# game/NPC/SNAKE.rpy:954
+translate english snake_dia_112386ad:
+
+    # snake "А теперь я отлижу тебе как следует!"
+    snake "And now I'm going to lick you as hard as possible!"
+
+translate english strings:
+
+    # game/NPC/SNAKE.rpy:843
+    old "{b}Заняться сексом{/b}"
+    new "{b}Have sex{/b}"
+

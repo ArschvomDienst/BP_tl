@@ -11309,3 +11309,115 @@ translate english strings:
     old "Опробовать дилдо с присоской у себя в комнате ночью."
     new "Try out a suction cup dildo in your room at night"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/DIA.rpy:289
+translate english dia_autosalon_6494741d:
+
+    # gg zadum "А где Тина?"
+    gg zadum "Where's Tina?"
+
+# game/DIA.rpy:290
+translate english dia_autosalon_8ebdd80b:
+
+    # sheila "Теперь я за нее. Я Шейла, могу вам чем-то помочь?"
+    sheila "Now I'm for her. I'm Sheila, can I help you with something?"
+
+# game/DIA.rpy:291
+translate english dia_autosalon_5b88dcff:
+
+    # boy "Босс отправил Тину в декретный отпуск. Цитирую: \"Ты ни дня больше не будет работать на этой говняной должности!\""
+    boy "The boss sent Tina on maternity leave. I quote: \"You won't work in this shitty position for a day anymore!\""
+
+# game/DIA.rpy:292
+translate english dia_autosalon_0d36e5eb:
+
+    # boy "Грубовато было говорить так при мне, согласитесь..."
+    boy "It was rude to say that in front of me, you must agree..."
+
+# game/DIA.rpy:293
+translate english dia_autosalon_1a538645:
+
+    # gg zadum "Угу."
+    gg zadum "Yep."
+
+# game/DIA.rpy:294
+translate english dia_autosalon_6507d242:
+
+    # gg2 zadum "Да как-то пофигу, если честно. Странно, что он тебя не уволил."
+    gg2 zadum "I don't really care, sweetie. I'm surprised he didn't fire you."
+
+# game/DIA.rpy:295
+translate english dia_autosalon_3aa7f0df:
+
+    # gg2 smile "Надеюсь, у Тины и Киана все будет хорошо. Главное, чтобы он не начал трахать эту Шейлу."
+    gg2 smile "I hope Tina and Kian will be fine. The main thing is that he doesn't start fucking this Sheila."
+
+# game/DIA.rpy:2080
+translate english dia_owl_88edd1a9:
+
+    # owl "Все варианты я буду согласовывать с вами, конечно. Кстати, давно хотела попасть к вам на репетицию, а то сложно продавать музыку, которую никогда не слышал."
+    owl "I will coordinate all the options with you, of course. By the way, I've been wanting to come to your rehearsal for a long time, otherwise it's hard to sell music that I've never heard."
+
+# game/DIA.rpy:2081
+translate english dia_owl_3a5ad657:
+
+    # michael "Без проблем! Раз уж ты здесь, предлагаю провести внеплановую репетицию, если Алекс не против."
+    michael "No problem! Since you're here, I suggest we have an unscheduled rehearsal, if Alex doesn't mind."
+
+# game/DIA.rpy:2083
+translate english dia_owl_a6bfa9af:
+
+    # gg smile "Я согласна. Будешь моим первым зрителем!"
+    gg smile "I agree. You'll be my first audience!"
+
+# game/DIA.rpy:2084
+translate english dia_owl_e69168c1:
+
+    # owl "Это большая честь."
+    owl "This is a great honor."
+
+# game/DIA.rpy:2085
+translate english dia_owl_1d6b9d04:
+
+    # michael "В таком случае попрошу Киана заехать за Риком."
+    michael "In that case, I'll ask Cian to pick up Rick."
+
+translate english strings:
+
+    # game/DIA.rpy:2466
+    old "{#image=cour_h}{color=#8c8c8d}{b}Я готова{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}I'm ready{/b}{/color}"
+
+    # game/DIA.rpy:2466
+    old "{#image=cour}{b}Я готова{/b}"
+    new "{#image=cour}{b}I'm ready{/b}"
+
+    # game/DIA.rpy:3032
+    old "{color=#00ff00}{b}Вы Рут Лейн?{/b}{/color}"
+    new "{color=#00ff00}{b}Are you Ruth Lane?{/b}{/color}"
+
+    # game/DIA.rpy:3032
+    old "{color=#00ff00}{b}Я готова заниматься!{/b}{/color}"
+    new "{color=#00ff00}{b}I'm ready to study!{/b}{/color}"
+
+    # game/DIA.rpy:3653
+    old "{#image=cour_h}{color=#8c8c8d}{b}Я попробую{/b}{/color}"
+    new "{#{#image=cor_h}{color=#8c8c8d}{b}I'll try{/b}{/color}"
+
+    # game/DIA.rpy:3653
+    old "{#image=cour}{b}Я попробую{/b}"
+    new "{#{#image=cue}{b}I'll try{/b}"
+
+    # game/DIA.rpy:4062
+    old "{#image=sharm_h}{color=#8c8c8d}{b}Войти{/b}{/color}"
+    new "{#image=sharm_h}{color=#8c8c8d}{b}Come in{/b}{/color}"
+
+    # game/DIA.rpy:4062
+    old "{#image=sharm}{b}Войти{/b}"
+    new "{#image=sharm}{b}Come in{/b}"
+
+    # game/DIA.rpy:4102
+    old "{b}Я согласна{/b}"
+    new "{b}I agree{/b}"
+

@@ -9290,3 +9290,115 @@ translate PortuguesBR strings:
     old "Опробовать дилдо с присоской у себя в комнате ночью."
     new "Experimente um vibrador de ventosa em seu quarto à noite."
 
+# TODO: Translation updated at 2022-08-15 22:28
+
+# game/DIA.rpy:289
+translate PortuguesBR dia_autosalon_6494741d:
+
+    # gg zadum "А где Тина?"
+    gg zadum ""
+
+# game/DIA.rpy:290
+translate PortuguesBR dia_autosalon_8ebdd80b:
+
+    # sheila "Теперь я за нее. Я Шейла, могу вам чем-то помочь?"
+    sheila ""
+
+# game/DIA.rpy:291
+translate PortuguesBR dia_autosalon_5b88dcff:
+
+    # boy "Босс отправил Тину в декретный отпуск. Цитирую: \"Ты ни дня больше не будет работать на этой говняной должности!\""
+    boy ""
+
+# game/DIA.rpy:292
+translate PortuguesBR dia_autosalon_0d36e5eb:
+
+    # boy "Грубовато было говорить так при мне, согласитесь..."
+    boy ""
+
+# game/DIA.rpy:293
+translate PortuguesBR dia_autosalon_1a538645:
+
+    # gg zadum "Угу."
+    gg zadum ""
+
+# game/DIA.rpy:294
+translate PortuguesBR dia_autosalon_6507d242:
+
+    # gg2 zadum "Да как-то пофигу, если честно. Странно, что он тебя не уволил."
+    gg2 zadum ""
+
+# game/DIA.rpy:295
+translate PortuguesBR dia_autosalon_3aa7f0df:
+
+    # gg2 smile "Надеюсь, у Тины и Киана все будет хорошо. Главное, чтобы он не начал трахать эту Шейлу."
+    gg2 smile ""
+
+# game/DIA.rpy:2080
+translate PortuguesBR dia_owl_88edd1a9:
+
+    # owl "Все варианты я буду согласовывать с вами, конечно. Кстати, давно хотела попасть к вам на репетицию, а то сложно продавать музыку, которую никогда не слышал."
+    owl ""
+
+# game/DIA.rpy:2081
+translate PortuguesBR dia_owl_3a5ad657:
+
+    # michael "Без проблем! Раз уж ты здесь, предлагаю провести внеплановую репетицию, если Алекс не против."
+    michael ""
+
+# game/DIA.rpy:2083
+translate PortuguesBR dia_owl_a6bfa9af:
+
+    # gg smile "Я согласна. Будешь моим первым зрителем!"
+    gg smile ""
+
+# game/DIA.rpy:2084
+translate PortuguesBR dia_owl_e69168c1:
+
+    # owl "Это большая честь."
+    owl ""
+
+# game/DIA.rpy:2085
+translate PortuguesBR dia_owl_1d6b9d04:
+
+    # michael "В таком случае попрошу Киана заехать за Риком."
+    michael ""
+
+translate PortuguesBR strings:
+
+    # game/DIA.rpy:2466
+    old "{#image=cour_h}{color=#8c8c8d}{b}Я готова{/b}{/color}"
+    new ""
+
+    # game/DIA.rpy:2466
+    old "{#image=cour}{b}Я готова{/b}"
+    new ""
+
+    # game/DIA.rpy:3032
+    old "{color=#00ff00}{b}Вы Рут Лейн?{/b}{/color}"
+    new ""
+
+    # game/DIA.rpy:3032
+    old "{color=#00ff00}{b}Я готова заниматься!{/b}{/color}"
+    new ""
+
+    # game/DIA.rpy:3653
+    old "{#image=cour_h}{color=#8c8c8d}{b}Я попробую{/b}{/color}"
+    new ""
+
+    # game/DIA.rpy:3653
+    old "{#image=cour}{b}Я попробую{/b}"
+    new ""
+
+    # game/DIA.rpy:4062
+    old "{#image=sharm_h}{color=#8c8c8d}{b}Войти{/b}{/color}"
+    new ""
+
+    # game/DIA.rpy:4062
+    old "{#image=sharm}{b}Войти{/b}"
+    new ""
+
+    # game/DIA.rpy:4102
+    old "{b}Я согласна{/b}"
+    new ""
+

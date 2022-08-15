@@ -2051,3 +2051,11 @@ translate english strings:
     old "Паук"
     new "Spider"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/script.rpy:6503
+    old "Шейла"
+    new "Sheila"
+

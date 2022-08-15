@@ -2514,3 +2514,11 @@ translate english strings:
     old "{#image=cour}{b}Просунуть руку{/b}"
     new "{#image=cour}{b}Stick your hand in{/b}"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+# game/RANDOM_EVENTS.rpy:775
+translate english finding_f49163ee:
+
+    # aut "Я нашла банку колы."
+    aut "I found a can of Coke."
+

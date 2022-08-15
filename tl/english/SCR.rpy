@@ -1139,3 +1139,35 @@ translate english strings:
     old "Полная свобода "
     new "Absolute freedom"
 
+# TODO: Translation updated at 2022-08-04 11:38
+
+translate english strings:
+
+    # game/SCR.rpy:1297
+    old "Нужно больше вдохновения"
+    new "More inspiration is required"
+
+    # game/SCR.rpy:1624
+    old "Вдохновение"
+    new "Inspiration"
+
+# TODO: Translation updated at 2022-08-05 16:10
+
+translate english strings:
+
+    # game/SCR.rpy:2345
+    old "Интимная стрижка"
+    new "Intimate haircut"
+
+    # game/SCR.rpy:2346
+    old "Побрито"
+    new "Shaved"
+
+    # game/SCR.rpy:2347
+    old "Стрижка"
+    new "Haircut"
+
+    # game/SCR.rpy:2348
+    old "Мохнатка"
+    new "Beaver"
+
