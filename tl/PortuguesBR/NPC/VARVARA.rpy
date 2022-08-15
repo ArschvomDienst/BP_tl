@@ -652,7 +652,7 @@ translate PortuguesBR varvroom_a5322bf8:
 translate PortuguesBR varvroom_9d6b5e4f:
 
     # varv "На этом мы с вами попрощаемся, мальчики. Спасибо за вашу активность и за ваши денежки. Это был экспериментальный эфир в новом формате."
-    varv "Por isso vamos dizer adeus a vocês, rapazes. Obrigado por sua atividade e por seu dinheiro. Foi uma transmissão experimental em um novo formato."
+    varv "Por isso vamos dizer adeus a vocês, rapazes. Obrigada por sua atividade e por seu dinheiro. Foi uma transmissão experimental em um novo formato."
 
 # game/NPC/VARVARA.rpy:311
 translate PortuguesBR varvroom_f4ee88a1:
@@ -706,7 +706,7 @@ translate PortuguesBR varvroom_fa5d3d3c:
 translate PortuguesBR varvroom_12f912c6:
 
     # varv "За работу, глупенькая! Мы собрали нужную сумму в два раза быстрее обычного, и не пришлось засовывать его в себя по самые гланды. Я наконец высплюсь. Так что спасибо тебе, ты заработала."
-    varv "Comece a trabalhar, seu bobo! Coletamos a quantidade necessária duas vezes mais rápido do que de costume e não precisamos enfiá-la até as amígdalas. Finalmente vou dormir um pouco. Então, obrigado, você mereceu."
+    varv "Comece a trabalhar, seu bobo! Coletamos a quantidade necessária duas vezes mais rápido do que de costume e não precisamos enfiá-la até as amígdalas. Finalmente vou dormir um pouco. Então, obrigada, você mereceu."
 
 # game/NPC/VARVARA.rpy:331
 translate PortuguesBR varvroom_219ff0ba:
@@ -826,7 +826,7 @@ translate PortuguesBR varvroom_fb8a97ad:
 translate PortuguesBR varvroom_df229b2f:
 
     # gg sad "Спасибо, я буду иметь в виду."
-    gg sad "Obrigado, vou manter em mente."
+    gg sad "Obrigada, vou manter em mente."
 
 # game/NPC/VARVARA.rpy:378
 translate PortuguesBR varvroom_162874d6:
@@ -1018,7 +1018,7 @@ translate PortuguesBR varvroom_choise4_623b2505:
 translate PortuguesBR varvroom_choise4_1ddeb93a:
 
     # varv "Спасибо, Алекс, ты меня очень выручишь. Вот немного мелочи для стирки."
-    varv "Obrigado, Alex, você vai me ajudar muito. Aqui estão alguns pequenos itens de lavanderia."
+    varv "Obrigada, Alex, você vai me ajudar muito. Aqui estão alguns pequenos itens de lavanderia."
 
 # game/NPC/VARVARA.rpy:635
 translate PortuguesBR varvroom_choise4_0aaf7bcd:
@@ -1060,19 +1060,19 @@ translate PortuguesBR dia_varv_5af9e057:
 translate PortuguesBR dia_varv_bb266f91:
 
     # gg smile "Ох, спасибо, я как раз собиралась перекусить."
-    gg smile "Oh, obrigado, eu estava prestes a fazer algo para comer."
+    gg smile "Oh, obrigada, eu estava prestes a fazer algo para comer."
 
 # game/NPC/VARVARA.rpy:711
 translate PortuguesBR dia_varv_bf346a85:
 
     # gg smile "Спасибо, мне только нужно умыться."
-    gg smile "Obrigado, eu só preciso lavar meu rosto."
+    gg smile "Obrigada, eu só preciso lavar meu rosto."
 
 # game/NPC/VARVARA.rpy:714
 translate PortuguesBR dia_varv_0efca0a2:
 
     # gg smile "Спасибо за приглашение, но я тороплюсь. Приятного аппетита!"
-    gg smile "Obrigado pelo convite, mas estou com pressa. Bom apetite!"
+    gg smile "Obrigada pelo convite, mas estou com pressa. Bom apetite!"
 
 # game/NPC/VARVARA.rpy:718
 translate PortuguesBR dia_varv_e5a6bb79:
@@ -1162,7 +1162,7 @@ translate PortuguesBR dia_varv_2713a624:
 translate PortuguesBR varv_dia_menu_2e600496:
 
     # gg smile "Я наконец закончила студию. Мэтью и правда сильно помог мне. Спасибо за совет."
-    gg smile "Finalmente terminei o estúdio. Matthew realmente me ajudou muito. Obrigado pelo conselho."
+    gg smile "Finalmente terminei o estúdio. Matthew realmente me ajudou muito. Obrigada pelo conselho."
 
 # game/NPC/VARVARA.rpy:752
 translate PortuguesBR varv_dia_menu_98cfc394:
@@ -1252,7 +1252,7 @@ translate PortuguesBR varv_dia_menu_a0c5e6e2:
 translate PortuguesBR varv_dia_menu_afc67d08:
 
     # gg smile "Спасибо, Барбара, это очень ценные советы."
-    gg smile "Obrigado Barbara, este é um conselho muito valioso."
+    gg smile "Obrigada Barbara, este é um conselho muito valioso."
 
 # game/NPC/VARVARA.rpy:773
 translate PortuguesBR varv_dia_menu_2766cf4c:
@@ -1432,7 +1432,7 @@ translate PortuguesBR varv_dia_menu_4c1d0723:
 translate PortuguesBR varv_dia_menu_28317170:
 
     # gg smile "Спасибо, Барбара."
-    gg smile "Obrigado, Bárbara."
+    gg smile "Obrigada, Bárbara."
 
 # game/NPC/VARVARA.rpy:851
 translate PortuguesBR varv_dia_menu_beb0b87a:
@@ -1444,7 +1444,7 @@ translate PortuguesBR varv_dia_menu_beb0b87a:
 translate PortuguesBR varv_dia_menu_3965623d:
 
     # varv "Точно, спасибо! Я его обыскалась."
-    varv "Exatamente, obrigado! Eu o revistei."
+    varv "Exatamente, obrigada! Eu o revistei."
 
 # game/NPC/VARVARA.rpy:853
 translate PortuguesBR varv_dia_menu_ea418af1:
@@ -1750,7 +1750,7 @@ translate PortuguesBR varv_dia_menu_27b73b31:
 translate PortuguesBR varv_dia_menu_ed3ce701:
 
     # varv "Отличный зал. Все новое, приятное, да и от больницы совсем недалеко. Буду сюда ходить, спасибо за наводку."
-    varv "Grande sala. Tudo é novo, agradável e não fica longe do hospital. Eu vou vir aqui, obrigado pela dica."
+    varv "Grande sala. Tudo é novo, agradável e não fica longe do hospital. Eu vou vir aqui, obrigada pela dica."
 
 # game/NPC/VARVARA.rpy:977
 translate PortuguesBR varv_dia_menu_9d93689f:
@@ -2368,7 +2368,7 @@ translate PortuguesBR varv_cleaning_menu_1b8ae303:
 translate PortuguesBR varv_cleaning_menu_b0c6cdb4:
 
     # alex "Просто небольшая благодарность за все, что ты сделала для меня."
-    alex "Só um pequeno obrigado por tudo que você fez por mim."
+    alex "Só um pequeno obrigada por tudo que você fez por mim."
 
 # game/NPC/VARVARA.rpy:1346
 translate PortuguesBR varv_cleaning_menu_3f751113:
@@ -3112,13 +3112,13 @@ translate PortuguesBR varv_sex_0a594937:
 translate PortuguesBR varv_sex_785fa605:
 
     # varv "Мило поблагодари и выполни просьбу."
-    varv "Muito obrigado e atenda ao pedido."
+    varv "Muito obrigada e atenda ao pedido."
 
 # game/NPC/VARVARA.rpy:1786
 translate PortuguesBR varv_sex_4d1c30ae:
 
     # alex "{b}Спасибо, мальчики! А вот вам моя киска!{/b}"
-    alex "{b} Obrigado meninos! E aqui está minha buceta! {/b}"
+    alex "{b} Obrigada meninos! E aqui está minha buceta! {/b}"
 
 # game/NPC/VARVARA.rpy:1792
 translate PortuguesBR varv_sex_8d918c89:
@@ -3142,7 +3142,7 @@ translate PortuguesBR varv_sex_d288494e:
 translate PortuguesBR varv_sex_f3fa8b5c:
 
     # alex "{b}Ого! Спасибо тебе, сладкий!{/b}"
-    alex "{b} Uau! Obrigado, querida! {/b}"
+    alex "{b} Uau! Obrigada, querida! {/b}"
 
 # game/NPC/VARVARA.rpy:1824
 translate PortuguesBR varv_sex_a4db84e1:
@@ -3346,7 +3346,7 @@ translate PortuguesBR varv_sex_fdb81ce0:
 translate PortuguesBR varv_sex_28317170:
 
     # gg smile "Спасибо, Барбара."
-    gg smile "Obrigado, Bárbara."
+    gg smile "Obrigada, Bárbara."
 
 # game/NPC/VARVARA.rpy:2016
 translate PortuguesBR varv_sex_3c7096b3:
@@ -3406,7 +3406,7 @@ translate PortuguesBR barb_vault_show_84af21c5:
 translate PortuguesBR barb_vault_show_a38e247a:
 
     # gg smile "Спасибо, я именно этим и займусь!"
-    gg smile "Obrigado, é exatamente o que vou fazer!"
+    gg smile "Obrigada, é exatamente o que vou fazer!"
 
 # game/NPC/VARVARA.rpy:2051
 translate PortuguesBR barb_vault_show_c4d0e14c:
@@ -3976,129 +3976,129 @@ translate PortuguesBR strings:
 translate PortuguesBR dia_varv_4a76cb06:
 
     # varv "Я смотрю, ты уже совсем не стесняешься."
-    varv ""
+    varv "Vejo que você não é nada tímida."
 
 # game/NPC/VARVARA.rpy:720
 translate PortuguesBR dia_varv_b3f202ed:
 
     # gg zadum "Извини, я просто устала носить этот дурацкий лифчик весь день. Но если это проблема, то я надену что-нибудь..."
-    gg zadum ""
+    gg zadum "Desculpe, estou cansada de usar esse sutiã estúpido o dia todo. Mas se isso for um problema, então eu vou usar algo..."
 
 # game/NPC/VARVARA.rpy:721
 translate PortuguesBR dia_varv_1b767e6d:
 
     # varv "Брось, все в порядке, тут все свои."
-    varv ""
+    varv "Vamos, está tudo bem, todos estão aqui."
 
 # game/NPC/VARVARA.rpy:723
 translate PortuguesBR dia_varv_8ca5a41f:
 
     # varv "Помню, как ты смущалась, когда увидела меня в душе. А теперь сама разгуливашь по квартире с голой грудью."
-    varv ""
+    varv "Lembro-me de como você ficou envergonhada quando me viu no chuveiro. E agora você anda pelo apartamento com os seios nus."
 
 # game/NPC/VARVARA.rpy:724
 translate PortuguesBR dia_varv_1a23c679:
 
     # gg smile "Да, этот город плохо на меня влияет..."
-    gg smile ""
+    gg smile "Sim, esta cidade é uma má influência para mim..."
 
 # game/NPC/VARVARA.rpy:725
 translate PortuguesBR dia_varv_9e14b26f:
 
     # varv "Я думаю, он просто помогает нам понять себя."
-    varv ""
+    varv "Acho que isso só nos ajuda a entender a nós mesmos."
 
 # game/NPC/VARVARA.rpy:726
 translate PortuguesBR dia_varv_ccd93ed2:
 
     # gg zadum "Сложная мысль..."
-    gg zadum ""
+    gg zadum "Pensamento complicado..."
 
 # game/NPC/VARVARA.rpy:727
 translate PortuguesBR dia_varv_51c7a98e:
 
     # varv "Ходи как хочешь, Алекс. Я же говорила: это твой дом..."
-    varv ""
+    varv "Ande como quiser, Alex. Eu disse a você que esta é sua casa..."
 
 # game/NPC/VARVARA.rpy:728
 translate PortuguesBR dia_varv_1355063f:
 
     # gg smile "Спасибо, Барбара. Это очень приятно слышать..."
-    gg smile ""
+    gg smile "Obrigada Bárbara Que bom ouvir..."
 
 # game/NPC/VARVARA.rpy:798
 translate PortuguesBR dia_varv_44730aec:
 
     # gg sad "Мне почему-то неловко покупать что-то в секс-шопах."
-    gg sad ""
+    gg sad "Por alguma razão, tenho vergonha de comprar algo em sex shops."
 
 # game/NPC/VARVARA.rpy:799
 translate PortuguesBR dia_varv_acf602a4:
 
     # varv "Секс-шоп - это такой же магазин, как и любой другой."
-    varv ""
+    varv "Uma sex shop é uma loja como qualquer outra."
 
 # game/NPC/VARVARA.rpy:1217
 translate PortuguesBR varv_dia_menu_d949adde:
 
     # alex "Ты уже говорила."
-    alex ""
+    alex "Você já falou."
 
 # game/NPC/VARVARA.rpy:1218
 translate PortuguesBR varv_dia_menu_e027b8b7:
 
     # varv "Мне не сложно повторить. И я сейчас не про слова."
-    varv ""
+    varv "Não é difícil para mim repetir. E não estou falando de palavras."
 
 # game/NPC/VARVARA.rpy:1248
 translate PortuguesBR varv_cleaning_menu_7f7669a5:
 
     # varv "Ты уже не та скромняжка, что раньше. Но в тебе все еще есть эту чужесная невинность."
-    varv ""
+    varv "Você não é mais a garota tímida que costumava ser. Mas você ainda tem aquela inocência estrangeira."
 
 # game/NPC/VARVARA.rpy:1249
 translate PortuguesBR varv_cleaning_menu_6ba141be:
 
     # varv "Не растеряй его... Меня это заводит!"
-    varv ""
+    varv "Não perca... Isso me excita!"
 
 # game/NPC/VARVARA.rpy:1281
 translate PortuguesBR varv_cleaning_menu_56e20db6:
 
     # alex "Ох... Может мы сегодня обойдемся без швабры?"
-    alex ""
+    alex "Oh... Podemos passar sem um esfregão hoje?"
 
 # game/NPC/VARVARA.rpy:1282
 translate PortuguesBR varv_cleaning_menu_2939ac71:
 
     # varv "Ну уж нет. Мне понравилось трахать тебя этой штукой."
-    varv ""
+    varv "Bem Eu não. Eu gostei de foder você com essa coisa."
 
 # game/NPC/VARVARA.rpy:1293
 translate PortuguesBR varv_cleaning_menu_f347e697:
 
     # alex "Это странно, но я хочу, чтобы ты сделала это!"
-    alex ""
+    alex "É estranho, mas eu quero que você faça isso!"
 
 # game/NPC/VARVARA.rpy:1294
 translate PortuguesBR varv_cleaning_menu_dbee4727:
 
     # varv "С удовольствием, маленькая шлюшка!"
-    varv ""
+    varv "Com prazer, putinha!"
 
 # game/NPC/VARVARA.rpy:1343
 translate PortuguesBR varv_cleaning_menu_e70ebdab:
 
     # aut "Мысль, что это мама моей подруги, давно отошла на второй план. Да и какая разница, в конце концов..."
-    aut ""
+    aut "A ideia de que esta é a mãe da minha amiga há muito desapareceu em segundo plano. E qual a diferença afinal..."
 
 translate PortuguesBR strings:
 
     # game/NPC/VARVARA.rpy:1224
     old "{#image=fem_h}{color=#8c8c8d}{b}Расслабиться{/b}{/color}"
-    new ""
+    new "{#image=fem_h}{color=#8c8c8d}{b}Relaxe{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:1224
     old "{#image=fem}{b}Расслабиться{/b}"
-    new ""
+    new "{#image=fem}{b}Relaxe{/b}"
 

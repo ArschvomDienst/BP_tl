@@ -742,7 +742,7 @@ translate PortuguesBR yeti_menu_e29e8b76:
 translate PortuguesBR yeti_menu_b7b62d18:
 
     # gg smile "Спасибо! Я все ему передам!"
-    gg smile "Obrigado! Vou passar para ele!"
+    gg smile "Obrigada! Vou passar para ele!"
 
 # game/NPC/RICK.rpy:270
 translate PortuguesBR yeti_menu_8563c955:
@@ -760,7 +760,7 @@ translate PortuguesBR yeti_menu_ab86bd93:
 translate PortuguesBR yeti_menu_d6882c74:
 
     # gg smile "Спасибо, я буду иметь в виду."
-    gg smile "Obrigado, vou manter em mente."
+    gg smile "Obrigada, vou manter em mente."
 
 # game/NPC/RICK.rpy:273
 translate PortuguesBR yeti_menu_4d0a3acb:
@@ -898,77 +898,77 @@ translate PortuguesBR strings:
 translate PortuguesBR yeti_menu_9da108e8:
 
     # alex "У меня есть подруга Валери. Она рассказывала, что раньше с сестрой часто приходила к тебе."
-    alex ""
+    alex "Eu tenho uma amiga Valéria. Ela me disse que costumava ir até você com a irmã dela."
 
 # game/NPC/RICK.rpy:224
 translate PortuguesBR yeti_menu_61c38545:
 
     # rick "Да, помню таких. Особенно сестру. Эвелин, кажется?"
-    rick ""
+    rick "Sim, eu me lembro. Especialmente a irmã. Evelyn, eu acho?"
 
 # game/NPC/RICK.rpy:225
 translate PortuguesBR yeti_menu_ab222a77:
 
     # rick "У нее в тринадцать лет уже такие сиськи были... Сейчас вообще огромные, наверно..."
-    rick ""
+    rick "Ela já tinha esses peitos aos treze anos ... Agora eles são geralmente enormes, provavelmente..."
 
 # game/NPC/RICK.rpy:226
 translate PortuguesBR yeti_menu_e15068d9:
 
     # alex "Кому что... А Рик все о сиськах..."
-    alex ""
+    alex "Quem se importa... E Rick tem tudo a ver com peitos..."
 
 # game/NPC/RICK.rpy:227
 translate PortuguesBR yeti_menu_6b1d2595:
 
     # rick "Ну, кто на что учился..."
-    rick ""
+    rick "Bem, quem estudou o quê..."
 
 # game/NPC/RICK.rpy:231
 translate PortuguesBR yeti_menu_c8937d3a:
 
     # alex "Вот ты снова на сцене. Как ощущения?"
-    alex ""
+    alex "Aqui você está novamente no palco. Como se sente?"
 
 # game/NPC/RICK.rpy:232
 translate PortuguesBR yeti_menu_3510dec8:
 
     # rick "Сам пока не понял. Как будто и не прошло семь лет. Только песни другие, да зал поменьше."
-    rick ""
+    rick "Eu mesmo ainda não entendi. É como se sete anos não tivessem se passado. Apenas as músicas são diferentes, mas o salão é menor."
 
 # game/NPC/RICK.rpy:233
 translate PortuguesBR yeti_menu_98ba29b1:
 
     # alex "Значит, ты все тот же безумный Рик, что и в лучшие годы?"
-    alex ""
+    alex "Então você ainda é o mesmo Rick maluco que costumava ser em seus melhores anos?"
 
 # game/NPC/RICK.rpy:234
 translate PortuguesBR yeti_menu_00e62ee5:
 
     # rick "Эй! Мои лучшие годы еще впереди! Не спеши хоронить старину Рика!"
-    rick ""
+    rick "Ei! Meus melhores anos ainda estão por vir! Não se apresse em enterrar o velho Rick!"
 
 # game/NPC/RICK.rpy:235
 translate PortuguesBR yeti_menu_1feb9727:
 
     # alex "Извини. Конечно, ты еще ого-го!"
-    alex ""
+    alex "Eu sinto Muito. Claro, você ainda é uau!"
 
 translate PortuguesBR strings:
 
     # game/NPC/RICK.rpy:221
     old "{b}Валери и Эвелин{/b}"
-    new ""
+    new "{b}Valerie e Evelyn{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Вот мы и начали концертную деятельность{/b}"
-    new ""
+    new "{b}Então começamos a atividade do show{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Как идут репетиции?{/b}"
-    new ""
+    new "{b}Como estão indo os ensaios?{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Как тебе жизнь отшельника?{/b}"
-    new ""
+    new "{b}Você gosta da vida de eremita?{/b}"
 

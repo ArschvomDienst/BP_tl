@@ -172,7 +172,7 @@ translate PortuguesBR dia_rudo_7d5132e9:
 translate PortuguesBR dia_rudo_d6882c74:
 
     # gg smile "Спасибо, я буду иметь в виду."
-    gg smile "Obrigado, vou manter em mente."
+    gg smile "Obrigada, vou manter em mente."
 
 # game/NPC/RUDO.rpy:50
 translate PortuguesBR dia_rudo_77627719:
@@ -304,7 +304,7 @@ translate PortuguesBR rudo_menu_20a1a8d9:
 translate PortuguesBR rudo_menu_88605eab:
 
     # gg smile "Да, ты мне очень помог, спасибо!"
-    gg smile "Sim, você me ajudou muito, obrigado!"
+    gg smile "Sim, você me ajudou muito, obrigada!"
 
 # game/NPC/RUDO.rpy:100
 translate PortuguesBR rudo_menu_9c83b603:
@@ -478,7 +478,7 @@ translate PortuguesBR rudo_menu_3b22d114:
 translate PortuguesBR rudo_menu_7bee92fe:
 
     # gg smile "Спасибо огромное!"
-    gg smile "Muito obrigado!"
+    gg smile "Muito obrigada!"
 
 # game/NPC/RUDO.rpy:153
 translate PortuguesBR rudo_menu_22c95d55:
@@ -1786,7 +1786,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:94
     old "Я не могу тебе сказать"
-    new "eu não posso te contar"
+    new "Eu não posso te contar"
 
     # game/NPC/RUDO.rpy:94
     old "Там есть подпольный рок-клуб"
@@ -1794,7 +1794,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:94
     old "Мне нужна помощь"
-    new "eu preciso de ajuda"
+    new "Eu preciso de ajuda"
 
     # game/NPC/RUDO.rpy:94
     old "Нужно расчистить подвал"
@@ -1862,7 +1862,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:655
     old "{#image=cour_h}{color=#8c8c8d}Давай{/color}"
-    new "{#image=cour_h} {color=#8c8c8d}Vamos{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Vamos{/color}"
 
     # game/NPC/RUDO.rpy:655
     old "{#image=cour}Давай"
@@ -1932,7 +1932,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUDO.rpy:9
     old "Поиграть с парнями в баскетбол ({image=smel_.png} 15([allsmel]))"
-    new "Jogue basquete com caras ({image=smel_.png} 15([allsmel]))"
+    new "Jogar basquete com os meninos ({image=smel_.png} 15([allsmel]))"
 
     # game/NPC/RUDO.rpy:133
     old "Найти Директора в старой школе ночью"
@@ -1964,101 +1964,101 @@ translate PortuguesBR strings:
 translate PortuguesBR flavie_broom_c42cce50:
 
     # aut "Проходя мимо мусорки, я увидела Селесту, тетю Флави."
-    aut ""
+    aut "Passando pela lixeira, vi Celeste, tia de Flavi."
 
 # game/NPC/RUDO.rpy:1209
 translate PortuguesBR flavie_broom_c3c501c8:
 
     # gg2 hit "Может девушка наконец сбежала, и тетя в ярости ее ищет?"
-    gg2 hit ""
+    gg2 hit "Talvez a garota finalmente tenha fugido e sua tia esteja furiosa procurando por ela?"
 
 # game/NPC/RUDO.rpy:1210
 translate PortuguesBR flavie_broom_a4a2bc56:
 
     # gg2 zadum "Да уж, ярости в ее глазах хватает. Или она только на меня так смотрит?"
-    gg2 zadum ""
+    gg2 zadum "Sim, há raiva em seus olhos. Ou ela está apenas me olhando assim?"
 
 # game/NPC/RUDO.rpy:1212
 translate PortuguesBR flavie_broom_7aa40d66:
 
     # aut "Но нет, Флави не сбежала. Я нашла ее рядом с баскетбольной площадкой, где ее трахал Метла."
-    aut ""
+    aut "Mas não, Flavi não fugiu. Eu a encontrei ao lado da quadra de basquete onde Broom estava transando com ela."
 
 # game/NPC/RUDO.rpy:1214
 translate PortuguesBR flavie_broom_190394b0:
 
     # aut "На лице девушки была широкая, почти искренняя улыбка."
-    aut ""
+    aut "Ela tinha um sorriso largo, quase sincero no rosto."
 
 # game/NPC/RUDO.rpy:1215
 translate PortuguesBR flavie_broom_b459a059:
 
     # aut "Так могла улыбаться девочка, играющая со щенком или с кукольным домиком."
-    aut ""
+    aut "Uma menina brincando com um cachorrinho ou com uma casa de bonecas poderia sorrir assim."
 
 # game/NPC/RUDO.rpy:1217
 translate PortuguesBR flavie_broom_10c0ebf6:
 
     # aut "Но Флави не играла. Она подставляла свое анальное отверстие под огромный член темнокожего парня."
-    aut ""
+    aut "Mas Flavi não jogava. Ela substituiu seu ânus sob o enorme pênis de um negro."
 
 # game/NPC/RUDO.rpy:1218
 translate PortuguesBR flavie_broom_4ea171ac:
 
     # aut "Казалось, Метла разрывает малышку изнутри, на всю длину вгоняя в нее свой длинный прибор."
-    aut ""
+    aut "Parecia que Broom estava despedaçando o bebê por dentro, enfiando seu longo dispositivo nela por todo o comprimento."
 
 # game/NPC/RUDO.rpy:1219
 translate PortuguesBR flavie_broom_52ca0cce:
 
     # aut "Но Флави лишь мило попискивала. Было видно, что долгие тренировки с Селестой не прошли даром."
-    aut ""
+    aut "Mas Flavi apenas guinchou docemente. Ficou claro que os longos treinos com Celeste não foram em vão."
 
 # game/NPC/RUDO.rpy:1221
 translate PortuguesBR flavie_broom_7e7cde0a:
 
     # aut "Метла поставил девушку на колени и попытался засунуть своего монстра ей в рот как можно глубже."
-    aut ""
+    aut "Broom colocou a garota de joelhos e tentou enfiar o monstro em sua boca o mais fundo possível."
 
 # game/NPC/RUDO.rpy:1223
 translate PortuguesBR flavie_broom_640e33f2:
 
     # aut "Но Метла явно недооценил малышку Флави."
-    aut ""
+    aut "Mas Broom claramente subestimou a pequena Flavi."
 
 # game/NPC/RUDO.rpy:1224
 translate PortuguesBR flavie_broom_4bafec6d:
 
     # aut "Девушка привстала и насадила свою голову на огромный член. Ее рот и горло растянулись до невероятных размеров, но Флави всем своим видом не выражала ни малейшего дискомфорта."
-    aut ""
+    aut "A garota se levantou e colocou a cabeça em um pênis enorme. Sua boca e garganta se esticaram em um tamanho incrível, mas Flavi não expressou o menor desconforto com toda a sua aparência."
 
 # game/NPC/RUDO.rpy:1226
 translate PortuguesBR flavie_broom_e03488de:
 
     # broom "Блять! Щас концу!"
-    broom ""
+    broom "Porra! Agora o fim!"
 
 # game/NPC/RUDO.rpy:1227
 translate PortuguesBR flavie_broom_f1f8cd6f:
 
     # aut "Мокрый член Метлы выскользнул из податливого горла Флави и красноречиво дергался, готовый взорваться в любую секунду."
-    aut ""
+    aut "O pênis molhado de Broom escorregou da garganta flexível de Flavi e se contorceu eloquentemente, pronto para explodir a qualquer segundo."
 
 # game/NPC/RUDO.rpy:1229
 translate PortuguesBR flavie_broom_407df0ba:
 
     # aut "Девушка даже не закрыла глаза, когда горячая сперма падала ей на лицо."
-    aut ""
+    aut "A garota nem fechou os olhos quando o esperma quente caiu em seu rosto."
 
 # game/NPC/RUDO.rpy:1231
 translate PortuguesBR flavie_broom_faa70eef:
 
     # aut "Метла даже обошелся без пошлых комментариев, а просто отдал Флави деньги."
-    aut ""
+    aut "Broom mesmo sem comentarios vulgares, simplesmente deu o dinheiro a Flavi."
 
 # game/NPC/RUDO.rpy:1232
 translate PortuguesBR flavie_broom_32015339:
 
     # aut "Видимо, девушка смогла его впечатлить."
-    aut ""
+    aut "Aparentemente, a garota foi capaz de impressioná-lo."
 
