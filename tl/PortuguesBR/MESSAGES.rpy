@@ -24,9 +24,9 @@ translate PortuguesBR strings:
 
     # game/MESSAGES.rpy:43
     old "Машина находится [mes_car]"
-    new "O carro está localizado [mes_car]"
+    new "O carro se encontra [mes_car!t]"
 
     # game/MESSAGES.rpy:104
     old "[mes_info_work]"
-    new "[mes_info_work]"
+    new "[mes_info_work!t]"
 
