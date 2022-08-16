@@ -12,7 +12,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:84
     old "Потрачено [rashod]$"
-    new "Gastado [rashod]$"
+    new "Gasto $[rashod]"
 
     # game/SCR.rpy:92
     old "[up_name1]"
@@ -32,11 +32,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:111
     old "Предмет отдан"
-    new "Assunto dado"
+    new "Item dado"
 
     # game/SCR.rpy:117
     old "Я слишком пьяная"
-    new "Estou muito bêbado"
+    new "Estou muito bêbada"
 
     # game/SCR.rpy:123
     old "+[timeup] мин"
@@ -104,7 +104,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:685
     old "Риторика:"
-    new "Retórica:"
+    new "Argumento:"
 
     # game/SCR.rpy:697
     old "Статистика:"
@@ -168,7 +168,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:825
     old "Навык кунилингуса:"
-    new "Habilidade de Cunnilingus:"
+    new "Habilidade de Goza com a língua:"
 
     # game/SCR.rpy:854
     old "Группа \"[band_name]\""
@@ -216,11 +216,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:980
     old "Риторика"
-    new "Retórica"
+    new "Argumento"
 
     # game/SCR.rpy:988
     old "[ritor_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[ritor_b] ([sweet_bonus_time_show] hora [sweet_bonus_time_show_min] min.)"
+    new "[ritor_b] ([sweet_bonus_time_show]hora [sweet_bonus_time_show_min]min.)"
 
     # game/SCR.rpy:990
     old "Посещено тренингов:"
@@ -244,7 +244,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1008
     old "[vocal_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[vocal_b] ([sweet_bonus_time_show] hora. [sweet_bonus_time_show_min] min.)"
+    new "[vocal_b] ([sweet_bonus_time_show]hora. [sweet_bonus_time_show_min]min.)"
 
     # game/SCR.rpy:1010
     old "Посещено уроков:"
@@ -284,11 +284,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1069
     old "[power_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[power_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
+    new "[power_b] ([sweet_bonus_time_show]horas [sweet_bonus_time_show_min]min.)"
 
     # game/SCR.rpy:1071
     old "Всего занятий в зале:"
-    new "Total de aulas no corredor:"
+    new "Total de aulas no salão:"
 
     # game/SCR.rpy:1074
     old "Всего занятий дома:"
@@ -300,7 +300,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1089
     old "[hit_power_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[hit_power_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
+    new "[hit_power_b] ([sweet_bonus_time_show]horas [sweet_bonus_time_show_min]min.)"
 
     # game/SCR.rpy:1091
     old "Выиграно боев:"
@@ -320,7 +320,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1106
     old "[lovk_b] ([sweet_bonus_time_show]ч. [sweet_bonus_time_show_min]мин.)"
-    new "[lovk_b] ([sweet_bonus_time_show] horas [sweet_bonus_time_show_min] min.)"
+    new "[lovk_b] ([sweet_bonus_time_show]horas [sweet_bonus_time_show_min]min.)"
 
     # game/SCR.rpy:1112
     old "Классический секс:"
@@ -332,7 +332,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1118
     old "Секс с дилдо"
-    new "Sexo vibrador"
+    new "Sexo com dildo"
 
     # game/SCR.rpy:1119
     old "[dildo_sex_all]"
@@ -416,11 +416,11 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1218
     old "Влечение к мужчинам:"
-    new "Atração para homens:"
+    new "Atração por homens:"
 
     # game/SCR.rpy:1222
     old "Влечение к женщинам:"
-    new "Atração para mulheres:"
+    new "Atração por mulheres:"
 
     # game/SCR.rpy:1284
     old "Новая песня"
@@ -556,7 +556,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2462
     old "Риторика ([ritor])"
-    new "Retórica ([ritor])"
+    new "Argumento ([ritor])"
 
     # game/SCR.rpy:2466
     old "Возбуждение ([vozb])"
@@ -720,7 +720,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2589
     old "Сильный стресс"
-    new "estresse severo"
+    new "Estresse severo"
 
     # game/SCR.rpy:2591
     old "Алкогольное опьянение"
@@ -732,7 +732,7 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:2595
     old "Приняла противозачаточные"
-    new "tomei anticoncepcional"
+    new "Tomei anticoncepcional"
 
     # game/SCR.rpy:2597
     old "Кто-то кончил в Алекс"
@@ -780,25 +780,25 @@ translate PortuguesBR strings:
 
     # game/SCR.rpy:1297
     old "Нужно больше вдохновения"
-    new ""
+    new "Precisa de mais inspiração"
 
     # game/SCR.rpy:1624
     old "Вдохновение"
-    new ""
+    new "Inspiração"
 
     # game/SCR.rpy:2345
     old "Интимная стрижка"
-    new ""
+    new "Corte de cabelo íntimo"
 
     # game/SCR.rpy:2346
     old "Побрито"
-    new ""
+    new "Raspada"
 
     # game/SCR.rpy:2347
     old "Стрижка"
-    new ""
+    new "Um corte de cabelo"
 
     # game/SCR.rpy:2348
     old "Мохнатка"
-    new ""
+    new "Mokhnatka"
 

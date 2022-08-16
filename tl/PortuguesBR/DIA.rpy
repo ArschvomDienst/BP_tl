@@ -118,7 +118,7 @@ translate PortuguesBR dia_sluts_09931b8f:
 translate PortuguesBR dia_sluts_df229b2f:
 
     # gg sad "Спасибо, я буду иметь в виду."
-    gg sad "Obrigado, vou manter em mente."
+    gg sad "Obrigada, vou manter em mente."
 
 # game/DIA.rpy:65
 translate PortuguesBR dia_sluts_72ded957:
@@ -790,7 +790,7 @@ translate PortuguesBR dia_rector_2c24dec9:
 translate PortuguesBR dia_rector_992a4494:
 
     # gg zlo "Спасибо!"
-    gg zlo "Obrigado!"
+    gg zlo "Obrigada!"
 
 # game/DIA.rpy:433
 translate PortuguesBR dia_rector_1181b2a1:
@@ -976,7 +976,7 @@ translate PortuguesBR clair_menu_12433c23:
 translate PortuguesBR clair_menu_4a2de9e9:
 
     # gg zadum "Спасибо, я подумаю..."
-    gg zadum "Obrigado, vou pensar nisso ..."
+    gg zadum "Obrigada, vou pensar nisso ..."
 
 # game/DIA.rpy:566
 translate PortuguesBR clair_menu_72c73091:
@@ -2134,7 +2134,7 @@ translate PortuguesBR dia_barista_81d9567f:
 translate PortuguesBR dia_barista_558c12b4:
 
     # gg smile "Он чудесен, спасибо!"
-    gg smile "Ele é maravilhoso, obrigado!"
+    gg smile "Ele é maravilhoso, obrigada!"
 
 # game/DIA.rpy:1173
 translate PortuguesBR dia_barista_6d7a767c:
@@ -2644,13 +2644,13 @@ translate PortuguesBR dia_ash_b234249c:
 translate PortuguesBR dia_ash_ebc16ee4:
 
     # gg zadum "Ох, как все сложно! Я постараюсь ничего не перепутать. Спасибо за информацию."
-    gg zadum "Oh, como é complicado! Vou tentar não confundir nada. Obrigado pela informação."
+    gg zadum "Oh, como é complicado! Vou tentar não confundir nada. Obrigada pela informação."
 
 # game/DIA.rpy:1495
 translate PortuguesBR dia_ash_6bb0e703:
 
     # ash "А тебе спасибо за плакат. Кстати, внутри подойди к бармену, он ответит на все твои вопросы. И еще раз извини за вчерашнее. А мне бежать надо. Пока!"
-    ash "Obrigado pelo pôster. A propósito, vá até o barman lá dentro, ele responderá a todas as suas perguntas. E novamente, sinto muito por ontem. E eu tenho que correr. Até!"
+    ash "Obrigada pelo pôster. A propósito, vá até o barman lá dentro, ele responderá a todas as suas perguntas. E novamente, sinto muito por ontem. E eu tenho que correr. Até!"
 
 # game/DIA.rpy:1498
 translate PortuguesBR dia_ash_1497b332:
@@ -2974,7 +2974,7 @@ translate PortuguesBR dia_holly_bf90f072:
 translate PortuguesBR dia_holly_bde6110f:
 
     # gg zadum "Оу... Спасибо за прямоту... Просто он тоже тебя хочет..."
-    gg zadum "Oh ... Obrigado por ser franco ... Ele só quer você também ..."
+    gg zadum "Oh ... Obrigada por ser franco ... Ele só quer você também ..."
 
 # game/DIA.rpy:1710
 translate PortuguesBR dia_holly_f623e226:
@@ -3424,7 +3424,7 @@ translate PortuguesBR dia_owl_85697747:
 translate PortuguesBR dia_owl_e860dc44:
 
     # owl "Спасибо! Я делала этот магазин больше трех лет, и я рада, что он нравится кому-то, кроме меня."
-    owl "Obrigado! Tenho feito esta loja há mais de três anos e fico feliz que alguém que não seja eu goste dela."
+    owl "Obrigada! Tenho feito esta loja há mais de três anos e fico feliz que alguém que não seja eu goste dela."
 
 # game/DIA.rpy:1908
 translate PortuguesBR dia_owl_9db47a34:
@@ -3502,7 +3502,7 @@ translate PortuguesBR dia_owl_dd8f7575:
 translate PortuguesBR dia_owl_98742317:
 
     # gg smile "Спасибо огромное! Я рада любой информации!"
-    gg smile "Muito obrigado! Fico feliz por qualquer informação!"
+    gg smile "Muito obrigada! Fico feliz por qualquer informação!"
 
 # game/DIA.rpy:1924
 translate PortuguesBR dia_owl_89193632:
@@ -3640,7 +3640,7 @@ translate PortuguesBR menu_nurse_52b31985:
 translate PortuguesBR menu_nurse_1a058952:
 
     # gg smile "Спасибо большое."
-    gg smile "Muito obrigado."
+    gg smile "Muito obrigada."
 
 # game/DIA.rpy:2006
 translate PortuguesBR menu_nurse_345aa393:
@@ -4240,7 +4240,7 @@ translate PortuguesBR molly_menu_7bfd2e11:
 translate PortuguesBR molly_menu_2ca07992:
 
     # gg smile "Спасибо, Молли!"
-    gg smile "Obrigado Molly!"
+    gg smile "Obrigada Molly!"
 
 # game/DIA.rpy:2353
 translate PortuguesBR catherine_menu_f328a694:
@@ -4492,7 +4492,7 @@ translate PortuguesBR dia_gyne_555c86c8:
 translate PortuguesBR dia_gyne_c716e237:
 
     # aut "Я не знала, что ей ответить. Я лишь сказала \"спасибо\" и попрощалась."
-    aut "Eu não sabia o que dizer a ela. Eu apenas disse obrigado e disse adeus."
+    aut "Eu não sabia o que dizer a ela. Eu apenas disse obrigada e disse adeus."
 
 # game/DIA.rpy:2553
 translate PortuguesBR dia_ruth_b18aa855:
@@ -4906,7 +4906,7 @@ translate PortuguesBR ruth_menu_9e620de2:
 translate PortuguesBR ruth_menu_41d0b1bf:
 
     # gg smile "Спасибо! Я сделаю все, что нужно!"
-    gg smile "Obrigado! Eu farei o que for preciso!"
+    gg smile "Obrigada! Eu farei o que for preciso!"
 
 # game/DIA.rpy:2776
 translate PortuguesBR ruth_menu_11a10cd1:
@@ -5998,7 +5998,7 @@ translate PortuguesBR dia_sancho_092de5da:
 translate PortuguesBR dia_sancho_855cf0ff:
 
     # gg smile "Спасибо!"
-    gg smile "Obrigado!"
+    gg smile "Obrigada!"
 
 # game/DIA.rpy:3492
 translate PortuguesBR dia_sancho_0febae4d:
@@ -7062,7 +7062,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:298
     old "Требуется риторика (30)"
-    new "Retórica necessária (30)"
+    new "Argumento necessária (30)"
 
     # game/DIA.rpy:310
     old "Требуется шарм (66)"
@@ -7070,7 +7070,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:316
     old "{#image=cour_h}{color=#8c8c8d}Соблазнить{/color}"
-    new "{#image=cour_h} {color=#8c8c8d}Seduza{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Seduza{/color}"
 
     # game/DIA.rpy:316
     old "{#image=cour}Соблазнить"
@@ -7194,7 +7194,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1056
     old "Требуется риторика (22)"
-    new "Retórica necessária (22)"
+    new "Argumento necessária (22)"
 
     # game/DIA.rpy:1084
     old "Я должна передать посылку"
@@ -7258,7 +7258,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1249
     old "Требуется риторика (19)"
-    new "Retórica necessária (19)"
+    new "Argumento necessário (19)"
 
     # game/DIA.rpy:1301
     old "Тренажерный зал"
@@ -7282,15 +7282,15 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1307
     old "Абонемент куплен (5 пос.)"
-    new "Assinatura adquirida (5 pos.)"
+    new "Assinatura adquirida (5 visitas.)"
 
     # game/DIA.rpy:1325
     old "Абонемент куплен (10 пос.)"
-    new "Assinatura adquirida (10 pos.)"
+    new "Assinatura adquirida (10 visitas.)"
 
     # game/DIA.rpy:1343
     old "Абонемент куплен (30 пос.)"
-    new "Assinatura adquirida (30 pos.)"
+    new "Assinatura adquirida (30 visitas.)"
 
     # game/DIA.rpy:1363
     old "5 посещений (100$)"
@@ -7322,11 +7322,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1695
     old "Поняла тебя! Скоро буду!"
-    new "Entendi você! Eu estarei lá em breve!"
+    new "Te entendi! Eu estarei lá em breve!"
 
     # game/DIA.rpy:1765
     old "{color=#8c8c8d}Я согласна (-2000){/color}"
-    new "{color=#8c8c8d} Concordo (-2.000){/color}"
+    new "{color=#8c8c8d}Concordo (-2.000){/color}"
 
     # game/DIA.rpy:1765
     old "Я согласна (-2000)"
@@ -7358,7 +7358,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:1945
     old "{#image=ritor}Обещаю сохранить тайну"
-    new "{#image=ritor}Prometo manter o segredo"
+    new "{#image=ritor}Prometo guardar segredo"
 
     # game/DIA.rpy:1961
     old "Требуется риторика (14)"
@@ -7382,7 +7382,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2010
     old "Вылечиться"
-    new "Cura"
+    new "Ser curado"
 
     # game/DIA.rpy:2024
     old "Вот деньги"
@@ -7398,19 +7398,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2046
     old "Я согласна (2000$)"
-    new "concordo ($2.000)"
+    new "Concordo ($2.000)"
 
     # game/DIA.rpy:2225
     old "{#image=cour_h}{color=#8c8c8d}Я готова{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}Estou pronto{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Estou pronta{/color}"
 
     # game/DIA.rpy:2225
     old "{#image=cour}Я готова"
-    new "{#image=cour}Estou pronto"
+    new "{#image=cour}Estou pronta"
 
     # game/DIA.rpy:2225
     old "Я пока не готова"
-    new "eu não estou pronto ainda"
+    new "Eu não estou pronta ainda"
 
     # game/DIA.rpy:2227
     old "Требуется смелость (6)"
@@ -7442,11 +7442,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2346
     old "{#image=cour_h}{color=#8c8c8d}Я готова пойти дальше{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}Estou pronto para ir mais longe{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Estou pronta para ir mais longe{/color}"
 
     # game/DIA.rpy:2346
     old "{#image=cour}Я готова пойти дальше"
-    new "{#image=cour}Estou pronto para ir mais longe"
+    new "{#image=cour}Estou pronta para ir mais longe"
 
     # game/DIA.rpy:2346
     old "Вы продаете билеты?"
@@ -7482,19 +7482,19 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2735
     old "{#image=power_h}{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{#image=power_h}{color=#8c8c8d}Estou pronto para estudar!{/color}"
+    new "{#image=power_h}{color=#8c8c8d}Estou pronta para praticar!{/color}"
 
     # game/DIA.rpy:2735
     old "{#image=agility_h}{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{#image=agility_h}{color=#8c8c8d}Estou pronto para praticar!{/color}"
+    new "{#image=agility_h}{color=#8c8c8d}Estou pronta para praticar!{/color}"
 
     # game/DIA.rpy:2735
     old "{color=#8c8c8d}Я готова заниматься!{/color}"
-    new "{color=#8c8c8d}Estou pronto para estudar!{/color}"
+    new "{color=#8c8c8d}Estou pronta para praticar!{/color}"
 
     # game/DIA.rpy:2735
     old "Я готова заниматься!"
-    new "Estou pronto para estudar!"
+    new "Estou pronta para praticar!"
 
     # game/DIA.rpy:2756
     old "Требуется сила (10)"
@@ -7502,7 +7502,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2760
     old "Требуется ловкость (10)"
-    new "Agi necessário (10)"
+    new "Destreza necessário (10)"
 
     # game/DIA.rpy:2764
     old "Нужно больше денег (1000)"
@@ -7510,11 +7510,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2927
     old "{#image=voice_h}{color=#8c8c8d}Я готова{/color}"
-    new "{#image=voice_h}{color=#8c8c8d}Estou pronto{/color}"
+    new "{#image=voice_h}{color=#8c8c8d}Estou pronta{/color}"
 
     # game/DIA.rpy:2927
     old "{#image=voice_}Я готова"
-    new "{#image=voice_}Rstou pronto"
+    new "{#image=voice_}Rstou pronta"
 
     # game/DIA.rpy:2927
     old "Я должна подумать"
@@ -7522,7 +7522,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:2927
     old "Я готова!"
-    new "Estou pronto!"
+    new "Estou pronta!"
 
     # game/DIA.rpy:2929
     old "Недостаточный уровень вокала (13)"
@@ -7530,7 +7530,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3142
     old "Я готова"
-    new "estou pronto"
+    new "Estou pronta"
 
     # game/DIA.rpy:3142
     old "В другой раз"
@@ -7610,11 +7610,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3496
     old "На ремонт туалета (3000$)"
-    new "Para conserto de banheiro ($3.000)"
+    new "Para reforma de banheiro ($3.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}На ремонт туалета (3000$){/color}"
-    new "{color=#8c8c8d}Para conserto de banheiro ($3.000){/color}"
+    new "{color=#8c8c8d}Para reforma de banheiro ($3.000){/color}"
 
     # game/DIA.rpy:3496
     old "Закажите для меня мебель (4000$)"
@@ -7634,11 +7634,11 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3496
     old "Приступайте к работе (3000$)"
-    new "Começar ($3.000)"
+    new "Começar a trabalhar ($3.000)"
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Приступайте к работе (3000$){/color}"
-    new "{color=#8c8c8d}Ir ao trabalho ($3.000){/color}"
+    new "{color=#8c8c8d}Começar a trabalhar ($3.000){/color}"
 
     # game/DIA.rpy:3496
     old "Займитесь лестницей (2000$)"
@@ -7654,7 +7654,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3496
     old "{color=#8c8c8d}Приступайте к работе (2500$){/color}"
-    new "{color=#8c8c8d}Ir ao trabalho ($ 2500){/color}"
+    new "{color=#8c8c8d}Começar a trabalhar ($2.500){/color}"
 
     # game/DIA.rpy:3573
     old "Нужно больше денег (3000)"
@@ -7666,7 +7666,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3586
     old "Требуется риторика (40)"
-    new "Retórica necessária (40)"
+    new "Argumento necessário (40)"
 
     # game/DIA.rpy:3633
     old "Нужно больше денег (2500)"
@@ -7694,7 +7694,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3718
     old "Я согласна"
-    new "eu concordo"
+    new "Concordo"
 
     # game/DIA.rpy:3912
     old "Майкл так тебя любит!"
@@ -7702,7 +7702,7 @@ translate PortuguesBR strings:
 
     # game/DIA.rpy:3912
     old "Не стоит мучить себя и Майкла"
-    new "Não se torture e Michael"
+    new "Não torture a si mesmo e Michael"
 
     # game/DIA.rpy:3996
     old "Найти книгу"
@@ -7774,7 +7774,7 @@ translate PortuguesBR naru_menu_a5d3c094:
 translate PortuguesBR naru_menu_74fb16fc:
 
     # gg smile "Спасибо."
-    gg smile "Obrigado."
+    gg smile "Obrigada."
 
 # game/DIA.rpy:729
 translate PortuguesBR dia_claire_36748654:
@@ -7816,7 +7816,7 @@ translate PortuguesBR dia_claire_12433c23:
 translate PortuguesBR dia_claire_4a2de9e9:
 
     # gg zadum "Спасибо, я подумаю..."
-    gg zadum "Obrigado, vou pensar nisso..."
+    gg zadum "Obrigada, vou pensar nisso..."
 
 # game/DIA.rpy:2324
 translate PortuguesBR casino_work_menu1_cb0ecef9:
@@ -8002,7 +8002,7 @@ translate PortuguesBR jill_dia_28e534cb:
 translate PortuguesBR jill_dia_a2c69fcc:
 
     # jill "Спасибо, сэр."
-    jill "Obrigado senhor."
+    jill "Obrigada senhor."
 
 # game/DIA.rpy:4160
 translate PortuguesBR jill_dia_20b904f5:
@@ -9264,7 +9264,7 @@ translate PortuguesBR molly_mast_08401668:
 translate PortuguesBR molly_mast_80166963:
 
     # molly "Спасибо, Алекс. Если ты не против, я бы хотела одеться, пока Гарри из душа не вернулся."
-    molly "Obrigado, Alex. Se você não se importa, eu gostaria de me vestir antes que Harry volte do banho."
+    molly "Obrigada, Alex. Se você não se importa, eu gostaria de me vestir antes que Harry volte do banho."
 
 # game/DIA.rpy:4634
 translate PortuguesBR molly_mast_294df4bd:
@@ -9296,109 +9296,109 @@ translate PortuguesBR strings:
 translate PortuguesBR dia_autosalon_6494741d:
 
     # gg zadum "А где Тина?"
-    gg zadum ""
+    gg zadum "Onde está Tina?"
 
 # game/DIA.rpy:290
 translate PortuguesBR dia_autosalon_8ebdd80b:
 
     # sheila "Теперь я за нее. Я Шейла, могу вам чем-то помочь?"
-    sheila ""
+    sheila "Agora estou no lugar dela. Eu sou Sheila, posso te ajudar em algo?"
 
 # game/DIA.rpy:291
 translate PortuguesBR dia_autosalon_5b88dcff:
 
     # boy "Босс отправил Тину в декретный отпуск. Цитирую: \"Ты ни дня больше не будет работать на этой говняной должности!\""
-    boy ""
+    boy "O chefe mandou Tina de licença maternidade. Citação: 'Você não vai trabalhar mais um dia nesta posição de merda! '"
 
 # game/DIA.rpy:292
 translate PortuguesBR dia_autosalon_0d36e5eb:
 
     # boy "Грубовато было говорить так при мне, согласитесь..."
-    boy ""
+    boy "Foi rude dizer isso na minha frente, você deve admitir ..."
 
 # game/DIA.rpy:293
 translate PortuguesBR dia_autosalon_1a538645:
 
     # gg zadum "Угу."
-    gg zadum ""
+    gg zadum "Sim."
 
 # game/DIA.rpy:294
 translate PortuguesBR dia_autosalon_6507d242:
 
     # gg2 zadum "Да как-то пофигу, если честно. Странно, что он тебя не уволил."
-    gg2 zadum ""
+    gg2 zadum "Sim, meio chato, para ser honesta. Estou surpresa que ele não tenha demitido você."
 
 # game/DIA.rpy:295
 translate PortuguesBR dia_autosalon_3aa7f0df:
 
     # gg2 smile "Надеюсь, у Тины и Киана все будет хорошо. Главное, чтобы он не начал трахать эту Шейлу."
-    gg2 smile ""
+    gg2 smile "Espero que Tina e Kian estejam bem. O principal é que ele não comece a foder essa Sheila."
 
 # game/DIA.rpy:2080
 translate PortuguesBR dia_owl_88edd1a9:
 
     # owl "Все варианты я буду согласовывать с вами, конечно. Кстати, давно хотела попасть к вам на репетицию, а то сложно продавать музыку, которую никогда не слышал."
-    owl ""
+    owl "Todas as opções eu coordenarei com você, é claro. Aliás, há muito tempo queria ir ao seu ensaio, senão fica difícil vender música que você nunca ouviu."
 
 # game/DIA.rpy:2081
 translate PortuguesBR dia_owl_3a5ad657:
 
     # michael "Без проблем! Раз уж ты здесь, предлагаю провести внеплановую репетицию, если Алекс не против."
-    michael ""
+    michael "Sem problemas! Já que você está aqui, sugiro que tenhamos um ensaio não programado, se Alex não se importar."
 
 # game/DIA.rpy:2083
 translate PortuguesBR dia_owl_a6bfa9af:
 
     # gg smile "Я согласна. Будешь моим первым зрителем!"
-    gg smile ""
+    gg smile "Concordo. Seja meu primeiro espectador!"
 
 # game/DIA.rpy:2084
 translate PortuguesBR dia_owl_e69168c1:
 
     # owl "Это большая честь."
-    owl ""
+    owl "É uma honra."
 
 # game/DIA.rpy:2085
 translate PortuguesBR dia_owl_1d6b9d04:
 
     # michael "В таком случае попрошу Киана заехать за Риком."
-    michael ""
+    michael "Nesse caso, pedirei a Kian para pegar Rick."
 
 translate PortuguesBR strings:
 
     # game/DIA.rpy:2466
     old "{#image=cour_h}{color=#8c8c8d}{b}Я готова{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Estou pronta{/b}{/color}"
 
     # game/DIA.rpy:2466
     old "{#image=cour}{b}Я готова{/b}"
-    new ""
+    new "{#image=cour}{b}Estou pronta{/b}"
 
     # game/DIA.rpy:3032
     old "{color=#00ff00}{b}Вы Рут Лейн?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Você é Ruth Lane?{/b}{/color}"
 
     # game/DIA.rpy:3032
     old "{color=#00ff00}{b}Я готова заниматься!{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Estou pronta para praticar!{/b}{/color}"
 
     # game/DIA.rpy:3653
     old "{#image=cour_h}{color=#8c8c8d}{b}Я попробую{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Vou tentar{/b}{/color}"
 
     # game/DIA.rpy:3653
     old "{#image=cour}{b}Я попробую{/b}"
-    new ""
+    new "{#image=cour}{b}Vou tentar{/b}"
 
     # game/DIA.rpy:4062
     old "{#image=sharm_h}{color=#8c8c8d}{b}Войти{/b}{/color}"
-    new ""
+    new "{#image=sharm_h}{color=#8c8c8d}{b}Login{/b}{/color}"
 
     # game/DIA.rpy:4062
     old "{#image=sharm}{b}Войти{/b}"
-    new ""
+    new "{#image=sharm}{b}Login{/b}"
 
     # game/DIA.rpy:4102
     old "{b}Я согласна{/b}"
-    new ""
+    new "{b}Concordo{/b}"
 

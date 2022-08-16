@@ -1096,7 +1096,7 @@ translate PortuguesBR ruby_kiss_menu_e3d2ee71:
 translate PortuguesBR ruby_kiss_menu_9a8e91ee:
 
     # gg smile "Благодарю, я подумаю."
-    gg smile "Obrigado, vou pensar nisso."
+    gg smile "Obrigada, vou pensar nisso."
 
 # game/NPC/RUBY.rpy:653
 translate PortuguesBR ruby_kiss_menu_9e3e43ff:
@@ -1126,7 +1126,7 @@ translate PortuguesBR dia_ruby_menu_db951520:
 translate PortuguesBR dia_ruby_menu_d10d46f3:
 
     # gg sad "Да... Спасибо за помощь..."
-    gg sad "Sim ... Obrigado pela ajuda ..."
+    gg sad "Sim ... Obrigada pela ajuda ..."
 
 # game/NPC/RUBY.rpy:662
 translate PortuguesBR dia_ruby_menu_1ab95ec6:
@@ -1318,7 +1318,7 @@ translate PortuguesBR ruby_tennis_b0e0393c:
 translate PortuguesBR ruby_tennis_d781b295:
 
     # lera "Сенсации не произошло! Алекс Нэш одержала блестящую победу! Всем спасибо за игру, а судье жарко, судья хочет выпить апельсинового сока."
-    lera "Não houve sensação! Alex Nash obteve uma vitória brilhante! Obrigado a todos pelo jogo, e o juiz está com calor, o juiz quer tomar um suco de laranja."
+    lera "Não houve sensação! Alex Nash obteve uma vitória brilhante! Obrigada a todos pelo jogo, e o juiz está com calor, o juiz quer tomar um suco de laranja."
 
 # game/NPC/RUBY.rpy:964
 translate PortuguesBR ruby_tennis_940666a3:
@@ -1528,7 +1528,7 @@ translate PortuguesBR ruby_tennis_ef6527dd:
 translate PortuguesBR ruby_tennis_8ed3d1af:
 
     # lera "Как жаль, что эта блестящая игра подошла к концу по причине того, что судье и комментатору по совместительству напекло в голову. Я хочу принять душ, а вы тут воркуйте, голубки."
-    lera "Que pena que este jogo genial tenha chegado ao fim devido ao facto de o árbitro e o comentador terem cozinhado na cabeça. Eu quero tomar um banho e vocês arrulham aqui, pombas."
+    lera "Que pena que este jogo genial tenha chegada ao fim devido ao facto de o árbitro e o comentador terem cozinhado na cabeça. Eu quero tomar um banho e vocês arrulham aqui, pombas."
 
 # game/NPC/RUBY.rpy:1241
 translate PortuguesBR ruby_tennis_75641519:
@@ -2216,7 +2216,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:677
     old "Нужно купить теннисный костюм"
-    new "Preciso comprar um terno de tênis"
+    new "Preciso comprar um traje de tênis"
 
     # game/NPC/RUBY.rpy:681
     old "Нужно купить теннисную ракетку"
@@ -2276,7 +2276,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:608
     old "Написать Руби еще раз (Пн,Вт,Чт,Пт)"
-    new "Escreva Ruby novamente (Seg, Ter, Quinta, Sexta)"
+    new "Escreva para Ruby novamente (Seg, Ter, Quinta, Sexta)"
 
     # game/NPC/RUBY.rpy:622
     old "Принести Валери бутылку вина (Пн,Вт,Чт,Пт)"
@@ -2296,7 +2296,7 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:666
     old "{b}У меня все готово{/b}"
-    new "{b}Estou pronto{/b}"
+    new "{b}Estou pronta{/b}"
 
     # game/NPC/RUBY.rpy:666
     old "{b}Повторим тренировку?{/b}"
@@ -2308,5 +2308,5 @@ translate PortuguesBR strings:
 
     # game/NPC/RUBY.rpy:1000
     old "Поиграть в теннис без трусиков (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Jogar tênis sem calcinha (Seg, Ter, Qui, Sex 14:00-16:00)"
+    new "Jogar tênis sem calcinha (Seg,Ter,Qui,Sex 14:00-16:00)"
 

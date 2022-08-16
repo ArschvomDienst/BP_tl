@@ -148,7 +148,7 @@ translate PortuguesBR dia_amanda_7970aa6b:
 translate PortuguesBR dia_amanda_7d182b4c:
 
     # amanda "Ах, спасибо, так гораздо легче... Встретимся здесь же в конце смены, окей? Только не забудь, пожалуйста."
-    amanda "Ah obrigado, assim é muito mais fácil ... Te encontro aqui no final do plantão, ok? Só não se esqueça, por favor."
+    amanda "Ah obrigada, assim é muito mais fácil ... Te encontro aqui no final do plantão, ok? Só não se esqueça, por favor."
 
 # game/NPC/AMANDA.rpy:60
 translate PortuguesBR dia_amanda_39033332:
@@ -220,7 +220,7 @@ translate PortuguesBR dia_amanda_76ecbab5:
 translate PortuguesBR dia_amanda_c7c284a9:
 
     # amanda "Вечером это обсудим. Спасибо за помощь."
-    amanda "Discutiremos isso à noite. Obrigado pela ajuda."
+    amanda "Discutiremos isso à noite. Obrigada pela ajuda."
 
 # game/NPC/AMANDA.rpy:101
 translate PortuguesBR dia_amanda_5b5f46a8:

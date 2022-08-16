@@ -40,7 +40,7 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:637
     old "Version [config.version!t]\n"
-    new "Versão [config.version!t]\n"
+    new "Versão [config.version!t]\n\nTradução por Português {a=https://f95zone.to/members/zerodead.386180/}Zero{/a}\n"
 
     # game/screens.rpy:643
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"
@@ -88,15 +88,15 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:831
     old "Русский"
-    new "russo"
+    new "Russo"
 
     # game/screens.rpy:832
     old "English"
-    new "inglês"
+    new "Englês"
 
     # game/screens.rpy:833
     old "German"
-    new "alemão"
+    new "Alemão"
 
     # game/screens.rpy:845
     old "Скорость текста"
@@ -308,7 +308,7 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:834
     old "Portugues"
-    new "Portugues"
+    new "Português"
 
 # TODO: Translation updated at 2022-08-15 22:28
 
@@ -316,9 +316,9 @@ translate PortuguesBR strings:
 
     # game/screens.rpy:840
     old "Deutsch"
-    new ""
+    new "Alemão"
 
     # game/screens.rpy:841
     old "Português (BRA)"
-    new ""
+    new "Português (BR)"
 

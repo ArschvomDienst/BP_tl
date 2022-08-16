@@ -130,7 +130,7 @@ translate PortuguesBR dia_jane_cd51aff2:
 translate PortuguesBR dia_jane_737ad149:
 
     # jane "C-спасибо..."
-    jane "C-obrigado ..."
+    jane "O-obrigada ..."
 
 # game/NPC/JANE.rpy:48
 translate PortuguesBR dia_jane_ba2bbfb2:
@@ -508,7 +508,7 @@ translate PortuguesBR alex_jane_menu_cb02696b:
 translate PortuguesBR alex_jane_menu_5ce84ac2:
 
     # jane "Спасибо вам, что приютили меня. Мне было неловко врываться к вам ночью."
-    jane "Obrigado por me hospedar. Fiquei com vergonha de invadir você à noite."
+    jane "Obrigada por me hospedar. Fiquei com vergonha de invadir você à noite."
 
 # game/NPC/JANE.rpy:191
 translate PortuguesBR alex_jane_menu_9d38f9a6:
@@ -538,7 +538,7 @@ translate PortuguesBR alex_jane_menu_9941cd69:
 translate PortuguesBR alex_jane_menu_1af58924:
 
     # jane "Алекс, спасибо тебе еще раз... за все..."
-    jane "Alex, obrigado de novo ... por tudo ..."
+    jane "Alex, obrigada de novo ... por tudo ..."
 
 # game/NPC/JANE.rpy:209
 translate PortuguesBR alex_jane_menu_f3a26b70:
@@ -682,7 +682,7 @@ translate PortuguesBR alex_jane_menu_fde332d4:
 translate PortuguesBR alex_jane_menu_1d600d22:
 
     # alex "Что ты! Это очень ценный совет. Я буду рада любым знакомствам в этой сфере. Спасибо!"
-    alex "O que você! Este é um conselho muito valioso. Terei todo o prazer em qualquer conhecido nesta área. Obrigado!"
+    alex "O que você! Este é um conselho muito valioso. Terei todo o prazer em qualquer conhecido nesta área. Obrigada!"
 
 # game/NPC/JANE.rpy:283
 translate PortuguesBR alex_jane_menu_aa12b9f9:
@@ -802,7 +802,7 @@ translate PortuguesBR alex_jane_menu_a9840974:
 translate PortuguesBR alex_jane_menu_7eaef740:
 
     # alex "Конечно! Спасибо, что провела со мной время, было очень познавательно!"
-    alex "Certamente! Obrigado por ter passado um tempo comigo, foi muito informativo!"
+    alex "Certamente! Obrigada por ter passado um tempo comigo, foi muito informativo!"
 
 # game/NPC/JANE.rpy:313
 translate PortuguesBR alex_jane_menu_648930e0:
@@ -922,7 +922,7 @@ translate PortuguesBR alex_jane_menu_1f75e9d9:
 translate PortuguesBR alex_jane_menu_c19209c6:
 
     # gg smile "Правда? Супер! Спасибо! Буду ждать звонка."
-    gg smile "Verdade? Super! Obrigado! Vou esperar a ligação."
+    gg smile "Verdade? Super! Obrigada! Vou esperar a ligação."
 
 # game/NPC/JANE.rpy:365
 translate PortuguesBR alex_jane_menu_095cb4f1:
@@ -1288,7 +1288,7 @@ translate PortuguesBR alex_jane_menu_6902de01:
 translate PortuguesBR alex_jane_menu_4f0c16c8:
 
     # jane "Спасибо, что сходила со мной. Теперь я должна это все обдумать."
-    jane "Obrigado por ter vindo comigo. Agora eu tenho que pensar sobre isso."
+    jane "Obrigada por ter vindo comigo. Agora eu tenho que pensar sobre isso."
 
 # game/NPC/JANE.rpy:490
 translate PortuguesBR alex_jane_menu_5eb37e26:
@@ -1348,7 +1348,7 @@ translate PortuguesBR jane_menu_73bb8b15:
 translate PortuguesBR jane_menu_8fa66276:
 
     # jane "Ты меня просто спасаешь, спасибо!"
-    jane "Você está apenas me salvando, obrigado!"
+    jane "Você está apenas me salvando, obrigada!"
 
 # game/NPC/JANE.rpy:565
 translate PortuguesBR jane_menu_0b2e5d24:
@@ -1390,7 +1390,7 @@ translate PortuguesBR jane_menu_33871969:
 translate PortuguesBR jane_menu_696a045c:
 
     # gg zadum "Ладно, спасибо. Попробую разобраться сама."
-    gg zadum "Ok, obrigado. Vou tentar descobrir sozinho."
+    gg zadum "Ok, obrigada. Vou tentar descobrir sozinho."
 
 # game/NPC/JANE.rpy:581
 translate PortuguesBR jane_menu_f2f21256:
@@ -1626,23 +1626,23 @@ translate PortuguesBR strings:
 
     # game/NPC/JANE.rpy:511
     old "Почему ты ничего не сказала?!"
-    new "Por que você não disse nada ?!"
+    new "Por que você não disse nada?!"
 
     # game/NPC/JANE.rpy:511
     old "Как водичка?"
-    new "Como esta a agua"
+    new "Como esta a Água"
 
     # game/NPC/JANE.rpy:619
     old "{color=#8c8c8d}Выпить кофе{/color}"
-    new "{color=#8c8c8d} Beba café {/color}"
+    new "{color=#8c8c8d}Beba café {/color}"
 
     # game/NPC/JANE.rpy:619
     old "Выпить кофе"
-    new "Para tomar café"
+    new "Beba café"
 
     # game/NPC/JANE.rpy:619
     old "{color=#8c8c8d}Поесть{/color}"
-    new "{color=#8c8c8d} Coma {/color}"
+    new "{color=#8c8c8d}Comer {/color}"
 
     # game/NPC/JANE.rpy:619
     old "Поесть"
@@ -1662,11 +1662,11 @@ translate PortuguesBR strings:
 
     # game/NPC/JANE.rpy:694
     old "Что ты! Конечно, я не передумала. А у тебя разве не рабочий день?"
-    new "O que você! Claro, eu não mudei de ideia. Você não tem um dia de trabalho?"
+    new "O que! Claro, eu não mudei de ideia. Você não tem um dia de trabalho?"
 
     # game/NPC/JANE.rpy:696
     old "Что ты! Конечно, я не передумала. А во сколько?"
-    new "O que você! Claro, eu não mudei de ideia. A que horas?"
+    new "O que! Claro, eu não mudei de ideia. A que horas?"
 
     # game/NPC/JANE.rpy:702
     old "Завтра меня Аманда подменит. Отдаст старый должок. Давай в 12 на остановке."
@@ -1678,7 +1678,7 @@ translate PortuguesBR strings:
 
     # game/NPC/JANE.rpy:709
     old "Отлично! Договорились!"
-    new "Multar! Negócio!"
+    new "Tudo bem! Combinado!"
 
     # game/NPC/JANE.rpy:714
     old "Тогда до встречи."

@@ -20,5 +20,5 @@ translate PortuguesBR strings:
 
     # game/inventory.rpy:301
     old "[desc]"
-    new "[desc]"
+    new "[desc!t]"
 

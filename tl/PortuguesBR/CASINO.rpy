@@ -256,7 +256,7 @@ translate PortuguesBR evy_casino_event_8833a4fe:
 translate PortuguesBR evy_casino_event_87e67d37:
 
     # alina "Спасибо, Молли."
-    alina "Obrigado, Molly."
+    alina "Obrigada, Molly."
 
 # game/CASINO.rpy:228
 translate PortuguesBR evy_casino_event_ae7100f0:
@@ -308,7 +308,7 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:95
     old "Требуется риторика (15)"
-    new "Retórica necessária (15)"
+    new "Argumento necessária (15)"
 
     # game/CASINO.rpy:118
     old "Требуется смелость (11)"
@@ -320,7 +320,7 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:151
     old "Требуется риторика (20)"
-    new "Retórica necessária (20)"
+    new "Argumento necessária (20)"
 
     # game/CASINO.rpy:174
     old "Требуется смелость (17)"
@@ -340,7 +340,7 @@ translate PortuguesBR strings:
 
     # game/CASINO.rpy:83
     old "{#image=cour}{i}{b}*Согласиться*{/b}{/i}"
-    new "{#image=cour}{i}{b}*Concordo*{/b}{/i}"
+    new "{#image=cour}{i}{b}*Concorda*{/b}{/i}"
 
     # game/CASINO.rpy:83
     old "{i}{b}*Позвать охрану*{/b}{/i}"

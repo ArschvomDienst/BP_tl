@@ -446,7 +446,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5062
     old "Виктор"
-    new "Vencedor"
+    new "Victor"
 
     # game/script.rpy:5063
     old "Администратор"
@@ -518,7 +518,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5081
     old "Райдер"
-    new "Cavaleiro"
+    new "Ryder"
 
     # game/script.rpy:5082
     old "Сова"
@@ -538,11 +538,11 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5086
     old "Ректор"
-    new "Reitor"
+    new "Diretor"
 
     # game/script.rpy:5087
     old "Гитарист"
-    new "guitarrista"
+    new "Guitarrista"
 
     # game/script.rpy:5088
     old "Снейк"
@@ -650,7 +650,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5122
     old "Холли"
-    new "Azevinho"
+    new "Holly"
 
     # game/script.rpy:5123
     old "Монах"
@@ -798,19 +798,19 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5162
     old "Скарлет"
-    new "Escarlate"
+    new "Scarlett"
 
     # game/script.rpy:5163
     old "Скот"
-    new "Gado"
+    new "Scott"
 
     # game/script.rpy:5164
     old "Гарри"
-    new "atormentar"
+    new "Harry"
 
     # game/script.rpy:5165
     old "Селеста"
-    new "celeste"
+    new "Celest"
 
     # game/script.rpy:5166
     old "Флави"
@@ -818,7 +818,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5167
     old "Фрост"
-    new "geada"
+    new "Frost"
 
     # game/script.rpy:5168
     old "Миранда"
@@ -1034,11 +1034,11 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5360
     old "Пакет для ректора"
-    new "Pacote do reitor"
+    new "Pacote do diretor"
 
     # game/script.rpy:5360
     old "Этот пакет нужно отдать ректору колледжа"
-    new "Este pacote deve ser entregue ao reitor do colégio"
+    new "Este pacote deve ser entregue ao diretor do colégio"
 
     # game/script.rpy:5361
     old "Бутылка пива"
@@ -1126,7 +1126,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5371
     old "Пляжное полотенце"
-    new "toalha de praia"
+    new "Toalha de praia"
 
     # game/script.rpy:5371
     old "На таком удобно загорать"
@@ -1206,7 +1206,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5381
     old "Пчелиный мед"
-    new "mel de abelha"
+    new "Mel de abelha"
 
     # game/script.rpy:5381
     old "Можно добавлять в кофе"
@@ -1214,7 +1214,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5382
     old "Яблоко"
-    new "maçã"
+    new "Maçã"
 
     # game/script.rpy:5382
     old "Можно съесть или использовать в рецептах"
@@ -1250,7 +1250,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5388
     old "Справка от гинеколога"
-    new "Ajuda de ginecologista"
+    new "Antecedentes do ginecologista"
 
     # game/script.rpy:5388
     old "Согласно справке, я полностью здорова"
@@ -1298,7 +1298,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5394
     old "Каподастр"
-    new "Capo"
+    new "Grampo"
 
     # game/script.rpy:5394
     old "Сильно упрощает жизнь гитаристу"
@@ -1322,7 +1322,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5397
     old "Жидкость для электронной сигареты"
-    new "E-líquido"
+    new "Líquido eletrônico"
 
     # game/script.rpy:5397
     old "Дороже, но приятнее сигарет"
@@ -1402,7 +1402,7 @@ translate PortuguesBR strings:
 
     # game/script.rpy:5407
     old "Вкуснятина для пушистиков"
-    new "Gostoso para maricas"
+    new "Gostoso para gatos"
 
     # game/script.rpy:5408
     old "Cold Cola"
@@ -1850,5 +1850,5 @@ translate PortuguesBR strings:
 
     # game/script.rpy:6621
     old "Шейла"
-    new ""
+    new "Sheila"
 

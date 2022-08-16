@@ -160,7 +160,7 @@ translate PortuguesBR dia_penelope_168b4645:
 translate PortuguesBR dia_penelope_ab69a165:
 
     # penel "Спасибо, что приехала. Иногда помимо солнечной нужна еще и живая человеческая энергия."
-    penel "Obrigado por ter vindo. Às vezes, além da energia solar, a energia humana viva também é necessária."
+    penel "Obrigada por ter vindo. Às vezes, além da energia solar, a energia humana viva também é necessária."
 
 # game/NPC/PENELOPE.rpy:98
 translate PortuguesBR dia_penelope_7601eac0:
@@ -172,7 +172,7 @@ translate PortuguesBR dia_penelope_7601eac0:
 translate PortuguesBR dia_penelope_5497b85b:
 
     # gg smile "Спасибо, Пенни, это было невероятно здорово!"
-    gg smile "Obrigado Penny, foi incrivelmente ótimo!"
+    gg smile "Obrigada Penny, foi incrivelmente ótimo!"
 
 # game/NPC/PENELOPE.rpy:102
 translate PortuguesBR dia_penelope_249981bb:
@@ -1618,7 +1618,7 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:178
     old "Не хватает шарма"
-    new "Não é suficiente charme"
+    new "Não a charme suficiente"
 
     # game/NPC/PENELOPE.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}Ладно{/color}"
@@ -1678,7 +1678,7 @@ translate PortuguesBR strings:
 
     # game/NPC/PENELOPE.rpy:1076
     old "Вставить в попу"
-    new "Cola na bunda"
+    new "Insira na bunda"
 
 # TODO: Translation updated at 2022-04-27 18:58
 

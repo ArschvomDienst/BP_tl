@@ -172,7 +172,7 @@ translate PortuguesBR cafe_26c15f64:
 translate PortuguesBR cafe_35238d8b:
 
     # jane "Вот, держи деньги. Спасибо, ты сильно меня выручила."
-    jane "Fique com o dinheiro. Obrigado, você me ajudou muito."
+    jane "Fique com o dinheiro. Obrigada, você me ajudou muito."
 
 # game/CAFE.rpy:68
 translate PortuguesBR cafe_37dece35:
@@ -196,7 +196,7 @@ translate PortuguesBR cafe_9e0ba116:
 translate PortuguesBR cafe_74be22a8:
 
     # gg smile "Спасибо, Джейн, я попытаюсь."
-    gg smile "Obrigado Jane, vou tentar."
+    gg smile "Obrigada Jane, vou tentar."
 
 # game/CAFE.rpy:81
 translate PortuguesBR cafe_067e4355:
@@ -418,7 +418,7 @@ translate PortuguesBR cafe_61568a12:
 translate PortuguesBR cafe_b2101f88:
 
     # gg smile "Спасибо за совет. Попытаю удачу."
-    gg smile "Obrigado pelo conselho. Vou tentar minha sorte."
+    gg smile "Obrigada pelo conselho. Vou tentar minha sorte."
 
 # game/CAFE.rpy:187
 translate PortuguesBR cafe_12489d2e:
@@ -466,7 +466,7 @@ translate PortuguesBR cafe_61568a12_1:
 translate PortuguesBR cafe_b2101f88_1:
 
     # gg smile "Спасибо за совет. Попытаю удачу."
-    gg smile "Obrigado pelo conselho. Vou tentar minha sorte."
+    gg smile "Obrigada pelo conselho. Vou tentar minha sorte."
 
 # game/CAFE.rpy:229
 translate PortuguesBR cafedir_b486fa75:
@@ -514,7 +514,7 @@ translate PortuguesBR cafedir_79e33b11:
 translate PortuguesBR cafedir_1dda780a:
 
     # gg smile "Спасибо, мистер Фрай!"
-    gg smile "Obrigado Sr. Fry!"
+    gg smile "Obrigada Sr. Fry!"
 
 # game/CAFE.rpy:274
 translate PortuguesBR cafewc_9c1b92d0:
@@ -616,7 +616,7 @@ translate PortuguesBR cafewc_f38cd8ea:
 translate PortuguesBR cafewc_dcf8f3db:
 
     # aut "Это та самая молодая проститутка с Красного Квартала."
-    aut "Esta é a mesma jovem prostituta do Bairro Vermelho."
+    aut "Esta é a mesma jovem prostituta do Red Quarter."
 
 # game/CAFE.rpy:299
 translate PortuguesBR cafewc_1f3b4d10:
@@ -802,7 +802,7 @@ translate PortuguesBR cafewc_9005a5d5:
 translate PortuguesBR cafewc_03676d37:
 
     # paris "Аманда, это было очень круто! Спасибо! И тебе, Алекс."
-    paris "Amanda, isso foi muito legal! Obrigado! E você, Alex."
+    paris "Amanda, isso foi muito legal! Obrigada! E você, Alex."
 
 # game/CAFE.rpy:382
 translate PortuguesBR cafewc_accb6593:
@@ -880,7 +880,7 @@ translate PortuguesBR cafewc_4fe406cd:
 translate PortuguesBR cafewc_c561467a:
 
     # paris "Все изменится, уже очень скоро. Спасибо за помощь. Я надену платье, и мы вернемся к работе... Я надеюсь, эта тайна останется между нами?"
-    paris "Tudo vai mudar muito em breve. Obrigado pela ajuda. Vou colocar o vestido e voltaremos ao trabalho ... Espero que esse segredo fique entre a gente?"
+    paris "Tudo vai mudar muito em breve. Obrigada pela ajuda. Vou colocar o vestido e voltaremos ao trabalho ... Espero que esse segredo fique entre a gente?"
 
 # game/CAFE.rpy:397
 translate PortuguesBR cafewc_840c7f6d:
@@ -1282,7 +1282,7 @@ translate PortuguesBR cafe_work_670afca2:
 translate PortuguesBR cafe_work_da53f374:
 
     # amanda "Спасибо, Алекс. Ты оказалась хорошей. Прости, что я вела себя как сука."
-    amanda "Obrigado, Alex. Você acabou sendo bom. Me desculpe, eu estava agindo como uma vadia."
+    amanda "Obrigada, Alex. Você acabou sendo bom. Me desculpe, eu estava agindo como uma vadia."
 
 # game/CAFE.rpy:859
 translate PortuguesBR cafe_work_b9be0a1b:
@@ -1306,7 +1306,7 @@ translate PortuguesBR cafe_work_40051916:
 translate PortuguesBR cafe_work_7672c36c:
 
     # amanda "Еще раз спасибо!"
-    amanda "Obrigado novamente!"
+    amanda "Obrigada novamente!"
 
 # game/CAFE.rpy:875
 translate PortuguesBR cafe_work_74fa67fc:
@@ -1378,7 +1378,7 @@ translate PortuguesBR cafe_work_53798547:
 translate PortuguesBR cafe_work_7c8fade1:
 
     # amanda "Вряд ли уже кто-то придет в такое время. Мне не понадобится помощь сегодня, спасибо."
-    amanda "É improvável que alguém chegue em um momento como este. Não vou precisar de ajuda hoje, obrigado."
+    amanda "É improvável que alguém chegue em um momento como este. Não vou precisar de ajuda hoje, obrigada."
 
 # game/CAFE.rpy:947
 translate PortuguesBR cafe_work_349e93c4:
@@ -3230,7 +3230,7 @@ translate PortuguesBR strings:
 
     # game/CAFE.rpy:452
     old "Поговорить с Пэрис в Красном Квартале({image=smel_.png} 19([allsmel]))"
-    new "Fale com Paris no Bairro Vermelho({image=smel_.png} 19([allsmel]))"
+    new "Fale com Paris no Red Quarter({image=smel_.png} 19([allsmel]))"
 
     # game/CAFE.rpy:543
     old "{#image=cour} {b}Сделать селфи{/b}"
@@ -3254,233 +3254,233 @@ translate PortuguesBR strings:
 translate PortuguesBR hot_arctic_open_0f38f1a4:
 
     # amanda "Получается, мы теперь будем работать только по вечерам?"
-    amanda ""
+    amanda "Isso significa que só trabalhamos à noite?"
 
 # game/CAFE.rpy:1468
 translate PortuguesBR hot_arctic_open_c34fe084:
 
     # jane "Ага. И платить обещали больше, чем раньше."
-    jane ""
+    jane "Sim. E eles prometeram pagar mais do que antes."
 
 # game/CAFE.rpy:1469
 translate PortuguesBR hot_arctic_open_4a160974:
 
     # amanda "Звучит неплохо."
-    amanda ""
+    amanda "Isso soa bem."
 
 # game/CAFE.rpy:1773
 translate PortuguesBR hot_arctic_work_2aa83ada:
 
     # aut "Бар опустел, но из мужской комнаты еще доносились голоса."
-    aut ""
+    aut "O bar estava vazio, mas vozes ainda vinham do banheiro masculino."
 
 # game/CAFE.rpy:1787
 translate PortuguesBR rada_glory_wc_dia_a631a010:
 
     # rada "Привет. Пэрис попросила показать тебе обновленный туалет. Пойдем."
-    rada ""
+    rada "Olá. Paris me pediu para mostrar o banheiro atualizado. Vamos."
 
 # game/CAFE.rpy:1788
 translate PortuguesBR rada_glory_wc_dia_1a4fab8b:
 
     # gg smile "Даже интересно, что там Хозяйка придумала..."
-    gg smile ""
+    gg smile "É até interessante o que a Senhora inventou..."
 
 # game/CAFE.rpy:1789
 translate PortuguesBR rada_glory_wc_dia_18094477:
 
     # rada "По задумке Хозяйки после вашего шоу гости должны идти в Красный Квартал сбрасывать напряжение."
-    rada ""
+    rada "Conforme planejado pela Hostess, após o seu show, os convidados devem ir ao Red Quarter para aliviar a tensão."
 
 # game/CAFE.rpy:1790
 translate PortuguesBR rada_glory_wc_dia_dcec07de:
 
     # rada "Задумка себя оправдала, поток клиентов в Квартал увеличился. Но среди наших гостей есть немало тех, кто возбуждается, глядя на шоу, потом идет в темный уголок, дергает пипирку и уходит домой."
-    rada ""
+    rada "A ideia justificou-se, o fluxo de clientes para o Bairro aumentou. Mas entre os nossos convidados há muitos que se emocionam ao ver o espetáculo, depois vão para um canto escuro, pegam uma pipirka e vão para casa."
 
 # game/CAFE.rpy:1793
 translate PortuguesBR rada_glory_wc_dia_05eae359:
 
     # rada "Это помещение должно исправить проблему. Он разделен на две части. Это мужская."
-    rada ""
+    rada "Esta sala deve resolver o problema. Está dividido em duas partes. Este é masculino."
 
 # game/CAFE.rpy:1794
 translate PortuguesBR rada_glory_wc_dia_29aef064:
 
     # gg udiv "Да, наш туалет сильно преобразился."
-    gg udiv ""
+    gg udiv "Sim, nosso banheiro mudou muito."
 
 # game/CAFE.rpy:1795
 translate PortuguesBR rada_glory_wc_dia_31981685:
 
     # rada "Вообще-то это уже не туалет. Пойдем в женскую часть, я покажу."
-    rada ""
+    rada "Na verdade, não é mais um banheiro. Vamos para a seção feminina, eu vou te mostrar."
 
 # game/CAFE.rpy:1798
 translate PortuguesBR rada_glory_wc_dia_533c31cc:
 
     # rada "Да, обе комнаты поделены на кабинки. Мужская - на три, женская - не две."
-    rada ""
+    rada "Sim, ambos os quartos são divididos em cubículos. Masculino - três, feminino - não dois."
 
 # game/CAFE.rpy:1800
 translate PortuguesBR rada_glory_wc_dia_1a37c8d7:
 
     # rada "Но это не туалет, как может показаться."
-    rada ""
+    rada "Mas isso não é um banheiro, como pode parecer."
 
 # game/CAFE.rpy:1801
 translate PortuguesBR rada_glory_wc_dia_14cd165a:
 
     # gg smile "Ну да, можно было догадаться. И кто здесь будет работать?"
-    gg smile ""
+    gg smile "Bem, sim, você poderia adivinhar. E quem vai trabalhar aqui?"
 
 # game/CAFE.rpy:1803
 translate PortuguesBR rada_glory_wc_dia_e781f490:
 
     # rada "Хозяйка пришлет пару девочек из Комнаты Славы. Многие хотят работать больше одного дня в неделю, да и популярность анонимного секса в последнее время растет."
-    rada ""
+    rada "A anfitriã enviará algumas garotas do Salão da Glória. Muitas pessoas querem trabalhar mais de um dia por semana, e o sexo anônimo vem crescendo em popularidade ultimamente."
 
 # game/CAFE.rpy:1804
 translate PortuguesBR rada_glory_wc_dia_41cb400b:
 
     # gg zadum "Понятно..."
-    gg zadum ""
+    gg zadum "Claro..."
 
 # game/CAFE.rpy:1806
 translate PortuguesBR rada_glory_wc_dia_811a856c:
 
     # rada "Но если ты или кто-то из девочек захочет поработать, никаких проблем. Но только после шоу, разумеется..."
-    rada ""
+    rada "Mas se você ou alguma das garotas quiser trabalhar, não tem problema. Mas só depois do show, claro..."
 
 # game/CAFE.rpy:1807
 translate PortuguesBR rada_glory_wc_dia_afe7829f:
 
     # gg smile "Я подумаю над этим."
-    gg smile ""
+    gg smile "Vou pensar sobre isso."
 
 # game/CAFE.rpy:1808
 translate PortuguesBR rada_glory_wc_dia_05515c6f:
 
     # gg zadum "Значит туалета у нас теперь совсем нет?"
-    gg zadum ""
+    gg zadum "Isso significa que não temos banheiro?"
 
 # game/CAFE.rpy:1809
 translate PortuguesBR rada_glory_wc_dia_1a79eb71:
 
     # rada "Есть, но он находится отдельно. Для этих комнат понадобилось много места, по этому туалет получился одноместный. Хозяйка считает, что этого должно хватить."
-    rada ""
+    rada "Sim, mas é separado. Para esses quartos, era necessário muito espaço, então o banheiro acabou sendo único. A anfitriã acha que isso deve ser suficiente."
 
 # game/CAFE.rpy:1810
 translate PortuguesBR rada_glory_wc_dia_0c6d8294:
 
     # rada "Ну, вроде все. Если будут какие-то вопросы - я в зале."
-    rada ""
+    rada "Bem, como tudo. Se houver alguma dúvida, estou no corredor."
 
 # game/CAFE.rpy:1817
 translate PortuguesBR hot_arctic_glory_work_16dc341c:
 
     # aut "Большинство гостей разошлось, но некоторые направились в Мужскую Комнату, ожидая продолжения. Там даже образовалась небольшая очередь."
-    aut ""
+    aut "A maioria dos convidados foi embora, mas alguns foram para o Salão dos Homens, esperando para continuar. Tinha até uma pequena fila."
 
 # game/CAFE.rpy:1819
 translate PortuguesBR hot_arctic_glory_work_353ee252:
 
     # aut "С женской стороны оставались пустые места. Одно из них заняла Джейн, что меня совсем не удивляло."
-    aut ""
+    aut "Havia espaços vazios no lado das mulheres. Um deles estava ocupado por Jane, o que não me surpreendeu em nada."
 
 # game/CAFE.rpy:1821
 translate PortuguesBR hot_arctic_glory_work_acf31ae4:
 
     # gg2 zadum "Кажется, кто-то решил не дожидаться своей очереди."
-    gg2 zadum ""
+    gg2 zadum "Parece que alguém decidiu não esperar sua vez."
 
 # game/CAFE.rpy:1826
 translate PortuguesBR hot_arctic_glory_work_5a59cac8:
 
     # gg2 smile "Придется выручать подругу. Сама она может не справиться. И лучше бы снять майку, чтобы не заляпать."
-    gg2 smile ""
+    gg2 smile "Eu tenho que resgatar minha amiga. Ela pode não ser capaz de fazer isso sozinha. E seria melhor tirar a camiseta, para não se sujar."
 
 # game/CAFE.rpy:1828
 translate PortuguesBR hot_arctic_glory_work_731c33df:
 
     # aut "Мужчины по ту сторону стенки вели себя по-разному."
-    aut ""
+    aut "Os homens do outro lado do muro se comportaram de maneira diferente."
 
 # game/CAFE.rpy:1839
 translate PortuguesBR hot_arctic_glory_work_f4b2d649:
 
     # aut "Кто-то просто просовывал член и ждал от меня активной работы..."
-    aut ""
+    aut "Alguém acabou de prender um membro e esperou meu trabalho ativo ..."
 
 # game/CAFE.rpy:1845
 translate PortuguesBR hot_arctic_glory_work_70545797:
 
     # aut "Кто-то сразу начинал двигать бедрами, и мне нужно было только подставлять ротик под яростные фрикции."
-    aut ""
+    aut "Alguém imediatamente começou a mover seus quadris, e eu só tive que substituir minha boca por fricções furiosas."
 
 # game/CAFE.rpy:1851
 translate PortuguesBR hot_arctic_glory_work_cb387ead:
 
     # aut "Почти все сразу были возбуждены и быстро кончали. Наверно, сказывалось наше горячее шоу."
-    aut ""
+    aut "Quase todo mundo ficou imediatamente animado e terminou rapidamente. Provavelmente afetou nosso show quente."
 
 # game/CAFE.rpy:1863
 translate PortuguesBR hot_arctic_glory_work_af8b7c69:
 
     # aut "Помещения заполнила смесь возбуждающих влажных звуком и мужских стонов."
-    aut ""
+    aut "As salas estavam cheias de uma mistura de excitantes sons molhados e gemidos masculinos."
 
 # game/CAFE.rpy:1864
 translate PortuguesBR hot_arctic_glory_work_b4016679:
 
     # aut "Девушка из Красного Квартала хладнокровно и профессионально выполняла работу, в то время как Джейн громко стонала, отсасывая незнакомцам, и принимая на грудь их сперму."
-    aut ""
+    aut "A garota do Red Quarter fria e profissionalmente fez o trabalho, enquanto Jane gemia alto, chupando estranhos e tomando sua porra em seu peito."
 
 # game/CAFE.rpy:1876
 translate PortuguesBR hot_arctic_glory_work_584e0ff3:
 
     # aut "От возбуждения голова шла кругом. С каждым глотком горячего семени я все больше чувствовала свою власть над этими мужчинами."
-    aut ""
+    aut "Minha cabeça estava girando de excitação. A cada gole de esperma quente, eu me sentia cada vez mais poderosa sobre esses homens."
 
 # game/CAFE.rpy:1877
 translate PortuguesBR hot_arctic_glory_work_8b0b32a9:
 
     # aut "Я была для них всего лишь бездушным спермоприемником, но я чувствовала себя жрицей секса, дарующей своим адептам высочайшее наслаждение."
-    aut ""
+    aut "Para eles, eu era apenas um receptáculo de esperma sem alma, mas me sentia como uma sacerdotisa do sexo, dando a meus adeptos o maior prazer."
 
 # game/CAFE.rpy:1889
 translate PortuguesBR hot_arctic_glory_work_d7a4fa71:
 
     # aut "И я решила закончить обряд ритуальным омовением своего лица."
-    aut ""
+    aut "E decidi terminar o ritual com uma lavagem ritual do rosto."
 
 # game/CAFE.rpy:1901
 translate PortuguesBR hot_arctic_glory_work_347e4fb2:
 
     # aut "В то время, как я рисовала в своей голове фантастические образы, пытаясь придать процессу сакральный символизм, девушка из Красного Квартала буднично вытерла подбородок рукой и ушла. Ее рабочая смена была окончена."
-    aut ""
+    aut "Enquanto eu desenhava imagens fantásticas em minha cabeça, tentando dar ao processo um simbolismo sagrado, a garota do Red Quarter casualmente enxugou o queixo com a mão e saiu. O turno dela acabou."
 
 # game/CAFE.rpy:1902
 translate PortuguesBR hot_arctic_glory_work_01fce06b:
 
     # aut "Джейн просто грязно отсосала гостям, получив при этом огромное удовольствие. Мы все делали одно и то же, но каждый видел в этом какой-то свой смысл."
-    aut ""
+    aut "Jane apenas chupou os convidados sujos, enquanto recebia grande prazer. Todos nós fizemos a mesma coisa, mas todos viram algum tipo de significado nisso."
 
 # game/CAFE.rpy:1907
 translate PortuguesBR hot_arctic_glory_work_b6da05cc:
 
     # aut "Но было и кое-что общее. Мы все заработали немного денег. А это всегда приятно, не так ли?"
-    aut ""
+    aut "Mas também havia algo em comum. Todos nós ganhamos algum dinheiro. E isso é sempre bom, não é?"
 
 # game/CAFE.rpy:1921
 translate PortuguesBR hot_arctic_glory_work_1372d760:
 
     # gg2 zadum "Думаю, не в этот раз..."
-    gg2 zadum ""
+    gg2 zadum "Acho que desta vez não..."
 
 translate PortuguesBR strings:
 
     # game/CAFE.rpy:1774
     old "Поработать в Женской Комнате"
-    new ""
+    new "Trabalhe no quarto feminino"
 

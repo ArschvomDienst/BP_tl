@@ -598,7 +598,7 @@ translate PortuguesBR laundry_sex_check_3c2dc81d:
 translate PortuguesBR laundry_sex_check_menu_ec9f513f:
 
     # gg zadum "Ну уж нет, спасибо..."
-    gg zadum "Não, obrigado ..."
+    gg zadum "Não, obrigada ..."
 
 # game/RANDOM_EVENTS.rpy:345
 translate PortuguesBR laundry_sex_a05d6714:
@@ -1948,7 +1948,7 @@ translate PortuguesBR vault_repair_fin_a091dff5:
 translate PortuguesBR vault_repair_fin_47eb9cdc:
 
     # gg smile "Спасибо большое! И вам, и вашим ребятам."
-    gg smile "Muito obrigado! Você e seus rapazes."
+    gg smile "Muito obrigada! Você e seus rapazes."
 
 # game/RANDOM_EVENTS.rpy:1707
 translate PortuguesBR mat_help_b3db0fd1:
@@ -1996,7 +1996,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=ritor_h}{color=#8c8c8d}Торговаться{/color}"
-    new "{#image=ritor_h} {color=#8c8c8d}Pechincha{/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}Pechincha{/color}"
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=ritor}Торговаться"
@@ -2004,11 +2004,11 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=cour_h}{color=#8c8c8d}Согласиться{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}Concordo{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}Concordar{/color}"
 
     # game/RANDOM_EVENTS.rpy:102
     old "{#image=cour}Согласиться"
-    new "{#image=cour}Concordo"
+    new "{#image=cour}Concordar"
 
     # game/RANDOM_EVENTS.rpy:113
     old "Требуется смелость (16)"
@@ -2016,11 +2016,11 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:160
     old "Согласиться"
-    new "Aceita"
+    new "Concordar"
 
     # game/RANDOM_EVENTS.rpy:199
     old "Взять глубже"
-    new "Aprofunde-se"
+    new "Vá mais fundo"
 
     # game/RANDOM_EVENTS.rpy:199
     old "Просто продолжать"
@@ -2040,11 +2040,11 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:478
     old "Не трогать деньги"
-    new "Não toque em dinheiro"
+    new "Não toque no dinheiro"
 
     # game/RANDOM_EVENTS.rpy:478
     old "Взять деньги"
-    new "Levar dinheiro"
+    new "Pegue o dinheiro"
 
     # game/RANDOM_EVENTS.rpy:733
     old "Покормить"
@@ -2132,7 +2132,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1473
     old "{#image=male}Я согласна"
-    new "{#image=male}concordo"
+    new "{#image=male}Concordo"
 
     # game/RANDOM_EVENTS.rpy:1473
     old "Не в этот раз"
@@ -2152,7 +2152,7 @@ translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:32
     old "Сделать селфи с нудистами (Ср,Чт) (нужен купальник) ({image=smel_.png} 20([allsmel]))"
-    new "Tire uma selfie com nudistas (quarta, quinta) (é necessário traje de banho) ({image=smel_.png} 20([allsmel]))"
+    new "Tire uma selfie com nudistas (quarta,quinta) (é necessário traje de banho) ({image=smel_.png} 20([allsmel]))"
 
     # game/RANDOM_EVENTS.rpy:33
     old "{#image=cour} {color=#bcf3ff}{b}Сделать селфи{/b}{/color}"
@@ -2274,17 +2274,17 @@ translate PortuguesBR cock_shop_menu_082073ef:
 translate PortuguesBR cock_shop_menu_6cbeeb5e:
 
     # gg2 podozr "Он хочет, чтобы я потрогала его член? Ну уж нет, спасибо..."
-    gg2 podozr "Ele quer que eu toque seu pau? Bem, não, obrigado..."
+    gg2 podozr "Ele quer que eu toque seu pau? Bem, não, obrigada..."
 
 translate PortuguesBR strings:
 
     # game/RANDOM_EVENTS.rpy:1754
     old "{#image=cour_h}{color=#8c8c8d}{b}Просунуть руку{/b}{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}{b}estenda a mão{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Estenda a mão{/b}{/color}"
 
     # game/RANDOM_EVENTS.rpy:1754
     old "{#image=cour}{b}Просунуть руку{/b}"
-    new "{#image=cour}{b}estenda a mão{/b}"
+    new "{#image=cour}{b}Estenda a mão{/b}"
 
 # TODO: Translation updated at 2022-08-15 22:28
 
@@ -2292,5 +2292,5 @@ translate PortuguesBR strings:
 translate PortuguesBR finding_f49163ee:
 
     # aut "Я нашла банку колы."
-    aut ""
+    aut "Encontrei uma lata de cola."
 

@@ -958,7 +958,7 @@ translate PortuguesBR white_dia_423e77c9:
 translate PortuguesBR white_dia_7b31bff1:
 
     # white "Спасибо за ценные сведения. Я проведу расследование, и мы обязательно поймаем преступников. Можете довериться мне!"
-    white "Obrigado pela informação valiosa. Vou investigar e com certeza vamos pegar os criminosos. Você pode confiar em mim!"
+    white "Obrigada pela informação valiosa. Vou investigar e com certeza vamos pegar os criminosos. Você pode confiar em mim!"
 
 # game/NPC/WHITE.rpy:274
 translate PortuguesBR white_dia_b9cbaffe:
@@ -1032,5 +1032,5 @@ translate PortuguesBR white_dia_e5766297_1:
 translate PortuguesBR white_dia_d9e049a5:
 
     # aut "Полковник пошла к машине, все также не глядя на меня. Я не могла ответить на вопрос, правильно ли она сделала, отпустив преступницу. Но было понятно, что поступить иначе Дебора просто не могла."
-    aut ""
+    aut "O Coronel foi até o carro, ainda sem olhar para mim. Eu não poderia responder à pergunta se ela fez a coisa certa ao libertar o criminoso. Mas ficou claro que Deborah simplesmente não poderia fazer o contrário."
 

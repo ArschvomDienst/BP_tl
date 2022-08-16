@@ -130,7 +130,7 @@ translate PortuguesBR strings:
 
     # game/NPC/FALCETTO.rpy:6
     old "Я готова заниматься"
-    new "Estou pronto para estudar"
+    new "Estou pronta para estudar"
 
     # game/NPC/FALCETTO.rpy:6
     old "Я все сделала!"
@@ -268,11 +268,11 @@ translate PortuguesBR strings:
 
     # game/NPC/FALCETTO.rpy:6
     old "{color=#8c8c8d}Я готова заниматься (200$){/color}"
-    new "{color=#8c8c8d}Estou pronto para praticar ($200){/color}"
+    new "{color=#8c8c8d}Estou pronta para praticar ($200){/color}"
 
     # game/NPC/FALCETTO.rpy:6
     old "{color=#00ff00}Я готова заниматься (200$){/color}"
-    new "{color=#00ff00}Estou pronto para praticar ($200){/color}"
+    new "{color=#00ff00}Estou pronta para praticar ($200){/color}"
 
     # game/NPC/FALCETTO.rpy:8
     old "Нужно больше денег (200)"
