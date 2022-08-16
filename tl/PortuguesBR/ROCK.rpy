@@ -1108,7 +1108,7 @@ translate PortuguesBR alisa_studio1_82436ac3:
 translate PortuguesBR alisa_studio1_ad00f055:
 
     # gg smile "Спасибо! Я запомню это!"
-    gg smile "Obrigado! Vou me lembrar disso!"
+    gg smile "Obrigada! Vou me lembrar disso!"
 
 # game/ROCK.rpy:770
 translate PortuguesBR alisa_studio1_9366235a:
@@ -2272,7 +2272,7 @@ translate PortuguesBR band_photoset_75bafd25:
 translate PortuguesBR band_photoset_608c54cf:
 
     # owl "Нет, спасибо, давай займемся групой, ладно?"
-    owl "Não, obrigado, vamos fazer a banda, está bem?"
+    owl "Não, obrigada, vamos fazer a banda, está bem?"
 
 # game/ROCK.rpy:1287
 translate PortuguesBR band_photoset_f7a000ed:
@@ -2400,11 +2400,11 @@ translate PortuguesBR fan_meet1_d8955e15:
 translate PortuguesBR alisa_studio1_d40f69b5:
 
     # alisa "Мы тут скоро выступаем с группой, надеюсь, ты придешь."
-    alisa ""
+    alisa "Vamos tocar com uma banda aqui em breve, espero que você venha."
 
 translate PortuguesBR strings:
 
     # game/ROCK.rpy:1238
     old "Почитать последние новости в телефоне"
-    new ""
+    new "Leia as últimas notícias no seu telefone"
 
