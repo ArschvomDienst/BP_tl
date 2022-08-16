@@ -2786,7 +2786,7 @@ translate PortuguesBR strings:
 
     # game/RAPE.rpy:99
     old "Хочу посмотреть на вас"
-    new "eu quero olhar para você"
+    new "Eu quero olhar para você"
 
     # game/RAPE.rpy:185
     old "Направить на Эш"
@@ -2886,5 +2886,5 @@ translate PortuguesBR strings:
 translate PortuguesBR park_rape_df71a421:
 
     # gg2 zadum "В парке сидит какая-то компания. Среди них есть девушка, вряд ли можно ожидать чего-то плохого."
-    gg2 zadum ""
+    gg2 zadum "Alguma companhia está sentada no parque. Há uma garota entre eles, você dificilmente pode esperar algo ruim."
 
