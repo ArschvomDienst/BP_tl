@@ -28,7 +28,7 @@ translate PortuguesBR myroom_9e23952f:
 translate PortuguesBR myroom_0c68e1ea:
 
     # "{#r=Спасибо, сестренка, я очень ценю это<<hug>>}"
-    "{#r= Obrigado irmã, realmente aprecio isso <<hug>>}"
+    "{#r= Obrigada irmã, realmente aprecio isso <<hug>>}"
 
 # game/myroom.rpy:88
 translate PortuguesBR myroom_7c72d16f:
@@ -1262,7 +1262,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "{color=#8c8c8d}Анальная тренировка{/color}"
-    new "{color=#8c8c8d} Treinamento anal {/color}"
+    new "{color=#8c8c8d}Treinamento anal {/color}"
 
     # game/myroom.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}Снять видео{/color}"
@@ -1274,11 +1274,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "Подремать 1 час"
-    new "Tire uma soneca por 1 hora"
+    new "Tire uma soneca de 1 hora"
 
     # game/myroom.rpy:230
     old "Подремать 2 часа"
-    new "Tire uma soneca por 2 horas"
+    new "Tire uma soneca de 2 horas"
 
     # game/myroom.rpy:230
     old "{color=#8c8c8d}Спать 4 часа{/color}"
@@ -1318,11 +1318,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:363
     old "Прошел 1 час"
-    new "1 hora se passaram"
+    new "1 hora se passou"
 
     # game/myroom.rpy:401
     old "Прошло 2 часа"
-    new "2 horas se passaram"
+    new "2 horas se passou"
 
     # game/myroom.rpy:406
     old "Я не хочу спать"
@@ -1330,11 +1330,11 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:448
     old "Прошло 4 часа"
-    new "4 horas se passaram"
+    new "4 horas se passou"
 
     # game/myroom.rpy:535
     old "Я возбудилась еще больше{image=0}{image=fem_plus}"
-    new "Fiquei ainda mais excitado{image=0}{image=fem_plus}"
+    new "Fiquei ainda mais excitada{image=0}{image=fem_plus}"
 
     # game/myroom.rpy:535
     old "Мне было неприятно на это смотреть{image=0}{image=fem_minus}"
@@ -1374,7 +1374,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:1478
     old "Риторика + 1"
-    new "Retórica + 1"
+    new "Argumento + 1"
 
     # game/myroom.rpy:1522
     old "BBC"
@@ -1540,7 +1540,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}{b}Снять видео{/b}{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}{b}Criar vídeo{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Grave um vídeo{/b}{/color}"
 
     # game/myroom.rpy:230
     old "{#image=cour}{b}Снять видео{/b}"
@@ -1548,7 +1548,7 @@ translate PortuguesBR strings:
 
     # game/myroom.rpy:658
     old "Потрогать член"
-    new "toque em pau"
+    new "Toque em pau"
 
     # game/myroom.rpy:658
     old "Проснуться"
