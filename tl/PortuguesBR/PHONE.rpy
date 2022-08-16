@@ -1144,7 +1144,7 @@ translate PortuguesBR alisa_mes_e14a32ee:
 translate PortuguesBR alisa_mes_ffc9d60f:
 
     # "{#r=Я не знаю, что сказать! Это так круто! Спасииибооо!!!<<kiss>><<kiss>><<kiss>>}"
-    "{#r=Não sei o que dizer! Isso é tão legal! Obrigadooooo!!!<<kiss>><<kiss>><<kiss>>}"
+    "{#r=Não sei o que dizer! Isso é tão legal! Obrigadaaaa!!!<<kiss>><<kiss>><<kiss>>}"
 
 # game/PHONE.rpy:1157
 translate PortuguesBR alisa_mes_eed40cfb:
@@ -1232,7 +1232,7 @@ translate PortuguesBR strings:
 
     # game/PHONE.rpy:1178
     old "Дождаться субботы"
-    new "espere até sábado"
+    new "Espere até sábado"
 
 # TODO: Translation updated at 2022-06-22 19:44
 
@@ -1296,149 +1296,149 @@ translate PortuguesBR strings:
 translate PortuguesBR news_check_3e467aa9:
 
     # gg podozr "Ну конечно! Эти журналюги уже успели напридумывать себе чего-то!"
-    gg podozr ""
+    gg podozr "Bem, claro! Esses jornalistas já conseguiram inventar algo para si mesmos!"
 
 # game/PHONE.rpy:212
 translate PortuguesBR news_check_7c5557b6:
 
     # gg zlo "И что значит \"новая подружка\"?! Я что, не первая, кого она целует на сцене? Это у нее фишка такая?!"
-    gg zlo ""
+    gg zlo "E o que significa 'nova namorada'? Não sou a primeira pessoa que ela beija no palco? Isso é coisa dela?!"
 
 # game/PHONE.rpy:213
 translate PortuguesBR news_check_3ff00d35:
 
     # gg podozr "Нужно будет с ней об этом поговорить."
-    gg podozr ""
+    gg podozr "Você vai precisar conversar com ela sobre isso."
 
 # game/PHONE.rpy:1218
 translate PortuguesBR alisa_mes_42c31201:
 
     # gg2 zadum "Кстати, насчет наряда я не подумала. Думаю, мой сценический прикид хорошо подойдет для концерта."
-    gg2 zadum ""
+    gg2 zadum "Aliás, não pensei na roupa. Acho que minha roupa de palco será boa para o show."
 
 # game/PHONE.rpy:1224
 translate PortuguesBR alisa_mes_475d0162:
 
     # gg2 zadum "Так неловко писать Алисе... Но я должна обсудить с ней вопрос с этой дурацкой статьей..."
-    gg2 zadum ""
+    gg2 zadum "É tão embaraçoso escrever para Alice... Mas eu tenho que discutir o assunto com ela com este artigo estúpido..."
 
 # game/PHONE.rpy:1230
 translate PortuguesBR alisa_mes_fa2efc24:
 
     # "{#r=Привет, Алиса! Извини, что отвлекаю<<pray>><<pray>><<pray>> Ты уже читала эту жесть в новостях, да?}"
-    ""
+    "{#r=Olá Alice! me desculpe por interromper<<pray>><<pray>><<pray>> Você já leu este gesto no noticiário, sim?}"
 
 # game/PHONE.rpy:1231
 translate PortuguesBR alisa_mes_3a54eb67:
 
     # "{#l=Привет, красотка! Ты про какую новость?}"
-    ""
+    "{#l=Olá, garota linda! De que notícias você está falando?}"
 
 # game/PHONE.rpy:1232
 translate PortuguesBR alisa_mes_2b14aba2:
 
     # "{#r=Ну типа что я твоя новая подружка или что-то такое<<open>>}"
-    ""
+    "{#r=Como se eu fosse sua nova namorada ou algo assim<<open>>}"
 
 # game/PHONE.rpy:1233
 translate PortuguesBR alisa_mes_013dfde4:
 
     # "{#l=<<lol>><<lol>><<lol>>}"
-    ""
+    "{#l=<<lol>><<lol>><<lol>>}"
 
 # game/PHONE.rpy:1234
 translate PortuguesBR alisa_mes_eb99688e:
 
     # "{#r=Что тут смешного?<<confus>>}"
-    ""
+    "{#r=O que é tão engraçado?<<confus>>}"
 
 # game/PHONE.rpy:1235
 translate PortuguesBR alisa_mes_e65d00e9:
 
     # "{#l=Прости, я и забыла, что эти сайты еще существуют и их кто-то читает <<lol>>}"
-    ""
+    "{#l=Desculpe, esqueci que esses sites ainda existem e alguém os lê <<lol>>}"
 
 # game/PHONE.rpy:1236
 translate PortuguesBR alisa_mes_3a404255:
 
     # "{#r=Значит это все не правда, и я не очередная твоя фанатка, с которой ты просто развлекаешься? <<sorry>>}"
-    ""
+    "{#r=Então não é verdade, e eu não sou apenas mais uma fã sua com quem você se diverte? <<sorry>>}"
 
 # game/PHONE.rpy:1237
 translate PortuguesBR alisa_mes_37682803:
 
     # "{#l=Я бы даже обиделась на эти слова, если бы мне не было так смешно <<lol>>}"
-    ""
+    "{#l=Eu até ficaria ofendida com essas palavras se não achasse tão engraçado <<lol>>}"
 
 # game/PHONE.rpy:1238
 translate PortuguesBR alisa_mes_1f02f814:
 
     # "{#l=Конечно, это все бред. Заедь ко мне домой как-нибудь, и мы это обсудим, если захочешь.}"
-    ""
+    "{#l=Claro que é tudo bobagem. Venha para minha casa algum dia e podemos conversar sobre isso, se você quiser.}"
 
 # game/PHONE.rpy:1239
 translate PortuguesBR alisa_mes_a95e4921:
 
     # "{#r=Хорошо...}"
-    ""
+    "{#r=Ok...}"
 
 # game/PHONE.rpy:1240
 translate PortuguesBR alisa_mes_62ac5586:
 
     # "{#r=Извини... <<sorry>>}"
-    ""
+    "{#r=Desculpe... <<sorry>>}"
 
 # game/PHONE.rpy:1241
 translate PortuguesBR alisa_mes_78504aaf:
 
     # "{#l=Все хорошо, Алекс. Буду ждать в гости!}"
-    ""
+    "{#l=Tudo bem, Alex. Aguardo uma visita!}"
 
 # game/PHONE.rpy:1242
 translate PortuguesBR alisa_mes_e53aa483:
 
     # "{#r=Договорились <<hug>>}"
-    ""
+    "{#r=Combinado <<hug>>}"
 
 # game/PHONE.rpy:1243
 translate PortuguesBR alisa_mes_66a3cd6d:
 
     # "{#l=<<kiss>>}"
-    ""
+    "{#l=<<kiss>>}"
 
 # game/PHONE.rpy:1245
 translate PortuguesBR alisa_mes_231e9445:
 
     # gg2 sad "Блин, я чуть не обидела ее... А может даже и обидела немного..."
-    gg2 sad ""
+    gg2 sad "Caramba, eu quase a ofendi... Ou talvez até a ofendi um pouco..."
 
 # game/PHONE.rpy:1246
 translate PortuguesBR alisa_mes_1652b9b6:
 
     # gg2 sad "Надо к ней заехать и извиниться..."
-    gg2 sad ""
+    gg2 sad "Eu preciso ir até ela e pedir desculpas."
 
 # game/PHONE.rpy:1252
 translate PortuguesBR alisa_mes_e8011173:
 
     # gg2 zadum "Не стоит злоупотреблять нашим знакомством."
-    gg2 zadum ""
+    gg2 zadum "Não abuse do nosso conhecimento."
 
 translate PortuguesBR strings:
 
     # game/PHONE.rpy:122
     old "Серьезная связь или временное увлечение?"
-    new ""
+    new "Relacionamento sério ou paixão temporária?"
 
     # game/PHONE.rpy:123
     old "Алиса Дарк показала свою новую подружку."
-    new ""
+    new "Alice Dark mostrou sua nova namorada."
 
     # game/PHONE.rpy:215
     old "Написать Алисе"
-    new ""
+    new "Escreva para Alice"
 
     # game/PHONE.rpy:1248
     old "Заехать к Алисе домой"
-    new ""
+    new "Venha para a casa da Alice"
 
