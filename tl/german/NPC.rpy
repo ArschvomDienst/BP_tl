@@ -2296,25 +2296,25 @@ translate german strings:
 
     # game/NPC.rpy:1779
     old "Я могу играть с Руби в теннис"
-    new ""
+    new "Ich kann mit Ruby Tennis spielen"
 
     # game/NPC.rpy:2344
     old "Лео Вульф"
-    new ""
+    new "Leo Wolf"
 
     # game/NPC.rpy:2644
     old "Виктора"
-    new ""
+    new "Victor"
 
     # game/NPC.rpy:3067
     old "Я могу заниматься сексом со Снейком по вечерам."
-    new ""
+    new "Ich kann am Abend Sex mit Snake haben"
 
     # game/NPC.rpy:3148
     old "Джилл Бауэрман"
-    new ""
+    new "Jilw Bowerman"
 
     # game/NPC.rpy:3588
     old "Скарлет Купер"
-    new ""
+    new "Scarlet Cooper"
 

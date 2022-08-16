@@ -320,9 +320,9 @@ translate german strings:
 
     # game/screens.rpy:840
     old "Deutsch"
-    new ""
+    new "Deutsch"
 
     # game/screens.rpy:841
     old "Português (BRA)"
-    new ""
+    new "Português (BRA)"
 

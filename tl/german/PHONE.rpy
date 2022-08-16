@@ -1481,149 +1481,149 @@ translate german strings:
 translate german news_check_3e467aa9:
 
     # gg podozr "Ну конечно! Эти журналюги уже успели напридумывать себе чего-то!"
-    gg podozr ""
+    gg podozr "Natürlich! Diese Reporter haben sich schon selbst was zusammengereimt!"
 
 # game/PHONE.rpy:212
 translate german news_check_7c5557b6:
 
     # gg zlo "И что значит \"новая подружка\"?! Я что, не первая, кого она целует на сцене? Это у нее фишка такая?!"
-    gg zlo ""
+    gg zlo "Und was heißt \"Neue Freundin\"?! Bin ich nicht die erste die sie auf der Bühne küsst? Ist das ihre Masche?!"
 
 # game/PHONE.rpy:213
 translate german news_check_3ff00d35:
 
     # gg podozr "Нужно будет с ней об этом поговорить."
-    gg podozr ""
+    gg podozr "Ich muss mit ihr darüber reden."
 
 # game/PHONE.rpy:1218
 translate german alisa_mes_42c31201:
 
     # gg2 zadum "Кстати, насчет наряда я не подумала. Думаю, мой сценический прикид хорошо подойдет для концерта."
-    gg2 zadum ""
+    gg2 zadum "Ich hab gar nicht über ihr Outfit nachgedacht. Ich Glaube mein Bühnenoutfit ist angemessen für Konzerte."
 
 # game/PHONE.rpy:1224
 translate german alisa_mes_475d0162:
 
     # gg2 zadum "Так неловко писать Алисе... Но я должна обсудить с ней вопрос с этой дурацкой статьей..."
-    gg2 zadum ""
+    gg2 zadum "Es ist peinlich Alice zu schreiben ... Aber ich muss mit ihr über diesen Artikel reden ..."
 
 # game/PHONE.rpy:1230
 translate german alisa_mes_fa2efc24:
 
     # "{#r=Привет, Алиса! Извини, что отвлекаю<<pray>><<pray>><<pray>> Ты уже читала эту жесть в новостях, да?}"
-    ""
+    "{#r=Hallo Alice! Ich hoffe ich störe nicht <<pray>><<pray>><<pray>> Du hast den Artikel schon gelsen, richtig?}"
 
 # game/PHONE.rpy:1231
 translate german alisa_mes_3a54eb67:
 
     # "{#l=Привет, красотка! Ты про какую новость?}"
-    ""
+    "{#l=Hallo Schönheit! Über welchen Artikel sprichst du?}"
 
 # game/PHONE.rpy:1232
 translate german alisa_mes_2b14aba2:
 
     # "{#r=Ну типа что я твоя новая подружка или что-то такое<<open>>}"
-    ""
+    "{#r=Der der meint ich sei deine neue Freundin<<open>>}"
 
 # game/PHONE.rpy:1233
 translate german alisa_mes_013dfde4:
 
     # "{#l=<<lol>><<lol>><<lol>>}"
-    ""
+    "{#l=<<lol>><<lol>><<lol>>}"
 
 # game/PHONE.rpy:1234
 translate german alisa_mes_eb99688e:
 
     # "{#r=Что тут смешного?<<confus>>}"
-    ""
+    "{#r=Was ist so lustig?<<confus>>}"
 
 # game/PHONE.rpy:1235
 translate german alisa_mes_e65d00e9:
 
     # "{#l=Прости, я и забыла, что эти сайты еще существуют и их кто-то читает <<lol>>}"
-    ""
+    "{#l=Ich hatte nur vergessen, dass es die Seite noch gibt und Leute die lesen <<lol>>}"
 
 # game/PHONE.rpy:1236
 translate german alisa_mes_3a404255:
 
     # "{#r=Значит это все не правда, и я не очередная твоя фанатка, с которой ты просто развлекаешься? <<sorry>>}"
-    ""
+    "{#r=Es stimmt also nicht, und ich bin nicht nur ein weiterer Fan mit dem du Spass hattest? <<sorry>>}"
 
 # game/PHONE.rpy:1237
 translate german alisa_mes_37682803:
 
     # "{#l=Я бы даже обиделась на эти слова, если бы мне не было так смешно <<lol>>}"
-    ""
+    "{#l=Ich würde mich beleidigt fühlen, wäre das Alles nicht so lustig <<lol>>}"
 
 # game/PHONE.rpy:1238
 translate german alisa_mes_1f02f814:
 
     # "{#l=Конечно, это все бред. Заедь ко мне домой как-нибудь, и мы это обсудим, если захочешь.}"
-    ""
+    "{#l=Natürlich ist das Alles Quatsch. Komm vorbei und wir reden darüber wenn du magst.}"
 
 # game/PHONE.rpy:1239
 translate german alisa_mes_a95e4921:
 
     # "{#r=Хорошо...}"
-    ""
+    "{#r=Gut ...}"
 
 # game/PHONE.rpy:1240
 translate german alisa_mes_62ac5586:
 
     # "{#r=Извини... <<sorry>>}"
-    ""
+    "{#r=Verzeih... <<sorry>>}"
 
 # game/PHONE.rpy:1241
 translate german alisa_mes_78504aaf:
 
     # "{#l=Все хорошо, Алекс. Буду ждать в гости!}"
-    ""
+    "{#lEs ist Alles in Ordnung, Alex. Ich warte auf deinen Besuch!}"
 
 # game/PHONE.rpy:1242
 translate german alisa_mes_e53aa483:
 
     # "{#r=Договорились <<hug>>}"
-    ""
+    "{#r=Abgemacht <<hug>>}"
 
 # game/PHONE.rpy:1243
 translate german alisa_mes_66a3cd6d:
 
     # "{#l=<<kiss>>}"
-    ""
+    "{#l=<<kiss>>}"
 
 # game/PHONE.rpy:1245
 translate german alisa_mes_231e9445:
 
     # gg2 sad "Блин, я чуть не обидела ее... А может даже и обидела немного..."
-    gg2 sad ""
+    gg2 sad "Mist ich hab ihr beinahe Vorwürfe gemacht ... Und vielleicht sogar ein wenig beleidigt ..."
 
 # game/PHONE.rpy:1246
 translate german alisa_mes_1652b9b6:
 
     # gg2 sad "Надо к ней заехать и извиниться..."
-    gg2 sad ""
+    gg2 sad "Ich muss vorbeischauen und mich bei ihr entschuldigen .."
 
 # game/PHONE.rpy:1252
 translate german alisa_mes_e8011173:
 
     # gg2 zadum "Не стоит злоупотреблять нашим знакомством."
-    gg2 zadum ""
+    gg2 zadum "Ich will die Bekanntschaft nicht überstrapazieren."
 
 translate german strings:
 
     # game/PHONE.rpy:122
     old "Серьезная связь или временное увлечение?"
-    new ""
+    new "Eine echte Beziehung oder eine vorübergehende Verliebtheit?"
 
     # game/PHONE.rpy:123
     old "Алиса Дарк показала свою новую подружку."
-    new ""
+    new "Alice Dark zeigt ihre neue Freundin."
 
     # game/PHONE.rpy:215
     old "Написать Алисе"
-    new ""
+    new "Schreib Alice"
 
     # game/PHONE.rpy:1248
     old "Заехать к Алисе домой"
-    new ""
+    new "Schau bei Alice zu Hause vorbei"
 

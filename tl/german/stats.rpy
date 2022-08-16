@@ -498,17 +498,17 @@ translate german strings:
 translate german stat_f3e92af7:
 
     # gg2 sad "Блять, как же хочется курить! Ни о чем другом думать не могу!"
-    gg2 sad ""
+    gg2 sad "Fuck, ich will eine rauchen! Ich kann an nichts anderes Denken!"
 
 # game/stats.rpy:892
 translate german stat_8166ad89:
 
     # gg2 sad "Я уже давно не курила. Тяжело сосредоточиться на чем-то."
-    gg2 sad ""
+    gg2 sad "Hab schon lange keine mehr geraucht. Konzentrieren fällt mir schwer."
 
 # game/stats.rpy:1151
 translate german stat_c8b4eb7a:
 
     # gg2 hit "У меня теперь достаточно смелости, чтобы ходить по квартире теплесс."
-    gg2 hit ""
+    gg2 hit "Ich bin nicht mutig genug, im Haus Oben Ohne herumzulaufen."
 

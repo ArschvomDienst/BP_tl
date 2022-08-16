@@ -1095,25 +1095,25 @@ translate german strings:
 
     # game/SCR.rpy:1297
     old "Нужно больше вдохновения"
-    new ""
+    new "Ich brauche mehr Inspiration"
 
     # game/SCR.rpy:1624
     old "Вдохновение"
-    new ""
+    new "Inspiration"
 
     # game/SCR.rpy:2345
     old "Интимная стрижка"
-    new ""
+    new "Intimer Haarschnitt"
 
     # game/SCR.rpy:2346
     old "Побрито"
-    new ""
+    new "Rasiert"
 
     # game/SCR.rpy:2347
     old "Стрижка"
-    new ""
+    new "Ein Stil"
 
     # game/SCR.rpy:2348
     old "Мохнатка"
-    new ""
+    new "Behaart"
 

@@ -7414,65 +7414,65 @@ translate german strings:
 translate german shop_adv_79f81777:
 
     # gg2 zadum "Ой-ёй... Вот и реклама со мной..."
-    gg2 zadum ""
+    gg2 zadum "Oh ... Das ist das Werbefoto von mir ..."
 
 # game/LOCS.rpy:561
 translate german shop_adv_6ee9b856:
 
     # gg2 sad "Смешанное чувство. С одной стороны, мое лицо теперь на каждой бутылке, с другой - это дешевое моющее средство, а не элитный парфюм."
-    gg2 sad ""
+    gg2 sad "Ich hab gemischte Gefühle dabei. Einerseits ist mein Gesicht jetzt auf jeder Flasche. Aber Andererseits auf einem billigen Spülmittel und nicht auf einem teuren Parfüm."
 
 # game/LOCS.rpy:562
 translate german shop_adv_b8c7e13c:
 
     # gg2 zadum "Хотя раньше я и о таком не мечтала."
-    gg2 zadum ""
+    gg2 zadum "Aber ich hätte mir das früher nie zu träumen gewagt."
 
 # game/LOCS.rpy:567
 translate german shop_adv_ee8c569b:
 
     # gg2 sad "Вот блин... Ну это уже перебор, теперь придется смотреть на это каждый раз при посещении магазина."
-    gg2 sad ""
+    gg2 sad "Verdammt ... Es ist jetzt schon zu viel. Jetzt seh' ich es jedes Mal wenn ich einkaufen gehe."
 
 # game/LOCS.rpy:568
 translate german shop_adv_670f39f5:
 
     # gg2 zadum "Какая же у меня тут неискренняя улыбка... Мне еще многому придется научиться."
-    gg2 zadum ""
+    gg2 zadum "Was für ein aufgesetztes Lächeln ich da hab ... Ich muss noch viel lernen."
 
 # game/LOCS.rpy:5938
 translate german hot_arctic_10cc105f:
 
     # paris "Рада также будет держать бар в чистоте в дневное время, так что если будут вопросы, ты всегда найдешь ее здесь. Кроме выходных, разумеется."
-    paris ""
+    paris "Rada hält  die Bar tagsüber sauber, also wenn ihr Fragen habt könnt ihr sie immer hier finden. Außer am Wochenende versteht sich."
 
 # game/LOCS.rpy:6047
 translate german hot_arctic_glory_girls_1c8fc6bc:
 
     # gg2 zadum "Да уж... Это место совсем изменилось. Даже туалет перестал быть туалетом и превратился в филиал Комнаты Славы. Только работать он будет пять дней в неделю."
-    gg2 zadum ""
+    gg2 zadum "Ja ... es hat sich viel verändert. Sogar doe Toiletten sind keine Toiletten mehr sondern eine Zweigstelle der Ruhmeshalle. Aber sie sind an 5 Tagen der Woche in Betrieb und nicht nur an einem Tag."
 
 # game/LOCS.rpy:6048
 translate german hot_arctic_glory_girls_7ab847be:
 
     # gg2 zadum "Да, это место становится популярным и прибыльным, но я даже немного скучаю по нашему милому розовому кафе с вкусным мороженым."
-    gg2 zadum ""
+    gg2 zadum "Der Ort ist viel berühmter und profitabler geworden, aber irgendwie vermisse ich das pinke Eiscafé ein wenig."
 
 # game/LOCS.rpy:6069
 translate german alisa_home_15a644fa:
 
     # gg2 zadum "Мне здесь нечего делать. Я же не сталкер какой-нибудь."
-    gg2 zadum ""
+    gg2 zadum "Ich hab hier nichts zu suchen. Ich bin schließlich kein Stalker."
 
 # game/LOCS.rpy:6073
 translate german alisa_home_95d68c7c:
 
     # gg2 zadum "Хоть Алиса меня и пригласила, немного неловко вот так вот врываться к ней домой. Надеюсь, я выбрала подходящее время."
-    gg2 zadum ""
+    gg2 zadum "Selbst wenn Alice mich eingeladen hat, ist es irgendwie ein seltsames Gefühl hier zu sein. Ich hoffe ich störe nicht."
 
 # game/LOCS.rpy:6077
 translate german alisa_home_5fbcdfb1:
 
     # gg2 zadum "После случая у бассейна мне будет совсем неловко видеть Алису."
-    gg2 zadum ""
+    gg2 zadum "Nach dem Vorfall am Pool ist es sicher unangenehm Alice zu sehen."
 

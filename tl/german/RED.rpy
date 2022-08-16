@@ -2250,27 +2250,27 @@ translate german strings:
 translate german martina_mist_dp_d851eba7:
 
     # martina "Конечно! Я боюсь потерять член в твоей огроной вагине."
-    martina ""
+    martina "Natürlich! Ich hab Angst das mein Schwanz sich in der weitläufigen Muschi verläuft!"
 
 # game/RED.rpy:1218
 translate german martina_mist_dp_b4762879:
 
     # aut "Бразки спермы внутри меня не прекращались. Казалось, меня наполняют из шланга"
-    aut ""
+    aut "Das Sperma hörte gar nicht auf zu fließen. Es fühlte sich an als würde sie es mit einem Schlauch verteilen."
 
 # game/RED.rpy:1259
 translate german martina_mist_dp_86dbae5a:
 
     # aut "Хозяйка быстро дрочила каменный член с толстыми венами, а ее большие яйца покачивались перед моим лицом."
-    aut ""
+    aut "Die Herrin wichste ihren harten, mit dicken Venen versehenen Schwanz. Immer die prallen, tanzenden Eier vor Augen."
 
 translate german strings:
 
     # game/RED.rpy:483
     old "{color=#8c8c8d}{b}Заплатить (150$){/b}{/color}"
-    new ""
+    new "{color=#8c8c8d}{b}Bezahl (150$){/b}{/color}"
 
     # game/RED.rpy:483
     old "{b}Заплатить (150$){/b}"
-    new ""
+    new "{b}Bezahl (150$){/b}"
 

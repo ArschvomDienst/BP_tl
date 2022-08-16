@@ -184,5 +184,5 @@ translate german strings:
 
     # game/flat.rpy:114
     old "Нижнее белье"
-    new ""
+    new "Reizwäsche"
 
