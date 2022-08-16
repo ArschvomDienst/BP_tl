@@ -952,7 +952,7 @@ translate PortuguesBR throat_lesson_b34da164:
 translate PortuguesBR throat_lesson_24bbbba8:
 
     # ash "Спасибо, что составила мне компанию, было прикольно. Заходи как-нибудь к нам в убежище."
-    ash "Obrigado por me fazer companhia, foi legal. Venha para o nosso abrigo algum dia."
+    ash "Obrigada por me fazer companhia, foi legal. Venha para o nosso abrigo algum dia."
 
 # game/training.rpy:1195
 translate PortuguesBR throat_lesson_a41f12a5:
@@ -1436,7 +1436,7 @@ translate PortuguesBR strings:
 
     # game/training.rpy:1502
     old "Мне нужно еще потренироваться"
-    new "eu preciso de mais prática"
+    new "Eu preciso de mais prática"
 
     # game/training.rpy:1514
     old "{color=#8c8c8d}7-й шарик{/color}"
