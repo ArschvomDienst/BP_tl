@@ -286,7 +286,7 @@ translate PortuguesBR go_college_menu_354c6a31:
 translate PortuguesBR go_college_menu_9a967f47:
 
     # gg smile "Спасибо, Вэл, я не подведу!"
-    gg smile "Obrigado Val, eu não vou te decepcionar!"
+    gg smile "Obrigada Val, eu não vou te decepcionar!"
 
 # game/stats.rpy:1851
 translate PortuguesBR go_college_menu_97d07d96:
@@ -308,7 +308,7 @@ translate PortuguesBR strings:
 
     # game/stats.rpy:1255
     old "Пн"
-    new "segunda"
+    new "Segunda"
 
     # game/stats.rpy:1257
     old "Вт"
@@ -336,7 +336,7 @@ translate PortuguesBR strings:
 
     # game/stats.rpy:1734
     old "Накраситься и отправиться в колледж"
-    new "Maquie-se e vá para a faculdade"
+    new "Coloque a maquiagem e vá para a faculdade"
 
     # game/stats.rpy:1734
     old "Отправиться в колледж"
@@ -438,17 +438,17 @@ translate PortuguesBR strings:
 translate PortuguesBR stat_f3e92af7:
 
     # gg2 sad "Блять, как же хочется курить! Ни о чем другом думать не могу!"
-    gg2 sad ""
+    gg2 sad "Droga, eu quero fumar! Não consigo pensar em mais nada!"
 
 # game/stats.rpy:892
 translate PortuguesBR stat_8166ad89:
 
     # gg2 sad "Я уже давно не курила. Тяжело сосредоточиться на чем-то."
-    gg2 sad ""
+    gg2 sad "Faz muito tempo que não fumo. É difícil focar em algo."
 
 # game/stats.rpy:1151
 translate PortuguesBR stat_c8b4eb7a:
 
     # gg2 hit "У меня теперь достаточно смелости, чтобы ходить по квартире теплесс."
-    gg2 hit ""
+    gg2 hit "Agora tenho coragem de andar pelo apartamento de toples."
 
