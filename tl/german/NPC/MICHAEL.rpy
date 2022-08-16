@@ -2832,29 +2832,29 @@ translate german strings:
 translate german repa_action_142a3770:
 
     # rick "Ого! У нас сегодня гости!"
-    rick ""
+    rick "Wow! Wir haben heute Gäste!"
 
 # game/NPC/MICHAEL.rpy:266
 translate german repa_action_dcc7d139:
 
     # owl "Решила послушать, что вы тут играете. А то что я за менеджер такой?"
-    owl ""
+    owl "Ich wollte euren Klängen lauschen. Was für eine Art Manager wäre ich sonst?"
 
 # game/NPC/MICHAEL.rpy:270
 translate german repa_action_d1629678:
 
     # gg hit "Мадемуазель? А чего это ты такой вежливый стал вдруг?"
-    gg hit ""
+    gg hit "Warum so höflich auf einmal, Mademoiselle?"
 
 # game/NPC/MICHAEL.rpy:273
 translate german repa_action_51c68c81:
 
     # gg smile "В светское общество четырнадцатого века?"
-    gg smile ""
+    gg smile "Direkt in die säkulare Gesellschaft des 14. Jahrhunderts."
 
 # game/NPC/MICHAEL.rpy:309
 translate german repa_action_e776ef19:
 
     # ow smile "Честно вам скажу, новый материал - просто огонь!"
-    ow smile ""
+    ow smile "Ganz ehrlich, euer neues Material ist der Shit!"
 
