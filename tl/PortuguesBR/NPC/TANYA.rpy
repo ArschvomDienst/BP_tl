@@ -226,7 +226,7 @@ translate PortuguesBR dia_tanya_90de45b5:
 translate PortuguesBR dia_tanya_7686b46b:
 
     # gg smile "Спасибо, я подумаю над этим."
-    gg smile "Obrigado, vou pensar nisso."
+    gg smile "Obrigada, vou pensar nisso."
 
 # game/NPC/TANYA.rpy:126
 translate PortuguesBR dia_tanya_0dbb427e:
@@ -244,7 +244,7 @@ translate PortuguesBR dia_tanya_04008efc:
 translate PortuguesBR dia_tanya_4f6a1374:
 
     # ta "Да, спасибо, мне тоже нравится. И соседка хорошая, ее Бонни зовут."
-    ta "Sim, obrigado, também gosto. E a vizinha é boa, o nome dela é Bonnie."
+    ta "Sim, obrigada, também gosto. E a vizinha é boa, o nome dela é Bonnie."
 
 # game/NPC/TANYA.rpy:141
 translate PortuguesBR dia_tanya_b90c27ec:
@@ -574,7 +574,7 @@ translate PortuguesBR alex_tanya_park_menu_4d2779b8:
 translate PortuguesBR alex_tanya_park_menu_179b4f30:
 
     # ta "Мне уже убегать надо на занятия. Спасибо, что провела со мной время, сестренка."
-    ta "Eu tenho que fugir para a aula. Obrigado por passar um tempo comigo, irmã."
+    ta "Eu tenho que fugir para a aula. Obrigada por passar um tempo comigo, irmã."
 
 # game/NPC/TANYA.rpy:304
 translate PortuguesBR alex_tanya_park_menu_934605b5:
@@ -616,7 +616,7 @@ translate PortuguesBR alex_tanya_park_menu_a35e92ff:
 translate PortuguesBR alex_tanya_park_menu_e116c9d9:
 
     # bonnie "Да уж, спасибо."
-    bonnie "Sim, obrigado."
+    bonnie "Sim, obrigada."
 
 # game/NPC/TANYA.rpy:318
 translate PortuguesBR alex_tanya_park_menu_35627059:
@@ -1030,7 +1030,7 @@ translate PortuguesBR breakfast_family1_e4929d03:
 translate PortuguesBR breakfast_family1_ccac9366:
 
     # gg smile "Не откажусь, Спасибо."
-    gg smile "Não vou recusar, obrigado."
+    gg smile "Não vou recusar, obrigada."
 
 # game/NPC/TANYA.rpy:678
 translate PortuguesBR breakfast_family1_6612fc09:
@@ -1102,7 +1102,7 @@ translate PortuguesBR breakfast_family1_79160e80:
 translate PortuguesBR breakfast_family1_5e3304f8:
 
     # gg smile "Спасибо, Руби, я очень ценю это."
-    gg smile "Obrigado Ruby, eu realmente aprecio isso."
+    gg smile "Obrigada Ruby, eu realmente aprecio isso."
 
 # game/NPC/TANYA.rpy:715
 translate PortuguesBR breakfast_family1_cc2144c4:
@@ -1294,7 +1294,7 @@ translate PortuguesBR breakfast_family2_9f3c862a:
 translate PortuguesBR breakfast_family2_2a8ac106:
 
     # bonnie "Спасибо, что не выдали меня. Таня такая скромная девушка. Было бы совсем неловко ей все объяснять."
-    bonnie "Obrigado por não me trair. Tanya é uma garota tão modesta. Seria completamente constrangedor explicar tudo para ela."
+    bonnie "Obrigada por não me trair. Tanya é uma garota tão modesta. Seria completamente constrangedor explicar tudo para ela."
 
 # game/NPC/TANYA.rpy:809
 translate PortuguesBR breakfast_family2_8c7dbfbf:
@@ -1428,7 +1428,7 @@ translate PortuguesBR strings:
 
     # game/NPC/TANYA.rpy:190
     old "Я купила машину"
-    new "eu comprei um carro"
+    new "Eu comprei um carro"
 
     # game/NPC/TANYA.rpy:190
     old "Больше ничего интересного"
