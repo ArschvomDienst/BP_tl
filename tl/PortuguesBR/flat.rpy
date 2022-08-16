@@ -56,11 +56,11 @@ translate PortuguesBR strings:
 
     # game/flat.rpy:115
     old "Верхняя одежда"
-    new "agasalhos"
+    new "Agasalhos"
 
     # game/flat.rpy:117
     old "Купальник"
-    new "roupa de banho"
+    new "Roupa de banho"
 
     # game/flat.rpy:119
     old "Праздничная одежда"
@@ -96,5 +96,5 @@ translate PortuguesBR strings:
 
     # game/flat.rpy:114
     old "Нижнее белье"
-    new ""
+    new "Roupas íntimas"
 
