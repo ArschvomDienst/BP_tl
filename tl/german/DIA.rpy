@@ -11251,109 +11251,109 @@ translate german strings:
 translate german dia_autosalon_6494741d:
 
     # gg zadum "А где Тина?"
-    gg zadum ""
+    gg zadum "Wo ist Tina?"
 
 # game/DIA.rpy:290
 translate german dia_autosalon_8ebdd80b:
 
     # sheila "Теперь я за нее. Я Шейла, могу вам чем-то помочь?"
-    sheila ""
+    sheila "Ich bin ihre Nachfolgerin. Mein Name is Sheila, wie kann ich dir helfen?"
 
 # game/DIA.rpy:291
 translate german dia_autosalon_5b88dcff:
 
     # boy "Босс отправил Тину в декретный отпуск. Цитирую: \"Ты ни дня больше не будет работать на этой говняной должности!\""
-    boy ""
+    boy "Der Boss hat Tina in Mutterschaftsurlaub geschickt: \"Du wirst keinen Tag mehr in diesem beschissenen Job arbeiten müssen!\""
 
 # game/DIA.rpy:292
 translate german dia_autosalon_0d36e5eb:
 
     # boy "Грубовато было говорить так при мне, согласитесь..."
-    boy ""
+    boy "Es war rüde so etwas direkt vor mir zu sagen, dass musst du schon zugeben ... "
 
 # game/DIA.rpy:293
 translate german dia_autosalon_1a538645:
 
     # gg zadum "Угу."
-    gg zadum ""
+    gg zadum "Schon ..."
 
 # game/DIA.rpy:294
 translate german dia_autosalon_6507d242:
 
     # gg2 zadum "Да как-то пофигу, если честно. Странно, что он тебя не уволил."
-    gg2 zadum ""
+    gg2 zadum "Es stört mich nicht um ehrlich zu sein. Ich bin überrascht, dass er dich nicht gefeuert hat."
 
 # game/DIA.rpy:295
 translate german dia_autosalon_3aa7f0df:
 
     # gg2 smile "Надеюсь, у Тины и Киана все будет хорошо. Главное, чтобы он не начал трахать эту Шейлу."
-    gg2 smile ""
+    gg2 smile "Ich hoffe Kean und Tina geht es jetzt besser. Das Wichtigste ist wohl, dass er nicht anfängt Sheila zu ficken."
 
 # game/DIA.rpy:2080
 translate german dia_owl_88edd1a9:
 
     # owl "Все варианты я буду согласовывать с вами, конечно. Кстати, давно хотела попасть к вам на репетицию, а то сложно продавать музыку, которую никогда не слышал."
-    owl ""
+    owl "Ich verhandele für euch natürlich alle Optionen. Nebenbei gesagt, ich wollte mir schon lange mal eure Proben ansehen. Es ist schwer etwas zu verkaufen, wenn man nicht genau weiß was eigentlich."
 
 # game/DIA.rpy:2081
 translate german dia_owl_3a5ad657:
 
     # michael "Без проблем! Раз уж ты здесь, предлагаю провести внеплановую репетицию, если Алекс не против."
-    michael ""
+    michael "Kein Problem. Da du jetzt hier bist können wir gleich eine ungeplante Probe einschieben, wenn Alex nichts dagegen hat natürlich."
 
 # game/DIA.rpy:2083
 translate german dia_owl_a6bfa9af:
 
     # gg smile "Я согласна. Будешь моим первым зрителем!"
-    gg smile ""
+    gg smile "Gerne doch. Du wirst mein erstes Publikum!"
 
 # game/DIA.rpy:2084
 translate german dia_owl_e69168c1:
 
     # owl "Это большая честь."
-    owl ""
+    owl "Das ist eine große Ehre."
 
 # game/DIA.rpy:2085
 translate german dia_owl_1d6b9d04:
 
     # michael "В таком случае попрошу Киана заехать за Риком."
-    michael ""
+    michael "In dem Falle bitte ich Kean, Rick abzuholen."
 
 translate german strings:
 
     # game/DIA.rpy:2466
     old "{#image=cour_h}{color=#8c8c8d}{b}Я готова{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Ich bin bereit{/b}{/color}"
 
     # game/DIA.rpy:2466
     old "{#image=cour}{b}Я готова{/b}"
-    new ""
+    new "{#image=cour}{b}Ich bin bereit{/b}"
 
     # game/DIA.rpy:3032
     old "{color=#00ff00}{b}Вы Рут Лейн?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Bist du Ruth Lane?{/b}{/color}"
 
     # game/DIA.rpy:3032
     old "{color=#00ff00}{b}Я готова заниматься!{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich bin bereit zu lernen!{/b}{/color}"
 
     # game/DIA.rpy:3653
     old "{#image=cour_h}{color=#8c8c8d}{b}Я попробую{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Ich versuche es{/b}{/color}"
 
     # game/DIA.rpy:3653
     old "{#image=cour}{b}Я попробую{/b}"
-    new ""
+    new "{#image=cour}{b}Ich versuche es{/b}"
 
     # game/DIA.rpy:4062
     old "{#image=sharm_h}{color=#8c8c8d}{b}Войти{/b}{/color}"
-    new ""
+    new "{#image=sharm_h}{color=#8c8c8d}{b}Einloggen{/b}{/color}"
 
     # game/DIA.rpy:4062
     old "{#image=sharm}{b}Войти{/b}"
-    new ""
+    new "{#image=sharm}{b}Einloggen{/b}"
 
     # game/DIA.rpy:4102
     old "{b}Я согласна{/b}"
-    new ""
+    new "{b}Ich stimme zu{/b}"
 
