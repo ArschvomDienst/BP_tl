@@ -502,7 +502,7 @@ translate PortuguesBR gloryroom_sex_d3d67754:
 translate PortuguesBR gloryroom_sex_87a1e2c7:
 
     # aut "Он вытащил член и кончил. Спасибо, что не в меня."
-    aut "Ele puxou um membro e terminou. Obrigado por não eu."
+    aut "Ele puxou um membro e terminou. Obrigada por não está em mim."
 
 # game/RED.rpy:323
 translate PortuguesBR gloryroom_sex_4f608968:
@@ -1706,11 +1706,11 @@ translate PortuguesBR strings:
 
     # game/RED.rpy:481
     old "{color=#8c8c8d}Заплатить (150$){/color}"
-    new "{color=#8c8c8d} Pague (150 $) {/color}"
+    new "{color=#8c8c8d}Pagar ($150){/color}"
 
     # game/RED.rpy:481
     old "Заплатить (150$)"
-    new "Pague (150 $)"
+    new "Pagar ($150)"
 
     # game/RED.rpy:483
     old "Нужно больше денег (150)"
@@ -2214,27 +2214,27 @@ translate PortuguesBR strings:
 translate PortuguesBR martina_mist_dp_d851eba7:
 
     # martina "Конечно! Я боюсь потерять член в твоей огроной вагине."
-    martina ""
+    martina "É claro! Tenho medo de perder um membro na sua vagina enorme."
 
 # game/RED.rpy:1218
 translate PortuguesBR martina_mist_dp_b4762879:
 
     # aut "Бразки спермы внутри меня не прекращались. Казалось, меня наполняют из шланга"
-    aut ""
+    aut "O esperma do Brazki dentro de mim não parava. Parecia que eu estava cheio de uma mangueira"
 
 # game/RED.rpy:1259
 translate PortuguesBR martina_mist_dp_86dbae5a:
 
     # aut "Хозяйка быстро дрочила каменный член с толстыми венами, а ее большие яйца покачивались перед моим лицом."
-    aut ""
+    aut "A amante rapidamente masturbou um membro de pedra com veias grossas, e suas bolas grandes balançaram na frente do meu rosto."
 
 translate PortuguesBR strings:
 
     # game/RED.rpy:483
     old "{color=#8c8c8d}{b}Заплатить (150$){/b}{/color}"
-    new ""
+    new "{color=#8c8c8d}{b}Pagar ($150){/b}{/color}"
 
     # game/RED.rpy:483
     old "{b}Заплатить (150$){/b}"
-    new ""
+    new "{b}Pagar ($150){/b}"
 
