@@ -1126,7 +1126,7 @@ translate PortuguesBR jesus_bj_menu_2fe10f7c:
 translate PortuguesBR jesus_bj_menu_a41c02d7:
 
     # aut "Хесус вывел ее из комнаты, и я тут же бросилась одеваться, проклиная себя, Хесуса и его сестер. Я сегодня не получила пулю в лоб, и на том спасибо."
-    aut "Jesus a conduziu para fora do quarto, e imediatamente corri para me vestir, xingando a mim mesma, a Jesus e suas irmãs. Não levei um tiro na testa hoje, e obrigado por isso."
+    aut "Jesus a conduziu para fora do quarto, e imediatamente corri para me vestir, xingando a mim mesma, a Jesus e suas irmãs. Não levei um tiro na testa hoje, e obrigada por isso."
 
 # game/NPC/JESUS.rpy:427
 translate PortuguesBR jesus_bj_menu_c4235372:
