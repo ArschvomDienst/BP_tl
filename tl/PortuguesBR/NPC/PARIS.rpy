@@ -10,7 +10,7 @@ translate PortuguesBR dia_paris_c15213e2:
 translate PortuguesBR dia_paris_90f1a61a:
 
     # gg smile "Можно просто Алекс."
-    gg smile "Você pode apenas Alex."
+    gg smile "Talvez apenas Alex."
 
 # game/NPC/PARIS.rpy:9
 translate PortuguesBR dia_paris_ede57bc1:
@@ -190,7 +190,7 @@ translate PortuguesBR dia_paris_7f4b6437:
 translate PortuguesBR dia_paris_d52e4b54:
 
     # gg smile "Спасибо, Пэрис, я так волнуюсь... Ты тоже будешь тут?"
-    gg smile "Obrigado Paris, estou tão preocupada ... Você estará aqui também?"
+    gg smile "Obrigada Paris, estou tão preocupada ... Você estará aqui também?"
 
 # game/NPC/PARIS.rpy:97
 translate PortuguesBR dia_paris_99c925f3:
@@ -1036,7 +1036,7 @@ translate PortuguesBR paris_mes_2ef94af6:
 translate PortuguesBR paris_mes_d29c9e87:
 
     # "{#r=Обязательно буду! Спасибо, Пэрис!<<hug>>}"
-    "{#r= com certeza vou! Obrigado, Paris! <<hug>>}"
+    "{#r= com certeza vou! Obrigada, Paris! <<hug>>}"
 
 # game/NPC/PARIS.rpy:441
 translate PortuguesBR paris_mes_57d67d8e:
