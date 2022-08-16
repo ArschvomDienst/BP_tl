@@ -4848,41 +4848,41 @@ translate german strings:
 translate german dia_lera_6c8dc476:
 
     # lera "Эй, ты, кажется, лифчик где-то потеряла!"
-    lera ""
+    lera "Hey, du scheinst deinen BH irgendwo vergessen zu haben."
 
 # game/NPC/LERA.rpy:203
 translate german dia_lera_8c533163:
 
     # gg smile "Нет, просто за весь день он так натирает везде, что хотя бы дома хочется свободы."
-    gg smile ""
+    gg smile "Nein, er reibt nur so stark den ganzen Tag, dass ich zu Hause Freiheit brauch."
 
 # game/NPC/LERA.rpy:205
 translate german dia_lera_0b42e95e:
 
     # lera "Да, мне вас большегрудых не понять."
-    lera ""
+    lera "Ja, ich verstehe euch Tittenmonster eben nicht."
 
 # game/NPC/LERA.rpy:206
 translate german dia_lera_f557d0bd:
 
     # gg smile "Я подумала, что у нас тут одни девочки, и это не должно быть проблемой."
-    gg smile ""
+    gg smile "Ich dachte nur, da wir alle Frauen sind hier sollte das kein Problem sein."
 
 # game/NPC/LERA.rpy:207
 translate german dia_lera_62d93e15:
 
     # lera "Думаю да... То есть... Конечно, Алекс... Ходи как хочешь."
-    lera ""
+    lera "Also das ... Ich glaube nicht ... Natürlich, Alex ... Trag was du für richtig hältst."
 
 # game/NPC/LERA.rpy:208
 translate german dia_lera_66d285bf:
 
     # gg smile "Можешь и сама попробовать, это приятно."
-    gg smile ""
+    gg smile "Probier es doch auch einmal, es ist so ein gutes Gefühl."
 
 # game/NPC/LERA.rpy:210
 translate german dia_lera_0783f6c2:
 
     # lera "Я... подумаю над твоим предложением."
-    lera ""
+    lera "Ich ... denk darüber nach."
 

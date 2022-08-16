@@ -1315,5 +1315,5 @@ translate german strings:
 
     # game/NPC/LEO.rpy:46
     old "{color=#00ff00}{b}Вам нужна аппаратура для сцены?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Brauchst du Equipment für die Bühne?{/b}{/color}"
 
