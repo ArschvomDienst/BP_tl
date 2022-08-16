@@ -46,7 +46,7 @@ translate PortuguesBR dia_victor_3e1d1321:
 translate PortuguesBR dia_victor_c00b3257:
 
     # gg smile "Спасибо, я зайду завтра!"
-    gg smile "Obrigado, volto amanhã!"
+    gg smile "Obrigada, volto amanhã!"
 
 # game/NPC/CURIER.rpy:33
 translate PortuguesBR dia_victor_ce776821:
@@ -76,7 +76,7 @@ translate PortuguesBR dia_victor_3e1d1321_1:
 translate PortuguesBR dia_victor_c00b3257_1:
 
     # gg smile "Спасибо, я зайду завтра!"
-    gg smile "Obrigado, volto amanhã!"
+    gg smile "Obrigada, volto amanhã!"
 
 # game/NPC/CURIER.rpy:55
 translate PortuguesBR dia_victor_0ee1d35b:
@@ -94,7 +94,7 @@ translate PortuguesBR dia_victor_b3c18cbe:
 translate PortuguesBR dia_victor_b1ec256f:
 
     # gg smile "Спасибо! Я постараюсь прийти."
-    gg smile "Obrigado! Tentarei ir."
+    gg smile "Obrigada! Tentarei ir."
 
 # game/NPC/CURIER.rpy:64
 translate PortuguesBR dia_victor_0d578b5c:
@@ -478,7 +478,7 @@ translate PortuguesBR think_curier_89871fc6:
 translate PortuguesBR think_curier_447cd656:
 
     # gg sad "Спасибо, но можно я больше не буду этим заниматься?"
-    gg sad "Obrigado, mas não posso mais fazer isso?"
+    gg sad "Obrigada, mas não posso mais fazer isso?"
 
 # game/NPC/CURIER.rpy:370
 translate PortuguesBR think_curier_a3c22785:
@@ -542,7 +542,7 @@ translate PortuguesBR strings:
 
     # game/NPC/CURIER.rpy:196
     old "Босс"
-    new "Patrão"
+    new "Chefe"
 
     # game/NPC/CURIER.rpy:198
     old "Значит ей отдай. Мне без разницы. Заберешь посылку на свалке покрышек. Это на пустыре в том же районе. Пакет будет выглядеть точно так же."
