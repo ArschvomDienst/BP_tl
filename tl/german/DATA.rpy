@@ -1471,17 +1471,17 @@ translate german strings:
 
     # game/DATA.rpy:389
     old "{b}Расслабиться{/b}"
-    new ""
+    new "{b}Enspannen{/b}"
 
     # game/DATA.rpy:2281
-    old "Дом Алисы"
+    old "Haus von Alice"
     new ""
 
     # game/DATA.rpy:3873
     old "Мужская комната"
-    new ""
+    new "Herrentoilette"
 
     # game/DATA.rpy:3881
     old "Женская комната"
-    new ""
+    new "Damentoilette"
 
