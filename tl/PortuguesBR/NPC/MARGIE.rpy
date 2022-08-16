@@ -34,7 +34,7 @@ translate PortuguesBR dia_margie_56fd816d:
 translate PortuguesBR dia_margie_43c8a85e:
 
     # gg zadum "Благодарю, я подумаю."
-    gg zadum "Obrigado, vou pensar nisso."
+    gg zadum "Obrigada, vou pensar nisso."
 
 # game/NPC/MARGIE.rpy:54
 translate PortuguesBR dia_margie_727dbbb1:
@@ -124,7 +124,7 @@ translate PortuguesBR dia_margie_8c590f34:
 translate PortuguesBR dia_margie_9286d25c:
 
     # marg "Ох, спасибо, ты просто меня спасешь!"
-    marg "Oh, obrigado, você vai apenas me salvar!"
+    marg "Oh, obrigada, você vai apenas me salvar!"
 
 # game/NPC/MARGIE.rpy:85
 translate PortuguesBR dia_margie_5c5095c4:
@@ -346,7 +346,7 @@ translate PortuguesBR margie_rhetor_4c39102e:
 translate PortuguesBR margie_rhetor_87fa4ecf:
 
     # marg "Это не важно. Он все еще в нее влюблен. Спасибо, что выслушала меня. Мне стало легче."
-    marg "Isso não importa. Ele ainda está apaixonado por ela. Obrigado por me escutar. Eu me sinto melhor."
+    marg "Isso não importa. Ele ainda está apaixonado por ela. Obrigada por me escutar. Eu me sinto melhor."
 
 # game/NPC/MARGIE.rpy:170
 translate PortuguesBR margie_rhetor_8cb8112d:
@@ -956,7 +956,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:289
     old "Могу я присоединиться?"
-    new "Posso juntar-me?"
+    new "Posso me juntar?"
 
     # game/NPC/MARGIE.rpy:289
     old "Насчет Фреда"
@@ -996,7 +996,7 @@ translate PortuguesBR strings:
 
     # game/NPC/MARGIE.rpy:289
     old "{color=#faa8ff}{b}Я хочу приобрести абонемент{/b}{/color}"
-    new "{color=#faa8ff}{b}Quero comprar um passe de temporada{/b}{/color}"
+    new "{color=#faa8ff}{b}Quero comprar uma assinatura{/b}{/color}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Где я могу найти Пенелопу?{/b}"
