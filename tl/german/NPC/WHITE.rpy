@@ -1032,5 +1032,5 @@ translate german white_dia_e5766297_1:
 translate german white_dia_d9e049a5:
 
     # aut "Полковник пошла к машине, все также не глядя на меня. Я не могла ответить на вопрос, правильно ли она сделала, отпустив преступницу. Но было понятно, что поступить иначе Дебора просто не могла."
-    aut ""
+    aut "Der Korporal ging zum Wagen, den Blick immer noch auf mir. Ich konnte nicht sagen, ob es richtig war diesen Kriminellen freizulassen. Aber es war klar, dass Deborah keine andere Wahl hatte."
 

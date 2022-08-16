@@ -4461,129 +4461,129 @@ translate german strings:
 translate german dia_varv_4a76cb06:
 
     # varv "Я смотрю, ты уже совсем не стесняешься."
-    varv ""
+    varv "Ich sehe du bist nicht mehr schüchtern."
 
 # game/NPC/VARVARA.rpy:720
 translate german dia_varv_b3f202ed:
 
     # gg zadum "Извини, я просто устала носить этот дурацкий лифчик весь день. Но если это проблема, то я надену что-нибудь..."
-    gg zadum ""
+    gg zadum "Ich bin es nur Leid, den ganzen Tag einen BH tragen zu müssen. Aber wenn es dich stört, zieh ich etwas an ..."
 
 # game/NPC/VARVARA.rpy:721
 translate german dia_varv_1b767e6d:
 
     # varv "Брось, все в порядке, тут все свои."
-    varv ""
+    varv "Wer hat gesagt es störe mich?"
 
 # game/NPC/VARVARA.rpy:723
 translate german dia_varv_8ca5a41f:
 
     # varv "Помню, как ты смущалась, когда увидела меня в душе. А теперь сама разгуливашь по квартире с голой грудью."
-    varv ""
+    varv "Ich weiß noch , wie beschämt du warst als du mich in der Dusche gesehen hast. Und jetzt läufst du mit nackten Brüsten in der Wohnung."
 
 # game/NPC/VARVARA.rpy:724
 translate german dia_varv_1a23c679:
 
     # gg smile "Да, этот город плохо на меня влияет..."
-    gg smile ""
+    gg smile "Ja, die Stadt hat einen schlechten Einfluss auf mich ..."
 
 # game/NPC/VARVARA.rpy:725
 translate german dia_varv_9e14b26f:
 
     # varv "Я думаю, он просто помогает нам понять себя."
-    varv ""
+    varv "Ich glaube eher, sie hilft sich selbst zu verstehen."
 
 # game/NPC/VARVARA.rpy:726
 translate german dia_varv_ccd93ed2:
 
     # gg zadum "Сложная мысль..."
-    gg zadum ""
+    gg zadum "Ein komplexer Gedankengang ..."
 
 # game/NPC/VARVARA.rpy:727
 translate german dia_varv_51c7a98e:
 
     # varv "Ходи как хочешь, Алекс. Я же говорила: это твой дом..."
-    varv ""
+    varv "Trag was du magst, Alex. Wie ich früher schon sagte: es ist auch dein Heim ..."
 
 # game/NPC/VARVARA.rpy:728
 translate german dia_varv_1355063f:
 
     # gg smile "Спасибо, Барбара. Это очень приятно слышать..."
-    gg smile ""
+    gg smile "Danke Barbara, das ist schön zu hören ..."
 
 # game/NPC/VARVARA.rpy:798
 translate german dia_varv_44730aec:
 
     # gg sad "Мне почему-то неловко покупать что-то в секс-шопах."
-    gg sad ""
+    gg sad "Irgendwie ist es beschämend in Sexshops etwas zu kaufen."
 
 # game/NPC/VARVARA.rpy:799
 translate german dia_varv_acf602a4:
 
     # varv "Секс-шоп - это такой же магазин, как и любой другой."
-    varv ""
+    varv "Ein Sexshop ist ein Geschäft wie jedes Andere auch."
 
 # game/NPC/VARVARA.rpy:1217
 translate german varv_dia_menu_d949adde:
 
     # alex "Ты уже говорила."
-    alex ""
+    alex "Sagtest du schon einmal."
 
 # game/NPC/VARVARA.rpy:1218
 translate german varv_dia_menu_e027b8b7:
 
     # varv "Мне не сложно повторить. И я сейчас не про слова."
-    varv ""
+    varv "Es ist nicht schwer sich zu wiederholen. Und ich rede nicht über Worte."
 
 # game/NPC/VARVARA.rpy:1248
 translate german varv_cleaning_menu_7f7669a5:
 
     # varv "Ты уже не та скромняжка, что раньше. Но в тебе все еще есть эту чужесная невинность."
-    varv ""
+    varv "Du bist nicht länger das gesittete Mädchen von früher. Aber du hast noch immer diese fremdartige Unschuld an dir."
 
 # game/NPC/VARVARA.rpy:1249
 translate german varv_cleaning_menu_6ba141be:
 
     # varv "Не растеряй его... Меня это заводит!"
-    varv ""
+    varv "Verlier sie nicht ... sie macht mich scharf!"
 
 # game/NPC/VARVARA.rpy:1281
 translate german varv_cleaning_menu_56e20db6:
 
     # alex "Ох... Может мы сегодня обойдемся без швабры?"
-    alex ""
+    alex "Oh ... Kommen wir heute ohne Mop aus?"
 
 # game/NPC/VARVARA.rpy:1282
 translate german varv_cleaning_menu_2939ac71:
 
     # varv "Ну уж нет. Мне понравилось трахать тебя этой штукой."
-    varv ""
+    varv "Nun, nein. Ich ficke dich gerne damit."
 
 # game/NPC/VARVARA.rpy:1293
 translate german varv_cleaning_menu_f347e697:
 
     # alex "Это странно, но я хочу, чтобы ты сделала это!"
-    alex ""
+    alex "Es ist seltsam, aber ich will dass du es tust!"
 
 # game/NPC/VARVARA.rpy:1294
 translate german varv_cleaning_menu_dbee4727:
 
     # varv "С удовольствием, маленькая шлюшка!"
-    varv ""
+    varv "Mit Freuden, kleine Schlampe!"
 
 # game/NPC/VARVARA.rpy:1343
 translate german varv_cleaning_menu_e70ebdab:
 
     # aut "Мысль, что это мама моей подруги, давно отошла на второй план. Да и какая разница, в конце концов..."
-    aut ""
+    aut "Der Gedanke, das sie die Mutter meine Freundin ist hat sich längst verflüchtigt. Was macht das für einen Unterschied ..."
 
 translate german strings:
 
     # game/NPC/VARVARA.rpy:1224
     old "{#image=fem_h}{color=#8c8c8d}{b}Расслабиться{/b}{/color}"
-    new ""
+    new "{#image=fem_h}{color=#8c8c8d}{b}Entspannen{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:1224
     old "{#image=fem}{b}Расслабиться{/b}"
-    new ""
+    new "{#image=fem}{b}Entspannen{/b}"
 

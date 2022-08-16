@@ -2918,101 +2918,101 @@ translate german strings:
 translate german flavie_broom_c42cce50:
 
     # aut "Проходя мимо мусорки, я увидела Селесту, тетю Флави."
-    aut ""
+    aut "Als ich am Müll vorbeiging, sah ich Celeste. Die Tante von Flavi."
 
 # game/NPC/RUDO.rpy:1209
 translate german flavie_broom_c3c501c8:
 
     # gg2 hit "Может девушка наконец сбежала, и тетя в ярости ее ищет?"
-    gg2 hit ""
+    gg2 hit "Vielleicht ist sie endlich weggelaufen und sie sucht wutentbrannt nach ihr?"
 
 # game/NPC/RUDO.rpy:1210
 translate german flavie_broom_a4a2bc56:
 
     # gg2 zadum "Да уж, ярости в ее глазах хватает. Или она только на меня так смотрит?"
-    gg2 zadum ""
+    gg2 zadum "Ja, da war Wut in ihren Augen. Oder schaut sie nur mich so an?"
 
 # game/NPC/RUDO.rpy:1212
 translate german flavie_broom_7aa40d66:
 
     # aut "Но нет, Флави не сбежала. Я нашла ее рядом с баскетбольной площадкой, где ее трахал Метла."
-    aut ""
+    aut "Aber nein, Flavi war nicht weggelaufen. Nahe dem Basketballplatz war sie, von Broom gefickt versteht sich."
 
 # game/NPC/RUDO.rpy:1214
 translate german flavie_broom_190394b0:
 
     # aut "На лице девушки была широкая, почти искренняя улыбка."
-    aut ""
+    aut "Da war ein breites, fast schon ernsthaftes Lächeln auf ihrem Gesicht."
 
 # game/NPC/RUDO.rpy:1215
 translate german flavie_broom_b459a059:
 
     # aut "Так могла улыбаться девочка, играющая со щенком или с кукольным домиком."
-    aut ""
+    aut "Ein kleines Mädchen, dass mit einem Hündchen oder einem Puppenhaus spielt lächelt fast genauso."
 
 # game/NPC/RUDO.rpy:1217
 translate german flavie_broom_10c0ebf6:
 
     # aut "Но Флави не играла. Она подставляла свое анальное отверстие под огромный член темнокожего парня."
-    aut ""
+    aut "Aber Flavi spielte nicht. Sie schob ihr Arschloch dicht unter den großen Schwanz des dunkelhäutigen Mannes."
 
 # game/NPC/RUDO.rpy:1218
 translate german flavie_broom_4ea171ac:
 
     # aut "Казалось, Метла разрывает малышку изнутри, на всю длину вгоняя в нее свой длинный прибор."
-    aut ""
+    aut "Es schien, als wolle Broom sie von Innnen heraus aufreißen. Mit seiner gesamten Länge pfählte er das Mädchen."
 
 # game/NPC/RUDO.rpy:1219
 translate german flavie_broom_52ca0cce:
 
     # aut "Но Флави лишь мило попискивала. Было видно, что долгие тренировки с Селестой не прошли даром."
-    aut ""
+    aut "Aber Flavi stöhnte nur sanft. Es schien so, als ob das harte Training von Celeste nicht umsonst war."
 
 # game/NPC/RUDO.rpy:1221
 translate german flavie_broom_7e7cde0a:
 
     # aut "Метла поставил девушку на колени и попытался засунуть своего монстра ей в рот как можно глубже."
-    aut ""
+    aut "Broom setzte das Mädchen vor sich, und versuchte sein Monster in ihren Hals zu kriegen."
 
 # game/NPC/RUDO.rpy:1223
 translate german flavie_broom_640e33f2:
 
     # aut "Но Метла явно недооценил малышку Флави."
-    aut ""
+    aut "Aber Broom unterschätzte Flavi offenbar."
 
 # game/NPC/RUDO.rpy:1224
 translate german flavie_broom_4bafec6d:
 
     # aut "Девушка привстала и насадила свою голову на огромный член. Ее рот и горло растянулись до невероятных размеров, но Флави всем своим видом не выражала ни малейшего дискомфорта."
-    aut ""
+    aut "Sie richtete sich auf und schluckte die gesamte Länge. Ihr Mund und Hals dehnten sich auf unglaubliche Größe, aber Flavi zeigte nicht ein Anzeichen von Unbehagen."
 
 # game/NPC/RUDO.rpy:1226
 translate german flavie_broom_e03488de:
 
     # broom "Блять! Щас концу!"
-    broom ""
+    broom "Fuck! Und der Schlussakt!"
 
 # game/NPC/RUDO.rpy:1227
 translate german flavie_broom_f1f8cd6f:
 
     # aut "Мокрый член Метлы выскользнул из податливого горла Флави и красноречиво дергался, готовый взорваться в любую секунду."
-    aut ""
+    aut "Sein nasser Schwanz flutschte aus ihrem Mund und zuckte stark, bereit zu explodieren."
 
 # game/NPC/RUDO.rpy:1229
 translate german flavie_broom_407df0ba:
 
     # aut "Девушка даже не закрыла глаза, когда горячая сперма падала ей на лицо."
-    aut ""
+    aut "Sie schloss nicht einmal die Augen als sein heißes Sperma in ihr Gesicht schoss."
 
 # game/NPC/RUDO.rpy:1231
 translate german flavie_broom_faa70eef:
 
     # aut "Метла даже обошелся без пошлых комментариев, а просто отдал Флави деньги."
-    aut ""
+    aut "Broom gab nicht einmal seine üblichen vulgären Kommentare ab, als er Flavi ihr Geld gab."
 
 # game/NPC/RUDO.rpy:1232
 translate german flavie_broom_32015339:
 
     # aut "Видимо, девушка смогла его впечатлить."
-    aut ""
+    aut "Offenbar hatte sie es geschafft ihn zu beeindrucken."
 
