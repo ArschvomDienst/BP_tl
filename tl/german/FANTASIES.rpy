@@ -696,9 +696,9 @@ translate german strings:
 
     # game/FANTASIES.rpy:20
     old "{#image=cour_h}{color=#8c8c8d}{b}Зарегистрироваться{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Registrieren{/b}{/color}"
 
     # game/FANTASIES.rpy:20
     old "{#image=cour}{b}Зарегистрироваться{/b}"
-    new ""
+    new "{#image=cour}{b}Registrieren{/b}"
 

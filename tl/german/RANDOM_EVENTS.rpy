@@ -2516,5 +2516,5 @@ translate german strings:
 translate german finding_f49163ee:
 
     # aut "Я нашла банку колы."
-    aut ""
+    aut "Ich hab eine Dose Cola gefunden"
 

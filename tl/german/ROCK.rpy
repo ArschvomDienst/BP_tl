@@ -2428,11 +2428,11 @@ translate german fan_meet1_d8955e15:
 translate german alisa_studio1_d40f69b5:
 
     # alisa "Мы тут скоро выступаем с группой, надеюсь, ты придешь."
-    alisa ""
+    alisa "Wir treten bald mit der Gruppe auf, ich hoffe, Du kommst vorbei."
 
 translate german strings:
 
     # game/ROCK.rpy:1238
     old "Почитать последние новости в телефоне"
-    new ""
+    new "Lies die neuesten Nachrichten auf dem Telephon"
 

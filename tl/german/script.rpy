@@ -1996,5 +1996,5 @@ translate german strings:
 
     # game/script.rpy:6621
     old "Шейла"
-    new ""
+    new "Sheila"
 

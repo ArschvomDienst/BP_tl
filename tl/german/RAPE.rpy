@@ -3546,5 +3546,5 @@ translate german strings:
 translate german park_rape_df71a421:
 
     # gg2 zadum "В парке сидит какая-то компания. Среди них есть девушка, вряд ли можно ожидать чего-то плохого."
-    gg2 zadum ""
+    gg2 zadum "Eine Gruppe sitzt im Park. Ein Mädchen ist bei ihnen, es wird sicher nichts schlimmes passieren."
 

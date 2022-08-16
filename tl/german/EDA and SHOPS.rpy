@@ -655,9 +655,9 @@ translate german strings:
 
     # game/EDA and SHOPS.rpy:435
     old "{image=smel_.png} {color=#8c8c8d}Купить{/color}"
-    new ""
+    new "{image=smel_.png} {color=#8c8c8d}Kaufen{/color}"
 
     # game/EDA and SHOPS.rpy:437
     old "{image=smel_.png} Купить"
-    new ""
+    new "{image=smel_.png} Kaufen"
 
