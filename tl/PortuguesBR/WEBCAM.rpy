@@ -520,7 +520,7 @@ translate PortuguesBR webcam_pussy1_f9a5e6c3:
 translate PortuguesBR webcam_pussy1_2bb4be2e:
 
     # alex "{b}Спасибо, мальчики. Сегодня было горячо!!!{/b}"
-    alex "{b} Obrigado meninos. Estava calor hoje !!! {/b}"
+    alex "{b} Obrigada meninos. Estava calor hoje !!! {/b}"
 
 # game/WEBCAM.rpy:1454
 translate PortuguesBR webcam_pussy1_b212bc74:
@@ -542,7 +542,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{color=#8c8c8d}Легкий (обнаженная грудь){/color}"
-    new "{color=#8c8c8d}Claro (peito nu){/color}"
+    new "{color=#8c8c8d}Leve (peito nu){/color}"
 
     # game/WEBCAM.rpy:215
     old "Легкий (обнаженная грудь)"
@@ -570,7 +570,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:215
     old "{#image=cour} Дилдо уровень ... ->"
-    new "{#image=cour} Nível do dildo ... ->"
+    new "{#image=cour} Nível do Dildo ... ->"
 
     # game/WEBCAM.rpy:215
     old "{#image=cour_h}{color=#8c8c8d} Секс уровень ... ->{/color}"
@@ -662,7 +662,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:514
     old "Дрочу на твои ножки"
-    new "eu me masturbo com suas pernas"
+    new "Eu me masturbo com suas pernas"
 
     # game/WEBCAM.rpy:516
     old "Она ничего не показывает. Нахуй!"
@@ -670,7 +670,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:518
     old "Сам иди нахуй! Она прекрасна!"
-    new "Foda-se! Ela é bonita!"
+    new "Vá se foder! Ela é bonita!"
 
     # game/WEBCAM.rpy:522
     old "1000"
@@ -746,7 +746,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:835
     old "И не только настроение"
-    new "E não só humor"
+    new "E não e apenas o humor"
 
     # game/WEBCAM.rpy:840
     old "Сними верх, милая"
@@ -802,7 +802,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:882
     old "Конечно! В боевой готовности!"
-    new "Certamente! Em alerta!"
+    new "É claro! Em combate de prontidão!"
 
     # game/WEBCAM.rpy:886
     old "300"
@@ -846,7 +846,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:920
     old "Жаль расставаться :/"
-    new "Desculpe sair: /"
+    new "Desculpe sair :/"
 
     # game/WEBCAM.rpy:930
     old "О, новенькая! Привет!"
@@ -1086,7 +1086,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1518
     old "Показывай уже, заебала!"
-    new "Mostre já, foda-se!"
+    new "Mostre-me já, porra!"
 
     # game/WEBCAM.rpy:1520
     old "Да!!!!"
@@ -1102,7 +1102,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1532
     old "Опять ничего не видно((("
-    new "Novamente, nada é visível ((("
+    new "Novamente, nada é visível((("
 
     # game/WEBCAM.rpy:1537
     old "Идеально!"
@@ -1142,7 +1142,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1571
     old "Я кончил"
-    new "terminei"
+    new "Terminei"
 
     # game/WEBCAM.rpy:1573
     old "Это божественно"
@@ -1154,7 +1154,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1578
     old "Вот бы засадить!!!"
-    new "Isso seria plantar !!!"
+    new "Aqui para plantar!!!"
 
     # game/WEBCAM.rpy:1582
     old "650"
@@ -1234,7 +1234,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:1645
     old "Я всю комнату обкончал!!!"
-    new "Terminei todo o quarto !!!"
+    new "Terminei todo o quarto!!!"
 
     # game/WEBCAM.rpy:1647
     old "Топ шлюха!"
@@ -1252,7 +1252,7 @@ translate PortuguesBR webcam_pussy2_da7a40dc:
 translate PortuguesBR webcam_pussy2_aefdb069:
 
     # alex "{b}Спасибо, сладкие. Что бы вам такого показать сегодня?{/b}"
-    alex "{b}Obrigado querida. O que você gostaria de mostrar hoje?{/b}"
+    alex "{b}Obrigada querido. O que você gostaria de mostrar hoje?{/b}"
 
 # game/WEBCAM.rpy:1707
 translate PortuguesBR webcam_pussy2_05aa670e:
@@ -1398,7 +1398,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2030
     old "Хочу ее"
-    new "eu quero ela"
+    new "Eu quero ela"
 
     # game/WEBCAM.rpy:2036
     old "Какие ножки!"
@@ -1470,7 +1470,7 @@ translate PortuguesBR strings:
 
     # game/WEBCAM.rpy:2108
     old "Да, трахни себя!"
-    new "Sim, foda-se!"
+    new "Sim, porra!"
 
     # game/WEBCAM.rpy:2110
     old "Чел, ты лучший!"
