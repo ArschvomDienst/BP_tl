@@ -448,7 +448,7 @@ translate PortuguesBR mistress_machine_5a015cba:
 translate PortuguesBR mistress_machine_46afb72d:
 
     # alex "Не стоит, спасибо."
-    alex "Não vale a pena, obrigado."
+    alex "Não vale a pena, obrigada."
 
 # game/NPC/MISTRESS.rpy:313
 translate PortuguesBR mistress_machine_dc254c4a:
