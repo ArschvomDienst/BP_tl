@@ -572,5 +572,5 @@ translate PortuguesBR strings:
 
     # game/NPC/OWL.rpy:140
     old "Ну сиськи и сиськи... Подумаешь...{image=0}{image=fem_minus}"
-    new "Bem, peitos e peitos ... Basta pensar ...{image=0}{image=fem_minus}"
+    new "Bem, peitos e mamas... Basta pensar ...{image=0}{image=fem_minus}"
 
