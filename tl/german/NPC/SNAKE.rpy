@@ -974,7 +974,7 @@ translate german snake_sex2_c40a57eb:
 translate german snake_sex2_6aa47563:
 
     # alex "Я скоро кончу! И ты меня не остановишь!"
-    alex ""Ich komme bald! Und du kannst mich nicht aufhalten!"
+    alex "Ich komme bald! Und du kannst mich nicht aufhalten!"
 
 # game/NPC/SNAKE.rpy:527
 translate german snake_sex2_bebc22ac:

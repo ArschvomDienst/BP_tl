@@ -2294,3 +2294,11 @@ translate PortuguesBR finding_f49163ee:
     # aut "Я нашла банку колы."
     aut "Encontrei uma lata de cola."
 
+# TODO: Translation updated at 2022-08-17 21:12
+
+# game/RANDOM_EVENTS.rpy:840
+translate PortuguesBR laundry_sex_5b718ffb_1:
+
+    # aut "Напоследок мужчина свернул в трубочку несколько купюр и вставил их в мое анальное отверстие."
+    aut ""
+

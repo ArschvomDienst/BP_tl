@@ -2568,113 +2568,113 @@ translate english rada_glory_wc_dia_0c6d8294:
 translate english hot_arctic_work_2aa83ada:
 
     # aut "Бар опустел, но из мужской комнаты еще доносились голоса."
-    aut ""
+    aut "The bar was empty, but there were still voices coming from the men's room."
 
 # game/CAFE.rpy:1817
 translate english hot_arctic_glory_work_16dc341c:
 
     # aut "Большинство гостей разошлось, но некоторые направились в Мужскую Комнату, ожидая продолжения. Там даже образовалась небольшая очередь."
-    aut ""
+    aut "Most of the guests went away, but some stayed to the Men's Room, waiting for the continuation. There was even a small queue."
 
 # game/CAFE.rpy:1819
 translate english hot_arctic_glory_work_353ee252:
 
     # aut "С женской стороны оставались пустые места. Одно из них заняла Джейн, что меня совсем не удивляло."
-    aut ""
+    aut "There were empty seats on the women's side. Jane took one of them, it didn't surprise me at all."
 
 # game/CAFE.rpy:1821
 translate english hot_arctic_glory_work_acf31ae4:
 
     # gg2 zadum "Кажется, кто-то решил не дожидаться своей очереди."
-    gg2 zadum ""
+    gg2 zadum "It seems that someone decided not to wait for their turn."
 
 # game/CAFE.rpy:1826
 translate english hot_arctic_glory_work_5a59cac8:
 
     # gg2 smile "Придется выручать подругу. Сама она может не справиться. И лучше бы снять майку, чтобы не заляпать."
-    gg2 smile ""
+    gg2 smile "I'll have to help my friend. She may not be able to deal with it. I'd better take off the T-shirt so as not to stain it."
 
 # game/CAFE.rpy:1828
 translate english hot_arctic_glory_work_731c33df:
 
     # aut "Мужчины по ту сторону стенки вели себя по-разному."
-    aut ""
+    aut "The men on the other side of the wall behaved differently."
 
 # game/CAFE.rpy:1839
 translate english hot_arctic_glory_work_f4b2d649:
 
     # aut "Кто-то просто просовывал член и ждал от меня активной работы..."
-    aut ""
+    aut "Someone just stuck a dick in and waited for action..."
 
 # game/CAFE.rpy:1845
 translate english hot_arctic_glory_work_70545797:
 
     # aut "Кто-то сразу начинал двигать бедрами, и мне нужно было только подставлять ротик под яростные фрикции."
-    aut ""
+    aut "Someone immediately began to move their hips and I can only catch their cocks during violent push."
 
 # game/CAFE.rpy:1851
 translate english hot_arctic_glory_work_cb387ead:
 
     # aut "Почти все сразу были возбуждены и быстро кончали. Наверно, сказывалось наше горячее шоу."
-    aut ""
+    aut "Almost everyone was immediately excited and quickly finished. Probably, our hot show had an impact."
 
 # game/CAFE.rpy:1863
 translate english hot_arctic_glory_work_af8b7c69:
 
     # aut "Помещения заполнила смесь возбуждающих влажных звуком и мужских стонов."
-    aut ""
+    aut "The rooms were filled with a mixture of exciting wet sounds and male moans."
 
 # game/CAFE.rpy:1864
 translate english hot_arctic_glory_work_b4016679:
 
     # aut "Девушка из Красного Квартала хладнокровно и профессионально выполняла работу, в то время как Джейн громко стонала, отсасывая незнакомцам, и принимая на грудь их сперму."
-    aut ""
+    aut "The girl from the Red Dictrict quite professionally performed the work, while Jane moaned loudly, taking their sperm on her chest, while sucking strangers."
 
 # game/CAFE.rpy:1876
 translate english hot_arctic_glory_work_584e0ff3:
 
     # aut "От возбуждения голова шла кругом. С каждым глотком горячего семени я все больше чувствовала свою власть над этими мужчинами."
-    aut ""
+    aut "My head was spinning with excitement. With each sip of hot cum, I felt more and more my power over these men."
 
 # game/CAFE.rpy:1877
 translate english hot_arctic_glory_work_8b0b32a9:
 
     # aut "Я была для них всего лишь бездушным спермоприемником, но я чувствовала себя жрицей секса, дарующей своим адептам высочайшее наслаждение."
-    aut ""
+    aut "I was just a soulless sperm receiver for them, but I felt like a priestess of sex, giving her adherents the highest level of pleasure."
 
 # game/CAFE.rpy:1889
 translate english hot_arctic_glory_work_d7a4fa71:
 
     # aut "И я решила закончить обряд ритуальным омовением своего лица."
-    aut ""
+    aut "I decided to finish the ceremony with a ritual washing of my face."
 
 # game/CAFE.rpy:1901
 translate english hot_arctic_glory_work_347e4fb2:
 
     # aut "В то время, как я рисовала в своей голове фантастические образы, пытаясь придать процессу сакральный символизм, девушка из Красного Квартала буднично вытерла подбородок рукой и ушла. Ее рабочая смена была окончена."
-    aut ""
+    aut "While I was drawing fantastic images in my head, trying to give the process a sacred symbolism, the girl from the Red District casually wiped her chin with her hand and left. Her work shift was over."
 
 # game/CAFE.rpy:1902
 translate english hot_arctic_glory_work_01fce06b:
 
     # aut "Джейн просто грязно отсосала гостям, получив при этом огромное удовольствие. Мы все делали одно и то же, но каждый видел в этом какой-то свой смысл."
-    aut ""
+    aut "Jane just sucked the guests dirty, while having great pleasure. We all did the same thing, but everyone saw some kind of meaning in it."
 
 # game/CAFE.rpy:1907
 translate english hot_arctic_glory_work_b6da05cc:
 
     # aut "Но было и кое-что общее. Мы все заработали немного денег. А это всегда приятно, не так ли?"
-    aut ""
+    aut "But there was also something in common. We all made some money. It's always nice to have more money, isn't it?"
 
 # game/CAFE.rpy:1921
 translate english hot_arctic_glory_work_1372d760:
 
     # gg2 zadum "Думаю, не в этот раз..."
-    gg2 zadum ""
+    gg2 zadum "Not this time..."
 
 translate english strings:
 
     # game/CAFE.rpy:1774
     old "Поработать в Женской Комнате"
-    new ""
+    new "Work in the Women's Room"
 

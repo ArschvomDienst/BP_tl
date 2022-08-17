@@ -1485,3 +1485,11 @@ translate german strings:
     old "Женская комната"
     new "Damentoilette"
 
+# TODO: Translation updated at 2022-08-17 21:08
+
+translate german strings:
+
+    # game/DATA.rpy:2281
+    old "Дом Алисы"
+    new ""
+

@@ -7471,29 +7471,29 @@ translate english alisa_home_5fbcdfb1:
 translate english shop_adv_79f81777:
 
     # gg2 zadum "Ой-ёй... Вот и реклама со мной..."
-    gg2 zadum ""
+    gg2 zadum "Oh, my... That's me..."
 
 # game/LOCS.rpy:561
 translate english shop_adv_6ee9b856:
 
     # gg2 sad "Смешанное чувство. С одной стороны, мое лицо теперь на каждой бутылке, с другой - это дешевое моющее средство, а не элитный парфюм."
-    gg2 sad ""
+    gg2 sad "Mixed feelings. On the one hand, my face is now on every bottle, on the other hand, it's a cheap detergent, but not an elite perfume."
 
 # game/LOCS.rpy:562
 translate english shop_adv_b8c7e13c:
 
     # gg2 zadum "Хотя раньше я и о таком не мечтала."
-    gg2 zadum ""
+    gg2 zadum "Although I never dreamed of such a thing before."
 
 # game/LOCS.rpy:567
 translate english shop_adv_ee8c569b:
 
     # gg2 sad "Вот блин... Ну это уже перебор, теперь придется смотреть на это каждый раз при посещении магазина."
-    gg2 sad ""
+    gg2 sad "Damn it... Well, that's too much. I have to look at it every time I come to the store."
 
 # game/LOCS.rpy:568
 translate english shop_adv_670f39f5:
 
     # gg2 zadum "Какая же у меня тут неискренняя улыбка... Мне еще многому придется научиться."
-    gg2 zadum ""
+    gg2 zadum "What an insincere smile I have... There is still a lot to learn."
 

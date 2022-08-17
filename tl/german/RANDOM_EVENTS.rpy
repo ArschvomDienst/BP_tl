@@ -2518,3 +2518,11 @@ translate german finding_f49163ee:
     # aut "Я нашла банку колы."
     aut "Ich hab eine Dose Cola gefunden"
 
+# TODO: Translation updated at 2022-08-17 21:08
+
+# game/RANDOM_EVENTS.rpy:840
+translate german laundry_sex_5b718ffb_1:
+
+    # aut "Напоследок мужчина свернул в трубочку несколько купюр и вставил их в мое анальное отверстие."
+    aut ""
+
