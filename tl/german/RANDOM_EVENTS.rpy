@@ -2524,5 +2524,5 @@ translate german finding_f49163ee:
 translate german laundry_sex_5b718ffb_1:
 
     # aut "Напоследок мужчина свернул в трубочку несколько купюр и вставил их в мое анальное отверстие."
-    aut ""
+    aut "Am Schluss rollte der Mann einen Geldschein zusammen und steckte ihn mir ins Arschloch. Es schien ihm gefallen zu haben."
 

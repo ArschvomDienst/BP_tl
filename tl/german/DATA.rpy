@@ -1491,5 +1491,5 @@ translate german strings:
 
     # game/DATA.rpy:2281
     old "Дом Алисы"
-    new ""
+    new "Haus von Alice"
 
