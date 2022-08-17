@@ -620,77 +620,77 @@ translate german strings:
 translate german yeti_menu_9da108e8:
 
     # alex "У меня есть подруга Валери. Она рассказывала, что раньше с сестрой часто приходила к тебе."
-    alex ""
+    alex "Ich habe eine Freundin namens Valerie. Sie hat mir gesagt sie hätte dich oft zusammen mit ihrer Schwester besucht."
 
 # game/NPC/RICK.rpy:224
 translate german yeti_menu_61c38545:
 
     # rick "Да, помню таких. Особенно сестру. Эвелин, кажется?"
-    rick ""
+    rick "Ich erinnere mich an sie. Besonders an die lebhafte der beiden, Evelyn war ihr Name, oder?"
 
 # game/NPC/RICK.rpy:225
 translate german yeti_menu_ab222a77:
 
     # rick "У нее в тринадцать лет уже такие сиськи были... Сейчас вообще огромные, наверно..."
-    rick ""
+    rick "Sie hatte mit 13 schon große Brüste ... Jetzt sind sie wahrscheinlich riesig ..."
 
 # game/NPC/RICK.rpy:226
 translate german yeti_menu_e15068d9:
 
     # alex "Кому что... А Рик все о сиськах..."
-    alex ""
+    alex "Wer hätte es anders erwartet ... Der große Rick steht auf große Titten ..."
 
 # game/NPC/RICK.rpy:227
 translate german yeti_menu_6b1d2595:
 
     # rick "Ну, кто на что учился..."
-    rick ""
+    rick "Ich glaube ich bin damit nicht alleine ..."
 
 # game/NPC/RICK.rpy:231
 translate german yeti_menu_c8937d3a:
 
     # alex "Вот ты снова на сцене. Как ощущения?"
-    alex ""
+    alex "Und jetzt stehst du wieder auf der Bühne. Wie fühlt sich das an?"
 
 # game/NPC/RICK.rpy:232
 translate german yeti_menu_3510dec8:
 
     # rick "Сам пока не понял. Как будто и не прошло семь лет. Только песни другие, да зал поменьше."
-    rick ""
+    rick "Weiß ich noch nicht so genau,  als wäre es 7 Jahre her schätze ich. Die Songs sind anders. Und die Hallen kleiner."
 
 # game/NPC/RICK.rpy:233
 translate german yeti_menu_98ba29b1:
 
     # alex "Значит, ты все тот же безумный Рик, что и в лучшие годы?"
-    alex ""
+    alex "Also bist du immer noch derselbe verrückte Rick wie früher?"
 
 # game/NPC/RICK.rpy:234
 translate german yeti_menu_00e62ee5:
 
     # rick "Эй! Мои лучшие годы еще впереди! Не спеши хоронить старину Рика!"
-    rick ""
+    rick "Hey! Ich hab meine besten Jahre noch vor mir! Ich bin noch nicht tot!"
 
 # game/NPC/RICK.rpy:235
 translate german yeti_menu_1feb9727:
 
     # alex "Извини. Конечно, ты еще ого-го!"
-    alex ""
+    alex "Tschuldigung, du bist natürlich immer noch großartig!"
 
 translate german strings:
 
     # game/NPC/RICK.rpy:221
     old "{b}Валери и Эвелин{/b}"
-    new ""
+    new "{b}Valerie und Evelyn{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Вот мы и начали концертную деятельность{/b}"
-    new ""
+    new "{b}Wir haben das Konzert gestartet{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Как идут репетиции?{/b}"
-    new ""
+    new "{b}Wie waren die Proben?{/b}"
 
     # game/NPC/RICK.rpy:221
     old "{b}Как тебе жизнь отшельника?{/b}"
-    new ""
+    new "{b}Wie gefällt dir das Leben als Einsiedler?{/b}"
 
