@@ -2300,5 +2300,5 @@ translate PortuguesBR finding_f49163ee:
 translate PortuguesBR laundry_sex_5b718ffb_1:
 
     # aut "Напоследок мужчина свернул в трубочку несколько купюр и вставил их в мое анальное отверстие."
-    aut ""
+    aut "Finalmente, o homem enrolou algumas notas em um tubo e as inseriu no meu ânus."
 
