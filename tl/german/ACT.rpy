@@ -1024,7 +1024,7 @@ translate german strings:
 translate german camping_coffee_menu_09d2998e:
 
     # alex2 "Не самый вкусный кофе в моей жизни, но сойдет."
-    alex2 ""
+    alex2 "Nicht der leckerste Kaffee den ich je getrunken habe, aber passabel."
 
 translate german strings:
 
