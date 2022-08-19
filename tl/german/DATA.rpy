@@ -1399,15 +1399,15 @@ translate german strings:
 
     # game/DATA.rpy:1224
     old "Комната персонала"
-    new ""
+    new "Angestelltenraum"
 
     # game/DATA.rpy:4565
     old "Бонус жаворонка:"
-    new ""
+    new "Füher Vogel Bonus:"
 
     # game/DATA.rpy:4567
     old "([mood_inf_[29][2]] мин.)"
-    new ""
+    new "([mood_inf_[29][2]] min.)"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
