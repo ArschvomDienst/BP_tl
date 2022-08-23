@@ -1,1 +1,7 @@
+*.txt
 *.rpyc
+*/*.rpyc
+*.psd
+game/cache/
+game/saves/
+game/.vscode/
